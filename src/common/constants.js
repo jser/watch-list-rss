@@ -1,3 +1,4 @@
+// @ts-check
 const siteUrlStem = 'https://jser.info/watch-list-rss';
 const siteUrl = `${siteUrlStem}/`;
 
