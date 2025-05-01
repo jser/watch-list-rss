@@ -1,19 +1,50 @@
 import { Feed, FeedOptions } from 'feed';
-import { CustomRssParserItem, FeedItemHatenaCountMap, OgsResultMap } from './feed-crawler';
+import { CustomRssParserItem, FeedItemHatenaCountMap, OgObjectMap } from './feed-crawler';
 import { escapeTextForXml, textToMd5Hash, textTruncate } from './common-util';
 import { logger } from './logger';
 import * as constants from '../../common/constants';
 
-export interface OutputFeedSet {
+export interface FeedDistributionSet {
   atom: string;
   rss: string;
   json: string;
 }
 
+export interface GenerateFeedResult {
+  aggregatedFeed: Feed;
+  feedDistributionSet: FeedDistributionSet;
+}
+
 export class FeedGenerator {
-  createFeed(
+  public generateFeeds(
     feedItems: CustomRssParserItem[],
-    feedItemOgsResultMap: OgsResultMap,
+    feedItemOgObjectMap: OgObjectMap,
+    allFeedItemHatenaCountMap: FeedItemHatenaCountMap,
+    maxFeedDescriptionLength: number,
+    maxFeedContentLength: number,
+  ): GenerateFeedResult {
+    const aggregatedFeed = this.generateAggregatedFeed(
+      feedItems,
+      feedItemOgObjectMap,
+      allFeedItemHatenaCountMap,
+      maxFeedDescriptionLength,
+      maxFeedContentLength,
+    );
+
+    return {
+      aggregatedFeed,
+      feedDistributionSet: {
+        // 出力されているXMLで & がエスケープされていないのでパッチ対応
+        atom: escapeTextForXml(aggregatedFeed.atom1()),
+        rss: escapeTextForXml(aggregatedFeed.rss2()),
+        json: aggregatedFeed.json1(),
+      },
+    };
+  }
+
+  private generateAggregatedFeed(
+    feedItems: CustomRssParserItem[],
+    feedItemOgObjectMap: OgObjectMap,
     allFeedItemHatenaCountMap: FeedItemHatenaCountMap,
     maxFeedDescriptionLength: number,
     maxFeedContentLength: number,
@@ -38,8 +69,9 @@ export class FeedGenerator {
       const feedItemId = feedItem.guid || feedItem.link;
       const feedItemContent = (feedItem.summary || feedItem.contentSnippet || '').replace(/(\n|\t+|\s+)/g, ' ');
 
-      const ogsResult = feedItemOgsResultMap.get(feedItem.link);
-      const ogImage = ogsResult?.ogImage;
+      const ogObject = feedItemOgObjectMap.get(feedItem.link);
+      // 配列になっているが2つ目以降を使う理由もないので0を使う
+      const ogImage = ogObject?.customOgImage;
 
       // 日付がないものは入れない
       if (!feedItem.isoDate) {
@@ -68,13 +100,7 @@ export class FeedGenerator {
                 },
               ]
             : undefined,
-        image:
-          ogImage && ogImage.url
-            ? {
-                type: ogImage.type,
-                url: ogImage.url,
-              }
-            : undefined,
+        image: ogImage && ogImage.url ? ogImage : undefined,
         published: new Date(feedItem.isoDate),
         date: new Date(feedItem.isoDate),
         extensions: [
@@ -86,6 +112,7 @@ export class FeedGenerator {
               blogTitle: feedItem.blogTitle,
               blogLink: feedItem.blogLink,
               blogLinkMd5Hash: textToMd5Hash(feedItem.blogLink),
+              favicon: ogObject?.favicon,
             },
           },
         ],
@@ -95,14 +122,5 @@ export class FeedGenerator {
     logger.info('[create-feed] finished');
 
     return outputFeed;
-  }
-
-  public generateOutputFeedSet(feed: Feed): OutputFeedSet {
-    return {
-      // 出力されているXMLで & がエスケープされていないのでパッチ対応
-      atom: escapeTextForXml(feed.atom1()),
-      rss: escapeTextForXml(feed.rss2()),
-      json: feed.json1(),
-    };
   }
 }

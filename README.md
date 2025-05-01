@@ -113,11 +113,8 @@ $ yarn site-serve
 
 コードのチェック
 ```bash
-$ # lint
+$ # eslint, tsc --noEmit
 $ yarn lint
-
-$ # TypeScript のチェック
-$ yarn type-check
 
 $ # テスト
 $ yarn test
