@@ -1,7 +1,7 @@
-import { FEED_INFO_LIST } from '../../src/resources/feed-info-list';
-import { FeedCrawler } from '../../src/feed/utils/feed-crawler';
-import { FeedGenerator } from '../../src/feed/utils/feed-generator';
-import { describe, it, expect } from 'vitest';
+import { describe, expect, it } from 'vitest';
+import { FeedCrawler } from '../../src/feed/feed-crawler.js';
+import { FeedGenerator } from '../../src/feed/feed-generator.js';
+import { FEED_INFO_LIST } from '../../src/resources/feed-info-list.js';
 
 const FEED_FETCH_CONCURRENCY = 50;
 const FEED_OG_FETCH_CONCURRENCY = 20;
