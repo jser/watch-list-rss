@@ -9,7 +9,7 @@
 
     <meta property="og:url" content="{{ constants.siteUrl }}" />
     <meta property="og:title" content="{{ pageTitle }}" />
-    <meta property="og:image" content="{{ constants.siteUrl }}images/og-image.png?hash=c56ba3x" />
+    <meta property="og:image" content="{{ constants.siteUrl }}images/og-image.png" />
     <meta property="og:description" content="{{ constants.siteDescription }}" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="{{ constants.siteTitle }}" />
@@ -20,9 +20,9 @@
     <meta property="twitter:url" content="{{ constants.siteUrl }}">
     <meta name="twitter:title" content="{{ pageTitle }}">
     <meta name="twitter:description" content="{{ constants.siteDescription }}">
-    <meta name="twitter:image" content="{{ constants.siteUrl }}images/og-image.png?hash=c56ba3x">
+    <meta name="twitter:image" content="{{ constants.siteUrl }}images/og-image.png">
 
-    <meta name="thumbnail" content="{{ constants.siteUrl }}images/og-image.png?hash=c56ba3x" />
+    <meta name="thumbnail" content="{{ constants.siteUrl }}images/og-image.png" />
 
     <link rel="preload" href="{{ page.url | relativeUrl }}styles/bundle.css" as="style">
     {% if ['/'].includes(page.url) %}
@@ -68,9 +68,14 @@
                     <img src="{{ page.url | relativeUrl }}images/icon.png" alt='サイトロゴ' loading="eager" width='96' height='96' />
                     <span class='ui-section-header__title'>{{ constants.siteTitle }}</span>
                 </a>
-                <a href="{{ constants.gitHubRepositoryUrl }}" role="link" aria-label="#">
-                    <img src='{{ page.url | relativeUrl }}images/github-mark.png' alt='GitHubロゴ' loading="eager" width='96' height='96' />
-                </a>
+                <div class="ui-section-header__links">
+                    <a href="{{ constants.gitHubRepositoryUrl }}" role="link" aria-label="#" target="_blank">
+                        <img src='{{ page.url | relativeUrl }}images/icon-github.png' alt='GitHubロゴ' loading="eager" width='96' height='96' />
+                    </a>
+                    <a href="{{ constants.xUserUrl }}" role="link" aria-label="#" target="_blank">
+                        <img src='{{ page.url | relativeUrl }}images/icon-x.png' alt='Xロゴ' loading="eager" width='96' height='96' />
+                    </a>
+                </div>
             </div>
         </div>
     </header>
@@ -84,16 +89,12 @@
             <div class="ui-layout-column-6 ui-layout-column-center">
                 <div class="ui-component-cta ui-layout-flex ui-section-footer__site-info">
                     <p class="ui-text-note">
-                        このサイトはJSer.infoの情報源となるサイトの更新を一覧できる目的で作成されたものです。<br>
-                        一つのRSSフィードを購読するだけで、複数のサイトの更新情報を取得できます。
-                    </p>
-                    <p class="ui-text-note">
-                        このサイトの仕組みは、<a href='https://github.com/jser/watch-list-rss/'>GitHubのREADME</a>で公開されています。
+                        このサイトは<br>記事を読んでその企業の技術・カルチャーを知れることや<br>質の高い技術情報を得られることを目的としています。
                     </p>
                     {% if constants.howToAddSiteLink %}
                     <p class='ui-text-note'>
                         追加したいブログがある場合は<br>
-                        <a href='{{ constants.howToAddSiteLink }}'>サイトの追加方法</a>
+                        <a href='{{ constants.howToAddSiteLink }}' target="_blank">サイトの追加方法</a>
                         をご参照ください。
                     </p>
                     {% endif %}
@@ -103,9 +104,9 @@
         <div class="ui-layout-container">
             <div class="ui-section-footer__layout ui-layout-flex">
                 <p class="ui-section-footer--copyright ui-text-note">
-                    <a class="ui-text-note" href='{{ constants.gitHubUserUrl }}'><small>@{{ constants.author }}</small></a>
+                    <a class="ui-text-note" href='{{ constants.gitHubUserUrl }}' target="_blank"><small>@{{ constants.author }}</small></a>
                 </p>
-                <a href="{{ constants.gitHubRepositoryUrl }}" role="link" aria-label="#" class="ui-text-note"><small>GitHub</small></a>
+                <a href="{{ constants.gitHubRepositoryUrl }}" role="link" aria-label="#" class="ui-text-note" target="_blank"><small>GitHub</small></a>
             </div>
         </div>
     </footer>

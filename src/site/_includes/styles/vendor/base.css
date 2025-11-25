@@ -72,7 +72,7 @@ TABLE OF CONTENT
     |
     ------------------------------------------------------------*/
 
-  --ui-typography-typeface: 'Inter', sans-serif;
+  --ui-typography-typeface: "Inter", sans-serif;
 
   /* FONT SIZE */
 
@@ -80,7 +80,7 @@ TABLE OF CONTENT
   --ui-typography-h2: 1.5625rem;
   --ui-typography-h3: 1.25rem;
   --ui-typography-p: 1rem;
-  --ui-typography-s: 0.8125rem;
+  --ui-typography-s: .8125rem;
 
   /* LEADING */
 
@@ -91,7 +91,7 @@ TABLE OF CONTENT
 
   /* MARGIN */
 
-  --ui-typography-margin-heading: 0.75rem;
+  --ui-typography-margin-heading: .75rem;
   --ui-typography-margin-body: 1.125rem;
 
   /*------------------------------------------------------------
@@ -106,7 +106,7 @@ TABLE OF CONTENT
 
   /* GAP */
 
-  --ui-gap-cta: 0.75rem;
+  --ui-gap-cta: .75rem;
   --ui-gap-content: 2rem;
 
   /* BORDER RADIUS */
@@ -133,7 +133,7 @@ body {
   background-color: var(--ui-color-background-primary);
   color: var(--ui-color-typography-body);
   font-family: var(--ui-typography-typeface);
-  font-feature-settings: 'liga', 'kern';
+  font-feature-settings: "liga", "kern";
   font-size: var(--ui-typography-p);
   font-weight: 400;
   line-height: var(--ui-typography-p-leading);
@@ -279,7 +279,7 @@ form {
   background-color: var(--ui-color-form-input);
   border-radius: var(--ui-radius-input);
   grid-template-columns: minmax(0, 1fr) auto;
-  padding: 0.25rem;
+  padding: .25rem;
 }
 
 /* INPUT */
@@ -290,13 +290,13 @@ form {
 
 .ui-component-input {
   background-color: var(--ui-color-form-input);
-  border: 0.0625rem solid var(--ui-color-form-input);
+  border: .0625rem solid var(--ui-color-form-input);
   border-radius: var(--ui-radius-input);
 }
 
 .ui-component-input-medium {
   height: 2.5rem;
-  padding: 0.625rem 1rem 0.75rem;
+  padding: .625rem 1rem .75rem;
 }
 
 /*--------------------------------------------------------------
@@ -314,7 +314,7 @@ button {
 }
 
 .ui-component-button {
-  border: 0.0625rem solid var(--ui-color-brand);
+  border: .0625rem solid var(--ui-color-brand);
   border-radius: var(--ui-radius-button);
   display: block;
   font-weight: 700;
@@ -328,7 +328,7 @@ button {
 }
 
 .ui-component-button-medium {
-  padding: 0.625rem 0.875rem 0.75rem;
+  padding: .625rem .875rem .75rem;
   width: fit-content;
 }
 
@@ -436,7 +436,7 @@ button {
     --ui-typography-h2: 1.75rem;
     --ui-typography-h3: 1.4375rem;
     --ui-typography-p: 1.125rem;
-    --ui-typography-s: 0.875rem;
+    --ui-typography-s: .875rem;
 
     /* MARGIN */
 

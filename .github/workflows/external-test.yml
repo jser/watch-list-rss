@@ -1,0 +1,28 @@
+name: External Tests
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    # NOTE: UTCなので9時間引く
+    # 毎週土曜日の午前9時に実行
+    - cron: 0 0 * * 6
+  workflow_dispatch:
+
+jobs:
+  test-external:
+    name: Run External Tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v6
+        with:
+          node-version-file: .tool-versions
+          cache: npm
+      - run: npm ci
+      - uses: ./.github/actions/restore-feed-cache
+      - run: npm run test-external
+      - uses: ./.github/actions/save-feed-cache

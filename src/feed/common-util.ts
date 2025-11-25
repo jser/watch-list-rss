@@ -1,7 +1,7 @@
-import * as v8 from 'v8';
-import * as crypto from 'crypto';
-import axios from 'axios';
+import * as crypto from 'node:crypto';
+import * as v8 from 'node:v8';
 import { to } from 'await-to-js';
+import axios from 'axios';
 
 type HatenaCountMap = Record<string, number>;
 
@@ -28,20 +28,12 @@ export const urlRemoveQueryParams = (url: string) => {
 };
 
 export const removeInvalidUnicode = (text: string) => {
-  // eslint-disable-next-line no-control-regex
+  // biome-ignore lint/suspicious/noControlCharactersInRegex: This is intentional
   return text.replace(/[\x00-\x1F\x7F-\x9F]/g, '');
 };
 
-export const escapeTextForXml = (text: string) => {
-  if (text.includes('&')) {
-    text = text.replace(/&/g, '&amp;');
-  }
-
-  return text;
-};
-
 export const isValidHttpUrl = (url: string) => {
-  let urlObject;
+  let urlObject: URL;
 
   try {
     urlObject = new URL(url);
@@ -52,9 +44,18 @@ export const isValidHttpUrl = (url: string) => {
   return urlObject.protocol === 'http:' || urlObject.protocol === 'https:';
 };
 
-export const exponentialBackoff = async <A>(retrier: (attemptCount: number) => Promise<A>, retries = 3) => {
+export const exponentialBackoff = async <A>(
+  retrier: (attemptCount: number) => Promise<A>,
+  baseWaitMs = 1000,
+  retries = 3,
+) => {
   let attemptLimitReached = false;
   let attemptCount = 0;
+
+  // 引数ミス防止
+  if (retries > 10) {
+    throw new Error('retries が 10 を超えています');
+  }
 
   while (!attemptLimitReached) {
     const [error, result] = await to(retrier(attemptCount));
@@ -64,10 +65,9 @@ export const exponentialBackoff = async <A>(retrier: (attemptCount: number) => P
 
       if (attemptLimitReached) {
         throw error;
-      } else {
-        const waitTime = Math.pow(2, attemptCount) * 1000;
-        await sleep(waitTime);
       }
+      const waitTime = 2 ** attemptCount * baseWaitMs;
+      await sleep(waitTime);
     } else {
       return result;
     }

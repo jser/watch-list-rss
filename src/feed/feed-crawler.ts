@@ -1,21 +1,24 @@
-import RssParser from 'rss-parser';
+import { URL } from 'node:url';
 import { PromisePool } from '@supercharge/promise-pool';
-import { FeedInfo } from '../../resources/feed-info-list';
+import { to } from 'await-to-js';
 import dayjs from 'dayjs';
-import { URL } from 'url';
+import { create as flatCacheCreate } from 'flat-cache';
+import { default as ogs } from 'open-graph-scraper';
+import type { ImageObject, OgObject, OpenGraphScraperOptions } from 'open-graph-scraper/types/lib/types';
+import RssParser from 'rss-parser';
+import constants from '../common/constants';
+import type { FeedInfo } from '../resources/feed-info-list';
 import {
+  exponentialBackoff,
   fetchHatenaCountMap,
   isValidHttpUrl,
   objectDeepCopy,
   removeInvalidUnicode,
-  exponentialBackoff,
+  textToMd5Hash,
   urlRemoveQueryParams,
 } from './common-util';
+import { FeedValidator } from './feed-validator';
 import { logger } from './logger';
-import constants from '../../common/constants';
-import { to } from 'await-to-js';
-import { default as ogs } from 'open-graph-scraper';
-import { OpenGraphScraperOptions, OgObject, ImageObject } from 'open-graph-scraper/types/lib/types';
 
 export type CustomOgObject = OgObject & {
   // 画像は一つだけとする
@@ -44,6 +47,7 @@ export interface ClawlFeedsResult {
 
 export class FeedCrawler {
   private rssParser;
+  private feedValidator;
 
   constructor() {
     this.rssParser = new RssParser({
@@ -53,17 +57,18 @@ export class FeedCrawler {
         'user-agent': constants.requestUserAgent,
       },
     });
+    this.feedValidator = new FeedValidator();
   }
 
   public async crawlFeeds(
     feedInfoList: FeedInfo[],
     feedFetchConcurrency: number,
     feedOgFetchConcurrency: number,
-    filterArticleDate: Date,
+    aggregateFeedStartAt: Date,
   ): Promise<ClawlFeedsResult> {
     // フィード取得してまとめる
     const feeds = await this.fetchFeedsAsync(feedInfoList, feedFetchConcurrency);
-    const allFeedItems = this.aggregateFeeds(feeds, filterArticleDate);
+    const allFeedItems = this.aggregateFeeds(feeds, aggregateFeedStartAt);
 
     // OGPなどの情報取得
     const [errorFetchFeedData, results] = await to(
@@ -107,12 +112,31 @@ export class FeedCrawler {
               logger.warn(`[fetch-feed] retry ${feedInfo.url}`);
             }
 
-            const response = await fetch(feedInfo.url);
-            if (!response.ok) {
-              throw new Error(`HTTP Error: ${response.status}`);
+            const feedCacheKey = `feed-${textToMd5Hash(feedInfo.url)}`;
+            const feedCache = flatCacheCreate({
+              cacheId: feedCacheKey,
+              ttl: constants.fetchedFeedCacheDurationInHours * 60 * 60 * 1000,
+            });
+            const cachedData = feedCache.get<string>(feedCacheKey);
+            let feedData: string;
+
+            if (cachedData) {
+              logger.trace('[fetch-feed] cache hit', feedInfo.label, feedInfo.url);
+              feedData = cachedData;
+            } else {
+              const response = await fetch(feedInfo.url);
+              if (!response.ok) {
+                throw new Error(`HTTP Error: ${response.status}`);
+              }
+              feedData = await response.text();
+
+              // バリデーション
+              await this.feedValidator.assertXmlFeed('fetched-feed', feedData);
+
+              feedCache.set(feedCacheKey, feedData);
+              feedCache.save();
             }
 
-            const feedData = await response.text();
             return this.rssParser.parseString(feedData) as Promise<CustomRssParserFeed>;
           }),
         );
@@ -250,10 +274,10 @@ export class FeedCrawler {
     return customFeed;
   }
 
-  private aggregateFeeds(feeds: CustomRssParserFeed[], filterArticleDate: Date) {
+  private aggregateFeeds(feeds: CustomRssParserFeed[], aggregateFeedStartAt: Date) {
     let allFeedItems: CustomRssParserItem[] = [];
     const copiedFeeds: CustomRssParserFeed[] = objectDeepCopy(feeds);
-    const filterIsoDate = filterArticleDate.toISOString();
+    const aggregateFeedStartAtIsoDate = aggregateFeedStartAt.toISOString();
     const currentIsoDate = new Date().toISOString();
 
     for (const feed of copiedFeeds) {
@@ -263,7 +287,7 @@ export class FeedCrawler {
           return false;
         }
 
-        return feedItem.isoDate >= filterIsoDate;
+        return feedItem.isoDate >= aggregateFeedStartAtIsoDate;
       });
 
       // 現在時刻より未来のものはフィルタ。UTC表記で日本時間設定しているブログがあるので。
@@ -306,7 +330,6 @@ export class FeedCrawler {
               logger.warn(`[fetch-feed-item-og] retry ${feedItem.link}`);
             }
 
-            logger.info('[fetch-feed-item-og] start fetch', feedItem.link);
             return FeedCrawler.fetchOgObject(feedItem.link);
           }),
         );
@@ -363,28 +386,45 @@ export class FeedCrawler {
   }
 
   private static async fetchOgObject(url: string): Promise<CustomOgObject> {
-    const options: OpenGraphScraperOptions = {
-      url: url,
-      timeout: 10 * 1000,
-      fetchOptions: {
-        headers: {
-          'user-agent': constants.requestUserAgent,
+    const ogObjectCacheKey = `og-object-${textToMd5Hash(url)}`;
+    const ogObjectCache = flatCacheCreate({
+      cacheId: ogObjectCacheKey,
+      ttl: constants.fetchedOgCacheDurationInHours * 60 * 60 * 1000,
+    });
+    const cachedData = ogObjectCache.get<string>(ogObjectCacheKey);
+    let ogObject: OgObject;
+
+    if (cachedData) {
+      logger.trace('[fetch-og] cache hit', url);
+      ogObject = JSON.parse(cachedData);
+    } else {
+      const options: OpenGraphScraperOptions = {
+        url: url,
+        timeout: 10 * 1000,
+        fetchOptions: {
+          headers: {
+            'user-agent': constants.requestUserAgent,
+          },
         },
-      },
-    };
-    const [error, ogsResponse] = await to<{ result: OgObject }>(ogs(options));
-    if (error) {
-      return Promise.reject(
-        new Error(`OGの取得に失敗しました。 url: ${url}`, {
-          cause: error,
-        }),
-      );
+      };
+      const [error, ogsResponse] = await to<{ result: OgObject }>(ogs(options));
+      if (error) {
+        return Promise.reject(
+          new Error(`OGの取得に失敗しました。 url: ${url}`, {
+            cause: error,
+          }),
+        );
+      }
+
+      ogObject = ogsResponse.result;
+
+      ogObjectCache.set(ogObjectCacheKey, JSON.stringify(ogObject));
+      ogObjectCache.save();
     }
 
-    const ogObject = ogsResponse.result;
     const ogImages = ogObject?.ogImage;
 
-    let validOgImages: ImageObject[] = [];
+    const validOgImages: ImageObject[] = [];
 
     // データの調整しつつ、利用可能なものを取得
     if (ogImages !== undefined) {
@@ -397,7 +437,7 @@ export class FeedCrawler {
         }
 
         // 一部URLがおかしいものの対応
-        if (ogImageUrl && ogImageUrl.startsWith('https://tech.fusic.co.jphttps')) {
+        if (ogImageUrl?.startsWith('https://tech.fusic.co.jphttps')) {
           ogImage.url = ogImageUrl.substring('https://tech.fusic.co.jp'.length);
         }
 
