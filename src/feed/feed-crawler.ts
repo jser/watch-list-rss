@@ -436,9 +436,10 @@ export class FeedCrawler {
           continue;
         }
 
-        // 一部URLがおかしいものの対応
+        // 一部URLがおかしいものの対応 (tech.fusic.co.jp specific fix for duplicated protocol)
         if (ogImageUrl?.startsWith('https://tech.fusic.co.jphttps')) {
-          ogImage.url = ogImageUrl.substring('https://tech.fusic.co.jp'.length);
+          // Remove the malformed prefix and use the correctly formed URL
+          ogImage.url = ogImageUrl.replace('https://tech.fusic.co.jphttps', 'https');
         }
 
         // http から始まってなければ調整
