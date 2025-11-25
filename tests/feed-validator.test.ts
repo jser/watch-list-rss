@@ -1,6 +1,6 @@
 import to from 'await-to-js';
 import { describe, expect, it } from 'vitest';
-import { FeedValidator } from '../src/feed/feed-validator';
+import { FeedValidator } from '../src/feed/feed-validator.js';
 
 describe('FeedValidator', () => {
   it('正しいXMLフィード1', async () => {

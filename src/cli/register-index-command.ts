@@ -1,9 +1,13 @@
 import { google } from 'googleapis';
-import constants from '../common/constants';
-import { sleep } from '../feed/common-util';
-import type { BlogFeed } from '../feed/feed-storer';
-const key = require('../../storage/service_account.json');
-let blogFeeds: BlogFeed[] = require('../site/blog-feeds/blog-feeds.json');
+// @ts-ignore
+import key from '../../storage/service_account.json' assert { type: 'json' };
+import constants from '../common/constants.js';
+import { sleep } from '../feed/common-util.js';
+import type { BlogFeed } from '../feed/feed-storer.js';
+// @ts-ignore
+import blogFeedsImport from '../site/blog-feeds/blog-feeds.json' assert { type: 'json' };
+
+let blogFeeds: BlogFeed[] = blogFeedsImport as BlogFeed[];
 
 const GOOGLE_INDEXING_API_END_POINT = 'https://indexing.googleapis.com/v3/urlNotifications:publish';
 const INDEXING_LIMIT = 200;
