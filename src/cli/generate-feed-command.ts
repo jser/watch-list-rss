@@ -1,12 +1,12 @@
 import * as path from 'node:path';
 import * as url from 'node:url';
-import constants from '../common/constants';
-import { FeedCrawler } from '../feed/feed-crawler';
-import { FeedGenerator } from '../feed/feed-generator';
-import { FeedStorer } from '../feed/feed-storer';
-import { FeedValidator } from '../feed/feed-validator';
-import { logger } from '../feed/logger';
-import { FEED_INFO_LIST } from '../resources/feed-info-list';
+import constants from '../common/constants.js';
+import { FeedCrawler } from '../feed/feed-crawler.js';
+import { FeedGenerator } from '../feed/feed-generator.js';
+import { FeedStorer } from '../feed/feed-storer.js';
+import { FeedValidator } from '../feed/feed-validator.js';
+import { logger } from '../feed/logger.js';
+import { FEED_INFO_LIST } from '../resources/feed-info-list.js';
 
 const dirName = url.fileURLToPath(new URL('.', import.meta.url));
 

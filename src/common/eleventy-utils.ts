@@ -6,8 +6,8 @@ import CleanCSS from 'clean-css';
 import htmlmin from 'html-minifier-terser';
 import sharpIco, { type ImageData } from 'sharp-ico';
 import ts from 'typescript';
-import constants from './constants';
-import { imageCacheOptions } from './eleventy-cache-option';
+import constants from './constants.js';
+import { imageCacheOptions } from './eleventy-cache-option.js';
 
 export const imageThumbnailShortcode = async (src: string, alt: string, pathPrefix = '', imageLoading = 'lazy') => {
   // 取れなければ代替画像

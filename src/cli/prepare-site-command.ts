@@ -1,9 +1,9 @@
 import { PromisePool } from '@supercharge/promise-pool';
 import { to } from 'await-to-js';
-import constants from '../common/constants';
-import { imageThumbnailShortcode } from '../common/eleventy-utils';
-import type { BlogFeed } from '../feed/feed-storer';
-import { logger } from '../feed/logger';
+import constants from '../common/constants.js';
+import { imageThumbnailShortcode } from '../common/eleventy-utils.js';
+import type { BlogFeed } from '../feed/feed-storer.js';
+import { logger } from '../feed/logger.js';
 // @ts-ignore
 import blogFeeds from '../site/blog-feeds/blog-feeds.json' assert { type: 'json' };
 

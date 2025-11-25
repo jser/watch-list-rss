@@ -6,8 +6,8 @@ import { create as flatCacheCreate } from 'flat-cache';
 import { default as ogs } from 'open-graph-scraper';
 import type { ImageObject, OgObject, OpenGraphScraperOptions } from 'open-graph-scraper/types/lib/types';
 import RssParser from 'rss-parser';
-import constants from '../common/constants';
-import type { FeedInfo } from '../resources/feed-info-list';
+import constants from '../common/constants.js';
+import type { FeedInfo } from '../resources/feed-info-list.js';
 import {
   exponentialBackoff,
   fetchHatenaCountMap,
@@ -16,9 +16,9 @@ import {
   removeInvalidUnicode,
   textToMd5Hash,
   urlRemoveQueryParams,
-} from './common-util';
-import { FeedValidator } from './feed-validator';
-import { logger } from './logger';
+} from './common-util.js';
+import { FeedValidator } from './feed-validator.js';
+import { logger } from './logger.js';
 
 export type CustomOgObject = OgObject & {
   // 画像は一つだけとする
