@@ -5,75 +5,93 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
-  schedule:
-    # NOTE: UTCなので9時間引く
-    # 毎週土曜日の午前9時に実行
-    - cron: 0 0 * * 6
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
-  lint:
-    runs-on: ubuntu-22.04
+  lint-biome:
+    name: Lint Biome
+    runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
-
-    - name: Setup node
-      uses: actions/setup-node@v4
+    - uses: actions/checkout@v5
+    - uses: actions/setup-node@v6
       with:
         node-version-file: .tool-versions
-        cache: yarn
+        cache: npm
+    - run: npm ci
+    - run: npm run lint-biome && git diff --exit-code
 
-    - name: Install dependencies
-      run: yarn install
+  lint-ts:
+    name: Lint TypeScript
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+    - uses: actions/checkout@v5
+    - uses: actions/setup-node@v6
+      with:
+        node-version-file: .tool-versions
+        cache: npm
+    - run: npm ci
+    - run: npm run lint-ts
 
-    - name: Lint
-      run: yarn lint
+  lint-secretlint:
+    name: Lint Secretlint
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+    - uses: actions/checkout@v5
+    - uses: actions/setup-node@v6
+      with:
+        node-version-file: .tool-versions
+        cache: npm
+    - run: npm ci
+    - run: npm run lint-secretlint
+
+  lint-action:
+    name: Lint GitHub Actions
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: docker://rhysd/actionlint:latest
+        with:
+          args: "-color"
+
+  check-typo:
+    name: Check typos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: crate-ci/typos@v1.39.2
 
   test:
-    runs-on: ubuntu-22.04
+    name: Test
+    runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
-
-    - name: Setup node
-      uses: actions/setup-node@v4
+    - uses: actions/checkout@v5
+    - uses: actions/setup-node@v6
       with:
         node-version-file: .tool-versions
-        cache: yarn
-
-    - name: Install dependencies
-      run: yarn install
-
-    - name: Test
-      run: yarn test-coverage
+        cache: npm
+    - run: npm ci
+    - run: npm run test-coverage
 
   generate:
-    runs-on: ubuntu-22.04
+    name: Generate feed and site
+    runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
-
-    - name: Setup node
-      uses: actions/setup-node@v4
-      with:
-        node-version-file: .tool-versions
-        cache: yarn
-
-    - name: Install dependencies
-      run: yarn install
-
-    - name: Generate feed
-      run: yarn feed-generate
-
-    - name: Generate site
-      run: yarn site-build
-
-    - name: Archive feed
-      uses: actions/upload-artifact@v4
-      with:
-        name: feed-generate-results
-        path: public/feeds
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v6
+        with:
+          node-version-file: .tool-versions
+          cache: npm
+      - run: npm ci
+      - uses: ./.github/actions/restore-feed-cache
+      - run: npm run feed-generate
+      - run: npm run site-prepare
+      - run: npm run site-build
+      - uses: ./.github/actions/save-feed-cache

@@ -1,8 +1,8 @@
 :root {
   /**
-     * 色参考
-     * @see https://material.io/resources/color/
-     */
+   * 色参考
+   * @see https://material.io/resources/color/
+   */
   --material-color-yellow-50: #fffde7;
   --material-color-yellow-100: #fff9c4;
   --material-color-orange-500: #ff9800;
@@ -19,7 +19,7 @@
 
   --hatena-color: #01a5df;
 
-  --base-font: -apple-system, BlinkMacSystemFont, Helvetica Neue, Yu Gothic, YuGothic, Verdana, Meiryo, M + 1p,
+  --base-font: -apple-system, BlinkMacSystemFont, Helvetica Neue, Yu Gothic, YuGothic, Verdana, Meiryo, "M+ 1p",
     sans-serif;
 
   /* 上書き */
@@ -97,11 +97,32 @@ img {
   color: var(--base-color);
 }
 
+.ui-section-header__layout .ui-section-header__links {
+  display: flex;
+  justify-content: center;
+}
+.ui-section-header__layout .ui-section-header__links a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 36px;
+  height: 24px;
+  opacity: 0.7;
+  transition: opacity .5s;
+}
+.ui-section-header__layout .ui-section-header__links a:hover {
+  opacity: 1;
+}
+.ui-section-header__layout .ui-section-header__links a img {
+  width: 20px;
+  height: 20px;
+}
+
 /*
  * トップ
  */
 .ui-top-section {
-  padding-bottom: 2em;
+  padding-bottom: 2.0em;
 }
 .ui-component-form__label {
   margin-left: 0.2em;
@@ -192,7 +213,7 @@ img {
 .ui-feed-item {
   display: grid;
   color: var(--base-color);
-  grid-template-columns: 130px 1fr;
+  grid-template-columns: 8rem 1fr;
   align-content: start;
   grid-gap: 0 0.5em;
 }
@@ -201,7 +222,7 @@ img {
 .ui-feed-item .ui-feed-item__og-image img {
   width: 100%;
   height: auto;
-  max-height: 7em;
+  max-height: 7.0em;
   /* TODO: aspect-ratio の対応ブラウザが増えたら使う */
   /*aspect-ratio: 1200 / 630;*/
   object-fit: contain;
@@ -280,8 +301,8 @@ img {
     display: block;
   }
   .ui-feed-item .ui-feed-item__og-image img {
-    height: 9em;
-    max-height: 9em;
+    height: 9.0em;
+    max-height: 9.0em;
   }
   .ui-feed-item .ui-feed-item__title {
     margin-top: 0.5em;
@@ -289,8 +310,8 @@ img {
 }
 @media screen and (min-width: 75rem) {
   .ui-feed-item .ui-feed-item__og-image img {
-    height: 8em;
-    max-height: 8em;
+    height: 8.0em;
+    max-height: 8.0em;
   }
 }
 
@@ -316,7 +337,7 @@ img {
 .ui-blog .ui-blog__og-image img {
   width: 100%;
   height: auto;
-  max-height: 7em;
+  max-height: 7.0em;
   /* TODO: aspect-ratio の対応ブラウザが増えたら使う */
   /*aspect-ratio: 1200 / 630;*/
   object-fit: contain;
@@ -366,8 +387,8 @@ img {
   }
   .ui-blog .ui-blog__og-image img {
     width: auto;
-    height: 9em;
-    max-height: 9em;
+    height: 9.0em;
+    max-height: 9.0em;
   }
   .ui-blog .ui-blog__title {
     margin-top: 0.5em;
@@ -376,8 +397,8 @@ img {
 @media screen and (min-width: 75rem) {
   .ui-blog .ui-blog__og-image img {
     width: auto;
-    height: 8em;
-    max-height: 8em;
+    height: 8.0em;
+    max-height: 8.0em;
   }
 }
 
