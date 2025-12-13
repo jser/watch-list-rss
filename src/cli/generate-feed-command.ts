@@ -6,7 +6,7 @@ import { FeedGenerator } from '../feed/feed-generator.js';
 import { FeedStorer } from '../feed/feed-storer.js';
 import { FeedValidator } from '../feed/feed-validator.js';
 import { logger } from '../feed/logger.js';
-import { FEED_INFO_LIST } from '../resources/feed-info-list.js';
+import { fetchFeedInfoList } from '../resources/feed-info-list.js';
 
 const dirName = url.fileURLToPath(new URL('.', import.meta.url));
 
@@ -19,9 +19,12 @@ const feedValidator = new FeedValidator();
 const feedStorer = new FeedStorer();
 
 (async () => {
+  // JSer.infoのwatch-listからフィード情報を取得
+  const feedInfoList = await fetchFeedInfoList();
+
   // フィード取得
   const crawlFeedsResult = await feedCrawler.crawlFeeds(
-    FEED_INFO_LIST,
+    feedInfoList,
     constants.feedFetchConcurrency,
     constants.feedOgFetchConcurrency,
     new Date(Date.now() - constants.aggregateFeedDurationInHours * 60 * 60 * 1000),
