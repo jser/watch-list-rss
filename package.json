@@ -1,6 +1,6 @@
 {
   "name": "tech-blog-rss-feed",
-  "description": "企業のテックブログの更新をまとめたRSSフィードを配信",
+  "description": "JSer.infoの情報源となるサイトのRSSフィードをまとめたサイトです。JavaScriptの情報源を集めることを目的としています。",
   "version": "1.0.0",
   "main": "",
   "scripts": {
