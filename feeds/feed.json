@@ -1,0 +1,2563 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "JSer.info Watch List",
+    "home_page_url": "https://jser.info/watch-list-rss/",
+    "feed_url": "https://jser.info/watch-list-rss/feeds/feed.json",
+    "description": "JSer.infoの情報源となるサイトをまとめたRSSフィード",
+    "icon": "https://jser.info/watch-list-rss/images/icon.png",
+    "items": [
+        {
+            "id": "https://calendar.perfplanet.com/?p=3159",
+            "content_html": "This is a step-by-step guide on how I use Chrome DevTools (DevTools from now on) to detect Web Performance issues on a website, as well as validate hypotheses to fix some of the problems found. Disclaimer Before diving in, I want to clarify that: this is not a guide on how DevTools works, it’s a […]",
+            "url": "https://calendar.perfplanet.com/2025/chrome-devtools-for-debugging-web-performance/",
+            "title": "Chrome DevTools for Debugging Web Performance | Web Performance Calendar",
+            "summary": "This is a step-by-step guide on how I use Chrome DevTools (DevTools from now on) to detect Web Performance issues on a website, as well as validate hypotheses to fix some of the problems found. Discla",
+            "image": {
+                "url": "https://calendar.perfplanet.com/images/2025/joan/DevTools-Snippets-LCP-Sub-Parts.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-27T14:33:57.000Z",
+            "date_published": "2025-12-27T14:33:57.000Z",
+            "author": {
+                "name": "Joan LeÃ³n"
+            },
+            "tags": [
+                "performance"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Chrome DevTools for Debugging Web Performance",
+                "blogTitle": "Web Performance Calendar",
+                "blogLink": "https://calendar.perfplanet.com",
+                "blogLinkMd5Hash": "33b0586740e05b8f28482a20ecf74fc8",
+                "favicon": "https://calendar.perfplanet.com/wp-content/themes/wpc2/wpclogo.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2025/Dec/27/boris-cherny/#atom-everything",
+            "content_html": " &lt;blockquote cite=\"https://twitter.com/bcherny/status/2004887829252317325\"&gt;&lt;p&gt;A year ago, Claude struggled to generate bash commands without escaping issues. It worked for seconds or minutes at a time. We saw early signs that it may become broadly useful for coding one day.&lt;/p&gt;&lt;p&gt;Fast forward to today. In the last thirty days, I landed 259 PRs -- 497 commits, 40k lines added, 38k lines removed. Every single line was written by Claude Code + Opus 4.5.&lt;/p&gt;&lt;/blockquote&gt;&lt;p class=\"cite\"&gt;&amp;mdash; &lt;a hr",
+            "url": "https://simonwillison.net/2025/Dec/27/boris-cherny/#atom-everything",
+            "title": "Quoting Boris Cherny | Simon Willison's Weblog",
+            "summary": " &lt;blockquote cite=\"https://twitter.com/bcherny/status/2004887829252317325\"&gt;&lt;p&gt;A year ago, Claude struggled to generate bash commands without escaping issues. It worked for seconds or minutes at a time",
+            "date_modified": "2025-12-27T14:13:43.000Z",
+            "date_published": "2025-12-27T14:13:43.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Quoting Boris Cherny",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://leaysgur.github.io/posts/2025/12/27/155849/",
+            "content_html": "",
+            "url": "https://leaysgur.github.io/posts/2025/12/27/155849/",
+            "title": "2025年後半の振り返り | Memory ice cubes",
+            "image": {
+                "url": "https://leaysgur.github.io/posts/ogp.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-27T06:58:49.000Z",
+            "date_published": "2025-12-27T06:58:49.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2025年後半の振り返り",
+                "blogTitle": "Memory ice cubes",
+                "blogLink": "https://leaysgur.github.io/posts/",
+                "blogLinkMd5Hash": "42b5de93e9293c9f3e2a4d0977121413",
+                "favicon": "https://leaysgur.github.io/posts/favicon.svg"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2025/Dec/27/textarea-my/#atom-everything",
+            "content_html": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://github.com/antonmedv/textarea\"&gt;textarea.my on GitHub&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;Anton Medvedev built &lt;a href=\"https://textarea.my/\"&gt;textarea.my&lt;/a&gt;, which he describes as:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;A &lt;em&gt;minimalist&lt;/em&gt; text editor that lives entirely in your browser and stores everything in the URL hash.&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;It's ~160 lines of HTML, CSS and JavaScript and it's worth reading the whole thing. I picked up a bunch of neat tricks from this!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;code&gt;&amp;lt;article conte",
+            "url": "https://simonwillison.net/2025/Dec/27/textarea-my/#atom-everything",
+            "title": "textarea.my on GitHub | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://github.com/antonmedv/textarea\"&gt;textarea.my on GitHub&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;Anton Medvedev built &lt;a href=\"https://textarea.my/\"&gt;textarea.my&lt;/a&gt;, which he describes as:&lt;/p&gt;&lt;blockq",
+            "date_modified": "2025-12-27T03:23:34.000Z",
+            "date_published": "2025-12-27T03:23:34.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "textarea.my on GitHub",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://azukiazusa.dev/blog/books-i-liked-in-2025",
+            "content_html": "AI を活用するための技術というのはとりわけ新しいものではなく、過去の知見を基盤として構築されていることが多いです。それゆえに、AI 時代だからこそ基礎的な知識を体系的に学ぶことができる書籍に学ぶことに価値を求めるのです。この記事では 2025 年に読んで特に印象に残った本をいくつか紹介します。",
+            "url": "https://azukiazusa.dev/blog/books-i-liked-in-2025",
+            "title": "2025 年に読んでよかった本 | azukiazusa のテックブログ2",
+            "summary": "AI を活用するための技術というのはとりわけ新しいものではなく、過去の知見を基盤として構築されていることが多いです。それゆえに、AI 時代だからこそ基礎的な知識を体系的に学ぶことができる書籍に学ぶことに価値を求めるのです。この記事では 2025 年に読んで特に印象に残った本をいくつか紹介します。",
+            "image": {
+                "url": "https://azukiazusa.dev/blog/ogp/books-i-liked-in-2025.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-27T02:10:00.000Z",
+            "date_published": "2025-12-27T02:10:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2025 年に読んでよかった本",
+                "blogTitle": "azukiazusa のテックブログ2",
+                "blogLink": "https://azukiazusa.dev",
+                "blogLinkMd5Hash": "f333203079d9928b7fa83832f57ad131",
+                "favicon": "https://azukiazusa.dev/favicon.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2025/Dec/26/how-uv-got-so-fast/#atom-everything",
+            "content_html": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html\"&gt;How uv got so fast&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;Andrew Nesbitt provides an insightful teardown of why &lt;a href=\"https://github.com/astral-sh/uv\"&gt;uv&lt;/a&gt; is so much faster than &lt;code&gt;pip&lt;/code&gt;. It's not nearly as simple as just \"they rewrote it in Rust\" - &lt;code&gt;uv&lt;/code&gt; gets to skip a huge amount of Python packaging history (which &lt;code&gt;pip&lt;/code&gt; needs to implement for backwards compatibility) and benefits enormously from work over r",
+            "url": "https://simonwillison.net/2025/Dec/26/how-uv-got-so-fast/#atom-everything",
+            "title": "How uv got so fast | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html\"&gt;How uv got so fast&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;Andrew Nesbitt provides an insightful teardown of why &lt;a href=\"https://github.com/astral-",
+            "date_modified": "2025-12-26T23:43:15.000Z",
+            "date_published": "2025-12-26T23:43:15.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "How uv got so fast",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/#atom-everything",
+            "content_html": " &lt;p&gt;Rob Pike (&lt;a href=\"https://en.wikipedia.org/wiki/Rob_Pike\"&gt;that Rob Pike&lt;/a&gt;) is &lt;em&gt;furious&lt;/em&gt;. Here's a &lt;a href=\"https://bsky.app/profile/robpike.io/post/3matwg6w3ic2s\"&gt;Bluesky link&lt;/a&gt; for if you have an account there and a link to &lt;a href=\"https://tools.simonwillison.net/bluesky-thread?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&amp;amp;view=thread\"&gt;it in my thread viewer&lt;/a&gt; if you don't.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;Fuck you people. Raping the planet, spending trillions",
+            "url": "https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/#atom-everything",
+            "title": "How Rob Pike got spammed with an AI slop \"act of kindness\" | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;Rob Pike (&lt;a href=\"https://en.wikipedia.org/wiki/Rob_Pike\"&gt;that Rob Pike&lt;/a&gt;) is &lt;em&gt;furious&lt;/em&gt;. Here's a &lt;a href=\"https://bsky.app/profile/robpike.io/post/3matwg6w3ic2s\"&gt;Bluesky link&lt;/a&gt; for if",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2025/rob-pike-card.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-26T18:16:28.000Z",
+            "date_published": "2025-12-26T18:16:28.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "How Rob Pike got spammed with an AI slop \"act of kindness\"",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://github.blog/?p=93087",
+            "content_html": "An easy-to-remember acronym, WRAP will help you write effective issues, refine your instructions, and get the most out of Copilot coding agent.The post WRAP up your backlog with GitHub Copilot coding agent appeared first on The GitHub Blog.",
+            "url": "https://github.blog/ai-and-ml/github-copilot/wrap-up-your-backlog-with-github-copilot-coding-agent/",
+            "title": "WRAP up your backlog with GitHub Copilot coding agent | The GitHub Blog",
+            "summary": "An easy-to-remember acronym, WRAP will help you write effective issues, refine your instructions, and get the most out of Copilot coding agent.The post WRAP up your backlog with GitHub Copilot coding ",
+            "image": {
+                "height": "1080",
+                "type": "image/png",
+                "url": "https://github.blog/wp-content/uploads/2025/09/copilot-embedding-model.png",
+                "width": "1920"
+            },
+            "date_modified": "2025-12-26T17:56:38.000Z",
+            "date_published": "2025-12-26T17:56:38.000Z",
+            "author": {
+                "name": "Brittany Ellich"
+            },
+            "tags": [
+                "AI &amp; ML",
+                "GitHub Copilot",
+                "agent mode",
+                "agentic AI"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "WRAP up your backlog with GitHub Copilot coding agent",
+                "blogTitle": "The GitHub Blog",
+                "blogLink": "https://github.blog/",
+                "blogLinkMd5Hash": "f5d9dec3dc3bf03d9b3049b109e60a1d",
+                "favicon": "https://github.githubassets.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://calendar.perfplanet.com/?p=3158",
+            "content_html": "Introduction Modern web performance issues often come from delayed rendering rather than network speed. Client-side hydration and heavy JavaScript pipelines can prevent browsers from showing content as early as they could. Several solutions already exist, like SSR or SSG to mitigate this. They help a lot, but in practice, SSG pages need to be rebuilt […]",
+            "url": "https://calendar.perfplanet.com/2025/revisiting-html-streaming-for-modern-web-performance/",
+            "title": "Revisiting HTML streaming for modern web performance | Web Performance Calendar",
+            "summary": "Introduction Modern web performance issues often come from delayed rendering rather than network speed. Client-side hydration and heavy JavaScript pipelines can prevent browsers from showing content a",
+            "image": {
+                "url": "https://calendar.perfplanet.com/images/2025/lighthouse.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-26T13:40:04.000Z",
+            "date_published": "2025-12-26T13:40:04.000Z",
+            "author": {
+                "name": "SÃ©bastien Mischler"
+            },
+            "tags": [
+                "performance"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Revisiting HTML streaming for modern web performance",
+                "blogTitle": "Web Performance Calendar",
+                "blogLink": "https://calendar.perfplanet.com",
+                "blogLinkMd5Hash": "33b0586740e05b8f28482a20ecf74fc8",
+                "favicon": "https://calendar.perfplanet.com/wp-content/themes/wpc2/wpclogo.png"
+            }
+        },
+        {
+            "id": "https://developers.prtimes.jp/?p=9420",
+            "content_html": "こんにちは、VPoEの櫻井です。 2024年10月に開発部が第一開発グループ（現：第一開発部）と第二開発グループ（現：第二開発部）の二部門体制になり、私がテックリードからVPoE 兼 第二開発部長になってから1年ちょっと […]",
+            "url": "https://developers.prtimes.jp/2025/12/26/vpoe2025/",
+            "title": "VPoE1年目の挑戦と2025年の開発部の変化を振り返る | PR TIMES 開発者ブログ",
+            "summary": "こんにちは、VPoEの櫻井です。 2024年10月に開発部が第一開発グループ（現：第一開発部）と第二開発グループ（現：第二開発部）の二部門体制になり、私がテックリードからVPoE 兼 第二開発部長になってから1年ちょっと […]",
+            "image": {
+                "height": "1080",
+                "url": "http://developers.prtimes.jp/wp-content/uploads/2025/12/VPoE1年目の挑戦と2025年の開発部の変化を振り返る.jpg",
+                "width": "1920",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-26T09:00:00.000Z",
+            "date_published": "2025-12-26T09:00:00.000Z",
+            "author": {
+                "name": "櫻井慎也"
+            },
+            "tags": [
+                "マネジメント",
+                "振り返り"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "VPoE1年目の挑戦と2025年の開発部の変化を振り返る",
+                "blogTitle": "PR TIMES 開発者ブログ",
+                "blogLink": "https://developers.prtimes.jp",
+                "blogLinkMd5Hash": "97cb6657665760e071286dc92ecea3a6",
+                "favicon": "http://developers.prtimes.jp/wp-content/uploads/2021/04/logo_square-150x150.png?crop=1"
+            }
+        },
+        {
+            "id": "https://product.st.inc/entry/2025/12/26/175730",
+            "content_html": "こんにちは。STORES でWebエンジニアをしていますosdです。 今回はHTTP URLを介してユーザーにネイティブアプリを起動させる仕組みについて実装をしたので、仕様を交えつつWebサーバーとして配布する項目を中心に解説します。 App Links / Universal Links とは WebのURL エンドポイントを用いてシームレスにネイティブアプリを起動する仕組みです。 従来のディープリンクと呼ばれる技術は存在しましたが、以下の点で App Links / Universal Linksに優位性があります。 シームレスなアプリ起動が可能。（起動確認ダイアログなどのユーザーアクショ…",
+            "url": "https://product.st.inc/entry/2025/12/26/175730",
+            "title": "App Links / Universal LinksにWeb対応してモバイル端末でネイティブアプリを開く | STORES Product Blog",
+            "summary": "こんにちは。STORES でWebエンジニアをしていますosdです。 今回はHTTP URLを介してユーザーにネイティブアプリを起動させる仕組みについて実装をしたので、仕様を交えつつWebサーバーとして配布する項目を中心に解説します。 App Links / Universal Links とは WebのURL エンドポイントを用いてシームレスにネイティブアプリを起動する仕組みです。 従来のディー",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/26006613559034397/17179246901336333066/1766739451",
+                "alt": "App Links / Universal LinksにWeb対応してモバイル端末でネイティブアプリを開く - STORES Product Blog"
+            },
+            "date_modified": "2025-12-26T08:57:30.000Z",
+            "date_published": "2025-12-26T08:57:30.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "App Links / Universal LinksにWeb対応してモバイル端末でネイティブアプリを開く",
+                "blogTitle": "STORES Product Blog",
+                "blogLink": "https://product.st.inc/",
+                "blogLinkMd5Hash": "5786f655e03b3ed3b1370d11dfd550d8",
+                "favicon": "https://product.st.inc/icon/favicon"
+            }
+        },
+        {
+            "id": "https://developers.cyberagent.co.jp/blog/?p=61461",
+            "content_html": "はじめに はじめまして。株式会社タップルで SRE（25新卒）をやっている鈴木友也です。 最近はセキ ...",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/61461/",
+            "title": "大規模サービスのマイクロサービス移行を SRE 視点で振り返ってみる | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "summary": "はじめに はじめまして。株式会社タップルで SRE（25新卒）をやっている鈴木友也です。 最近はセキ ...",
+            "image": {
+                "url": "https://developers.cyberagent.co.jp/blog/wp-content/themes/onepress-child/assets/images/og/og.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-26T08:16:09.000Z",
+            "date_published": "2025-12-26T08:16:09.000Z",
+            "author": {
+                "name": "鈴木 友也"
+            },
+            "tags": [
+                "エンジニア",
+                "DDD",
+                "SRE",
+                "TypeScript",
+                "タップル",
+                "マイクロサービス"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "大規模サービスのマイクロサービス移行を SRE 視点で振り返ってみる",
+                "blogTitle": "CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+                "blogLink": "https://developers.cyberagent.co.jp/blog",
+                "blogLinkMd5Hash": "c89ab36e45ac3884d9fe45e5aae789fa",
+                "favicon": "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2016/09/cropped-ca-32x32.png"
+            }
+        },
+        {
+            "id": "https://developers.cyberagent.co.jp/blog/?p=61458",
+            "content_html": "はじめまして、AI Labの大平です。 普段は対話システムの研究開発をしています。 最近、VAPIを ...",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/61458/",
+            "title": "音声対話システムの自動評価フレームワーク「VociMetrics」 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "summary": "はじめまして、AI Labの大平です。 普段は対話システムの研究開発をしています。 最近、VAPIを ...",
+            "image": {
+                "url": "https://developers.cyberagent.co.jp/blog/wp-content/themes/onepress-child/assets/images/og/og.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-26T08:14:10.000Z",
+            "date_published": "2025-12-26T08:14:10.000Z",
+            "author": {
+                "name": "ohira_yoshiki"
+            },
+            "tags": [
+                "エンジニア",
+                "対話システム"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "音声対話システムの自動評価フレームワーク「VociMetrics」",
+                "blogTitle": "CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+                "blogLink": "https://developers.cyberagent.co.jp/blog",
+                "blogLinkMd5Hash": "c89ab36e45ac3884d9fe45e5aae789fa",
+                "favicon": "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2016/09/cropped-ca-32x32.png"
+            }
+        },
+        {
+            "id": "https://kaminashi-developer.hatenablog.jp/entry/2025/12/26/170000",
+            "content_html": "こんにちは、ソフトウェアエンジニアのいちび(@itiB_S144)です。 ラスベガスにて開催された AWS re:Invent 2025 に参加してきました。 このブログでは re:Invent 前にカミナシメンバー 4 人でロサンゼルスからラスベガスまで車旅をしたのでどんな旅をしたか紹介します！ 来年の re:Invent 参加の際に参考にしていただけたら嬉しいです。 すべての始まりはここからでした。 2024 年の re:Invent が終わり、楽しみ尽くしたカミナシメンバーは来年の re:Invent に向けて飛行機チケットを予約したりしていたところ、この一言をきっかけに旅の計画が始まり…",
+            "url": "https://kaminashi-developer.hatenablog.jp/entry/2025/12/26/170000",
+            "title": "【AWS re:Invent 2025】LAからラスベガスへ陸路で！カミナシエンジニア4人のデスバレー経由車旅 | カミナシ エンジニアブログ",
+            "summary": "こんにちは、ソフトウェアエンジニアのいちび(@itiB_S144)です。 ラスベガスにて開催された AWS re:Invent 2025 に参加してきました。 このブログでは re:Invent 前にカミナシメンバー 4 人でロサンゼルスからラスベガスまで車旅をしたのでどんな旅をしたか紹介します！ 来年の re:Invent 参加の際に参考にしていただけたら嬉しいです。 すべての始まりはここからで",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/cf5f7489df9594e50265f88701564b1b6f92f143/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaminashi-developer%2F20251226%2F20251226102007.png",
+                "alt": "【AWS re:Invent 2025】LAからラスベガスへ陸路で！カミナシエンジニア4人のデスバレー経由車旅 - カミナシ エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2025-12-26T08:00:00.000Z",
+            "date_published": "2025-12-26T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【AWS re:Invent 2025】LAからラスベガスへ陸路で！カミナシエンジニア4人のデスバレー経由車旅",
+                "blogTitle": "カミナシ エンジニアブログ",
+                "blogLink": "https://kaminashi-developer.hatenablog.jp/",
+                "blogLinkMd5Hash": "457473508b3ba636eaffd50a3047adff",
+                "favicon": "https://kaminashi-developer.hatenablog.jp/icon/favicon"
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/2025/12/26/170000",
+            "content_html": "こんにちは。AI・機械学習チームの氏家（@mowmow1259）です。 この記事はエムスリーアドベントカレンダー2025を勝手に延長して26日目の記事として書いています。 みなさんは今年1年を振り返って、最も印象に残ったPull Requestはありますか？ 大きな機能追加、難しいバグ修正、芸術的なリファクタリング...きっとそれぞれに心に残るPRがあることでしょう。 そんなPRにスポットライトを当てるべく、エムスリーのAI・機械学習チームでは毎年年末にチーム全体で「今年のベストPR」を決める恒例イベントを開催しています。 単なる技術的な凄さだけでなく、チームや会社へのインパクトなども評価の対…",
+            "url": "https://www.m3tech.blog/entry/2025/12/26/170000",
+            "title": "AI・機械学習チーム Best Pull Request決定戦 2025 | エムスリーテックブログ",
+            "summary": "こんにちは。AI・機械学習チームの氏家（@mowmow1259）です。 この記事はエムスリーアドベントカレンダー2025を勝手に延長して26日目の記事として書いています。 みなさんは今年1年を振り返って、最も印象に残ったPull Requestはありますか？ 大きな機能追加、難しいバグ修正、芸術的なリファクタリング...きっとそれぞれに心に残るPRがあることでしょう。 そんなPRにスポットライトを",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/e96d25c2913b283d4e0292cb0bdb2d0a67d962b9/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20251226%2F20251226170007.png",
+                "alt": "AI・機械学習チーム Best Pull Request決定戦 2025 - エムスリーテックブログ",
+                "type": "png"
+            },
+            "date_modified": "2025-12-26T08:00:00.000Z",
+            "date_published": "2025-12-26T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AI・機械学習チーム Best Pull Request決定戦 2025",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon"
+            }
+        },
+        {
+            "id": "https://developers.prtimes.jp/?p=9389",
+            "content_html": "こんにちは、フロントエンドエンジニアの小張（@kobari41257）です。 今回、肥大化していたE2Eテストのシナリオを整理し、Playwrightを使った実行基盤に移行したことで、Flaky率や実行時間を改善した取り […]",
+            "url": "https://developers.prtimes.jp/2025/12/26/autify-to-playwright/",
+            "title": "Autify上のE2EテストをPlaywrightに移行しました | PR TIMES 開発者ブログ",
+            "summary": "こんにちは、フロントエンドエンジニアの小張（@kobari41257）です。 今回、肥大化していたE2Eテストのシナリオを整理し、Playwrightを使った実行基盤に移行したことで、Flaky率や実行時間を改善した取り […]",
+            "image": {
+                "height": "1260",
+                "url": "http://developers.prtimes.jp/wp-content/uploads/2025/12/autify-to-playwright.jpg",
+                "width": "2240",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-26T06:00:00.000Z",
+            "date_published": "2025-12-26T06:00:00.000Z",
+            "author": {
+                "name": "小張 泰志"
+            },
+            "tags": [
+                "開発",
+                "QA",
+                "Autify",
+                "Playwright"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Autify上のE2EテストをPlaywrightに移行しました",
+                "blogTitle": "PR TIMES 開発者ブログ",
+                "blogLink": "https://developers.prtimes.jp",
+                "blogLinkMd5Hash": "97cb6657665760e071286dc92ecea3a6",
+                "favicon": "http://developers.prtimes.jp/wp-content/uploads/2021/04/logo_square-150x150.png?crop=1"
+            }
+        },
+        {
+            "id": "https://developers.cyberagent.co.jp/blog/?p=60518",
+            "content_html": "AmebaLIFE事業本部でエンジニアをしている湯本航基（@yu_3in）です。 2025年もAme ...",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/60518/",
+            "title": "2025年、AmebaLIFEのアクセシビリティを振り返る | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "summary": "AmebaLIFE事業本部でエンジニアをしている湯本航基（@yu_3in）です。 2025年もAme ...",
+            "image": {
+                "height": "1260",
+                "url": "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2025/12/ogp.jpg",
+                "width": "2400",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-26T00:00:25.000Z",
+            "date_published": "2025-12-26T00:00:25.000Z",
+            "author": {
+                "name": "yuuumin"
+            },
+            "tags": [
+                "エンジニア",
+                "Ameba",
+                "Amebaブログ",
+                "アクセシビリティ",
+                "フロントエンド"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2025年、AmebaLIFEのアクセシビリティを振り返る",
+                "blogTitle": "CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+                "blogLink": "https://developers.cyberagent.co.jp/blog",
+                "blogLinkMd5Hash": "c89ab36e45ac3884d9fe45e5aae789fa",
+                "favicon": "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2016/09/cropped-ca-32x32.png"
+            }
+        },
+        {
+            "id": "https://blog.saeloun.com/2025/12/26/rails-5-to-6-upgrade-guide/",
+            "content_html": "Rails 6 is a major milestone that modernizes Rails for the 2020s.The biggest change?Zeitwerk autoloader replaces the classic autoloader, requiring careful attention to file naming conventions.Plus: Webpacker as default, multiple database support, parallel testing, Action Mailbox, and Action Text.Note: This is Part 3 of our Rails Upgrade Series. Read Part 1: Planning and Part 2: Rails 4.2 to 5 first.Before We StartExpected Timeline: 2-4 weeks for medium sized applicationsMedium-sized application:",
+            "url": "https://blog.saeloun.com/2025/12/26/rails-5-to-6-upgrade-guide/",
+            "title": "Upgrading from Rails 5.2 to Rails 6 - Modern Rails Features | Saeloun Blog",
+            "summary": "Rails 6 is a major milestone that modernizes Rails for the 2020s.The biggest change?Zeitwerk autoloader replaces the classic autoloader, requiring careful attention to file naming conventions.Plus: We",
+            "image": {
+                "url": "https://blog.saeloun.com/images/opengraph/28e6f7e01296e9c12276701b5c2d8e0fdb9b3e01.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-26T00:00:00.000Z",
+            "date_published": "2025-12-26T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Upgrading from Rails 5.2 to Rails 6 - Modern Rails Features",
+                "blogTitle": "Saeloun Blog",
+                "blogLink": "https://blog.saeloun.com/",
+                "blogLinkMd5Hash": "930400c729862b33b68f336e94bdebf6",
+                "favicon": "https://blog.saeloun.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://tkdodo.eu/blog/2025-in-review",
+            "content_html": "A retrospective on what has happened for me in 2025",
+            "url": "https://tkdodo.eu/blog/2025-in-review",
+            "title": "2025 in Review | TkDodo's blog",
+            "summary": "A retrospective on what has happened for me in 2025",
+            "image": {
+                "url": "https://tkdodo.eu/blog/og-images/2025-in-review.png",
+                "alt": "A retrospective on what has happened for me in 2025",
+                "type": "png"
+            },
+            "date_modified": "2025-12-26T00:00:00.000Z",
+            "date_published": "2025-12-26T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2025 in Review",
+                "blogTitle": "TkDodo's blog",
+                "blogLink": "https://tkdodo.eu/blog",
+                "blogLinkMd5Hash": "16796b445e8fb9894ea5b35fde1c4cf8",
+                "favicon": "https://tkdodo.eu/blog/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2025/Dec/25/claude-code-transcripts/#atom-everything",
+            "content_html": " &lt;p&gt;I've released &lt;a href=\"https://github.com/simonw/claude-code-transcripts\"&gt;claude-code-transcripts&lt;/a&gt;, a new Python CLI tool for converting &lt;a href=\"https://claude.ai/code\"&gt;Claude Code&lt;/a&gt; transcripts to detailed HTML pages that provide a better interface for understanding what Claude Code has done than even Claude Code itself. The resulting transcripts are also designed to be shared, using any static HTML hosting or even via GitHub Gists.&lt;/p&gt;&lt;p&gt;Here's the quick start, with no installation r",
+            "url": "https://simonwillison.net/2025/Dec/25/claude-code-transcripts/#atom-everything",
+            "title": "A new way to extract detailed transcripts from Claude Code | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;I've released &lt;a href=\"https://github.com/simonw/claude-code-transcripts\"&gt;claude-code-transcripts&lt;/a&gt;, a new Python CLI tool for converting &lt;a href=\"https://claude.ai/code\"&gt;Claude Code&lt;/a&gt; transcr",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2025/claude-code-transcript-card.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-25T23:52:17.000Z",
+            "date_published": "2025-12-25T23:52:17.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "A new way to extract detailed transcripts from Claude Code",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://developers.cyberagent.co.jp/blog/?p=60944",
+            "content_html": "Podcast こんにちは、Amebaのデザインシステム「Spindle」でテックリードをしている原 ...",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/60944/",
+            "title": "Spindle 2025: AI エージェント × デザインシステムで変わる Web 開発 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "summary": "Podcast こんにちは、Amebaのデザインシステム「Spindle」でテックリードをしている原 ...",
+            "image": {
+                "height": "1080",
+                "url": "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2025/12/spindle2025.jpg",
+                "width": "1920",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-25T23:40:19.000Z",
+            "date_published": "2025-12-25T23:40:19.000Z",
+            "author": {
+                "name": "herablog"
+            },
+            "tags": [
+                "エンジニア",
+                "Ameba",
+                "Spindle"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Spindle 2025: AI エージェント × デザインシステムで変わる Web 開発",
+                "blogTitle": "CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+                "blogLink": "https://developers.cyberagent.co.jp/blog",
+                "blogLinkMd5Hash": "c89ab36e45ac3884d9fe45e5aae789fa",
+                "favicon": "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2016/09/cropped-ca-32x32.png"
+            }
+        },
+        {
+            "id": "https://developers.cyberagent.co.jp/blog/?p=61206",
+            "content_html": "こんにちは。 サイバーエージェントで開発プロジェクトマネージャーをしている瀬野です！ 会社の枠を超え ...",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/61206/",
+            "title": "【イベントレポート】ビジョンを磨く ー 作る・使う・変える、3つのリアル【DMM/グッドパッチ/サイバーエージェント】 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "summary": "こんにちは。 サイバーエージェントで開発プロジェクトマネージャーをしている瀬野です！ 会社の枠を超え ...",
+            "image": {
+                "height": "350",
+                "url": "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2025/12/eventKV.png",
+                "width": "660",
+                "type": "png"
+            },
+            "date_modified": "2025-12-25T23:10:18.000Z",
+            "date_published": "2025-12-25T23:10:18.000Z",
+            "author": {
+                "name": "Ryo Seno"
+            },
+            "tags": [
+                "PM",
+                "イベント"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【イベントレポート】ビジョンを磨く ー 作る・使う・変える、3つのリアル【DMM/グッドパッチ/サイバーエージェント】",
+                "blogTitle": "CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+                "blogLink": "https://developers.cyberagent.co.jp/blog",
+                "blogLinkMd5Hash": "c89ab36e45ac3884d9fe45e5aae789fa",
+                "favicon": "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2016/09/cropped-ca-32x32.png"
+            }
+        },
+        {
+            "id": "https://developers.cyberagent.co.jp/blog/?p=61359",
+            "content_html": "目次 Flutter アプリにおける Datadog RUM を使った SLI 計測 目次 はじめに ...",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/61359/",
+            "title": "Flutter アプリにおける Datadog RUM を使った SLI 計測 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "summary": "目次 Flutter アプリにおける Datadog RUM を使った SLI 計測 目次 はじめに ...",
+            "image": {
+                "url": "https://developers.cyberagent.co.jp/blog/wp-content/themes/onepress-child/assets/images/og/og.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-25T23:05:33.000Z",
+            "date_published": "2025-12-25T23:05:33.000Z",
+            "author": {
+                "name": "tomo"
+            },
+            "tags": [
+                "エンジニア",
+                "Dart",
+                "Datadog",
+                "Flutter",
+                "Sentry",
+                "WINTICKET"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Flutter アプリにおける Datadog RUM を使った SLI 計測",
+                "blogTitle": "CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+                "blogLink": "https://developers.cyberagent.co.jp/blog",
+                "blogLinkMd5Hash": "c89ab36e45ac3884d9fe45e5aae789fa",
+                "favicon": "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2016/09/cropped-ca-32x32.png"
+            }
+        },
+        {
+            "id": "https://tech.legalforce.co.jp/entry/ai-engineering-summit-tokyo-2025-report",
+            "content_html": "はじめに こんにちは、CTOオフィスの時武（@tokichieto）です。 2025年12月16日、「AIが変えるプロダクトの未来」をテーマとしたカンファレンス「AI Engineering Summit Tokyo 2025」が開催されました。LegalOn Technologiesからは私とGenAIグループの藤田が登壇し、「全社で推進するAI活用 ― ダブルCoE体制と \"LegalRikai\" が支えるリーガルテックの進化」というタイトルで発表を行いました。 本記事では、当日お話しした内容のうち、特にセッション前半でお話した「組織内でどのようにAI活用推進を行ったか、それにより見えてき…",
+            "url": "https://tech.legalforce.co.jp/entry/ai-engineering-summit-tokyo-2025-report",
+            "title": "【登壇レポート】AI Engineering Summit Tokyo 2025：全社で推進するAI活用 | LegalOn Technologies Engineering Blog",
+            "summary": "はじめに こんにちは、CTOオフィスの時武（@tokichieto）です。 2025年12月16日、「AIが変えるプロダクトの未来」をテーマとしたカンファレンス「AI Engineering Summit Tokyo 2025」が開催されました。LegalOn Technologiesからは私とGenAIグループの藤田が登壇し、「全社で推進するAI活用 ― ダブルCoE体制と \"LegalRika",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/26006613532454869/17179246901336522087/1766720292",
+                "alt": "【登壇レポート】AI Engineering Summit Tokyo 2025：全社で推進するAI活用 - LegalOn Technologies Engineering Blog"
+            },
+            "date_modified": "2025-12-25T23:00:00.000Z",
+            "date_published": "2025-12-25T23:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【登壇レポート】AI Engineering Summit Tokyo 2025：全社で推進するAI活用",
+                "blogTitle": "LegalOn Technologies Engineering Blog",
+                "blogLink": "https://tech.legalforce.co.jp/",
+                "blogLinkMd5Hash": "b1ad6abe44c0505dfbebdf1986ffd3f8",
+                "favicon": "https://tech.legalforce.co.jp/icon/favicon"
+            }
+        },
+        {
+            "id": "https://calendar.perfplanet.com/?p=3157",
+            "content_html": "What is BFCache? The Back/Forward Cache, or BFCache, is a browser mechanism that allows a page to be restored instantly when a user uses the browser’s Back or Forward buttons. Unlike a simple HTTP cache, BFCache preserves the entire state of the page in memory: DOM, JavaScript, application state, scroll position… When everything works as […]",
+            "url": "https://calendar.perfplanet.com/2025/chasing-bfcache-navigations/",
+            "title": "Chasing BFCache navigations | Web Performance Calendar",
+            "summary": "What is BFCache? The Back/Forward Cache, or BFCache, is a browser mechanism that allows a page to be restored instantly when a user uses the browser’s Back or Forward buttons. Unlike a simple HTTP cac",
+            "image": {
+                "url": "https://calendar.perfplanet.com/images/2025/nicolas/1-bfcache-crux.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-25T15:38:09.000Z",
+            "date_published": "2025-12-25T15:38:09.000Z",
+            "author": {
+                "name": "Nicolas Hodin"
+            },
+            "tags": [
+                "performance"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Chasing BFCache navigations",
+                "blogTitle": "Web Performance Calendar",
+                "blogLink": "https://calendar.perfplanet.com",
+                "blogLinkMd5Hash": "33b0586740e05b8f28482a20ecf74fc8",
+                "favicon": "https://calendar.perfplanet.com/wp-content/themes/wpc2/wpclogo.png"
+            }
+        },
+        {
+            "id": "https://ics.media/entry/251226/",
+            "content_html": "記事は ics.media へアクセスしてご覧ください。",
+            "url": "https://ics.media/entry/251226/",
+            "title": "PlaywrightではじめるE2Eテスト入門（前編） | ICS MEDIA",
+            "summary": "記事は ics.media へアクセスしてご覧ください。",
+            "image": {
+                "url": "https://ics.media/entry/251226/images/eyecatch.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-25T15:00:00.000Z",
+            "date_published": "2025-12-25T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "PlaywrightではじめるE2Eテスト入門（前編）",
+                "blogTitle": "ICS MEDIA",
+                "blogLink": "https://ics.media/",
+                "blogLinkMd5Hash": "5613f1ce3f92c963b186e9de484adb40",
+                "favicon": "https://ics.media/_assets/icons/favicon.png"
+            }
+        },
+        {
+            "id": "https://product.st.inc/entry/2025/12/25/184258",
+            "content_html": "はじめに こんにちは。STORES でエンジニアをしているmochizukiです。 Webアプリケーションの開発では、外部システムと連携した機能を実装することがあると思います。 例えばAPIで外部システムのリソースを取得したり、Webhookで通知を受け取ったりして、業務ロジックに組み込むようなケースです。 このような開発を行う上で、「取得した情報をどう扱うか」は重要な論点の一つです。 少し分解すると、「取得した情報をこちらのシステムでも保持するのか」「保持するならどのような形で持つのか」といったことを考える必要があります。 私は今回、外部リソースの\"状態\"を「上書きして持つ」のではなく、受け…",
+            "url": "https://product.st.inc/entry/2025/12/25/184258",
+            "title": "外部連携をイミュータブルに設計する：状態を持たず、事実を残す | STORES Product Blog",
+            "summary": "はじめに こんにちは。STORES でエンジニアをしているmochizukiです。 Webアプリケーションの開発では、外部システムと連携した機能を実装することがあると思います。 例えばAPIで外部システムのリソースを取得したり、Webhookで通知を受け取ったりして、業務ロジックに組み込むようなケースです。 このような開発を行う上で、「取得した情報をどう扱うか」は重要な論点の一つです。 少し分解す",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/26006613559034397/17179246901336513714/1766735375",
+                "alt": "外部連携をイミュータブルに設計する：状態を持たず、事実を残す - STORES Product Blog"
+            },
+            "date_modified": "2025-12-25T09:42:58.000Z",
+            "date_published": "2025-12-25T09:42:58.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "外部連携をイミュータブルに設計する：状態を持たず、事実を残す",
+                "blogTitle": "STORES Product Blog",
+                "blogLink": "https://product.st.inc/",
+                "blogLinkMd5Hash": "5786f655e03b3ed3b1370d11dfd550d8",
+                "favicon": "https://product.st.inc/icon/favicon"
+            }
+        },
+        {
+            "id": "https://developers.prtimes.jp/?p=9371",
+            "content_html": "こんにちは、バックエンドエンジニアの中山です。 PR TIMESは今年、企業向け管理画面のUIリニューアルを行いました。リニューアルと並行して他の開発も進める中で、立ち上がりのつまずきや、レビュー・AI活用の変化、直近の […]",
+            "url": "https://developers.prtimes.jp/2025/12/25/grad_24_25_dev_reflection/",
+            "title": "データで見る、24卒×25卒のUIリニューアルふりかえり対談 | PR TIMES 開発者ブログ",
+            "summary": "こんにちは、バックエンドエンジニアの中山です。 PR TIMESは今年、企業向け管理画面のUIリニューアルを行いました。リニューアルと並行して他の開発も進める中で、立ち上がりのつまずきや、レビュー・AI活用の変化、直近の […]",
+            "image": {
+                "height": "1260",
+                "url": "http://developers.prtimes.jp/wp-content/uploads/2025/12/Tech系テンプレ01-1-1.jpg",
+                "width": "2240",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-25T08:30:00.000Z",
+            "date_published": "2025-12-25T08:30:00.000Z",
+            "author": {
+                "name": "shunpei"
+            },
+            "tags": [
+                "データ分析",
+                "開発",
+                "未分類",
+                "PHP",
+                "React"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "データで見る、24卒×25卒のUIリニューアルふりかえり対談",
+                "blogTitle": "PR TIMES 開発者ブログ",
+                "blogLink": "https://developers.prtimes.jp",
+                "blogLinkMd5Hash": "97cb6657665760e071286dc92ecea3a6",
+                "favicon": "http://developers.prtimes.jp/wp-content/uploads/2021/04/logo_square-150x150.png?crop=1"
+            }
+        },
+        {
+            "id": "a6709cfd-e6af-4950-af1a-7ed659e7b6a3",
+            "content_html": "",
+            "url": "https://digital-agency-news.digital.go.jp/articles/2025-12-25",
+            "title": "【高校生が奮闘】デジタル推進委員の取組に密着 | デジタル庁ニュース一覧",
+            "image": {
+                "url": "https://digital-agency-news.digital.go.jp/assets/contents/node/information/field_thumbnail_image/a6709cfd-e6af-4950-af1a-7ed659e7b6a3/5c994c7c/1224_%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E6%8E%A8%E9%80%B2%E5%A7%94%E5%93%A1%E3%83%BB%E9%AB%98%E6%A0%A1%E7%94%9F%E3%81%AE%E5%8F%96%E7%B5%84%E3%81%AB%E5%AF%86%E7%9D%80_thumbnail.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-25T06:00:00.000Z",
+            "date_published": "2025-12-25T06:00:00.000Z",
+            "author": {
+                "name": "デジタル庁"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【高校生が奮闘】デジタル推進委員の取組に密着",
+                "blogTitle": "デジタル庁ニュース一覧",
+                "blogLink": "https://digital-agency-news.digital.go.jp/",
+                "blogLinkMd5Hash": "cd1176c3197911f124f7b786c142a619",
+                "favicon": "https://digital-agency-news.digital.go.jp/themes/custom/gov_theme_da_news/favicon.ico"
+            }
+        },
+        {
+            "id": "https://product.st.inc/entry/2025/12/25/134932",
+            "content_html": "プロと読み解くRuby 4.0 NEWS テクノロジー部門技術推進グループの笹田（ko1）と遠藤（mame）です。Ruby (MRI: Matz Ruby Implementation、いわゆる ruby コマンド) の開発をしています。お金をもらって Ruby を開発しているのでプロの Ruby コミッタです。 本日 12/25 に、恒例のクリスマスリリースとして、Ruby 4.0.0 がリリースされました（Ruby 4.0.0 リリース | Ruby）。今年も STORES Product Blog にて Ruby 4.0 の NEWS.md ファイルの解説をします（ちなみに、STORES…",
+            "url": "https://product.st.inc/entry/2025/12/25/134932",
+            "title": "プロと読み解くRuby 4.0 NEWS | STORES Product Blog",
+            "summary": "プロと読み解くRuby 4.0 NEWS テクノロジー部門技術推進グループの笹田（ko1）と遠藤（mame）です。Ruby (MRI: Matz Ruby Implementation、いわゆる ruby コマンド) の開発をしています。お金をもらって Ruby を開発しているのでプロの Ruby コミッタです。 本日 12/25 に、恒例のクリスマスリリースとして、Ruby 4.0.0 がリリー",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/771eab67c9223e643d6b39071e47eb1ad50bb273/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstores-tech%2F20251225%2F20251225134936.png",
+                "alt": "プロと読み解くRuby 4.0 NEWS - STORES Product Blog",
+                "type": "png"
+            },
+            "date_modified": "2025-12-25T04:49:32.000Z",
+            "date_published": "2025-12-25T04:49:32.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "プロと読み解くRuby 4.0 NEWS",
+                "blogTitle": "STORES Product Blog",
+                "blogLink": "https://product.st.inc/",
+                "blogLinkMd5Hash": "5786f655e03b3ed3b1370d11dfd550d8",
+                "favicon": "https://product.st.inc/icon/favicon"
+            }
+        },
+        {
+            "id": "https://product.st.inc/entry/2025/12/25/134453",
+            "content_html": "こんにちは、遠藤（@mametter）です。 Ruby 4.0.0 では Ruby::Box が導入されました（[Feature #21311]）。 Ruby::Box は導入提案時には Namespace と呼ばれていたもので、Matz が「Namespace か ZJIT が入れば次のリリースを Ruby 4.0.0 とする」と RubyKaigi などで宣言していたくらい、肝いりの機能です。 ということで「なにやらすごい機能」という雰囲気だけは知っている人もいるかもしれませんが、実際のところ何ができるか、現状はどうか、は知らない人がほとんどだと思います。 そこで、遠藤が Ruby::Bo…",
+            "url": "https://product.st.inc/entry/2025/12/25/134453",
+            "title": "Ruby::Box ダイジェスト紹介（Ruby 4.0.0 新機能） | STORES Product Blog",
+            "summary": "こんにちは、遠藤（@mametter）です。 Ruby 4.0.0 では Ruby::Box が導入されました（[Feature #21311]）。 Ruby::Box は導入提案時には Namespace と呼ばれていたもので、Matz が「Namespace か ZJIT が入れば次のリリースを Ruby 4.0.0 とする」と RubyKaigi などで宣言していたくらい、肝いりの機能です。",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/26006613559034397/17179246901335777310/1766668393",
+                "alt": "Ruby::Box ダイジェスト紹介（Ruby 4.0.0 新機能） - STORES Product Blog"
+            },
+            "date_modified": "2025-12-25T04:44:53.000Z",
+            "date_published": "2025-12-25T04:44:53.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Ruby::Box ダイジェスト紹介（Ruby 4.0.0 新機能）",
+                "blogTitle": "STORES Product Blog",
+                "blogLink": "https://product.st.inc/",
+                "blogLinkMd5Hash": "5786f655e03b3ed3b1370d11dfd550d8",
+                "favicon": "https://product.st.inc/icon/favicon"
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/crazy-programming",
+            "content_html": "今期は『SANDA』を推して観ていました、エムスリー株式会社 VPoEの河合(@vaaaaanquish)です。 サンタクロースをテーマにしているだけに「信じる」について改めて考えさせられる良いストーリーでした。最終回グッと来ましたね。 年末年始は、アニメも多くがお休み期間。皆さんはどう過ごす予定でしょうか？ 「今年は年末年始何しようかな…」という皆さんのために、エムスリーのギークなエンジニア達が作成したプログラミングクイズをまとめましたので、本記事ではそちらを紹介しようかなと思います。 娘と一緒に部屋の壁に絵を描いた時の写真、crazyですが本文には関係ありません Crazy Program…",
+            "url": "https://www.m3tech.blog/entry/crazy-programming",
+            "title": " 紅白vsプログラミング！？年末年始はプログラミングクイズで過ごしませんか | エムスリーテックブログ",
+            "summary": "今期は『SANDA』を推して観ていました、エムスリー株式会社 VPoEの河合(@vaaaaanquish)です。 サンタクロースをテーマにしているだけに「信じる」について改めて考えさせられる良いストーリーでした。最終回グッと来ましたね。 年末年始は、アニメも多くがお休み期間。皆さんはどう過ごす予定でしょうか？ 「今年は年末年始何しようかな…」という皆さんのために、エムスリーのギークなエンジニア達が",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/615110fad23cb46159a57a7226070cdf0abc78d7/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20251225%2F20251225123003.jpg",
+                "alt": " 紅白vsプログラミング！？年末年始はプログラミングクイズで過ごしませんか - エムスリーテックブログ",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-25T03:30:00.000Z",
+            "date_published": "2025-12-25T03:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": " 紅白vsプログラミング！？年末年始はプログラミングクイズで過ごしませんか",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon"
+            }
+        },
+        {
+            "id": "https://developers.prtimes.jp/?p=9333",
+            "content_html": "はじめに こんにちは、バックエンドエンジニアの田中 湧大 (@Romira915)です。 近頃、PR TIMESのバックエンド基盤においてAmazon RDS for PostgreSQLのCPU使用率が継続的に上昇して […]",
+            "url": "https://developers.prtimes.jp/2025/12/25/rds-cpu-usage-investigation-and-optimization/",
+            "title": "RDS の CPU 使用率上昇に対する原因調査と改善対応 | PR TIMES 開発者ブログ",
+            "summary": "はじめに こんにちは、バックエンドエンジニアの田中 湧大 (@Romira915)です。 近頃、PR TIMESのバックエンド基盤においてAmazon RDS for PostgreSQLのCPU使用率が継続的に上昇して […]",
+            "image": {
+                "height": "944",
+                "url": "http://developers.prtimes.jp/wp-content/uploads/2025/12/rds-cpu-ogp.jpg",
+                "width": "1678",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-25T02:30:00.000Z",
+            "date_published": "2025-12-25T02:30:00.000Z",
+            "author": {
+                "name": "田中 湧大"
+            },
+            "tags": [
+                "インフラ",
+                "開発",
+                "AWS",
+                "RDS",
+                "SQL"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "RDS の CPU 使用率上昇に対する原因調査と改善対応",
+                "blogTitle": "PR TIMES 開発者ブログ",
+                "blogLink": "https://developers.prtimes.jp",
+                "blogLinkMd5Hash": "97cb6657665760e071286dc92ecea3a6",
+                "favicon": "http://developers.prtimes.jp/wp-content/uploads/2021/04/logo_square-150x150.png?crop=1"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2025/Dec/24/uv-init-demos/#atom-everything",
+            "content_html": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://github.com/simonw/uv-init-demos\"&gt;uv-init-demos&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;code&gt;uv&lt;/code&gt; has a useful &lt;code&gt;uv init&lt;/code&gt; command for setting up new Python projects, but it comes with a bunch of different options like &lt;code&gt;--app&lt;/code&gt; and &lt;code&gt;--package&lt;/code&gt; and &lt;code&gt;--lib&lt;/code&gt; and I wasn't sure how they differed.&lt;/p&gt;&lt;p&gt;So I created this GitHub repository which demonstrates all of those options, generated using this &lt;a href=\"https://github.com/simonw/uv-init-demos/blo",
+            "url": "https://simonwillison.net/2025/Dec/24/uv-init-demos/#atom-everything",
+            "title": "uv-init-demos | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://github.com/simonw/uv-init-demos\"&gt;uv-init-demos&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;code&gt;uv&lt;/code&gt; has a useful &lt;code&gt;uv init&lt;/code&gt; command for setting up new Python projects, but it comes w",
+            "date_modified": "2025-12-24T22:05:23.000Z",
+            "date_published": "2025-12-24T22:05:23.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "uv-init-demos",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://frontendmasters.com/blog/?p=8090",
+            "content_html": "Fixed and sticky positioning behave very differently, but we can switch between the two at exact points for some unusual looking effects.",
+            "url": "https://frontendmasters.com/blog/toggle-position-sticky-to-position-fixed-on-scroll/",
+            "title": "Toggle `position: sticky` to `position: fixed` on Scroll | Frontend Masters Boost RSS Feed",
+            "summary": "Fixed and sticky positioning behave very differently, but we can switch between the two at exact points for some unusual looking effects.",
+            "image": {
+                "height": "630",
+                "url": "https://frontendmasters.com/blog/wp-json/social-image-generator/v1/image/8090",
+                "width": "1200"
+            },
+            "date_modified": "2025-12-24T14:41:32.000Z",
+            "date_published": "2025-12-24T14:41:32.000Z",
+            "author": {
+                "name": "Preethi Sam"
+            },
+            "tags": [
+                "Blog Post",
+                "CSS",
+                "Sticky"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Toggle `position: sticky` to `position: fixed` on Scroll",
+                "blogTitle": "Frontend Masters Boost RSS Feed",
+                "blogLink": "https://frontendmasters.com/blog",
+                "blogLinkMd5Hash": "5a9dbc640a8811185502a30c4fcde564",
+                "favicon": "https://frontendmasters.com/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://calendar.perfplanet.com/?p=3080",
+            "content_html": "Time-To-First-Byte (TTFB) is a popular performance metric, yet there are many problems and nuances with it. Not only does it have several different definitions, it is usually also a “compound” metric, comprised of many subparts. To make matters worse, several of those subparts are frequently zero or non-existent, often making it difficult to (meaningfully) compare […]",
+            "url": "https://calendar.perfplanet.com/2025/ttfb-doesnt-mean-what-you-think-it-means/",
+            "title": "TTFB doesn’t mean what you think it means | Web Performance Calendar",
+            "summary": "Time-To-First-Byte (TTFB) is a popular performance metric, yet there are many problems and nuances with it. Not only does it have several different definitions, it is usually also a “compound” metric,",
+            "image": {
+                "url": "https://calendar.perfplanet.com/wp-content/uploads/2025/12/navtiming-1.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-24T12:55:14.000Z",
+            "date_published": "2025-12-24T12:55:14.000Z",
+            "author": {
+                "name": "Robin Marx"
+            },
+            "tags": [
+                "performance"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "TTFB doesn’t mean what you think it means",
+                "blogTitle": "Web Performance Calendar",
+                "blogLink": "https://calendar.perfplanet.com",
+                "blogLinkMd5Hash": "33b0586740e05b8f28482a20ecf74fc8",
+                "favicon": "https://calendar.perfplanet.com/wp-content/themes/wpc2/wpclogo.png"
+            }
+        },
+        {
+            "id": "https://tech.newmo.me/entry/text-editor-daisuki",
+            "content_html": "こんにちは、newmo の 伊藤 です。 この記事では、筆者が特に工夫して設定しているテキストエディタのカスタムショートカットについて、周辺ツールの利用例を交えて紹介します。 記事で紹介する内容は、特定のテキストエディタには依存しないものとなっているので、アイディアや考え方はどのテキストエディタを使っている方にも参考にしていただけると思います。 目次 目次 はじめに ファイルの列挙 → 絞り込み → 開く ファイルの全文検索 → 絞り込み → 開く Language Server Protocol（LSP）関連 編集中のファイルが属しているディレクトリ内のシンボルの列挙 → 絞り込み → 開く…",
+            "url": "https://tech.newmo.me/entry/text-editor-daisuki",
+            "title": "テキストエディタで愛用しているカスタムショートカットたち | newmo 技術ブログ",
+            "summary": "こんにちは、newmo の 伊藤 です。 この記事では、筆者が特に工夫して設定しているテキストエディタのカスタムショートカットについて、周辺ツールの利用例を交えて紹介します。 記事で紹介する内容は、特定のテキストエディタには依存しないものとなっているので、アイディアや考え方はどのテキストエディタを使っている方にも参考にしていただけると思います。 目次 目次 はじめに ファイルの列挙 → 絞り込み ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/6c1a59ca75dabc2d30b18894f4a48aae20d7fade/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnewmo%2F20251223%2F20251223200802.png",
+                "alt": "テキストエディタで愛用しているカスタムショートカットたち - newmo 技術ブログ",
+                "type": "png"
+            },
+            "date_modified": "2025-12-24T10:00:00.000Z",
+            "date_published": "2025-12-24T10:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "テキストエディタで愛用しているカスタムショートカットたち",
+                "blogTitle": "newmo 技術ブログ",
+                "blogLink": "https://tech.newmo.me/",
+                "blogLinkMd5Hash": "c1b786c996167ccc7c37f70193a5d951",
+                "favicon": "https://tech.newmo.me/icon/favicon"
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/pmconf2025-osaka-retrospective",
+            "content_html": "皆さんこんにちは、こんばんは。今週月曜日に、3年ちょい使った会社のM1 MacBook Proの日本語キーボードからM4 MacBook Proのいまさら英語キーボードに乗り換えたら、指がつりそうなエムスリー取締役CPO/CAIOの山崎です。でも39年使い続けたJIS配列からANSI配列に2日で完全に慣れた人間の脳の学習能力にびっくりしています*1。たまに「a」打とうとしてCapslock打ってしまったり、「1」を打とうとして「`」打ったり、エンター打とうとして「\\」打ったりしていますが、すぐにこれも慣れるでしょう。あと、「@」と「:」の入力にシフトが必要なのも不便ですが、英語キーボードのカッ…",
+            "url": "https://www.m3tech.blog/entry/pmconf2025-osaka-retrospective",
+            "title": "pmconf 2025 大阪登壇、東京参加と参考になったセッションを振り返るなど。 | エムスリーテックブログ",
+            "summary": "皆さんこんにちは、こんばんは。今週月曜日に、3年ちょい使った会社のM1 MacBook Proの日本語キーボードからM4 MacBook Proのいまさら英語キーボードに乗り換えたら、指がつりそうなエムスリー取締役CPO/CAIOの山崎です。でも39年使い続けたJIS配列からANSI配列に2日で完全に慣れた人間の脳の学習能力にびっくりしています*1。たまに「a」打とうとしてCapslock打ってし",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/c876e8b4d372181f2539b85d4f0c0d6d71eaef99/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20251224%2F20251224185329.png",
+                "alt": "pmconf 2025 大阪登壇、東京参加と参考になったセッションを振り返るなど。 - エムスリーテックブログ",
+                "type": "png"
+            },
+            "date_modified": "2025-12-24T09:53:25.000Z",
+            "date_published": "2025-12-24T09:53:25.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "pmconf 2025 大阪登壇、東京参加と参考になったセッションを振り返るなど。",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon"
+            }
+        },
+        {
+            "id": "https://design.digital.go.jp/dads/components/file-upload/rev1",
+            "content_html": "初版公開",
+            "url": "https://design.digital.go.jp/dads/components/file-upload/",
+            "title": "2025年12月24日 コンポーネント/ファイルアップロード／ドロップエリアページ更新情報 | デジタル庁デザインシステムβ版",
+            "summary": "初版公開",
+            "image": {
+                "url": "https://design.digital.go.jp/dads/images/components/file-upload/ogp_file_upload.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-24T08:00:00.000Z",
+            "date_published": "2025-12-24T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2025年12月24日 コンポーネント/ファイルアップロード／ドロップエリアページ更新情報",
+                "blogTitle": "デジタル庁デザインシステムβ版",
+                "blogLink": "https://design.digital.go.jp/dads/",
+                "blogLinkMd5Hash": "61dae439d03a65d39898434ee94ddb52",
+                "favicon": "https://design.digital.go.jp/dads/favicon.ico?favicon.72e33495.ico"
+            }
+        },
+        {
+            "id": "https://design.digital.go.jp/dads/components/carousel/rev1",
+            "content_html": "初版公開",
+            "url": "https://design.digital.go.jp/dads/components/carousel/",
+            "title": "2025年12月24日 コンポーネント/カルーセルページ更新情報 | デジタル庁デザインシステムβ版",
+            "summary": "初版公開",
+            "image": {
+                "url": "https://design.digital.go.jp/dads/images/components/carousel/ogp_carousel.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-24T08:00:00.000Z",
+            "date_published": "2025-12-24T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2025年12月24日 コンポーネント/カルーセルページ更新情報",
+                "blogTitle": "デジタル庁デザインシステムβ版",
+                "blogLink": "https://design.digital.go.jp/dads/",
+                "blogLinkMd5Hash": "61dae439d03a65d39898434ee94ddb52",
+                "favicon": "https://design.digital.go.jp/dads/favicon.ico?favicon.72e33495.ico"
+            }
+        },
+        {
+            "id": "https://design.digital.go.jp/dads/2025122401",
+            "content_html": "詳細はウェブサイトにアクセスしてご確認ください。",
+            "url": "https://design.digital.go.jp/dads/",
+            "title": "2025年12月24日 デザインデータ（Figma）v2.10.0を公開しました。 | デジタル庁デザインシステムβ版",
+            "summary": "詳細はウェブサイトにアクセスしてご確認ください。",
+            "image": {
+                "url": "https://design.digital.go.jp/dads/images/ogp_default.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-24T08:00:00.000Z",
+            "date_published": "2025-12-24T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2025年12月24日 デザインデータ（Figma）v2.10.0を公開しました。",
+                "blogTitle": "デジタル庁デザインシステムβ版",
+                "blogLink": "https://design.digital.go.jp/dads/",
+                "blogLinkMd5Hash": "61dae439d03a65d39898434ee94ddb52",
+                "favicon": "https://design.digital.go.jp/dads/favicon.ico?favicon.72e33495.ico"
+            }
+        },
+        {
+            "id": "https://product.st.inc/entry/2025/12/24/165137",
+            "content_html": "Ruby on Rails と Spring に実務で携わっての開発体験の比較 RailsエンジニアとしてWebアプリケーション開発を続けてきた自分が、 はじめて本格的に Springのプロダクトに参加しました。 この記事では Rails, Spring のフレームワークの解説はせず、 Rails と Springをどちらも実務で使ったうえで、「結果的にコードを書くうえでどんな快適さを感じたか？」を比較します。 言語やフレームワークの思想批評ではなく、開発体験の個人的な実感として読んで頂けますとありがたいです。 Rails の開発体験 1. rails console による動かしながら理解で…",
+            "url": "https://product.st.inc/entry/2025/12/24/165137",
+            "title": "Ruby on Rails と Spring に実務で携わっての開発体験の比較 | STORES Product Blog",
+            "summary": "Ruby on Rails と Spring に実務で携わっての開発体験の比較 RailsエンジニアとしてWebアプリケーション開発を続けてきた自分が、 はじめて本格的に Springのプロダクトに参加しました。 この記事では Rails, Spring のフレームワークの解説はせず、 Rails と Springをどちらも実務で使ったうえで、「結果的にコードを書くうえでどんな快適さを感じたか？」",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/b9a917139093c6edbf7e9ed1ef6c1b376f6d881e/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstores-tech%2F20251224%2F20251224165141.jpg",
+                "alt": "Ruby on Rails と Spring に実務で携わっての開発体験の比較 - STORES Product Blog",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-24T07:51:37.000Z",
+            "date_published": "2025-12-24T07:51:37.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Ruby on Rails と Spring に実務で携わっての開発体験の比較",
+                "blogTitle": "STORES Product Blog",
+                "blogLink": "https://product.st.inc/",
+                "blogLinkMd5Hash": "5786f655e03b3ed3b1370d11dfd550d8",
+                "favicon": "https://product.st.inc/icon/favicon"
+            }
+        },
+        {
+            "id": "https://socket.dev/blog/2025-report-destructive-malware-in-open-source-packages",
+            "content_html": "Destructive malware is rising across open source registries, using delays and kill switches to wipe code, break builds, and disrupt CI/CD.",
+            "url": "https://socket.dev/blog/2025-report-destructive-malware-in-open-source-packages",
+            "title": "2025 Report: Destructive Malware in Open Source Packages | Socket",
+            "summary": "Destructive malware is rising across open source registries, using delays and kill switches to wipe code, break builds, and disrupt CI/CD.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/cgdhsj6q/production/b2c95c0a24e4bb83c31fb7a020291612ca4f6b93-1024x1024.png?w=1000&q=95&fit=max&auto=format",
+                "type": "png"
+            },
+            "date_modified": "2025-12-24T06:24:14.768Z",
+            "date_published": "2025-12-24T06:24:14.768Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2025 Report: Destructive Malware in Open Source Packages",
+                "blogTitle": "Socket",
+                "blogLink": "https://socket.dev/api/blog/feed.json",
+                "blogLinkMd5Hash": "1ad7c1f71e0aa48ea310910290f40d4a",
+                "favicon": "https://socket.dev/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://product.st.inc/entry/2025/12/24/140618",
+            "content_html": "こんにちは、STORES 決済のAndroidアプリを開発しているchukaです。 12月ももう残りわずかですね…！ 今回は、今年あった個人的最大の出来事、DroidKaigi 2025登壇について振り返っていきたいと思います！ はじめに 私はDroidKaigi 2025で「はじめてのMaterial3 Expressive」というセッションで登壇させていただきました。 本記事では、CfSを考える上で大変だったこと、資料を作る上で大変だったことについて述べます。 DroidKaigi 2025までのタイムライン CfS募集〜DroidKaigi 2025当日までのタイムラインは以下のようにな…",
+            "url": "https://product.st.inc/entry/2025/12/24/140618",
+            "title": "DroidKaigi 2025に登壇しました！振り返り！！ | STORES Product Blog",
+            "summary": "こんにちは、STORES 決済のAndroidアプリを開発しているchukaです。 12月ももう残りわずかですね…！ 今回は、今年あった個人的最大の出来事、DroidKaigi 2025登壇について振り返っていきたいと思います！ はじめに 私はDroidKaigi 2025で「はじめてのMaterial3 Expressive」というセッションで登壇させていただきました。 本記事では、CfSを考え",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/3406a058681a213e454d88c60591a40c8651f9c1/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstores-tech%2F20251224%2F20251224140629.png",
+                "alt": "DroidKaigi 2025に登壇しました！振り返り！！ - STORES Product Blog",
+                "type": "png"
+            },
+            "date_modified": "2025-12-24T05:06:18.000Z",
+            "date_published": "2025-12-24T05:06:18.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "DroidKaigi 2025に登壇しました！振り返り！！",
+                "blogTitle": "STORES Product Blog",
+                "blogLink": "https://product.st.inc/",
+                "blogLinkMd5Hash": "5786f655e03b3ed3b1370d11dfd550d8",
+                "favicon": "https://product.st.inc/icon/favicon"
+            }
+        },
+        {
+            "id": "https://product.st.inc/entry/2025/12/24/140000",
+            "content_html": "メリークリスマス！Android エンジニアの naberyo（@error96num）です。 この記事は STORES Advent Calendar 2025 の 24 日目の記事です。 私が現在開発に携わっている STORES モバイルオーダー では、この1年間で多くの機能をリリースしてきました。イートイン対応をはじめとした大規模な機能拡張により、さまざまな飲食店でご利用いただけるサービスになっています。 このアップデートについては次の記事で触れられています。 product.st.inc 機能アップデートの過程で、私たちは技術的課題を一つ一つ解決してきました。今回の記事では、その中の一…",
+            "url": "https://product.st.inc/entry/2025/12/24/140000",
+            "title": "複数端末間でのリアルタイム・ステータス同期の機能開発 | STORES Product Blog",
+            "summary": "メリークリスマス！Android エンジニアの naberyo（@error96num）です。 この記事は STORES Advent Calendar 2025 の 24 日目の記事です。 私が現在開発に携わっている STORES モバイルオーダー では、この1年間で多くの機能をリリースしてきました。イートイン対応をはじめとした大規模な機能拡張により、さまざまな飲食店でご利用いただけるサービスに",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/5330a5ef2961c7a82ae010e9dfb07cd5b8463fb6/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstores-tech%2F20251224%2F20251224140024.jpg",
+                "alt": "複数端末間でのリアルタイム・ステータス同期の機能開発 - STORES Product Blog",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-24T05:00:00.000Z",
+            "date_published": "2025-12-24T05:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "複数端末間でのリアルタイム・ステータス同期の機能開発",
+                "blogTitle": "STORES Product Blog",
+                "blogLink": "https://product.st.inc/",
+                "blogLinkMd5Hash": "5786f655e03b3ed3b1370d11dfd550d8",
+                "favicon": "https://product.st.inc/icon/favicon"
+            }
+        },
+        {
+            "id": "https://socket.dev/blog/engineering-with-ai-podcast-the-promise-of-ai-first-development",
+            "content_html": "Socket CTO Ahmad Nassri shares practical AI coding techniques, tools, and team workflows, plus what still feels noisy and why shipping remains human-led.",
+            "url": "https://socket.dev/blog/engineering-with-ai-podcast-the-promise-of-ai-first-development",
+            "title": "Engineering with AI Podcast: The Promise of AI-First Development | Socket",
+            "summary": "Socket CTO Ahmad Nassri shares practical AI coding techniques, tools, and team workflows, plus what still feels noisy and why shipping remains human-led.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/cgdhsj6q/production/6b7af1c49f1dd237e0246fd28876146ad9352103-1024x1024.png?w=1000&q=95&fit=max&auto=format",
+                "type": "png"
+            },
+            "date_modified": "2025-12-24T04:52:38.057Z",
+            "date_published": "2025-12-24T04:52:38.057Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Engineering with AI Podcast: The Promise of AI-First Development",
+                "blogTitle": "Socket",
+                "blogLink": "https://socket.dev/api/blog/feed.json",
+                "blogLinkMd5Hash": "1ad7c1f71e0aa48ea310910290f40d4a",
+                "favicon": "https://socket.dev/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://product.st.inc/entry/2025/12/24/125917",
+            "content_html": "はじめに こんにちは。STORES でBPRアーキテクチャグループでエンジニアをしているみなみ(nannany)です。 2025年4月に第一子が産まれました。そのため、今年4月から育児休暇を取得し、2025年10月に復帰しました。つまり、育休を6ヶ月いただきました。 育休、育休後の働き方について、エンジニア職をしている方にとって気になることはなんでしょうか？ 育休中に技術をキャッチアップする時間は取れるのか？ 復帰後の働き方はどうなるのか？ などがあると思います。その心配に対して、答えを出すことはできませんが、N=1の体験談を記せたらと思い記事を執筆しています。 エクスキューズとして、私自身ま…",
+            "url": "https://product.st.inc/entry/2025/12/24/125917",
+            "title": "育休中の過ごし方と、育休前後の働き方の変化について | STORES Product Blog",
+            "summary": "はじめに こんにちは。STORES でBPRアーキテクチャグループでエンジニアをしているみなみ(nannany)です。 2025年4月に第一子が産まれました。そのため、今年4月から育児休暇を取得し、2025年10月に復帰しました。つまり、育休を6ヶ月いただきました。 育休、育休後の働き方について、エンジニア職をしている方にとって気になることはなんでしょうか？ 育休中に技術をキャッチアップする時間は",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/2ea3741055f4c5ed5ec65bf1bf731715de6d1053/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstores-tech%2F20251224%2F20251224125917.jpg",
+                "alt": "育休中の過ごし方と、育休前後の働き方の変化について - STORES Product Blog",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-24T03:59:17.000Z",
+            "date_published": "2025-12-24T03:59:17.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "育休中の過ごし方と、育休前後の働き方の変化について",
+                "blogTitle": "STORES Product Blog",
+                "blogLink": "https://product.st.inc/",
+                "blogLinkMd5Hash": "5786f655e03b3ed3b1370d11dfd550d8",
+                "favicon": "https://product.st.inc/icon/favicon"
+            }
+        },
+        {
+            "id": "https://product.st.inc/entry/2025/12/24/123547",
+            "content_html": "こんにちは、技術広報のえんじぇるです。 2025年11月26日にSTORES Tech Conf 2025 “What Would You Do?” を開催しました！ STORES Tech Conf 2025 “What Would You Do?” 開催レポート - STORES Product Blog 今回のSTORES Tech Confでは、学生のみなさんが参加しやすいように学生向け参加支援を実施しました。 STORES Tech Conf 2025 “What Would You Do?” を2025年11月26日（水）に開催＆学生向け参加支援をします - STORES Prod…",
+            "url": "https://product.st.inc/entry/2025/12/24/123547",
+            "title": "STORES Tech Conf 2025 参加レポートまとめ | STORES Product Blog",
+            "summary": "こんにちは、技術広報のえんじぇるです。 2025年11月26日にSTORES Tech Conf 2025 “What Would You Do?” を開催しました！ STORES Tech Conf 2025 “What Would You Do?” 開催レポート - STORES Product Blog 今回のSTORES Tech Confでは、学生のみなさんが参加しやすいように学生向け参",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/cecacbc9832e3c82e86e715a2e58aa0834ef49eb/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstores-tech%2F20251224%2F20251224123548.jpg",
+                "alt": "STORES Tech Conf 2025 参加レポートまとめ - STORES Product Blog",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-24T03:35:47.000Z",
+            "date_published": "2025-12-24T03:35:47.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "STORES Tech Conf 2025 参加レポートまとめ",
+                "blogTitle": "STORES Product Blog",
+                "blogLink": "https://product.st.inc/",
+                "blogLinkMd5Hash": "5786f655e03b3ed3b1370d11dfd550d8",
+                "favicon": "https://product.st.inc/icon/favicon"
+            }
+        },
+        {
+            "id": "https://product.st.inc/entry/2025/12/24/110535",
+            "content_html": "はじめに こんにちは、データ本部でデータエンジニアをやっている@takaHALです。 STORES では2025年8月、これまで2つ存在していたSalesforce組織と7個のkintoneアプリを、1つのSalesforce組織に統合しました。 今回は、この組織統合プロジェクトにおいて発生した データ移行 に関する技術的な考慮事項やハマりポイントを紹介します。 移行方法について 今回の移行対象となるオブジェクトは以下の通りです。 Account Campaign CampaignMember Case Contact EmailMessage Event Lead Opportunity O…",
+            "url": "https://product.st.inc/entry/2025/12/24/110535",
+            "title": "SFA環境を1つのSalesforceに統合する際のデータ移行時に考慮したこと | STORES Product Blog",
+            "summary": "はじめに こんにちは、データ本部でデータエンジニアをやっている@takaHALです。 STORES では2025年8月、これまで2つ存在していたSalesforce組織と7個のkintoneアプリを、1つのSalesforce組織に統合しました。 今回は、この組織統合プロジェクトにおいて発生した データ移行 に関する技術的な考慮事項やハマりポイントを紹介します。 移行方法について 今回の移行対象と",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/f5ce8e953051341514f0b620caa58a16c0b1507a/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F137279929%2F1664779029934017",
+                "alt": "SFA環境を1つのSalesforceに統合する際のデータ移行時に考慮したこと - STORES Product Blog"
+            },
+            "date_modified": "2025-12-24T02:05:35.000Z",
+            "date_published": "2025-12-24T02:05:35.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "SFA環境を1つのSalesforceに統合する際のデータ移行時に考慮したこと",
+                "blogTitle": "STORES Product Blog",
+                "blogLink": "https://product.st.inc/",
+                "blogLinkMd5Hash": "5786f655e03b3ed3b1370d11dfd550d8",
+                "favicon": "https://product.st.inc/icon/favicon"
+            }
+        },
+        {
+            "id": "https://developers.prtimes.jp/?p=9320",
+            "content_html": "PR TIMESでCTOをやっている金子 (@catatsuy) です。 2021年4月にPR TIMESに入社してから、4年半が過ぎました。 入社当時のPR TIMESは、2016年のリニューアルリリース以降、ユーザー […]",
+            "url": "https://developers.prtimes.jp/2025/12/24/cto_activities_2025/",
+            "title": "変わらないサービスから、変えていけるサービスへ ──「そのままにしない」を続けてきた4年半 | PR TIMES 開発者ブログ",
+            "summary": "PR TIMESでCTOをやっている金子 (@catatsuy) です。 2021年4月にPR TIMESに入社してから、4年半が過ぎました。 入社当時のPR TIMESは、2016年のリニューアルリリース以降、ユーザー […]",
+            "image": {
+                "height": "675",
+                "url": "http://developers.prtimes.jp/wp-content/uploads/2025/12/Tech系テンプレ01-2.jpg",
+                "width": "1200",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-24T01:00:00.000Z",
+            "date_published": "2025-12-24T01:00:00.000Z",
+            "author": {
+                "name": "金子 達哉"
+            },
+            "tags": [
+                "インフラ",
+                "チーム体制",
+                "プロダクト",
+                "マネジメント",
+                "開発"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "変わらないサービスから、変えていけるサービスへ ──「そのままにしない」を続けてきた4年半",
+                "blogTitle": "PR TIMES 開発者ブログ",
+                "blogLink": "https://developers.prtimes.jp",
+                "blogLinkMd5Hash": "97cb6657665760e071286dc92ecea3a6",
+                "favicon": "http://developers.prtimes.jp/wp-content/uploads/2021/04/logo_square-150x150.png?crop=1"
+            }
+        },
+        {
+            "id": "https://blog.saeloun.com/2025/12/24/what-is-new-in-ruby-4/",
+            "content_html": "Ruby 4.0 is here, releasing on Christmas Day 2025, marking 30 years since Ruby’s first public release.This release packs some genuinely exciting features.Let’s explore the most impactful changes in Ruby 4.0.ZJIT - A New JIT CompilerRuby 4.0 introduces ZJIT, a new just in time compiler built by the same team behind YJIT.Unlike YJIT’s lazy basic block versioning approach, ZJIT uses a more traditional method based compilation strategy.The key difference?ZJIT is designed to be more accessible to con",
+            "url": "https://blog.saeloun.com/2025/12/24/what-is-new-in-ruby-4/",
+            "title": "What Is New In Ruby 4.0 | Saeloun Blog",
+            "summary": "Ruby 4.0 is here, releasing on Christmas Day 2025, marking 30 years since Ruby’s first public release.This release packs some genuinely exciting features.Let’s explore the most impactful changes in Ru",
+            "image": {
+                "url": "https://blog.saeloun.com/images/opengraph/4c30d4102ed5171d03f7de336c2d8e0e984e0787.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-24T00:00:00.000Z",
+            "date_published": "2025-12-24T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "What Is New In Ruby 4.0",
+                "blogTitle": "Saeloun Blog",
+                "blogLink": "https://blog.saeloun.com/",
+                "blogLinkMd5Hash": "930400c729862b33b68f336e94bdebf6",
+                "favicon": "https://blog.saeloun.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://github.blog/?p=93091",
+            "content_html": "Security advice for users and maintainers to help reduce the impact of the next supply chain malware attack.The post Strengthening supply chain security: Preparing for the next malware campaign appeared first on The GitHub Blog.",
+            "url": "https://github.blog/security/supply-chain-security/strengthening-supply-chain-security-preparing-for-the-next-malware-campaign/",
+            "title": "Strengthening supply chain security: Preparing for the next malware campaign | The GitHub Blog",
+            "summary": "Security advice for users and maintainers to help reduce the impact of the next supply chain malware attack.The post Strengthening supply chain security: Preparing for the next malware campaign appear",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://github.blog/wp-content/uploads/2025/03/github_logo_invertocat_dark_2.png",
+                "width": "1200"
+            },
+            "date_modified": "2025-12-23T23:52:08.000Z",
+            "date_published": "2025-12-23T23:52:08.000Z",
+            "author": {
+                "name": "Madison Oliver"
+            },
+            "tags": [
+                "Security",
+                "Supply chain security",
+                "GitHub Security Lab",
+                "npm",
+                "supply chain security"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Strengthening supply chain security: Preparing for the next malware campaign",
+                "blogTitle": "The GitHub Blog",
+                "blogLink": "https://github.blog/",
+                "blogLinkMd5Hash": "f5d9dec3dc3bf03d9b3049b109e60a1d",
+                "favicon": "https://github.githubassets.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2025/Dec/23/salvatore-sanfilippo/#atom-everything",
+            "content_html": " &lt;blockquote cite=\"https://news.ycombinator.com/item?id=46367224#46368706\"&gt;&lt;p&gt;If this [MicroQuickJS] had been available in 2010, Redis scripting would have been JavaScript and not Lua. Lua was chosen based on the implementation requirements, not on the language ones... (small, fast, ANSI-C). I appreciate certain ideas in Lua, and people love it, but I was never able to &lt;em&gt;like&lt;/em&gt; Lua, because it departs from a more Algol-like syntax and semantics without good reasons, for my taste. This creat",
+            "url": "https://simonwillison.net/2025/Dec/23/salvatore-sanfilippo/#atom-everything",
+            "title": "Quoting Salvatore Sanfilippo | Simon Willison's Weblog",
+            "summary": " &lt;blockquote cite=\"https://news.ycombinator.com/item?id=46367224#46368706\"&gt;&lt;p&gt;If this [MicroQuickJS] had been available in 2010, Redis scripting would have been JavaScript and not Lua. Lua was chosen ",
+            "date_modified": "2025-12-23T23:03:00.000Z",
+            "date_published": "2025-12-23T23:03:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Quoting Salvatore Sanfilippo",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2025/Dec/23/microquickjs/#atom-everything",
+            "content_html": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://github.com/bellard/mquickjs\"&gt;MicroQuickJS&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;New project from programming legend Fabrice Bellard, of ffmpeg and QEMU and QuickJS and &lt;a href=\"https://bellard.org\"&gt;so much more&lt;/a&gt; fame:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;MicroQuickJS (aka. MQuickJS) is a Javascript engine targetted at embedded systems. It compiles and runs Javascript programs with as low as 10 kB of RAM. The whole engine requires about 100 kB of ROM (ARM Thumb-2 code) including the C library. The speed i",
+            "url": "https://simonwillison.net/2025/Dec/23/microquickjs/#atom-everything",
+            "title": "MicroQuickJS | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://github.com/bellard/mquickjs\"&gt;MicroQuickJS&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;New project from programming legend Fabrice Bellard, of ffmpeg and QEMU and QuickJS and &lt;a href=\"https://bellard.",
+            "date_modified": "2025-12-23T20:53:40.000Z",
+            "date_published": "2025-12-23T20:53:40.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MicroQuickJS",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://socket.dev/blog/spearphishing-campaign-abuses-npm-registry",
+            "content_html": "A five-month operation turned 27 npm packages into durable hosting for browser-run lures that mimic document-sharing portals and Microsoft sign-in, targeting 25 organizations across manufacturing, industrial automation, plastics, and healthcare for credential theft.",
+            "url": "https://socket.dev/blog/spearphishing-campaign-abuses-npm-registry",
+            "title": "Spearphishing Campaign Abuses npm Registry to Target U.S. and Allied Manufacturing and Healthcare Organizations | Socket",
+            "summary": "A five-month operation turned 27 npm packages into durable hosting for browser-run lures that mimic document-sharing portals and Microsoft sign-in, targeting 25 organizations across manufacturing, ind",
+            "image": {
+                "url": "https://cdn.sanity.io/images/cgdhsj6q/production/d02135698302a9cf8b8d154c0bd5a0641305dbc6-1024x1024.png?w=1000&q=95&fit=max&auto=format",
+                "type": "png"
+            },
+            "date_modified": "2025-12-23T16:05:48.134Z",
+            "date_published": "2025-12-23T16:05:48.134Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Spearphishing Campaign Abuses npm Registry to Target U.S. and Allied Manufacturing and Healthcare Organizations",
+                "blogTitle": "Socket",
+                "blogLink": "https://socket.dev/api/blog/feed.json",
+                "blogLinkMd5Hash": "1ad7c1f71e0aa48ea310910290f40d4a",
+                "favicon": "https://socket.dev/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://css-tricks.com/?p=391203",
+            "content_html": "This is the best job I've had in my life and it's only possible because you keep showing up each day to read, learn, share, and discuss all-things-front-end (and a little CSS, of course) with us.Thank You (2025 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+            "url": "https://css-tricks.com/thank-you-2025-edition/",
+            "title": "Thank You (2025 Edition) | CSS-Tricks",
+            "summary": "This is the best job I've had in my life and it's only possible because you keep showing up each day to read, learn, share, and discuss all-things-front-end (and a little CSS, of course) with us.Thank",
+            "image": {
+                "height": "512",
+                "type": "image/png",
+                "url": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/thank-you-2025-scaled.png",
+                "width": "1024",
+                "alt": "Hand-drawn, illustrated snowflakes against a vibrant blue background. The CSS-Tricks logo is prominent in orange surrounded by text saying Thank you from CSS-Tricks."
+            },
+            "date_modified": "2025-12-23T15:52:53.000Z",
+            "date_published": "2025-12-23T15:52:53.000Z",
+            "author": {
+                "name": "Geoff Graham"
+            },
+            "tags": [
+                "Articles"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Thank You (2025 Edition)",
+                "blogTitle": "CSS-Tricks",
+                "blogLink": "https://css-tricks.com",
+                "blogLinkMd5Hash": "b7ccd4b455c364f0f55fc55649723785",
+                "favicon": "https://css-tricks.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://calendar.perfplanet.com/?p=3154",
+            "content_html": "Tales of two pages… What’s the difference between these two pages?: https://www.example.com/ https://www.example.com/?utm_source=email I mean they’ve got different URLs, but many of us would probably guess that that utm_source URL query parameters (or “URL params” or “search params” as it’s sometimes known) is not meaningful to the page contents and is more used for analytics […]",
+            "url": "https://calendar.perfplanet.com/2025/fixing-the-url-params-performance-penalty/",
+            "title": "Fixing the URL params performance penalty | Web Performance Calendar",
+            "summary": "Tales of two pages… What’s the difference between these two pages?: https://www.example.com/ https://www.example.com/?utm_source=email I mean they’ve got different URLs, but many of us would probably ",
+            "image": {
+                "url": "https://calendar.perfplanet.com/images/2025/barry/barry-og.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-23T13:41:11.000Z",
+            "date_published": "2025-12-23T13:41:11.000Z",
+            "author": {
+                "name": "Barry Pollard"
+            },
+            "tags": [
+                "performance"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Fixing the URL params performance penalty",
+                "blogTitle": "Web Performance Calendar",
+                "blogLink": "https://calendar.perfplanet.com",
+                "blogLinkMd5Hash": "33b0586740e05b8f28482a20ecf74fc8",
+                "favicon": "https://calendar.perfplanet.com/wp-content/themes/wpc2/wpclogo.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/blog/pixel-portraits-ai-generated-trading-cards",
+            "content_html": "At our recent Next.js Conf and Ship AI events, we introduced an activation that blended technical experimentation with playful nostalgia. The idea started long before anyone stepped into the venue. As part of the online registration experience for both events, attendees could prompt and generate their own trading cards, giving them an early taste of the format and creating the foundation for what we wanted to bring into the real world.Read more",
+            "url": "https://vercel.com/blog/pixel-portraits-ai-generated-trading-cards",
+            "title": "Pixel Portraits: AI generated trading cards | Vercel News",
+            "summary": "At our recent Next.js Conf and Ship AI events, we introduced an activation that blended technical experimentation with playful nostalgia. The idea started long before anyone stepped into the venue. As",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6Hd8VnyvFjRwsLywyeuvgp/17d5fdad6217b36db466ce2ecb77532c/pixel_og_card.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-23T13:00:00.000Z",
+            "date_published": "2025-12-23T13:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Pixel Portraits: AI generated trading cards",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
+            "content_html": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.",
+            "url": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
+            "title": "Giving Users A Voice Through Virtual Personas | Articles on Smashing Magazine — For Web Designers And Developers",
+            "summary": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.",
+            "image": {
+                "url": "https://files.smashing.media/articles/giving-users-voice-virtual-personas/giving-users-voice-virtual-personas.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-23T10:00:00.000Z",
+            "date_published": "2025-12-23T10:00:00.000Z",
+            "author": {
+                "name": "hello@smashingmagazine.com (Paul Boag)"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Giving Users A Voice Through Virtual Personas",
+                "blogTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+                "blogLink": "https://www.smashingmagazine.com/",
+                "blogLinkMd5Hash": "af6aa6a81ad9adc77e3f2e79aba7ce4f",
+                "favicon": "https://smashingmagazine.com/images/favicon/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/blockly",
+            "content_html": "皆さん、DSLを作ることってありますか？ 複雑な設定が可能な社内ツールを作るとき、 「DSLを許容したら自由度が上がって素敵では？」 と思うこと、ありますよね。 私個人としては、エンジニア向けのインタフェースとして、DSLで社内ツールを作ると、作る当時は楽しいものの、複雑なことを許容する分保守性に問題がでてくるデメリットも有り、近年は設定はyamlで書ける範囲にすることが多いです。 一方で、非エンジニア向けに、ロジックをビジュアルなDSLで提供できたら良いなってこともありませんか。 例えばjoinとfilterのみに絞ったデータ集計ツールを作りたい、行動Aをしたあとに行動Bをした一部のユーザー…",
+            "url": "https://www.m3tech.blog/entry/blockly",
+            "title": "正規表現すぐ忘れるのでビジュアルプログラミングツールを作った ~ Blocklyで簡単にビジュアルDSL作ろう ~ | エムスリーテックブログ",
+            "summary": "皆さん、DSLを作ることってありますか？ 複雑な設定が可能な社内ツールを作るとき、 「DSLを許容したら自由度が上がって素敵では？」 と思うこと、ありますよね。 私個人としては、エンジニア向けのインタフェースとして、DSLで社内ツールを作ると、作る当時は楽しいものの、複雑なことを許容する分保守性に問題がでてくるデメリットも有り、近年は設定はyamlで書ける範囲にすることが多いです。 一方で、非エン",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/0dfa5d4196a8a8d2b2f36a946cfc4f9510adc6e8/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20251223%2F20251223172324.png",
+                "alt": "正規表現すぐ忘れるのでビジュアルプログラミングツールを作った ~ Blocklyで簡単にビジュアルDSL作ろう ~ - エムスリーテックブログ",
+                "type": "png"
+            },
+            "date_modified": "2025-12-23T08:22:44.000Z",
+            "date_published": "2025-12-23T08:22:44.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "正規表現すぐ忘れるのでビジュアルプログラミングツールを作った ~ Blocklyで簡単にビジュアルDSL作ろう ~",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon"
+            }
+        },
+        {
+            "id": "https://product.st.inc/entry/2025/12/23/170927",
+            "content_html": "こんにちは、データ本部のssxotaです。STORES でデータエンジニアをやっています。 STORES のデータ基盤では、2025年7月からデータ転送ツールである TROCCO を導入しました。 今回のブログでは、TROCCO導入の背景、ツール選定の理由、活用事例について紹介します。 なぜTROCCOを導入したのか？ SaaS間のデータ連携におけるデータエンジニアの工数削減 これまでは、各SaaS間のデータ連携について、SaaS側で提供されているAPIに対してPythonやRubyでスクリプトを実装し、ワークフローエンジンとして採用しているArgo Workflows上にポーティングして実行…",
+            "url": "https://product.st.inc/entry/2025/12/23/170927",
+            "title": "STORESにおけるTROCCOの導入と活用事例 | STORES Product Blog",
+            "summary": "こんにちは、データ本部のssxotaです。STORES でデータエンジニアをやっています。 STORES のデータ基盤では、2025年7月からデータ転送ツールである TROCCO を導入しました。 今回のブログでは、TROCCO導入の背景、ツール選定の理由、活用事例について紹介します。 なぜTROCCOを導入したのか？ SaaS間のデータ連携におけるデータエンジニアの工数削減 これまでは、各Saa",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/4245930f04375c221dfbf50b683e4dc47e46c35c/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstores-tech%2F20251223%2F20251223170935.png",
+                "alt": "STORESにおけるTROCCOの導入と活用事例 - STORES Product Blog",
+                "type": "png"
+            },
+            "date_modified": "2025-12-23T08:09:27.000Z",
+            "date_published": "2025-12-23T08:09:27.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "STORESにおけるTROCCOの導入と活用事例",
+                "blogTitle": "STORES Product Blog",
+                "blogLink": "https://product.st.inc/",
+                "blogLinkMd5Hash": "5786f655e03b3ed3b1370d11dfd550d8",
+                "favicon": "https://product.st.inc/icon/favicon"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2025/Dec/23/cooking-with-claude/#atom-everything",
+            "content_html": " &lt;p&gt;I've been having an absurd amount of fun recently using LLMs for cooking. I started out using them for basic recipes, but as I've grown more confident in their culinary abilities I've leaned into them for more advanced tasks. Today I tried something new: having Claude vibe-code up a custom application to help with the timing for a complicated meal preparation. It worked really well!&lt;/p&gt;&lt;h4 id=\"a-custom-timing-app-for-two-recipes-at-once\"&gt;A custom timing app for two recipes at once&lt;/h4&gt;&lt;p&gt;We ",
+            "url": "https://simonwillison.net/2025/Dec/23/cooking-with-claude/#atom-everything",
+            "title": "Cooking with Claude | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;I've been having an absurd amount of fun recently using LLMs for cooking. I started out using them for basic recipes, but as I've grown more confident in their culinary abilities I've leaned into ",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2025/cooking-with-claude.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-23T05:01:34.000Z",
+            "date_published": "2025-12-23T05:01:34.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Cooking with Claude",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://product.st.inc/entry/2025/12/23/100000",
+            "content_html": "はじめに こんにちは、@marcy731 です。 STORES レジ のモバイルチームのマネージャー兼iOSエンジニアをしています。 この記事は STORES Advent Calendar 2025 の 19 日目の記事です。 stores.fun STORES レジ は、2019/9/11 にファーストコミットされ、 2021/06/15 に正式リリースされた iPad 向け POS レジアプリです。 www.st.inc 実装初期から フル SwiftUI で開発されており、当時としてはかなり挑戦的な技術選択でした。 2019 年当時の SwiftUI は、まだ登場したばかりで、 API…",
+            "url": "https://product.st.inc/entry/2025/12/23/100000",
+            "title": "iOS 26 で SwiftUI の ナビゲーションが壊れた - 非推奨 API が抱えていたリスク -  | STORES Product Blog",
+            "summary": "はじめに こんにちは、@marcy731 です。 STORES レジ のモバイルチームのマネージャー兼iOSエンジニアをしています。 この記事は STORES Advent Calendar 2025 の 19 日目の記事です。 stores.fun STORES レジ は、2019/9/11 にファーストコミットされ、 2021/06/15 に正式リリースされた iPad 向け POS レジアプ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/4858d42f4a9a9cb890ead7e8b3912670c4af7139/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstores-tech%2F20251223%2F20251223100011.png",
+                "alt": "iOS 26 で SwiftUI の ナビゲーションが壊れた - 非推奨 API が抱えていたリスク -  - STORES Product Blog",
+                "type": "png"
+            },
+            "date_modified": "2025-12-23T01:00:00.000Z",
+            "date_published": "2025-12-23T01:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "iOS 26 で SwiftUI の ナビゲーションが壊れた - 非推奨 API が抱えていたリスク - ",
+                "blogTitle": "STORES Product Blog",
+                "blogLink": "https://product.st.inc/",
+                "blogLinkMd5Hash": "5786f655e03b3ed3b1370d11dfd550d8",
+                "favicon": "https://product.st.inc/icon/favicon"
+            }
+        },
+        {
+            "id": "https://github.blog/?p=93068",
+            "content_html": "Looking ahead to the New Year? These GitHub Podcast episodes help you cut through the noise and build with more confidence across AI, open source, and developer tools.The post 5 podcast episodes to help you build with confidence in 2026 appeared first on The GitHub Blog.",
+            "url": "https://github.blog/open-source/maintainers/5-podcast-episodes-to-help-you-build-with-confidence-in-2026/",
+            "title": "5 podcast episodes to help you build with confidence in 2026 | The GitHub Blog",
+            "summary": "Looking ahead to the New Year? These GitHub Podcast episodes help you cut through the noise and build with more confidence across AI, open source, and developer tools.The post 5 podcast episodes to he",
+            "image": {
+                "height": "1080",
+                "type": "image/png",
+                "url": "https://github.blog/wp-content/uploads/2025/07/LinkedIn-Light-Mode-16x9-1.png?fit=1920%2C1080",
+                "width": "1920"
+            },
+            "date_modified": "2025-12-23T00:15:00.000Z",
+            "date_published": "2025-12-23T00:15:00.000Z",
+            "author": {
+                "name": "Cassidy Williams"
+            },
+            "tags": [
+                "Maintainers",
+                "Open Source",
+                "GitHub Podcast",
+                "open source"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "5 podcast episodes to help you build with confidence in 2026",
+                "blogTitle": "The GitHub Blog",
+                "blogLink": "https://github.blog/",
+                "blogLinkMd5Hash": "f5d9dec3dc3bf03d9b3049b109e60a1d",
+                "favicon": "https://github.githubassets.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://tech.newmo.me/entry/2025/12/23/090000",
+            "content_html": "newmoでソフトウェアエンジニアとして働いている @nozomuikuta です。この記事では、12月17日に投稿された「タクシーの給与計算のDX」の記事に関連して、あなたがタクシーの乗客として支払った料金が、タクシー乗務員に給料として支払われるまでの全体像を、特にnewmoグループである株式会社未来都を例に説明します。 tech.newmo.me 売上の発生 みなさんがタクシーに乗車する際、料金の支払い方には大きく分けて２つの方法があります。 ひとつは「現金支払い」で、その名のとおり、車内で現金により支払いをおこなう方法です。もうひとつは「未収」と呼ばれる現金支払い以外の方法であり、車載決…",
+            "url": "https://tech.newmo.me/entry/2025/12/23/090000",
+            "title": "あなたが支払ったタクシー料金は、どうやって乗務員の給料になるのか | newmo 技術ブログ",
+            "summary": "newmoでソフトウェアエンジニアとして働いている @nozomuikuta です。この記事では、12月17日に投稿された「タクシーの給与計算のDX」の記事に関連して、あなたがタクシーの乗客として支払った料金が、タクシー乗務員に給料として支払われるまでの全体像を、特にnewmoグループである株式会社未来都を例に説明します。 tech.newmo.me 売上の発生 みなさんがタクシーに乗車する際、料",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/6801883189095787236/17179246901334979083/1766557397",
+                "alt": "あなたが支払ったタクシー料金は、どうやって乗務員の給料になるのか - newmo 技術ブログ"
+            },
+            "date_modified": "2025-12-23T00:00:00.000Z",
+            "date_published": "2025-12-23T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "あなたが支払ったタクシー料金は、どうやって乗務員の給料になるのか",
+                "blogTitle": "newmo 技術ブログ",
+                "blogLink": "https://tech.newmo.me/",
+                "blogLinkMd5Hash": "c1b786c996167ccc7c37f70193a5d951",
+                "favicon": "https://tech.newmo.me/icon/favicon"
+            }
+        },
+        {
+            "id": "https://workos.com/blog/workos-2025-year-in-review",
+            "content_html": "2025 was a landmark year for WorkOS. We grew our team, expanded our community, shipped relentlessly, and helped thousands of developers build enterprise-ready applications.",
+            "url": "https://workos.com/blog/workos-2025-year-in-review",
+            "title": "WorkOS 2025: A Year in Review | WorkOS Blog",
+            "summary": "2025 was a landmark year for WorkOS. We grew our team, expanded our community, shipped relentlessly, and helped thousands of developers build enterprise-ready applications.",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/656545520bd5f04e20a3a6a7_um.png",
+                "type": "png",
+                "width": 40,
+                "height": 41
+            },
+            "date_modified": "2025-12-23T00:00:00.000Z",
+            "date_published": "2025-12-23T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "WorkOS 2025: A Year in Review",
+                "blogTitle": "WorkOS Blog",
+                "blogLink": "https://workos.com",
+                "blogLinkMd5Hash": "984e1e13d5f5707ea11d65a37db687b5",
+                "favicon": "https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/621f548d3bca3b62c4bfe1c2_Favicon%2032x32.png"
+            }
+        },
+        {
+            "id": "https://www.mitsue.co.jp/knowledge/column/20251223.html",
+            "content_html": "",
+            "url": "https://www.mitsue.co.jp/knowledge/column/20251223.html",
+            "title": "コラム：2025年を終えて / 東﨑 | Mitsue-Links [ミツエーリンクス]",
+            "image": {
+                "url": "https://www.mitsue.co.jp/assets/img/og/20251223_column.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-23T00:00:00.000Z",
+            "date_published": "2025-12-23T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "コラム：2025年を終えて / 東﨑",
+                "blogTitle": "Mitsue-Links [ミツエーリンクス]",
+                "blogLink": "http://www.mitsue.co.jp",
+                "blogLinkMd5Hash": "b5e6ec681b24b0c52c5b8284b76252bc"
+            }
+        },
+        {
+            "id": "https://www.mitsue.co.jp/company/csr/social/activities/index.html",
+            "content_html": "",
+            "url": "https://www.mitsue.co.jp/company/csr/social/activities/index.html",
+            "title": "社会貢献活動：トライデントコンピューター専門学校でWebアクセシビリティの出張授業を実施 | Mitsue-Links [ミツエーリンクス]",
+            "image": {
+                "url": "https://www.mitsue.co.jp/assets/img/og/img-default.png",
+                "alt": "MITSUE-LINKS",
+                "type": "png"
+            },
+            "date_modified": "2025-12-23T00:00:00.000Z",
+            "date_published": "2025-12-23T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "社会貢献活動：トライデントコンピューター専門学校でWebアクセシビリティの出張授業を実施",
+                "blogTitle": "Mitsue-Links [ミツエーリンクス]",
+                "blogLink": "http://www.mitsue.co.jp",
+                "blogLinkMd5Hash": "b5e6ec681b24b0c52c5b8284b76252bc"
+            }
+        },
+        {
+            "id": "https://github.blog/?p=93051",
+            "content_html": "From Appwrite to Zulip, Universe 2025’s Open Source Zone was stacked with standout projects showing just how far open source can go. Meet the maintainers—and if you want to join them in 2026, you can now apply for next year’s cohort.The post This year’s most influential open source projects appeared first on The GitHub Blog.",
+            "url": "https://github.blog/open-source/maintainers/this-years-most-influential-open-source-projects/",
+            "title": "This year’s most influential open source projects | The GitHub Blog",
+            "summary": "From Appwrite to Zulip, Universe 2025’s Open Source Zone was stacked with standout projects showing just how far open source can go. Meet the maintainers—and if you want to join them in 2026, you can ",
+            "image": {
+                "height": "1066",
+                "type": "image/png",
+                "url": "https://github.blog/wp-content/uploads/2025/12/unnamed-5.png",
+                "width": "1600"
+            },
+            "date_modified": "2025-12-22T23:48:52.000Z",
+            "date_published": "2025-12-22T23:48:52.000Z",
+            "author": {
+                "name": "Lee Reilly"
+            },
+            "tags": [
+                "Maintainers",
+                "Open Source",
+                "GitHub Universe",
+                "maintainers",
+                "open source",
+                "open source community"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "This year’s most influential open source projects",
+                "blogTitle": "The GitHub Blog",
+                "blogLink": "https://github.blog/",
+                "blogLinkMd5Hash": "f5d9dec3dc3bf03d9b3049b109e60a1d",
+                "favicon": "https://github.githubassets.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://socket.dev/blog/malicious-chrome-extensions-phantom-shuttle",
+            "content_html": "Fake “Phantom Shuttle” VPN Chrome extensions (active since 2017) hijack proxy auth to intercept traffic and continuously exfiltrate user credentials to attacker infrastructure.",
+            "url": "https://socket.dev/blog/malicious-chrome-extensions-phantom-shuttle",
+            "title": "Malicious Chrome Extensions “Phantom Shuttle” Masquerade as a VPN to Intercept Traffic and Exfiltrate Credentials | Socket",
+            "summary": "Fake “Phantom Shuttle” VPN Chrome extensions (active since 2017) hijack proxy auth to intercept traffic and continuously exfiltrate user credentials to attacker infrastructure.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/cgdhsj6q/production/b7846bc7d726acdbd65092dd4cd5b4c1378e3467-1024x1024.png?w=1000&q=95&fit=max&auto=format",
+                "type": "png"
+            },
+            "date_modified": "2025-12-22T20:52:58.287Z",
+            "date_published": "2025-12-22T20:52:58.287Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Malicious Chrome Extensions “Phantom Shuttle” Masquerade as a VPN to Intercept Traffic and Exfiltrate Credentials",
+                "blogTitle": "Socket",
+                "blogLink": "https://socket.dev/api/blog/feed.json",
+                "blogLinkMd5Hash": "1ad7c1f71e0aa48ea310910290f40d4a",
+                "favicon": "https://socket.dev/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2025/Dec/22/claude-chrome-cloudflare/#atom-everything",
+            "content_html": " &lt;p&gt;I just had my first success using a browser agent - in this case the &lt;a href=\"https://support.claude.com/en/articles/12012173-getting-started-with-claude-in-chrome\"&gt;Claude in Chrome extension&lt;/a&gt; - to solve an actual problem.&lt;/p&gt;&lt;p&gt;A while ago I set things up so anything served from the &lt;code&gt;https://static.simonwillison.net/static/cors-allow/&lt;/code&gt; directory of my S3 bucket would have open &lt;code&gt;Access-Control-Allow-Origin: *&lt;/code&gt; headers. This is useful for hosting files online that can",
+            "url": "https://simonwillison.net/2025/Dec/22/claude-chrome-cloudflare/#atom-everything",
+            "title": "Using Claude in Chrome to navigate out the Cloudflare dashboard | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;I just had my first success using a browser agent - in this case the &lt;a href=\"https://support.claude.com/en/articles/12012173-getting-started-with-claude-in-chrome\"&gt;Claude in Chrome extension&lt;/a&gt; ",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2025/claude-chrome-cloudflare.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-22T16:10:30.000Z",
+            "date_published": "2025-12-22T16:10:30.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Using Claude in Chrome to navigate out the Cloudflare dashboard",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://deno.com/blog/build-a-game-with-deno-3",
+            "content_html": "Adding obstacles, collision detection and game mechanics to our example browser-based game.",
+            "url": "https://deno.com/blog/build-a-game-with-deno-3",
+            "title": "Build a dinosaur runner game with Deno, pt. 3 | Deno",
+            "summary": "Adding obstacles, collision detection and game mechanics to our example browser-based game.",
+            "image": {
+                "url": "https://deno.com/blog/build-a-game-with-deno-3/og.webp",
+                "alt": "Build a dinosaur runner game with Deno, pt. 3 | Deno",
+                "type": "webp"
+            },
+            "date_modified": "2025-12-22T15:00:00.000Z",
+            "date_published": "2025-12-22T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Build a dinosaur runner game with Deno, pt. 3",
+                "blogTitle": "Deno",
+                "blogLink": "https://deno.com/blog",
+                "blogLinkMd5Hash": "041f24dccd26bad426827ec14a65569f",
+                "favicon": "https://deno.com/favicon.ico?__frsh_c=11b8af199035ed9b6f6e1ea92dda30267fa2622a"
+            }
+        },
+        {
+            "id": "https://css-tricks.com/?p=390681",
+            "content_html": "The text-decoration-inset property solves a problem that we’ve had since the beginning of the web, which is that text decorations such as underlines extend beyond the first and last characters, resulting in vertical misalignment.text-decoration-inset is Like Padding for Text Decorations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+            "url": "https://css-tricks.com/text-decoration-inset-is-like-padding-for-text-decorations/",
+            "title": "text-decoration-inset is Like Padding for Text Decorations | CSS-Tricks",
+            "summary": "The text-decoration-inset property solves a problem that we’ve had since the beginning of the web, which is that text decorations such as underlines extend beyond the first and last characters, result",
+            "image": {
+                "height": "738",
+                "type": "image/png",
+                "url": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/Screenshot-2025-12-22-at-7.41.21-AM.png",
+                "width": "1562",
+                "alt": "text-decoration-inset is Like Padding for Text Decorations"
+            },
+            "date_modified": "2025-12-22T14:39:52.000Z",
+            "date_published": "2025-12-22T14:39:52.000Z",
+            "author": {
+                "name": "Daniel Schwarz"
+            },
+            "tags": [
+                "Articles",
+                "typography"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "text-decoration-inset is Like Padding for Text Decorations",
+                "blogTitle": "CSS-Tricks",
+                "blogLink": "https://css-tricks.com",
+                "blogLinkMd5Hash": "b7ccd4b455c364f0f55fc55649723785",
+                "favicon": "https://css-tricks.com/favicon.ico"
+            }
+        },
+        {
+            "id": "5pdspiP2m71MeIoVL8wv1i",
+            "content_html": "Physical data center maintenance is risky on a global network. We built a maintenance scheduler on Workers to safely plan disruptive operations, while solving scaling challenges by viewing the state of our infrastructure through a graph interface on top of multiple data sources and metrics pipelines.",
+            "url": "https://blog.cloudflare.com/building-our-maintenance-scheduler-on-workers/",
+            "title": "How Workers powers our internal maintenance scheduling pipeline |  The Cloudflare Blog ",
+            "summary": "Physical data center maintenance is risky on a global network. We built a maintenance scheduler on Workers to safely plan disruptive operations, while solving scaling challenges by viewing the state o",
+            "image": {
+                "height": "628",
+                "url": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2b9eTjf3ByA6kl8qE63cYL/182a9a2601279d7abd686ed46ebb9c26/How_Workers_powers_our_internal_maintenance_scheduling_pipeline-OG.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2025-12-22T14:00:00.000Z",
+            "date_published": "2025-12-22T14:00:00.000Z",
+            "author": {
+                "name": "Kevin Deems"
+            },
+            "tags": [
+                "Cloudflare Workers",
+                "Reliability",
+                "Prometheus",
+                "Infrastructure"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "How Workers powers our internal maintenance scheduling pipeline",
+                "blogTitle": " The Cloudflare Blog ",
+                "blogLink": "https://blog.cloudflare.com",
+                "blogLinkMd5Hash": "6210ce41d73e7394d4b842f3749a4318",
+                "favicon": "https://blog.cloudflare.com/images/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/blog/we-removed-80-percent-of-our-agents-tools",
+            "content_html": "It got better.We spent months building a sophisticated internal text-to-SQL agent, d0, with specialized tools, heavy prompt engineering, and careful context management. It worked… kind of. But it was fragile, slow, and required constant maintenance.So we tried something different. We deleted most of it and stripped the agent down to a single tool: execute arbitrary bash commands. We call this a file system agent. Claude gets direct access to your files and figures things out using , , and . grep",
+            "url": "https://vercel.com/blog/we-removed-80-percent-of-our-agents-tools",
+            "title": "We removed 80% of our agent’s tools | Vercel News",
+            "summary": "It got better.We spent months building a sophisticated internal text-to-SQL agent, d0, with specialized tools, heavy prompt engineering, and careful context management. It worked… kind of. But it was ",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3w16QMHqe5Zu9BNAo40utr/3af740396f673fa5ac95649e276f106a/improving_our_text-to-sql_agent_by_removing_tools_og_card.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-22T13:00:00.000Z",
+            "date_published": "2025-12-22T13:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "We removed 80% of our agent’s tools",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/blog/ai-sdk-6",
+            "content_html": "With over 20 million monthly downloads and adoption by teams ranging from startups to Fortune 500 companies, the is the leading TypeScript toolkit for building AI applications. It provides a unified API, allowing you to integrate with any AI provider, and seamlessly integrates with Next.js, React, Svelte, Vue, and Node.js. The AI SDK enables you to build everything from chatbots to complex background agents.AI SDKRead more",
+            "url": "https://vercel.com/blog/ai-sdk-6",
+            "title": "AI SDK 6 | Vercel News",
+            "summary": "With over 20 million monthly downloads and adoption by teams ranging from startups to Fortune 500 companies, the is the leading TypeScript toolkit for building AI applications. It provides a unified A",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/55WVTrBLbHj6oYubyTVh11/d915a99a9fac034aaac3ac5a78885ef9/ai-sdk-6-og.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-22T13:00:00.000Z",
+            "date_published": "2025-12-22T13:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AI SDK 6",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/minimax-m2-1-now-live-on-vercel-ai-gateway",
+            "content_html": "You can now access MiniMax's latest model, M2.1, with Vercel's and no other provider accounts required.AI GatewayMiniMax M2.1 is faster than its predecessor M2, with clear improvements specifically in coding use cases and complicated multi-step tasks with tool calls. M2.1 writes higher quality code, is better at following instructions for difficult tasks, and has a cleaner reasoning process. The model has breadth in addition to depth, with improved performance across multiple coding languages (G",
+            "url": "https://vercel.com/changelog/minimax-m2-1-now-live-on-vercel-ai-gateway",
+            "title": "MiniMax M2.1 now live on Vercel AI Gateway | Vercel News",
+            "summary": "You can now access MiniMax's latest model, M2.1, with Vercel's and no other provider accounts required.AI GatewayMiniMax M2.1 is faster than its predecessor M2, with clear improvements specifically in",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/20yZQiIRVIrL4Y5mvQlsTe/3c8935388762292ca142432e205b9b9f/Vercel_x_MiniMax.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-22T13:00:00.000Z",
+            "date_published": "2025-12-22T13:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MiniMax M2.1 now live on Vercel AI Gateway",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/glm-4-7-available-on-vercel-ai-gateway",
+            "content_html": "You can now access Z.ai's latest model, GLM-4.7, with Vercel's and no other provider accounts required.AI GatewayGLM-4.7 comes with major improvements in coding, tool usage, and multi-step reasoning, especially with complex agentic tasks. The model also has a more natural tone for a better conversational experience and can product a more refined aesthetic for front-end work.To start building with GLM-4.7 via , set the model to :AI SDKzai/glm-4.7AI Gateway provides a unified API for calling model",
+            "url": "https://vercel.com/changelog/glm-4-7-available-on-vercel-ai-gateway",
+            "title": "GLM-4.7 available on Vercel AI Gateway | Vercel News",
+            "summary": "You can now access Z.ai's latest model, GLM-4.7, with Vercel's and no other provider accounts required.AI GatewayGLM-4.7 comes with major improvements in coding, tool usage, and multi-step reasoning, ",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/35WG7vuOQTqQOUsm9o2nUB/865c84b16c441c25e3f5f29cc5c598b5/Vercel_x_z.ai.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-22T13:00:00.000Z",
+            "date_published": "2025-12-22T13:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GLM-4.7 available on Vercel AI Gateway",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/function-start-type-now-available-in-runtime-logs",
+            "content_html": "For any request involving a Vercel Function invocation, you can now view the function start type in the right hand details panel of Runtime Logs.A Function invocation can be either: , or . When a Function was invoked and it's a start, we also display the cold start duration like: .HotHot (prewarmed)ColdColdCold (280ms) or learn more about .Try it outRuntime LogsRead more",
+            "url": "https://vercel.com/changelog/function-start-type-now-available-in-runtime-logs",
+            "title": "Function start type now available in Runtime Logs | Vercel News",
+            "summary": "For any request involving a Vercel Function invocation, you can now view the function start type in the right hand details panel of Runtime Logs.A Function invocation can be either: , or . When a Func",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7Gir6G0jNsvGBUQWn2sijk/6053919fd8d3dcec7167d3d734f94eb9/Start_Type_Logs_-_Light.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-22T13:00:00.000Z",
+            "date_published": "2025-12-22T13:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Function start type now available in Runtime Logs",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/4bit_float_llm",
+            "content_html": "こんにちは、AI・機械学習チームの髙橋です。 この記事はエムスリー Advent Calendar 2025 22日目の記事です。前日は同じAI・機械学習チームの鴨田さんによる LLMによって非定形の会話ログを価値あるFAQデータにする話 - エムスリーテックブログでした。 迎賓館赤坂離宮の噴水: 並列処理で射出された水が中央で集約される様子はまるでGPUで行われる行列演算のよう？ はじめに ChatGPTが発表された2022年11月30日から3年が経過し、それからというものLLMの話を聞かない日はない世界になりました。 今日ではCoding Agent無しでは生きていけない、という読者も多い…",
+            "url": "https://www.m3tech.blog/entry/4bit_float_llm",
+            "title": "NVFP4: 4ビットの浮動小数点でLLMを学習する仕組み | エムスリーテックブログ",
+            "summary": "こんにちは、AI・機械学習チームの髙橋です。 この記事はエムスリー Advent Calendar 2025 22日目の記事です。前日は同じAI・機械学習チームの鴨田さんによる LLMによって非定形の会話ログを価値あるFAQデータにする話 - エムスリーテックブログでした。 迎賓館赤坂離宮の噴水: 並列処理で射出された水が中央で集約される様子はまるでGPUで行われる行列演算のよう？ はじめに Ch",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/8784c6cbd2256e3b7ddf81374b3ac84df2dc7df9/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20251222%2F20251222190039.jpg",
+                "alt": "NVFP4: 4ビットの浮動小数点でLLMを学習する仕組み - エムスリーテックブログ",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-22T10:00:00.000Z",
+            "date_published": "2025-12-22T10:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "NVFP4: 4ビットの浮動小数点でLLMを学習する仕組み",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon"
+            }
+        },
+        {
+            "id": "https://calendar.perfplanet.com/?p=3148",
+            "content_html": "Why optimizing on p75 is a starting point. Optimizing for p90 should be our common goal. What is a percentile? The 75th percentile (p75) means 75% of users had an experience that was equal to or better than that value, and 25% were worse. If you work with Core Web Vitals, you live in the […]",
+            "url": "https://calendar.perfplanet.com/2025/optimizing-for-75-is-fine-optimizing-for-90-is-where-it-gets-interesting/",
+            "title": "Optimizing for 75% is fine. Optimizing for 90% is where it gets interesting | Web Performance Calendar",
+            "summary": "Why optimizing on p75 is a starting point. Optimizing for p90 should be our common goal. What is a percentile? The 75th percentile (p75) means 75% of users had an experience that was equal to or bette",
+            "image": {
+                "url": "https://calendar.perfplanet.com/images/2025/jordy/image1.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-22T09:45:52.000Z",
+            "date_published": "2025-12-22T09:45:52.000Z",
+            "author": {
+                "name": "Jordy Scholing"
+            },
+            "tags": [
+                "performance"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Optimizing for 75% is fine. Optimizing for 90% is where it gets interesting",
+                "blogTitle": "Web Performance Calendar",
+                "blogLink": "https://calendar.perfplanet.com",
+                "blogLinkMd5Hash": "33b0586740e05b8f28482a20ecf74fc8",
+                "favicon": "https://calendar.perfplanet.com/wp-content/themes/wpc2/wpclogo.png"
+            }
+        },
+        {
+            "id": "https://nx.dev/blog/wrapping-up-2025",
+            "content_html": "In 2025, Nx became a unified Build Intelligence Platform combining build systems, CI orchestration, and AI integration. Learn about what we shipped in 2025, and what's coming in 2026.",
+            "url": "https://nx.dev/blog/wrapping-up-2025",
+            "title": "Wrapping Up 2025 | Nx Blog",
+            "summary": "In 2025, Nx became a unified Build Intelligence Platform combining build systems, CI orchestration, and AI integration. Learn about what we shipped in 2025, and what's coming in 2026.",
+            "image": {
+                "height": "421",
+                "type": "image/png",
+                "url": "https://nx.dev/documentation/blog/images/2025-12-22/header.png",
+                "width": "800",
+                "alt": "Nx: Smart, Fast and Extensible Build System"
+            },
+            "date_modified": "2025-12-22T08:41:32.000Z",
+            "date_published": "2025-12-22T08:41:32.000Z",
+            "author": {
+                "name": "Philip Fulcher"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Wrapping Up 2025",
+                "blogTitle": "Nx Blog",
+                "blogLink": "https://nx.dev/blog",
+                "blogLinkMd5Hash": "3daffd24adea44725656681ab6f52822",
+                "favicon": "https://nx.dev/favicon/favicon.svg"
+            }
+        },
+        {
+            "id": "https://tech.newmo.me/entry/2025/12/22/140000",
+            "content_html": "Datadog の国際イベント DASH NYC に CfP から挑戦して登壇した準備の流れと、当日の様子を時系列で振り返ります。あわせてサンフランシスコで商用運行中の自動運転タクシー Waymo に乗った体験も紹介します。",
+            "url": "https://tech.newmo.me/entry/2025/12/22/140000",
+            "title": "Datadog DASH NYC 登壇と自動運転 Waymo 視察 | newmo 技術ブログ",
+            "summary": "Datadog の国際イベント DASH NYC に CfP から挑戦して登壇した準備の流れと、当日の様子を時系列で振り返ります。あわせてサンフランシスコで商用運行中の自動運転タクシー Waymo に乗った体験も紹介します。",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/8cb4c6edc59107be5f1e8922c8ee2c7a0e0fcfa3/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnewmo%2F20251222%2F20251222110408.jpg",
+                "alt": "Datadog DASH NYC 登壇と自動運転 Waymo 視察 - newmo 技術ブログ",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-22T05:00:00.000Z",
+            "date_published": "2025-12-22T05:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Datadog DASH NYC 登壇と自動運転 Waymo 視察",
+                "blogTitle": "newmo 技術ブログ",
+                "blogLink": "https://tech.newmo.me/",
+                "blogLinkMd5Hash": "c1b786c996167ccc7c37f70193a5d951",
+                "favicon": "https://tech.newmo.me/icon/favicon"
+            }
+        },
+        {
+            "id": "https://kaminashi-developer.hatenablog.jp/entry/aws-observability-my-best3",
+            "content_html": "はじめに こんにちは、takagi (@tkg_216) です。私が開発運用に携わっている「カミナシ 従業員」では、クラウドサービスとしてAWSを主に利用しています。今年、運用していく中で「これ便利だな」と感じたAWSのモニタリング、オブザーバビリティに関する機能ベスト3を、以下の観点で紹介します。 背景や課題、なぜその機能を使おうと思ったか どうやって活用したか 効果や使ってみての感想 渋くていぶし銀な機能が多いですが、自分たちの環境でも活用できそう！であったり、そんなこともできるんだ〜というような何かしらの発見等があれば幸いです。 (1) S3 Storage Lens S3 Storag…",
+            "url": "https://kaminashi-developer.hatenablog.jp/entry/aws-observability-my-best3",
+            "title": "今年使ってみて良かった AWS のモニタリング、オブザーバビリティ機能ベスト3 | カミナシ エンジニアブログ",
+            "summary": "はじめに こんにちは、takagi (@tkg_216) です。私が開発運用に携わっている「カミナシ 従業員」では、クラウドサービスとしてAWSを主に利用しています。今年、運用していく中で「これ便利だな」と感じたAWSのモニタリング、オブザーバビリティに関する機能ベスト3を、以下の観点で紹介します。 背景や課題、なぜその機能を使おうと思ったか どうやって活用したか 効果や使ってみての感想 渋くてい",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/5243d6cf9f03ecf65fa440b368bc37e30b1fcf13/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaminashi-developer%2F20251222%2F20251222104156.png",
+                "alt": "今年使ってみて良かった AWS のモニタリング、オブザーバビリティ機能ベスト3 - カミナシ エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2025-12-22T02:35:38.000Z",
+            "date_published": "2025-12-22T02:35:38.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "今年使ってみて良かった AWS のモニタリング、オブザーバビリティ機能ベスト3",
+                "blogTitle": "カミナシ エンジニアブログ",
+                "blogLink": "https://kaminashi-developer.hatenablog.jp/",
+                "blogLinkMd5Hash": "457473508b3ba636eaffd50a3047adff",
+                "favicon": "https://kaminashi-developer.hatenablog.jp/icon/favicon"
+            }
+        },
+        {
+            "id": "https://product.st.inc/entry/2025/12/22/110000",
+            "content_html": "今年も気づけば師走っ！！ こちらは STORES Advent Calendar 2025 の記事です。(何日目の記事なのかな?) product.st.inc 毎年恒例です 毎年師走に STORES 決済 のモバイルアプリのリリースを振り返っています。 product.st.inc product.st.inc product.st.inc なので師走になったからには、今年も元気に振り返りますよ！！ ということで、おはようございます！ STORES 決済 モバイルチームの Engineering Manager、 iOS アプリ・SDKの開発を担当しております。いわいです。 ※昨年同様 ST…",
+            "url": "https://product.st.inc/entry/2025/12/22/110000",
+            "title": "モバイルアプリのリリースから振り返る STORES 決済 の 2025年 | STORES Product Blog",
+            "summary": "今年も気づけば師走っ！！ こちらは STORES Advent Calendar 2025 の記事です。(何日目の記事なのかな?) product.st.inc 毎年恒例です 毎年師走に STORES 決済 のモバイルアプリのリリースを振り返っています。 product.st.inc product.st.inc product.st.inc なので師走になったからには、今年も元気に振り返りますよ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/31ce92a864ca1b9ed0f9bb2e199ba02ebecc8c70/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstores-tech%2F20251222%2F20251222110013.png",
+                "alt": "モバイルアプリのリリースから振り返る STORES 決済 の 2025年 - STORES Product Blog",
+                "type": "png"
+            },
+            "date_modified": "2025-12-22T02:00:00.000Z",
+            "date_published": "2025-12-22T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "モバイルアプリのリリースから振り返る STORES 決済 の 2025年",
+                "blogTitle": "STORES Product Blog",
+                "blogLink": "https://product.st.inc/",
+                "blogLinkMd5Hash": "5786f655e03b3ed3b1370d11dfd550d8",
+                "favicon": "https://product.st.inc/icon/favicon"
+            }
+        },
+        {
+            "id": "/blog/neovim-enhance-editing-experiences/",
+            "content_html": "Making editing feel magical with flash.nvim, yanky.nvim, grug-far.nvim, and noice.nvim",
+            "url": "/blog/neovim-enhance-editing-experiences/",
+            "title": "Neovim enhanced editing experience | Duy NG",
+            "summary": "Making editing feel magical with flash.nvim, yanky.nvim, grug-far.nvim, and noice.nvim",
+            "date_modified": "2025-12-22T00:00:00.000Z",
+            "date_published": "2025-12-22T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Neovim enhanced editing experience",
+                "blogTitle": "Duy NG",
+                "blogLink": "https://tduyng.com/atom.xml",
+                "blogLinkMd5Hash": "8416cfec6c4fce1c4436ad7a4fa7c954"
+            }
+        },
+        {
+            "id": "https://workos.com/blog/private-key-jwt-vs-client-secret",
+            "content_html": "Understand how OAuth clients authenticate and when you should use client secrets vs private key JWT.",
+            "url": "https://workos.com/blog/private-key-jwt-vs-client-secret",
+            "title": "Private Key JWT vs Client Secret: Choosing the right OAuth authentication for confidential clients | WorkOS Blog",
+            "summary": "Understand how OAuth clients authenticate and when you should use client secrets vs private key JWT.",
+            "image": {
+                "url": "https://images.workoscdn.com/images/3d3a5533-86c3-4a17-96ba-79f93ffffc5a.png?auto=format&fit=clip&q=80",
+                "type": "png"
+            },
+            "date_modified": "2025-12-22T00:00:00.000Z",
+            "date_published": "2025-12-22T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Private Key JWT vs Client Secret: Choosing the right OAuth authentication for confidential clients",
+                "blogTitle": "WorkOS Blog",
+                "blogLink": "https://workos.com",
+                "blogLinkMd5Hash": "984e1e13d5f5707ea11d65a37db687b5",
+                "favicon": "https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/621f548d3bca3b62c4bfe1c2_Favicon%2032x32.png"
+            }
+        },
+        {
+            "id": "https://calendar.perfplanet.com/?p=3147",
+            "content_html": "Over the course of 2025, I have completed 100 site speed reviews at DebugBear. This is a free service we offer to trial accounts looking for a brief assessment of their current web performance. Requests consistently come in from small independent websites to much larger teams, across a wide range of industries. Each site speed […]",
+            "url": "https://calendar.perfplanet.com/2025/insights-from-100-site-speed-reviews-in-2025/",
+            "title": "Insights from 100 site speed reviews in 2025 | Web Performance Calendar",
+            "summary": "Over the course of 2025, I have completed 100 site speed reviews at DebugBear. This is a free service we offer to trial accounts looking for a brief assessment of their current web performance. Reques",
+            "image": {
+                "url": "https://calendar.perfplanet.com/images/2025/cmcc/image2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-21T11:23:22.000Z",
+            "date_published": "2025-12-21T11:23:22.000Z",
+            "author": {
+                "name": "Conor McCarthy"
+            },
+            "tags": [
+                "performance"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Insights from 100 site speed reviews in 2025",
+                "blogTitle": "Web Performance Calendar",
+                "blogLink": "https://calendar.perfplanet.com",
+                "blogLinkMd5Hash": "33b0586740e05b8f28482a20ecf74fc8",
+                "favicon": "https://calendar.perfplanet.com/wp-content/themes/wpc2/wpclogo.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2025/Dec/21/shriram-krishnamurthi/#atom-everything",
+            "content_html": " &lt;blockquote cite=\"https://parentheticallyspeaking.org/articles/pedagogy-recommendations/\"&gt;&lt;p&gt;Every time you are inclined to use the word “teach”, replace it with “learn”. That is, instead of saying, “I teach”, say “They learn”. It’s very easy to determine what you teach; you can just fill slides with text and claim to have taught. Shift your focus to determining how you know whether they learned what you claim to have taught (or indeed anything at all!). That is &lt;em&gt;much&lt;/em&gt; harder, but that i",
+            "url": "https://simonwillison.net/2025/Dec/21/shriram-krishnamurthi/#atom-everything",
+            "title": "Quoting Shriram Krishnamurthi | Simon Willison's Weblog",
+            "summary": " &lt;blockquote cite=\"https://parentheticallyspeaking.org/articles/pedagogy-recommendations/\"&gt;&lt;p&gt;Every time you are inclined to use the word “teach”, replace it with “learn”. That is, instead of saying, ",
+            "date_modified": "2025-12-21T05:26:09.000Z",
+            "date_published": "2025-12-21T05:26:09.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Quoting Shriram Krishnamurthi",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/2025/12/21/100000",
+            "content_html": "AI・機械学習チームの鴨田です。 この記事はエムスリー Advent Calendar 2025の21日目の記事です。 20日目は星川さんのSlackワークフロー使いこなせてる？進化したトリガーとリストで実現するハックでした。 サムネ TL;DR 問い合わせログからFAQ記事を自動生成するパイプラインを構築 パイプラインはFAQ以外にも応用可能 日々、企業のシステムには膨大な「テキストデータ」が蓄積されています。問い合わせログ、社内チャットツールでの会話、メールでのやり取りなど...これらは「フロー情報」として消費されるか、あるいはDBの肥やしとして眠ったままになりがちです。 そんな中、LLM…",
+            "url": "https://www.m3tech.blog/entry/2025/12/21/100000",
+            "title": "LLMによって非定形の会話ログを価値あるFAQデータにする話 | エムスリーテックブログ",
+            "summary": "AI・機械学習チームの鴨田です。 この記事はエムスリー Advent Calendar 2025の21日目の記事です。 20日目は星川さんのSlackワークフロー使いこなせてる？進化したトリガーとリストで実現するハックでした。 サムネ TL;DR 問い合わせログからFAQ記事を自動生成するパイプラインを構築 パイプラインはFAQ以外にも応用可能 日々、企業のシステムには膨大な「テキストデータ」が蓄",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/ee63eb1193d6d6bf2af88f920e29e4a6f1609b63/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20251221%2F20251221100006.png",
+                "alt": "LLMによって非定形の会話ログを価値あるFAQデータにする話 - エムスリーテックブログ",
+                "type": "png"
+            },
+            "date_modified": "2025-12-21T01:00:00.000Z",
+            "date_published": "2025-12-21T01:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "LLMによって非定形の会話ログを価値あるFAQデータにする話",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon"
+            }
+        },
+        {
+            "id": "/blog/neovim-setup-debug-nodejs/",
+            "content_html": "My journey setting up debugging in Neovim. The struggle, the breakthrough, and what finally worked",
+            "url": "/blog/neovim-setup-debug-nodejs/",
+            "title": "Neovim debugging for Node.js/TypeScript | Duy NG",
+            "summary": "My journey setting up debugging in Neovim. The struggle, the breakthrough, and what finally worked",
+            "date_modified": "2025-12-21T00:00:00.000Z",
+            "date_published": "2025-12-21T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Neovim debugging for Node.js/TypeScript",
+                "blogTitle": "Duy NG",
+                "blogLink": "https://tduyng.com/atom.xml",
+                "blogLinkMd5Hash": "8416cfec6c4fce1c4436ad7a4fa7c954"
+            }
+        },
+        {
+            "id": "https://tech.newmo.me/entry/2025/12/21/090000",
+            "content_html": "はじめに Bluetoothエンジニアのharadaです。 Android 16でBluetooth 6.0のチャネルサウンディングがサポートされましたね 🎉 チャネルサウンディングは、従来のRSSI (電波強度) を使った距離推定とは異なり、センチメートル級の精度で距離を測定できる 技術です。スマートロックやデジタルキーなど、「近づいたら解錠」といったユースケースで活用が期待されています 🔑 この記事では、実際にPixel 10とNordic nRF54L15 DKを使って動作確認した経験をもとに、Androidでのチャネルサウンディング実装方法を紹介します。 ちなみに、動かすまでにかなりハ…",
+            "url": "https://tech.newmo.me/entry/2025/12/21/090000",
+            "title": "Android 16でBluetoothチャネルサウンディングを試す | newmo 技術ブログ",
+            "summary": "はじめに Bluetoothエンジニアのharadaです。 Android 16でBluetooth 6.0のチャネルサウンディングがサポートされましたね 🎉 チャネルサウンディングは、従来のRSSI (電波強度) を使った距離推定とは異なり、センチメートル級の精度で距離を測定できる 技術です。スマートロックやデジタルキーなど、「近づいたら解錠」といったユースケースで活用が期待されています 🔑 こ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/2f095d8b1490bbb6379cf66ffd18e11bef1a7d34/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnewmo%2F20251218%2F20251218121334.png",
+                "alt": "Android 16でBluetoothチャネルサウンディングを試す - newmo 技術ブログ",
+                "type": "png"
+            },
+            "date_modified": "2025-12-21T00:00:00.000Z",
+            "date_published": "2025-12-21T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Android 16でBluetoothチャネルサウンディングを試す",
+                "blogTitle": "newmo 技術ブログ",
+                "blogLink": "https://tech.newmo.me/",
+                "blogLinkMd5Hash": "c1b786c996167ccc7c37f70193a5d951",
+                "favicon": "https://tech.newmo.me/icon/favicon"
+            }
+        },
+        {
+            "id": "https://adonisjs.com/blog/introduction-adonisjs-opentelemetry",
+            "content_html": "Introducing @adonisjs/otel, a package that brings OpenTelemetry to AdonisJS with zero-config setup and sensible defaults.",
+            "url": "https://adonisjs.com/blog/introduction-adonisjs-opentelemetry",
+            "title": "OpenTelemetry for AdonisJS | AdonisJS Framework Blog",
+            "summary": "Introducing @adonisjs/otel, a package that brings OpenTelemetry to AdonisJS with zero-config setup and sensible defaults.",
+            "image": {
+                "url": "https://adonisjs.com/introduction-adonisjs-opentelemetry.jpeg",
+                "type": "jpeg"
+            },
+            "date_modified": "2025-12-20T08:32:15.000Z",
+            "date_published": "2025-12-20T08:32:15.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "OpenTelemetry for AdonisJS",
+                "blogTitle": "AdonisJS Framework Blog",
+                "blogLink": "https://adonisjs.com/blog",
+                "blogLinkMd5Hash": "26c0c5f8be484a92cbd5f3ada830aac9",
+                "favicon": "https://adonisjs.com/icons/favicon.ico"
+            }
+        },
+        {
+            "id": "https://calendar.perfplanet.com/?p=3138",
+            "content_html": "Even though Cumulative Layout Shift (CLS) has been a well-known metric for about five years now, I still frequently encounter negative scores on major websites during my web performance audits. The most frequent causes of CLS I encounter fall into two categories: Promotional banners at the top of the page, which appear with a slight […]",
+            "url": "https://calendar.perfplanet.com/2025/optimizing-cls-for-infinite-scroll-and-load-more/",
+            "title": "Optimizing CLS for Infinite Scroll and Load More | Web Performance Calendar",
+            "summary": "Even though Cumulative Layout Shift (CLS) has been a well-known metric for about five years now, I still frequently encounter negative scores on major websites during my web performance audits. The mo",
+            "image": {
+                "url": "https://calendar.perfplanet.com/wp-content/uploads/2025/12/og-andrea-2.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-20T08:22:39.000Z",
+            "date_published": "2025-12-20T08:22:39.000Z",
+            "author": {
+                "name": "Andrea Verlicchi"
+            },
+            "tags": [
+                "performance"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Optimizing CLS for Infinite Scroll and Load More",
+                "blogTitle": "Web Performance Calendar",
+                "blogLink": "https://calendar.perfplanet.com",
+                "blogLinkMd5Hash": "33b0586740e05b8f28482a20ecf74fc8",
+                "favicon": "https://calendar.perfplanet.com/wp-content/themes/wpc2/wpclogo.png"
+            }
+        },
+        {
+            "id": "https://azukiazusa.dev/blog/claude-code-lsp-support",
+            "content_html": "Claude Code のバージョン 2.0.74 から LSP（Language Server Protocol）サポートが追加されました。LSP サポートにより、Claude Code はコードベースに対してシンボルの定義検索、参照検索、ホバー情報の取得などの操作が可能になります。この記事では Claude Code の LSP サポートの概要と使用方法を紹介します。",
+            "url": "https://azukiazusa.dev/blog/claude-code-lsp-support",
+            "title": "Claude Code の LSP サポート | azukiazusa のテックブログ2",
+            "summary": "Claude Code のバージョン 2.0.74 から LSP（Language Server Protocol）サポートが追加されました。LSP サポートにより、Claude Code はコードベースに対してシンボルの定義検索、参照検索、ホバー情報の取得などの操作が可能になります。この記事では Claude Code の LSP サポートの概要と使用方法を紹介します。",
+            "image": {
+                "url": "https://azukiazusa.dev/blog/ogp/claude-code-lsp-support.png",
+                "type": "png"
+            },
+            "date_modified": "2025-12-20T06:12:00.000Z",
+            "date_published": "2025-12-20T06:12:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Claude Code の LSP サポート",
+                "blogTitle": "azukiazusa のテックブログ2",
+                "blogLink": "https://azukiazusa.dev",
+                "blogLinkMd5Hash": "f333203079d9928b7fa83832f57ad131",
+                "favicon": "https://azukiazusa.dev/favicon.png"
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/2025/12/20/120000",
+            "content_html": "はじめに 本記事は、M3 Advent Calendar 2025 20日目の記事です。 Unit3の星川 (@oboenikui) です。 Unit3では、主に医学書の電子書籍サービスや、医師の開業サポート、会員優待などのサービスを担当しています。 弊社ではチャットツールとしてSlackを使用しており、日々の業務で発生する申請や依頼といった定型作業は、Slackワークフローを使用することが多いです。 Slackワークフローをあまり触ったことがない方は、もしかすると「簡単なフォームを作って投稿を作成するツール」という認識で止まっているかもしれません。 しかし現在のワークフローは、簡易的なノーコ…",
+            "url": "https://www.m3tech.blog/entry/2025/12/20/120000",
+            "title": "Slackワークフロー使いこなせてる？進化したトリガーとリストで実現するハック | エムスリーテックブログ",
+            "summary": "はじめに 本記事は、M3 Advent Calendar 2025 20日目の記事です。 Unit3の星川 (@oboenikui) です。 Unit3では、主に医学書の電子書籍サービスや、医師の開業サポート、会員優待などのサービスを担当しています。 弊社ではチャットツールとしてSlackを使用しており、日々の業務で発生する申請や依頼といった定型作業は、Slackワークフローを使用することが多いで",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/2c55ccbf29d70849f2e27baf5204f5e8251770d3/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20251220%2F20251220120012.jpg",
+                "alt": "Slackワークフロー使いこなせてる？進化したトリガーとリストで実現するハック - エムスリーテックブログ",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-20T03:00:00.000Z",
+            "date_published": "2025-12-20T03:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Slackワークフロー使いこなせてる？進化したトリガーとリストで実現するハック",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2025/Dec/19/andrej-karpathy/#atom-everything",
+            "content_html": " &lt;blockquote cite=\"https://karpathy.bearblog.dev/year-in-review-2025/\"&gt;&lt;p&gt;In 2025, Reinforcement Learning from Verifiable Rewards (RLVR) emerged as the de facto new major stage to add to this mix. By training LLMs against automatically verifiable rewards across a number of environments (e.g. think math/code puzzles), the LLMs spontaneously develop strategies that look like \"reasoning\" to humans - they learn to break down problem solving into intermediate calculations and they learn a number of p",
+            "url": "https://simonwillison.net/2025/Dec/19/andrej-karpathy/#atom-everything",
+            "title": "Quoting Andrej Karpathy | Simon Willison's Weblog",
+            "summary": " &lt;blockquote cite=\"https://karpathy.bearblog.dev/year-in-review-2025/\"&gt;&lt;p&gt;In 2025, Reinforcement Learning from Verifiable Rewards (RLVR) emerged as the de facto new major stage to add to this mix. By ",
+            "date_modified": "2025-12-19T23:07:52.000Z",
+            "date_published": "2025-12-19T23:07:52.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Quoting Andrej Karpathy",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "DMVZ2E5NT13VbQvP1hUNj",
+            "content_html": "We have declared “Code Orange: Fail Small” to focus everyone at Cloudflare on a set of high-priority workstreams with one simple goal: ensure that the cause of our last two global outages never happens again.",
+            "url": "https://blog.cloudflare.com/fail-small-resilience-plan/",
+            "title": "Code Orange: Fail Small — our resilience plan following recent incidents |  The Cloudflare Blog ",
+            "summary": "We have declared “Code Orange: Fail Small” to focus everyone at Cloudflare on a set of high-priority workstreams with one simple goal: ensure that the cause of our last two global outages never happen",
+            "image": {
+                "height": "628",
+                "url": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1XjzzmUMbNy2sRmFxvqHmF/878cf01bd8a4e79548200b76fc5414b8/BLOG-3097_OG.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2025-12-19T22:35:30.000Z",
+            "date_published": "2025-12-19T22:35:30.000Z",
+            "author": {
+                "name": "Dane Knecht"
+            },
+            "tags": [
+                "Outage",
+                "Post Mortem",
+                "Code Orange"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Code Orange: Fail Small — our resilience plan following recent incidents",
+                "blogTitle": " The Cloudflare Blog ",
+                "blogLink": "https://blog.cloudflare.com",
+                "blogLinkMd5Hash": "6210ce41d73e7394d4b842f3749a4318",
+                "favicon": "https://blog.cloudflare.com/images/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://webkit.org/?p=17674",
+            "content_html": "Safari Technology Preview Release 234 is now available for download for macOS Tahoe and macOS Sequoia.",
+            "url": "https://webkit.org/blog/17674/release-notes-for-safari-technology-preview-234/",
+            "title": "Release Notes for Safari Technology Preview 234 | WebKit",
+            "summary": "Safari Technology Preview Release 234 is now available for download for macOS Tahoe and macOS Sequoia.",
+            "image": {
+                "url": "https://webkit.org/wp-content/themes/webkit/images/preview-card.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-19T20:43:27.000Z",
+            "date_published": "2025-12-19T20:43:27.000Z",
+            "tags": [
+                "Safari Technology Preview"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Release Notes for Safari Technology Preview 234",
+                "blogTitle": "WebKit",
+                "blogLink": "https://webkit.org",
+                "blogLinkMd5Hash": "b730832646f3d89d16cb1f1d637b0261",
+                "favicon": "https://webkit.org/favicon.ico"
+            }
+        },
+        {
+            "id": "https://effectivetypescript.com/2025/12/19/ts-2025/",
+            "content_html": " &lt;p&gt;In terms of new TypeScript features, 2025 was a very quiet year. But it&amp;#39;s been a big year for TypeScript and typed JavaScript in gene ",
+            "url": "https://effectivetypescript.com/2025/12/19/ts-2025/",
+            "title": "A Small Year for tsc, a Giant Year for TypeScript | Effective TypeScript",
+            "summary": " &lt;p&gt;In terms of new TypeScript features, 2025 was a very quiet year. But it&amp;#39;s been a big year for TypeScript and typed JavaScript in gene ",
+            "image": {
+                "url": "https://effectivetypescript.com/images/cover-2e.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-19T20:00:00.000Z",
+            "date_published": "2025-12-19T20:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "A Small Year for tsc, a Giant Year for TypeScript",
+                "blogTitle": "Effective TypeScript",
+                "blogLink": "/atom.xml",
+                "blogLinkMd5Hash": "f4c366dcaa496fa13d470ecddbb0ac5b",
+                "favicon": "https://effectivetypescript.com/images/icon.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2025/Dec/19/sam-rose-llms/#atom-everything",
+            "content_html": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://ngrok.com/blog/prompt-caching/\"&gt;Sam Rose explains how LLMs work with a visual essay&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;Sam Rose is one of my favorite authors of &lt;a href=\"https://simonwillison.net/tags/explorables/\"&gt;explorable interactive explanations&lt;/a&gt; - here's &lt;a href=\"https://samwho.dev/\"&gt;his previous collection&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Sam joined ngrok in September as a developer educator. Here's his first big visual explainer for them, ostensibly about how prompt caching works but it quickly e",
+            "url": "https://simonwillison.net/2025/Dec/19/sam-rose-llms/#atom-everything",
+            "title": "Sam Rose explains how LLMs work with a visual essay | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://ngrok.com/blog/prompt-caching/\"&gt;Sam Rose explains how LLMs work with a visual essay&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;Sam Rose is one of my favorite authors of &lt;a href=\"https://simonwilliso",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2025/tokens-embeddings.gif",
+                "type": "gif"
+            },
+            "date_modified": "2025-12-19T18:33:41.000Z",
+            "date_published": "2025-12-19T18:33:41.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Sam Rose explains how LLMs work with a visual essay",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://blog.nginx.org/?p=74794",
+            "content_html": "We’re pleased to announce F5 NGINX Gateway Fabric (NGF) 2.3.0, and we’re shipping it a little early, right before the holidays, for one compelling reason: to meet strong community demand for a Kubernetes Gateway API conformance-focused release. With this release, NGF is now one of only five generally available Gateway API implementations, as shown in the community’s official Gateway Controller Implementation Status. After […]",
+            "url": "https://blog.nginx.org/blog/whats-new-in-f5-nginx-gateway-fabric-2-3-0",
+            "title": "What’s New in F5 NGINX Gateway Fabric 2.3.0  | NGINX Community Blog",
+            "summary": "We’re pleased to announce F5 NGINX Gateway Fabric (NGF) 2.3.0, and we’re shipping it a little early, right before the holidays, for one compelling reason: to meet strong community demand for a Kuberne",
+            "image": {
+                "url": "https://nginxblog-8de1046ff5a84f2c-endpoint.azureedge.net/blobnginxbloga72cde487e/wp-content/uploads/2024/05/cropped-NGINX-product-square-1.png",
+                "type": "png",
+                "width": 60,
+                "height": 60
+            },
+            "date_modified": "2025-12-19T18:32:33.000Z",
+            "date_published": "2025-12-19T18:32:33.000Z",
+            "author": {
+                "name": "Hannah Ouellette"
+            },
+            "tags": [
+                "Uncategorized"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "What’s New in F5 NGINX Gateway Fabric 2.3.0 ",
+                "blogTitle": "NGINX Community Blog",
+                "blogLink": "https://blog.nginx.org",
+                "blogLinkMd5Hash": "832a98a304298b762b7c232f82df6dcf",
+                "favicon": "https://nginxblog-8de1046ff5a84f2c-endpoint.azureedge.net/blobnginxbloga72cde487e/wp-content/uploads/2024/05/cropped-NGINX-product-square-2-32x32.png"
+            }
+        },
+        {
+            "id": "https://frontendmasters.com/blog/?p=8041",
+            "content_html": "Exploring a Card component made hyper flexible though use of easily changeable custom properties, props, and slots.",
+            "url": "https://frontendmasters.com/blog/exploring-multi-brand-systems-with-tokens-and-composability/",
+            "title": "Exploring Multi-Brand Systems with Tokens and Composability | Frontend Masters Boost RSS Feed",
+            "summary": "Exploring a Card component made hyper flexible though use of easily changeable custom properties, props, and slots.",
+            "image": {
+                "height": "630",
+                "url": "https://frontendmasters.com/blog/wp-json/social-image-generator/v1/image/8041",
+                "width": "1200"
+            },
+            "date_modified": "2025-12-19T16:59:44.000Z",
+            "date_published": "2025-12-19T16:59:44.000Z",
+            "author": {
+                "name": "Adam Sedwick"
+            },
+            "tags": [
+                "Blog Post",
+                "Design",
+                "Design Systems",
+                "Vue",
+                "Web Components"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Exploring Multi-Brand Systems with Tokens and Composability",
+                "blogTitle": "Frontend Masters Boost RSS Feed",
+                "blogLink": "https://frontendmasters.com/blog",
+                "blogLinkMd5Hash": "5a9dbc640a8811185502a30c4fcde564",
+                "favicon": "https://frontendmasters.com/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://css-tricks.com/?p=390640",
+            "content_html": "It's settled! A new CSS display property keyword called grid-lanes will trigger a masonry layout mode.Masonry Layout is Now grid-lanes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+            "url": "https://css-tricks.com/masonry-layout-is-now-grid-lanes/",
+            "title": "Masonry Layout is Now grid-lanes | CSS-Tricks",
+            "summary": "It's settled! A new CSS display property keyword called grid-lanes will trigger a masonry layout mode.Masonry Layout is Now grid-lanes originally published on CSS-Tricks, which is part of the DigitalO",
+            "image": {
+                "height": "600",
+                "type": "image/png",
+                "url": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/05/css-masonry.png",
+                "width": "1200",
+                "alt": "Masonry Layout is Now grid-lanes"
+            },
+            "date_modified": "2025-12-19T16:08:28.000Z",
+            "date_published": "2025-12-19T16:08:28.000Z",
+            "author": {
+                "name": "Sunkanmi Fafowora"
+            },
+            "tags": [
+                "Articles",
+                "csswg",
+                "masonry"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Masonry Layout is Now grid-lanes",
+                "blogTitle": "CSS-Tricks",
+                "blogLink": "https://css-tricks.com",
+                "blogLinkMd5Hash": "b7ccd4b455c364f0f55fc55649723785",
+                "favicon": "https://css-tricks.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.apollographql.com/blog/end-of-support-for-router-v1-x-long-term-support-lts-policy-update",
+            "content_html": "",
+            "url": "https://www.apollographql.com/blog/end-of-support-for-router-v1-x-long-term-support-lts-policy-update",
+            "title": "End of Support for Router v1.x; Long-Term Support (LTS) Policy Update | Blog posts | RSS Feed",
+            "image": {
+                "height": "630",
+                "url": "https://wp.apollographql.com/wp-content/uploads/2025/12/LTS-for-Blog-1.jpg",
+                "width": "1200",
+                "alt": "End of Support for Router v1.x; Long-Term Support (LTS) Policy Update - Apollo GraphQL Blog | Apollo GraphQL Blog",
+                "type": "jpg"
+            },
+            "date_modified": "2025-12-19T15:42:00.000Z",
+            "date_published": "2025-12-19T15:42:00.000Z",
+            "author": {
+                "name": "Shane Myrick"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "End of Support for Router v1.x; Long-Term Support (LTS) Policy Update",
+                "blogTitle": "Blog posts | RSS Feed",
+                "blogLink": "https://www.apollographql.com",
+                "blogLinkMd5Hash": "0d77f5dab160e5e0d12d9b3a7c3ffa08",
+                "favicon": "https://www.apollographql.com/favicon/android-icon-192x192.png"
+            }
+        }
+    ]
+}

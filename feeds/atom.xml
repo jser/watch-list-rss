@@ -1,0 +1,1149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jser.info/watch-list-rss/</id>
+    <title>JSer.info Watch List</title>
+    <updated>2025-12-27T15:18:31.442Z</updated>
+    <generator>jser/watch-list-rss</generator>
+    <link rel="alternate" href="https://jser.info/watch-list-rss/"/>
+    <link rel="self" href="https://jser.info/watch-list-rss/feeds/atom.xml"/>
+    <subtitle>JSer.infoの情報源となるサイトをまとめたRSSフィード</subtitle>
+    <logo>https://jser.info/watch-list-rss/images/icon.png</logo>
+    <icon>https://jser.info/watch-list-rss/images/favicon.ico</icon>
+    <rights>jser/watch-list-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Chrome DevTools for Debugging Web Performance | Web Performance Calendar]]></title>
+        <id>https://calendar.perfplanet.com/?p=3159</id>
+        <link href="https://calendar.perfplanet.com/2025/chrome-devtools-for-debugging-web-performance/"/>
+        <updated>2025-12-27T14:33:57.000Z</updated>
+        <summary type="html"><![CDATA[This is a step-by-step guide on how I use Chrome DevTools (DevTools from now on) to detect Web Performance issues on a website, as well as validate hypotheses to fix some of the problems found. Discla]]></summary>
+        <content type="html"><![CDATA[This is a step-by-step guide on how I use Chrome DevTools (DevTools from now on) to detect Web Performance issues on a website, as well as validate hypotheses to fix some of the problems found. Disclaimer Before diving in, I want to clarify that: this is not a guide on how DevTools works, it’s a […]]]></content>
+        <author>
+            <name>Joan LeÃ³n</name>
+        </author>
+        <category label="performance"/>
+        <published>2025-12-27T14:33:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quoting Boris Cherny | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Dec/27/boris-cherny/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Dec/27/boris-cherny/#atom-everything"/>
+        <updated>2025-12-27T14:13:43.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;blockquote cite="https://twitter.com/bcherny/status/2004887829252317325"&amp;gt;&amp;lt;p&amp;gt;A year ago, Claude struggled to generate bash commands without escaping issues. It worked for seconds or minutes at a time]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;blockquote cite="https://twitter.com/bcherny/status/2004887829252317325"&amp;gt;&amp;lt;p&amp;gt;A year ago, Claude struggled to generate bash commands without escaping issues. It worked for seconds or minutes at a time. We saw early signs that it may become broadly useful for coding one day.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Fast forward to today. In the last thirty days, I landed 259 PRs -- 497 commits, 40k lines added, 38k lines removed. Every single line was written by Claude Code + Opus 4.5.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;&amp;lt;p class="cite"&amp;gt;&amp;amp;mdash; &amp;lt;a hr]]></content>
+        <published>2025-12-27T14:13:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年後半の振り返り | Memory ice cubes]]></title>
+        <id>https://leaysgur.github.io/posts/2025/12/27/155849/</id>
+        <link href="https://leaysgur.github.io/posts/2025/12/27/155849/"/>
+        <updated>2025-12-27T06:58:49.000Z</updated>
+        <published>2025-12-27T06:58:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[textarea.my on GitHub | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Dec/27/textarea-my/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Dec/27/textarea-my/#atom-everything"/>
+        <updated>2025-12-27T03:23:34.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://github.com/antonmedv/textarea"&amp;gt;textarea.my on GitHub&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Anton Medvedev built &amp;lt;a href="https://textarea.my/"&amp;gt;textarea.my&amp;lt;/a&amp;gt;, which he describes as:&amp;lt;/p&amp;gt;&amp;lt;blockq]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://github.com/antonmedv/textarea"&amp;gt;textarea.my on GitHub&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Anton Medvedev built &amp;lt;a href="https://textarea.my/"&amp;gt;textarea.my&amp;lt;/a&amp;gt;, which he describes as:&amp;lt;/p&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;A &amp;lt;em&amp;gt;minimalist&amp;lt;/em&amp;gt; text editor that lives entirely in your browser and stores everything in the URL hash.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;&amp;lt;p&amp;gt;It's ~160 lines of HTML, CSS and JavaScript and it's worth reading the whole thing. I picked up a bunch of neat tricks from this!&amp;lt;/p&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;code&amp;gt;&amp;amp;lt;article conte]]></content>
+        <published>2025-12-27T03:23:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 年に読んでよかった本 | azukiazusa のテックブログ2]]></title>
+        <id>https://azukiazusa.dev/blog/books-i-liked-in-2025</id>
+        <link href="https://azukiazusa.dev/blog/books-i-liked-in-2025"/>
+        <updated>2025-12-27T02:10:00.000Z</updated>
+        <summary type="html"><![CDATA[AI を活用するための技術というのはとりわけ新しいものではなく、過去の知見を基盤として構築されていることが多いです。それゆえに、AI 時代だからこそ基礎的な知識を体系的に学ぶことができる書籍に学ぶことに価値を求めるのです。この記事では 2025 年に読んで特に印象に残った本をいくつか紹介します。]]></summary>
+        <content type="html"><![CDATA[AI を活用するための技術というのはとりわけ新しいものではなく、過去の知見を基盤として構築されていることが多いです。それゆえに、AI 時代だからこそ基礎的な知識を体系的に学ぶことができる書籍に学ぶことに価値を求めるのです。この記事では 2025 年に読んで特に印象に残った本をいくつか紹介します。]]></content>
+        <published>2025-12-27T02:10:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How uv got so fast | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Dec/26/how-uv-got-so-fast/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Dec/26/how-uv-got-so-fast/#atom-everything"/>
+        <updated>2025-12-26T23:43:15.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html"&amp;gt;How uv got so fast&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Andrew Nesbitt provides an insightful teardown of why &amp;lt;a href="https://github.com/astral-]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html"&amp;gt;How uv got so fast&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Andrew Nesbitt provides an insightful teardown of why &amp;lt;a href="https://github.com/astral-sh/uv"&amp;gt;uv&amp;lt;/a&amp;gt; is so much faster than &amp;lt;code&amp;gt;pip&amp;lt;/code&amp;gt;. It's not nearly as simple as just "they rewrote it in Rust" - &amp;lt;code&amp;gt;uv&amp;lt;/code&amp;gt; gets to skip a huge amount of Python packaging history (which &amp;lt;code&amp;gt;pip&amp;lt;/code&amp;gt; needs to implement for backwards compatibility) and benefits enormously from work over r]]></content>
+        <published>2025-12-26T23:43:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Rob Pike got spammed with an AI slop "act of kindness" | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/#atom-everything"/>
+        <updated>2025-12-26T18:16:28.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;Rob Pike (&amp;lt;a href="https://en.wikipedia.org/wiki/Rob_Pike"&amp;gt;that Rob Pike&amp;lt;/a&amp;gt;) is &amp;lt;em&amp;gt;furious&amp;lt;/em&amp;gt;. Here's a &amp;lt;a href="https://bsky.app/profile/robpike.io/post/3matwg6w3ic2s"&amp;gt;Bluesky link&amp;lt;/a&amp;gt; for if]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;Rob Pike (&amp;lt;a href="https://en.wikipedia.org/wiki/Rob_Pike"&amp;gt;that Rob Pike&amp;lt;/a&amp;gt;) is &amp;lt;em&amp;gt;furious&amp;lt;/em&amp;gt;. Here's a &amp;lt;a href="https://bsky.app/profile/robpike.io/post/3matwg6w3ic2s"&amp;gt;Bluesky link&amp;lt;/a&amp;gt; for if you have an account there and a link to &amp;lt;a href="https://tools.simonwillison.net/bluesky-thread?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&amp;amp;amp;view=thread"&amp;gt;it in my thread viewer&amp;lt;/a&amp;gt; if you don't.&amp;lt;/p&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Fuck you people. Raping the planet, spending trillions]]></content>
+        <published>2025-12-26T18:16:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WRAP up your backlog with GitHub Copilot coding agent | The GitHub Blog]]></title>
+        <id>https://github.blog/?p=93087</id>
+        <link href="https://github.blog/ai-and-ml/github-copilot/wrap-up-your-backlog-with-github-copilot-coding-agent/"/>
+        <updated>2025-12-26T17:56:38.000Z</updated>
+        <summary type="html"><![CDATA[An easy-to-remember acronym, WRAP will help you write effective issues, refine your instructions, and get the most out of Copilot coding agent.The post WRAP up your backlog with GitHub Copilot coding ]]></summary>
+        <content type="html"><![CDATA[An easy-to-remember acronym, WRAP will help you write effective issues, refine your instructions, and get the most out of Copilot coding agent.The post WRAP up your backlog with GitHub Copilot coding agent appeared first on The GitHub Blog.]]></content>
+        <author>
+            <name>Brittany Ellich</name>
+        </author>
+        <category label="AI &amp;amp; ML"/>
+        <category label="GitHub Copilot"/>
+        <category label="agent mode"/>
+        <category label="agentic AI"/>
+        <published>2025-12-26T17:56:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revisiting HTML streaming for modern web performance | Web Performance Calendar]]></title>
+        <id>https://calendar.perfplanet.com/?p=3158</id>
+        <link href="https://calendar.perfplanet.com/2025/revisiting-html-streaming-for-modern-web-performance/"/>
+        <updated>2025-12-26T13:40:04.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Modern web performance issues often come from delayed rendering rather than network speed. Client-side hydration and heavy JavaScript pipelines can prevent browsers from showing content a]]></summary>
+        <content type="html"><![CDATA[Introduction Modern web performance issues often come from delayed rendering rather than network speed. Client-side hydration and heavy JavaScript pipelines can prevent browsers from showing content as early as they could. Several solutions already exist, like SSR or SSG to mitigate this. They help a lot, but in practice, SSG pages need to be rebuilt […]]]></content>
+        <author>
+            <name>SÃ©bastien Mischler</name>
+        </author>
+        <category label="performance"/>
+        <published>2025-12-26T13:40:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VPoE1年目の挑戦と2025年の開発部の変化を振り返る | PR TIMES 開発者ブログ]]></title>
+        <id>https://developers.prtimes.jp/?p=9420</id>
+        <link href="https://developers.prtimes.jp/2025/12/26/vpoe2025/"/>
+        <updated>2025-12-26T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、VPoEの櫻井です。 2024年10月に開発部が第一開発グループ（現：第一開発部）と第二開発グループ（現：第二開発部）の二部門体制になり、私がテックリードからVPoE 兼 第二開発部長になってから1年ちょっと […]]]></summary>
+        <content type="html"><![CDATA[こんにちは、VPoEの櫻井です。 2024年10月に開発部が第一開発グループ（現：第一開発部）と第二開発グループ（現：第二開発部）の二部門体制になり、私がテックリードからVPoE 兼 第二開発部長になってから1年ちょっと […]]]></content>
+        <author>
+            <name>櫻井慎也</name>
+        </author>
+        <category label="マネジメント"/>
+        <category label="振り返り"/>
+        <published>2025-12-26T09:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App Links / Universal LinksにWeb対応してモバイル端末でネイティブアプリを開く | STORES Product Blog]]></title>
+        <id>https://product.st.inc/entry/2025/12/26/175730</id>
+        <link href="https://product.st.inc/entry/2025/12/26/175730"/>
+        <updated>2025-12-26T08:57:30.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。STORES でWebエンジニアをしていますosdです。 今回はHTTP URLを介してユーザーにネイティブアプリを起動させる仕組みについて実装をしたので、仕様を交えつつWebサーバーとして配布する項目を中心に解説します。 App Links / Universal Links とは WebのURL エンドポイントを用いてシームレスにネイティブアプリを起動する仕組みです。 従来のディー]]></summary>
+        <content type="html"><![CDATA[こんにちは。STORES でWebエンジニアをしていますosdです。 今回はHTTP URLを介してユーザーにネイティブアプリを起動させる仕組みについて実装をしたので、仕様を交えつつWebサーバーとして配布する項目を中心に解説します。 App Links / Universal Links とは WebのURL エンドポイントを用いてシームレスにネイティブアプリを起動する仕組みです。 従来のディープリンクと呼ばれる技術は存在しましたが、以下の点で App Links / Universal Linksに優位性があります。 シームレスなアプリ起動が可能。（起動確認ダイアログなどのユーザーアクショ…]]></content>
+        <published>2025-12-26T08:57:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大規模サービスのマイクロサービス移行を SRE 視点で振り返ってみる | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ]]></title>
+        <id>https://developers.cyberagent.co.jp/blog/?p=61461</id>
+        <link href="https://developers.cyberagent.co.jp/blog/archives/61461/"/>
+        <updated>2025-12-26T08:16:09.000Z</updated>
+        <summary type="html"><![CDATA[はじめに はじめまして。株式会社タップルで SRE（25新卒）をやっている鈴木友也です。 最近はセキ ...]]></summary>
+        <content type="html"><![CDATA[はじめに はじめまして。株式会社タップルで SRE（25新卒）をやっている鈴木友也です。 最近はセキ ...]]></content>
+        <author>
+            <name>鈴木 友也</name>
+        </author>
+        <category label="エンジニア"/>
+        <category label="DDD"/>
+        <category label="SRE"/>
+        <category label="TypeScript"/>
+        <category label="タップル"/>
+        <category label="マイクロサービス"/>
+        <published>2025-12-26T08:16:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音声対話システムの自動評価フレームワーク「VociMetrics」 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ]]></title>
+        <id>https://developers.cyberagent.co.jp/blog/?p=61458</id>
+        <link href="https://developers.cyberagent.co.jp/blog/archives/61458/"/>
+        <updated>2025-12-26T08:14:10.000Z</updated>
+        <summary type="html"><![CDATA[はじめまして、AI Labの大平です。 普段は対話システムの研究開発をしています。 最近、VAPIを ...]]></summary>
+        <content type="html"><![CDATA[はじめまして、AI Labの大平です。 普段は対話システムの研究開発をしています。 最近、VAPIを ...]]></content>
+        <author>
+            <name>ohira_yoshiki</name>
+        </author>
+        <category label="エンジニア"/>
+        <category label="対話システム"/>
+        <published>2025-12-26T08:14:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AWS re:Invent 2025】LAからラスベガスへ陸路で！カミナシエンジニア4人のデスバレー経由車旅 | カミナシ エンジニアブログ]]></title>
+        <id>https://kaminashi-developer.hatenablog.jp/entry/2025/12/26/170000</id>
+        <link href="https://kaminashi-developer.hatenablog.jp/entry/2025/12/26/170000"/>
+        <updated>2025-12-26T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、ソフトウェアエンジニアのいちび(@itiB_S144)です。 ラスベガスにて開催された AWS re:Invent 2025 に参加してきました。 このブログでは re:Invent 前にカミナシメンバー 4 人でロサンゼルスからラスベガスまで車旅をしたのでどんな旅をしたか紹介します！ 来年の re:Invent 参加の際に参考にしていただけたら嬉しいです。 すべての始まりはここからで]]></summary>
+        <content type="html"><![CDATA[こんにちは、ソフトウェアエンジニアのいちび(@itiB_S144)です。 ラスベガスにて開催された AWS re:Invent 2025 に参加してきました。 このブログでは re:Invent 前にカミナシメンバー 4 人でロサンゼルスからラスベガスまで車旅をしたのでどんな旅をしたか紹介します！ 来年の re:Invent 参加の際に参考にしていただけたら嬉しいです。 すべての始まりはここからでした。 2024 年の re:Invent が終わり、楽しみ尽くしたカミナシメンバーは来年の re:Invent に向けて飛行機チケットを予約したりしていたところ、この一言をきっかけに旅の計画が始まり…]]></content>
+        <published>2025-12-26T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI・機械学習チーム Best Pull Request決定戦 2025 | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/2025/12/26/170000</id>
+        <link href="https://www.m3tech.blog/entry/2025/12/26/170000"/>
+        <updated>2025-12-26T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。AI・機械学習チームの氏家（@mowmow1259）です。 この記事はエムスリーアドベントカレンダー2025を勝手に延長して26日目の記事として書いています。 みなさんは今年1年を振り返って、最も印象に残ったPull Requestはありますか？ 大きな機能追加、難しいバグ修正、芸術的なリファクタリング...きっとそれぞれに心に残るPRがあることでしょう。 そんなPRにスポットライトを]]></summary>
+        <content type="html"><![CDATA[こんにちは。AI・機械学習チームの氏家（@mowmow1259）です。 この記事はエムスリーアドベントカレンダー2025を勝手に延長して26日目の記事として書いています。 みなさんは今年1年を振り返って、最も印象に残ったPull Requestはありますか？ 大きな機能追加、難しいバグ修正、芸術的なリファクタリング...きっとそれぞれに心に残るPRがあることでしょう。 そんなPRにスポットライトを当てるべく、エムスリーのAI・機械学習チームでは毎年年末にチーム全体で「今年のベストPR」を決める恒例イベントを開催しています。 単なる技術的な凄さだけでなく、チームや会社へのインパクトなども評価の対…]]></content>
+        <published>2025-12-26T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autify上のE2EテストをPlaywrightに移行しました | PR TIMES 開発者ブログ]]></title>
+        <id>https://developers.prtimes.jp/?p=9389</id>
+        <link href="https://developers.prtimes.jp/2025/12/26/autify-to-playwright/"/>
+        <updated>2025-12-26T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、フロントエンドエンジニアの小張（@kobari41257）です。 今回、肥大化していたE2Eテストのシナリオを整理し、Playwrightを使った実行基盤に移行したことで、Flaky率や実行時間を改善した取り […]]]></summary>
+        <content type="html"><![CDATA[こんにちは、フロントエンドエンジニアの小張（@kobari41257）です。 今回、肥大化していたE2Eテストのシナリオを整理し、Playwrightを使った実行基盤に移行したことで、Flaky率や実行時間を改善した取り […]]]></content>
+        <author>
+            <name>小張 泰志</name>
+        </author>
+        <category label="開発"/>
+        <category label="QA"/>
+        <category label="Autify"/>
+        <category label="Playwright"/>
+        <published>2025-12-26T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年、AmebaLIFEのアクセシビリティを振り返る | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ]]></title>
+        <id>https://developers.cyberagent.co.jp/blog/?p=60518</id>
+        <link href="https://developers.cyberagent.co.jp/blog/archives/60518/"/>
+        <updated>2025-12-26T00:00:25.000Z</updated>
+        <summary type="html"><![CDATA[AmebaLIFE事業本部でエンジニアをしている湯本航基（@yu_3in）です。 2025年もAme ...]]></summary>
+        <content type="html"><![CDATA[AmebaLIFE事業本部でエンジニアをしている湯本航基（@yu_3in）です。 2025年もAme ...]]></content>
+        <author>
+            <name>yuuumin</name>
+        </author>
+        <category label="エンジニア"/>
+        <category label="Ameba"/>
+        <category label="Amebaブログ"/>
+        <category label="アクセシビリティ"/>
+        <category label="フロントエンド"/>
+        <published>2025-12-26T00:00:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upgrading from Rails 5.2 to Rails 6 - Modern Rails Features | Saeloun Blog]]></title>
+        <id>https://blog.saeloun.com/2025/12/26/rails-5-to-6-upgrade-guide/</id>
+        <link href="https://blog.saeloun.com/2025/12/26/rails-5-to-6-upgrade-guide/"/>
+        <updated>2025-12-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rails 6 is a major milestone that modernizes Rails for the 2020s.The biggest change?Zeitwerk autoloader replaces the classic autoloader, requiring careful attention to file naming conventions.Plus: We]]></summary>
+        <content type="html"><![CDATA[Rails 6 is a major milestone that modernizes Rails for the 2020s.The biggest change?Zeitwerk autoloader replaces the classic autoloader, requiring careful attention to file naming conventions.Plus: Webpacker as default, multiple database support, parallel testing, Action Mailbox, and Action Text.Note: This is Part 3 of our Rails Upgrade Series. Read Part 1: Planning and Part 2: Rails 4.2 to 5 first.Before We StartExpected Timeline: 2-4 weeks for medium sized applicationsMedium-sized application:]]></content>
+        <published>2025-12-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 in Review | TkDodo's blog]]></title>
+        <id>https://tkdodo.eu/blog/2025-in-review</id>
+        <link href="https://tkdodo.eu/blog/2025-in-review"/>
+        <updated>2025-12-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A retrospective on what has happened for me in 2025]]></summary>
+        <content type="html"><![CDATA[A retrospective on what has happened for me in 2025]]></content>
+        <published>2025-12-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new way to extract detailed transcripts from Claude Code | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Dec/25/claude-code-transcripts/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Dec/25/claude-code-transcripts/#atom-everything"/>
+        <updated>2025-12-25T23:52:17.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;I've released &amp;lt;a href="https://github.com/simonw/claude-code-transcripts"&amp;gt;claude-code-transcripts&amp;lt;/a&amp;gt;, a new Python CLI tool for converting &amp;lt;a href="https://claude.ai/code"&amp;gt;Claude Code&amp;lt;/a&amp;gt; transcr]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;I've released &amp;lt;a href="https://github.com/simonw/claude-code-transcripts"&amp;gt;claude-code-transcripts&amp;lt;/a&amp;gt;, a new Python CLI tool for converting &amp;lt;a href="https://claude.ai/code"&amp;gt;Claude Code&amp;lt;/a&amp;gt; transcripts to detailed HTML pages that provide a better interface for understanding what Claude Code has done than even Claude Code itself. The resulting transcripts are also designed to be shared, using any static HTML hosting or even via GitHub Gists.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Here's the quick start, with no installation r]]></content>
+        <published>2025-12-25T23:52:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spindle 2025: AI エージェント × デザインシステムで変わる Web 開発 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ]]></title>
+        <id>https://developers.cyberagent.co.jp/blog/?p=60944</id>
+        <link href="https://developers.cyberagent.co.jp/blog/archives/60944/"/>
+        <updated>2025-12-25T23:40:19.000Z</updated>
+        <summary type="html"><![CDATA[Podcast こんにちは、Amebaのデザインシステム「Spindle」でテックリードをしている原 ...]]></summary>
+        <content type="html"><![CDATA[Podcast こんにちは、Amebaのデザインシステム「Spindle」でテックリードをしている原 ...]]></content>
+        <author>
+            <name>herablog</name>
+        </author>
+        <category label="エンジニア"/>
+        <category label="Ameba"/>
+        <category label="Spindle"/>
+        <published>2025-12-25T23:40:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【イベントレポート】ビジョンを磨く ー 作る・使う・変える、3つのリアル【DMM/グッドパッチ/サイバーエージェント】 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ]]></title>
+        <id>https://developers.cyberagent.co.jp/blog/?p=61206</id>
+        <link href="https://developers.cyberagent.co.jp/blog/archives/61206/"/>
+        <updated>2025-12-25T23:10:18.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。 サイバーエージェントで開発プロジェクトマネージャーをしている瀬野です！ 会社の枠を超え ...]]></summary>
+        <content type="html"><![CDATA[こんにちは。 サイバーエージェントで開発プロジェクトマネージャーをしている瀬野です！ 会社の枠を超え ...]]></content>
+        <author>
+            <name>Ryo Seno</name>
+        </author>
+        <category label="PM"/>
+        <category label="イベント"/>
+        <published>2025-12-25T23:10:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flutter アプリにおける Datadog RUM を使った SLI 計測 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ]]></title>
+        <id>https://developers.cyberagent.co.jp/blog/?p=61359</id>
+        <link href="https://developers.cyberagent.co.jp/blog/archives/61359/"/>
+        <updated>2025-12-25T23:05:33.000Z</updated>
+        <summary type="html"><![CDATA[目次 Flutter アプリにおける Datadog RUM を使った SLI 計測 目次 はじめに ...]]></summary>
+        <content type="html"><![CDATA[目次 Flutter アプリにおける Datadog RUM を使った SLI 計測 目次 はじめに ...]]></content>
+        <author>
+            <name>tomo</name>
+        </author>
+        <category label="エンジニア"/>
+        <category label="Dart"/>
+        <category label="Datadog"/>
+        <category label="Flutter"/>
+        <category label="Sentry"/>
+        <category label="WINTICKET"/>
+        <published>2025-12-25T23:05:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【登壇レポート】AI Engineering Summit Tokyo 2025：全社で推進するAI活用 | LegalOn Technologies Engineering Blog]]></title>
+        <id>https://tech.legalforce.co.jp/entry/ai-engineering-summit-tokyo-2025-report</id>
+        <link href="https://tech.legalforce.co.jp/entry/ai-engineering-summit-tokyo-2025-report"/>
+        <updated>2025-12-25T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、CTOオフィスの時武（@tokichieto）です。 2025年12月16日、「AIが変えるプロダクトの未来」をテーマとしたカンファレンス「AI Engineering Summit Tokyo 2025」が開催されました。LegalOn Technologiesからは私とGenAIグループの藤田が登壇し、「全社で推進するAI活用 ― ダブルCoE体制と "LegalRika]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、CTOオフィスの時武（@tokichieto）です。 2025年12月16日、「AIが変えるプロダクトの未来」をテーマとしたカンファレンス「AI Engineering Summit Tokyo 2025」が開催されました。LegalOn Technologiesからは私とGenAIグループの藤田が登壇し、「全社で推進するAI活用 ― ダブルCoE体制と "LegalRikai" が支えるリーガルテックの進化」というタイトルで発表を行いました。 本記事では、当日お話しした内容のうち、特にセッション前半でお話した「組織内でどのようにAI活用推進を行ったか、それにより見えてき…]]></content>
+        <published>2025-12-25T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chasing BFCache navigations | Web Performance Calendar]]></title>
+        <id>https://calendar.perfplanet.com/?p=3157</id>
+        <link href="https://calendar.perfplanet.com/2025/chasing-bfcache-navigations/"/>
+        <updated>2025-12-25T15:38:09.000Z</updated>
+        <summary type="html"><![CDATA[What is BFCache? The Back/Forward Cache, or BFCache, is a browser mechanism that allows a page to be restored instantly when a user uses the browser’s Back or Forward buttons. Unlike a simple HTTP cac]]></summary>
+        <content type="html"><![CDATA[What is BFCache? The Back/Forward Cache, or BFCache, is a browser mechanism that allows a page to be restored instantly when a user uses the browser’s Back or Forward buttons. Unlike a simple HTTP cache, BFCache preserves the entire state of the page in memory: DOM, JavaScript, application state, scroll position… When everything works as […]]]></content>
+        <author>
+            <name>Nicolas Hodin</name>
+        </author>
+        <category label="performance"/>
+        <published>2025-12-25T15:38:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlaywrightではじめるE2Eテスト入門（前編） | ICS MEDIA]]></title>
+        <id>https://ics.media/entry/251226/</id>
+        <link href="https://ics.media/entry/251226/"/>
+        <updated>2025-12-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[記事は ics.media へアクセスしてご覧ください。]]></summary>
+        <content type="html"><![CDATA[記事は ics.media へアクセスしてご覧ください。]]></content>
+        <published>2025-12-25T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[外部連携をイミュータブルに設計する：状態を持たず、事実を残す | STORES Product Blog]]></title>
+        <id>https://product.st.inc/entry/2025/12/25/184258</id>
+        <link href="https://product.st.inc/entry/2025/12/25/184258"/>
+        <updated>2025-12-25T09:42:58.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。STORES でエンジニアをしているmochizukiです。 Webアプリケーションの開発では、外部システムと連携した機能を実装することがあると思います。 例えばAPIで外部システムのリソースを取得したり、Webhookで通知を受け取ったりして、業務ロジックに組み込むようなケースです。 このような開発を行う上で、「取得した情報をどう扱うか」は重要な論点の一つです。 少し分解す]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは。STORES でエンジニアをしているmochizukiです。 Webアプリケーションの開発では、外部システムと連携した機能を実装することがあると思います。 例えばAPIで外部システムのリソースを取得したり、Webhookで通知を受け取ったりして、業務ロジックに組み込むようなケースです。 このような開発を行う上で、「取得した情報をどう扱うか」は重要な論点の一つです。 少し分解すると、「取得した情報をこちらのシステムでも保持するのか」「保持するならどのような形で持つのか」といったことを考える必要があります。 私は今回、外部リソースの"状態"を「上書きして持つ」のではなく、受け…]]></content>
+        <published>2025-12-25T09:42:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[データで見る、24卒×25卒のUIリニューアルふりかえり対談 | PR TIMES 開発者ブログ]]></title>
+        <id>https://developers.prtimes.jp/?p=9371</id>
+        <link href="https://developers.prtimes.jp/2025/12/25/grad_24_25_dev_reflection/"/>
+        <updated>2025-12-25T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、バックエンドエンジニアの中山です。 PR TIMESは今年、企業向け管理画面のUIリニューアルを行いました。リニューアルと並行して他の開発も進める中で、立ち上がりのつまずきや、レビュー・AI活用の変化、直近の […]]]></summary>
+        <content type="html"><![CDATA[こんにちは、バックエンドエンジニアの中山です。 PR TIMESは今年、企業向け管理画面のUIリニューアルを行いました。リニューアルと並行して他の開発も進める中で、立ち上がりのつまずきや、レビュー・AI活用の変化、直近の […]]]></content>
+        <author>
+            <name>shunpei</name>
+        </author>
+        <category label="データ分析"/>
+        <category label="開発"/>
+        <category label="未分類"/>
+        <category label="PHP"/>
+        <category label="React"/>
+        <published>2025-12-25T08:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【高校生が奮闘】デジタル推進委員の取組に密着 | デジタル庁ニュース一覧]]></title>
+        <id>a6709cfd-e6af-4950-af1a-7ed659e7b6a3</id>
+        <link href="https://digital-agency-news.digital.go.jp/articles/2025-12-25"/>
+        <updated>2025-12-25T06:00:00.000Z</updated>
+        <author>
+            <name>デジタル庁</name>
+        </author>
+        <category label=""/>
+        <published>2025-12-25T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロと読み解くRuby 4.0 NEWS | STORES Product Blog]]></title>
+        <id>https://product.st.inc/entry/2025/12/25/134932</id>
+        <link href="https://product.st.inc/entry/2025/12/25/134932"/>
+        <updated>2025-12-25T04:49:32.000Z</updated>
+        <summary type="html"><![CDATA[プロと読み解くRuby 4.0 NEWS テクノロジー部門技術推進グループの笹田（ko1）と遠藤（mame）です。Ruby (MRI: Matz Ruby Implementation、いわゆる ruby コマンド) の開発をしています。お金をもらって Ruby を開発しているのでプロの Ruby コミッタです。 本日 12/25 に、恒例のクリスマスリリースとして、Ruby 4.0.0 がリリー]]></summary>
+        <content type="html"><![CDATA[プロと読み解くRuby 4.0 NEWS テクノロジー部門技術推進グループの笹田（ko1）と遠藤（mame）です。Ruby (MRI: Matz Ruby Implementation、いわゆる ruby コマンド) の開発をしています。お金をもらって Ruby を開発しているのでプロの Ruby コミッタです。 本日 12/25 に、恒例のクリスマスリリースとして、Ruby 4.0.0 がリリースされました（Ruby 4.0.0 リリース | Ruby）。今年も STORES Product Blog にて Ruby 4.0 の NEWS.md ファイルの解説をします（ちなみに、STORES…]]></content>
+        <published>2025-12-25T04:49:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruby::Box ダイジェスト紹介（Ruby 4.0.0 新機能） | STORES Product Blog]]></title>
+        <id>https://product.st.inc/entry/2025/12/25/134453</id>
+        <link href="https://product.st.inc/entry/2025/12/25/134453"/>
+        <updated>2025-12-25T04:44:53.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、遠藤（@mametter）です。 Ruby 4.0.0 では Ruby::Box が導入されました（[Feature #21311]）。 Ruby::Box は導入提案時には Namespace と呼ばれていたもので、Matz が「Namespace か ZJIT が入れば次のリリースを Ruby 4.0.0 とする」と RubyKaigi などで宣言していたくらい、肝いりの機能です。]]></summary>
+        <content type="html"><![CDATA[こんにちは、遠藤（@mametter）です。 Ruby 4.0.0 では Ruby::Box が導入されました（[Feature #21311]）。 Ruby::Box は導入提案時には Namespace と呼ばれていたもので、Matz が「Namespace か ZJIT が入れば次のリリースを Ruby 4.0.0 とする」と RubyKaigi などで宣言していたくらい、肝いりの機能です。 ということで「なにやらすごい機能」という雰囲気だけは知っている人もいるかもしれませんが、実際のところ何ができるか、現状はどうか、は知らない人がほとんどだと思います。 そこで、遠藤が Ruby::Bo…]]></content>
+        <published>2025-12-25T04:44:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 紅白vsプログラミング！？年末年始はプログラミングクイズで過ごしませんか | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/crazy-programming</id>
+        <link href="https://www.m3tech.blog/entry/crazy-programming"/>
+        <updated>2025-12-25T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[今期は『SANDA』を推して観ていました、エムスリー株式会社 VPoEの河合(@vaaaaanquish)です。 サンタクロースをテーマにしているだけに「信じる」について改めて考えさせられる良いストーリーでした。最終回グッと来ましたね。 年末年始は、アニメも多くがお休み期間。皆さんはどう過ごす予定でしょうか？ 「今年は年末年始何しようかな…」という皆さんのために、エムスリーのギークなエンジニア達が]]></summary>
+        <content type="html"><![CDATA[今期は『SANDA』を推して観ていました、エムスリー株式会社 VPoEの河合(@vaaaaanquish)です。 サンタクロースをテーマにしているだけに「信じる」について改めて考えさせられる良いストーリーでした。最終回グッと来ましたね。 年末年始は、アニメも多くがお休み期間。皆さんはどう過ごす予定でしょうか？ 「今年は年末年始何しようかな…」という皆さんのために、エムスリーのギークなエンジニア達が作成したプログラミングクイズをまとめましたので、本記事ではそちらを紹介しようかなと思います。 娘と一緒に部屋の壁に絵を描いた時の写真、crazyですが本文には関係ありません Crazy Program…]]></content>
+        <published>2025-12-25T03:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RDS の CPU 使用率上昇に対する原因調査と改善対応 | PR TIMES 開発者ブログ]]></title>
+        <id>https://developers.prtimes.jp/?p=9333</id>
+        <link href="https://developers.prtimes.jp/2025/12/25/rds-cpu-usage-investigation-and-optimization/"/>
+        <updated>2025-12-25T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、バックエンドエンジニアの田中 湧大 (@Romira915)です。 近頃、PR TIMESのバックエンド基盤においてAmazon RDS for PostgreSQLのCPU使用率が継続的に上昇して […]]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、バックエンドエンジニアの田中 湧大 (@Romira915)です。 近頃、PR TIMESのバックエンド基盤においてAmazon RDS for PostgreSQLのCPU使用率が継続的に上昇して […]]]></content>
+        <author>
+            <name>田中 湧大</name>
+        </author>
+        <category label="インフラ"/>
+        <category label="開発"/>
+        <category label="AWS"/>
+        <category label="RDS"/>
+        <category label="SQL"/>
+        <published>2025-12-25T02:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[uv-init-demos | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Dec/24/uv-init-demos/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Dec/24/uv-init-demos/#atom-everything"/>
+        <updated>2025-12-24T22:05:23.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://github.com/simonw/uv-init-demos"&amp;gt;uv-init-demos&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;code&amp;gt;uv&amp;lt;/code&amp;gt; has a useful &amp;lt;code&amp;gt;uv init&amp;lt;/code&amp;gt; command for setting up new Python projects, but it comes w]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://github.com/simonw/uv-init-demos"&amp;gt;uv-init-demos&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;code&amp;gt;uv&amp;lt;/code&amp;gt; has a useful &amp;lt;code&amp;gt;uv init&amp;lt;/code&amp;gt; command for setting up new Python projects, but it comes with a bunch of different options like &amp;lt;code&amp;gt;--app&amp;lt;/code&amp;gt; and &amp;lt;code&amp;gt;--package&amp;lt;/code&amp;gt; and &amp;lt;code&amp;gt;--lib&amp;lt;/code&amp;gt; and I wasn't sure how they differed.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;So I created this GitHub repository which demonstrates all of those options, generated using this &amp;lt;a href="https://github.com/simonw/uv-init-demos/blo]]></content>
+        <published>2025-12-24T22:05:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toggle `position: sticky` to `position: fixed` on Scroll | Frontend Masters Boost RSS Feed]]></title>
+        <id>https://frontendmasters.com/blog/?p=8090</id>
+        <link href="https://frontendmasters.com/blog/toggle-position-sticky-to-position-fixed-on-scroll/"/>
+        <updated>2025-12-24T14:41:32.000Z</updated>
+        <summary type="html"><![CDATA[Fixed and sticky positioning behave very differently, but we can switch between the two at exact points for some unusual looking effects.]]></summary>
+        <content type="html"><![CDATA[Fixed and sticky positioning behave very differently, but we can switch between the two at exact points for some unusual looking effects.]]></content>
+        <author>
+            <name>Preethi Sam</name>
+        </author>
+        <category label="Blog Post"/>
+        <category label="CSS"/>
+        <category label="Sticky"/>
+        <published>2025-12-24T14:41:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TTFB doesn’t mean what you think it means | Web Performance Calendar]]></title>
+        <id>https://calendar.perfplanet.com/?p=3080</id>
+        <link href="https://calendar.perfplanet.com/2025/ttfb-doesnt-mean-what-you-think-it-means/"/>
+        <updated>2025-12-24T12:55:14.000Z</updated>
+        <summary type="html"><![CDATA[Time-To-First-Byte (TTFB) is a popular performance metric, yet there are many problems and nuances with it. Not only does it have several different definitions, it is usually also a “compound” metric,]]></summary>
+        <content type="html"><![CDATA[Time-To-First-Byte (TTFB) is a popular performance metric, yet there are many problems and nuances with it. Not only does it have several different definitions, it is usually also a “compound” metric, comprised of many subparts. To make matters worse, several of those subparts are frequently zero or non-existent, often making it difficult to (meaningfully) compare […]]]></content>
+        <author>
+            <name>Robin Marx</name>
+        </author>
+        <category label="performance"/>
+        <published>2025-12-24T12:55:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テキストエディタで愛用しているカスタムショートカットたち | newmo 技術ブログ]]></title>
+        <id>https://tech.newmo.me/entry/text-editor-daisuki</id>
+        <link href="https://tech.newmo.me/entry/text-editor-daisuki"/>
+        <updated>2025-12-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、newmo の 伊藤 です。 この記事では、筆者が特に工夫して設定しているテキストエディタのカスタムショートカットについて、周辺ツールの利用例を交えて紹介します。 記事で紹介する内容は、特定のテキストエディタには依存しないものとなっているので、アイディアや考え方はどのテキストエディタを使っている方にも参考にしていただけると思います。 目次 目次 はじめに ファイルの列挙 → 絞り込み ]]></summary>
+        <content type="html"><![CDATA[こんにちは、newmo の 伊藤 です。 この記事では、筆者が特に工夫して設定しているテキストエディタのカスタムショートカットについて、周辺ツールの利用例を交えて紹介します。 記事で紹介する内容は、特定のテキストエディタには依存しないものとなっているので、アイディアや考え方はどのテキストエディタを使っている方にも参考にしていただけると思います。 目次 目次 はじめに ファイルの列挙 → 絞り込み → 開く ファイルの全文検索 → 絞り込み → 開く Language Server Protocol（LSP）関連 編集中のファイルが属しているディレクトリ内のシンボルの列挙 → 絞り込み → 開く…]]></content>
+        <published>2025-12-24T10:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pmconf 2025 大阪登壇、東京参加と参考になったセッションを振り返るなど。 | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/pmconf2025-osaka-retrospective</id>
+        <link href="https://www.m3tech.blog/entry/pmconf2025-osaka-retrospective"/>
+        <updated>2025-12-24T09:53:25.000Z</updated>
+        <summary type="html"><![CDATA[皆さんこんにちは、こんばんは。今週月曜日に、3年ちょい使った会社のM1 MacBook Proの日本語キーボードからM4 MacBook Proのいまさら英語キーボードに乗り換えたら、指がつりそうなエムスリー取締役CPO/CAIOの山崎です。でも39年使い続けたJIS配列からANSI配列に2日で完全に慣れた人間の脳の学習能力にびっくりしています*1。たまに「a」打とうとしてCapslock打ってし]]></summary>
+        <content type="html"><![CDATA[皆さんこんにちは、こんばんは。今週月曜日に、3年ちょい使った会社のM1 MacBook Proの日本語キーボードからM4 MacBook Proのいまさら英語キーボードに乗り換えたら、指がつりそうなエムスリー取締役CPO/CAIOの山崎です。でも39年使い続けたJIS配列からANSI配列に2日で完全に慣れた人間の脳の学習能力にびっくりしています*1。たまに「a」打とうとしてCapslock打ってしまったり、「1」を打とうとして「`」打ったり、エンター打とうとして「\」打ったりしていますが、すぐにこれも慣れるでしょう。あと、「@」と「:」の入力にシフトが必要なのも不便ですが、英語キーボードのカッ…]]></content>
+        <published>2025-12-24T09:53:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年12月24日 コンポーネント/ファイルアップロード／ドロップエリアページ更新情報 | デジタル庁デザインシステムβ版]]></title>
+        <id>https://design.digital.go.jp/dads/components/file-upload/rev1</id>
+        <link href="https://design.digital.go.jp/dads/components/file-upload/"/>
+        <updated>2025-12-24T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[初版公開]]></summary>
+        <content type="html"><![CDATA[初版公開]]></content>
+        <published>2025-12-24T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年12月24日 コンポーネント/カルーセルページ更新情報 | デジタル庁デザインシステムβ版]]></title>
+        <id>https://design.digital.go.jp/dads/components/carousel/rev1</id>
+        <link href="https://design.digital.go.jp/dads/components/carousel/"/>
+        <updated>2025-12-24T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[初版公開]]></summary>
+        <content type="html"><![CDATA[初版公開]]></content>
+        <published>2025-12-24T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年12月24日 デザインデータ（Figma）v2.10.0を公開しました。 | デジタル庁デザインシステムβ版]]></title>
+        <id>https://design.digital.go.jp/dads/2025122401</id>
+        <link href="https://design.digital.go.jp/dads/"/>
+        <updated>2025-12-24T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[詳細はウェブサイトにアクセスしてご確認ください。]]></summary>
+        <content type="html"><![CDATA[詳細はウェブサイトにアクセスしてご確認ください。]]></content>
+        <published>2025-12-24T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruby on Rails と Spring に実務で携わっての開発体験の比較 | STORES Product Blog]]></title>
+        <id>https://product.st.inc/entry/2025/12/24/165137</id>
+        <link href="https://product.st.inc/entry/2025/12/24/165137"/>
+        <updated>2025-12-24T07:51:37.000Z</updated>
+        <summary type="html"><![CDATA[Ruby on Rails と Spring に実務で携わっての開発体験の比較 RailsエンジニアとしてWebアプリケーション開発を続けてきた自分が、 はじめて本格的に Springのプロダクトに参加しました。 この記事では Rails, Spring のフレームワークの解説はせず、 Rails と Springをどちらも実務で使ったうえで、「結果的にコードを書くうえでどんな快適さを感じたか？」]]></summary>
+        <content type="html"><![CDATA[Ruby on Rails と Spring に実務で携わっての開発体験の比較 RailsエンジニアとしてWebアプリケーション開発を続けてきた自分が、 はじめて本格的に Springのプロダクトに参加しました。 この記事では Rails, Spring のフレームワークの解説はせず、 Rails と Springをどちらも実務で使ったうえで、「結果的にコードを書くうえでどんな快適さを感じたか？」を比較します。 言語やフレームワークの思想批評ではなく、開発体験の個人的な実感として読んで頂けますとありがたいです。 Rails の開発体験 1. rails console による動かしながら理解で…]]></content>
+        <published>2025-12-24T07:51:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 Report: Destructive Malware in Open Source Packages | Socket]]></title>
+        <id>https://socket.dev/blog/2025-report-destructive-malware-in-open-source-packages</id>
+        <link href="https://socket.dev/blog/2025-report-destructive-malware-in-open-source-packages"/>
+        <updated>2025-12-24T06:24:14.768Z</updated>
+        <summary type="html"><![CDATA[Destructive malware is rising across open source registries, using delays and kill switches to wipe code, break builds, and disrupt CI/CD.]]></summary>
+        <content type="html"><![CDATA[Destructive malware is rising across open source registries, using delays and kill switches to wipe code, break builds, and disrupt CI/CD.]]></content>
+        <published>2025-12-24T06:24:14.768Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DroidKaigi 2025に登壇しました！振り返り！！ | STORES Product Blog]]></title>
+        <id>https://product.st.inc/entry/2025/12/24/140618</id>
+        <link href="https://product.st.inc/entry/2025/12/24/140618"/>
+        <updated>2025-12-24T05:06:18.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、STORES 決済のAndroidアプリを開発しているchukaです。 12月ももう残りわずかですね…！ 今回は、今年あった個人的最大の出来事、DroidKaigi 2025登壇について振り返っていきたいと思います！ はじめに 私はDroidKaigi 2025で「はじめてのMaterial3 Expressive」というセッションで登壇させていただきました。 本記事では、CfSを考え]]></summary>
+        <content type="html"><![CDATA[こんにちは、STORES 決済のAndroidアプリを開発しているchukaです。 12月ももう残りわずかですね…！ 今回は、今年あった個人的最大の出来事、DroidKaigi 2025登壇について振り返っていきたいと思います！ はじめに 私はDroidKaigi 2025で「はじめてのMaterial3 Expressive」というセッションで登壇させていただきました。 本記事では、CfSを考える上で大変だったこと、資料を作る上で大変だったことについて述べます。 DroidKaigi 2025までのタイムライン CfS募集〜DroidKaigi 2025当日までのタイムラインは以下のようにな…]]></content>
+        <published>2025-12-24T05:06:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[複数端末間でのリアルタイム・ステータス同期の機能開発 | STORES Product Blog]]></title>
+        <id>https://product.st.inc/entry/2025/12/24/140000</id>
+        <link href="https://product.st.inc/entry/2025/12/24/140000"/>
+        <updated>2025-12-24T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[メリークリスマス！Android エンジニアの naberyo（@error96num）です。 この記事は STORES Advent Calendar 2025 の 24 日目の記事です。 私が現在開発に携わっている STORES モバイルオーダー では、この1年間で多くの機能をリリースしてきました。イートイン対応をはじめとした大規模な機能拡張により、さまざまな飲食店でご利用いただけるサービスに]]></summary>
+        <content type="html"><![CDATA[メリークリスマス！Android エンジニアの naberyo（@error96num）です。 この記事は STORES Advent Calendar 2025 の 24 日目の記事です。 私が現在開発に携わっている STORES モバイルオーダー では、この1年間で多くの機能をリリースしてきました。イートイン対応をはじめとした大規模な機能拡張により、さまざまな飲食店でご利用いただけるサービスになっています。 このアップデートについては次の記事で触れられています。 product.st.inc 機能アップデートの過程で、私たちは技術的課題を一つ一つ解決してきました。今回の記事では、その中の一…]]></content>
+        <published>2025-12-24T05:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engineering with AI Podcast: The Promise of AI-First Development | Socket]]></title>
+        <id>https://socket.dev/blog/engineering-with-ai-podcast-the-promise-of-ai-first-development</id>
+        <link href="https://socket.dev/blog/engineering-with-ai-podcast-the-promise-of-ai-first-development"/>
+        <updated>2025-12-24T04:52:38.057Z</updated>
+        <summary type="html"><![CDATA[Socket CTO Ahmad Nassri shares practical AI coding techniques, tools, and team workflows, plus what still feels noisy and why shipping remains human-led.]]></summary>
+        <content type="html"><![CDATA[Socket CTO Ahmad Nassri shares practical AI coding techniques, tools, and team workflows, plus what still feels noisy and why shipping remains human-led.]]></content>
+        <published>2025-12-24T04:52:38.057Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[育休中の過ごし方と、育休前後の働き方の変化について | STORES Product Blog]]></title>
+        <id>https://product.st.inc/entry/2025/12/24/125917</id>
+        <link href="https://product.st.inc/entry/2025/12/24/125917"/>
+        <updated>2025-12-24T03:59:17.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。STORES でBPRアーキテクチャグループでエンジニアをしているみなみ(nannany)です。 2025年4月に第一子が産まれました。そのため、今年4月から育児休暇を取得し、2025年10月に復帰しました。つまり、育休を6ヶ月いただきました。 育休、育休後の働き方について、エンジニア職をしている方にとって気になることはなんでしょうか？ 育休中に技術をキャッチアップする時間は]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは。STORES でBPRアーキテクチャグループでエンジニアをしているみなみ(nannany)です。 2025年4月に第一子が産まれました。そのため、今年4月から育児休暇を取得し、2025年10月に復帰しました。つまり、育休を6ヶ月いただきました。 育休、育休後の働き方について、エンジニア職をしている方にとって気になることはなんでしょうか？ 育休中に技術をキャッチアップする時間は取れるのか？ 復帰後の働き方はどうなるのか？ などがあると思います。その心配に対して、答えを出すことはできませんが、N=1の体験談を記せたらと思い記事を執筆しています。 エクスキューズとして、私自身ま…]]></content>
+        <published>2025-12-24T03:59:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STORES Tech Conf 2025 参加レポートまとめ | STORES Product Blog]]></title>
+        <id>https://product.st.inc/entry/2025/12/24/123547</id>
+        <link href="https://product.st.inc/entry/2025/12/24/123547"/>
+        <updated>2025-12-24T03:35:47.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、技術広報のえんじぇるです。 2025年11月26日にSTORES Tech Conf 2025 “What Would You Do?” を開催しました！ STORES Tech Conf 2025 “What Would You Do?” 開催レポート - STORES Product Blog 今回のSTORES Tech Confでは、学生のみなさんが参加しやすいように学生向け参]]></summary>
+        <content type="html"><![CDATA[こんにちは、技術広報のえんじぇるです。 2025年11月26日にSTORES Tech Conf 2025 “What Would You Do?” を開催しました！ STORES Tech Conf 2025 “What Would You Do?” 開催レポート - STORES Product Blog 今回のSTORES Tech Confでは、学生のみなさんが参加しやすいように学生向け参加支援を実施しました。 STORES Tech Conf 2025 “What Would You Do?” を2025年11月26日（水）に開催＆学生向け参加支援をします - STORES Prod…]]></content>
+        <published>2025-12-24T03:35:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SFA環境を1つのSalesforceに統合する際のデータ移行時に考慮したこと | STORES Product Blog]]></title>
+        <id>https://product.st.inc/entry/2025/12/24/110535</id>
+        <link href="https://product.st.inc/entry/2025/12/24/110535"/>
+        <updated>2025-12-24T02:05:35.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、データ本部でデータエンジニアをやっている@takaHALです。 STORES では2025年8月、これまで2つ存在していたSalesforce組織と7個のkintoneアプリを、1つのSalesforce組織に統合しました。 今回は、この組織統合プロジェクトにおいて発生した データ移行 に関する技術的な考慮事項やハマりポイントを紹介します。 移行方法について 今回の移行対象と]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、データ本部でデータエンジニアをやっている@takaHALです。 STORES では2025年8月、これまで2つ存在していたSalesforce組織と7個のkintoneアプリを、1つのSalesforce組織に統合しました。 今回は、この組織統合プロジェクトにおいて発生した データ移行 に関する技術的な考慮事項やハマりポイントを紹介します。 移行方法について 今回の移行対象となるオブジェクトは以下の通りです。 Account Campaign CampaignMember Case Contact EmailMessage Event Lead Opportunity O…]]></content>
+        <published>2025-12-24T02:05:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[変わらないサービスから、変えていけるサービスへ ──「そのままにしない」を続けてきた4年半 | PR TIMES 開発者ブログ]]></title>
+        <id>https://developers.prtimes.jp/?p=9320</id>
+        <link href="https://developers.prtimes.jp/2025/12/24/cto_activities_2025/"/>
+        <updated>2025-12-24T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PR TIMESでCTOをやっている金子 (@catatsuy) です。 2021年4月にPR TIMESに入社してから、4年半が過ぎました。 入社当時のPR TIMESは、2016年のリニューアルリリース以降、ユーザー […]]]></summary>
+        <content type="html"><![CDATA[PR TIMESでCTOをやっている金子 (@catatsuy) です。 2021年4月にPR TIMESに入社してから、4年半が過ぎました。 入社当時のPR TIMESは、2016年のリニューアルリリース以降、ユーザー […]]]></content>
+        <author>
+            <name>金子 達哉</name>
+        </author>
+        <category label="インフラ"/>
+        <category label="チーム体制"/>
+        <category label="プロダクト"/>
+        <category label="マネジメント"/>
+        <category label="開発"/>
+        <published>2025-12-24T01:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is New In Ruby 4.0 | Saeloun Blog]]></title>
+        <id>https://blog.saeloun.com/2025/12/24/what-is-new-in-ruby-4/</id>
+        <link href="https://blog.saeloun.com/2025/12/24/what-is-new-in-ruby-4/"/>
+        <updated>2025-12-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ruby 4.0 is here, releasing on Christmas Day 2025, marking 30 years since Ruby’s first public release.This release packs some genuinely exciting features.Let’s explore the most impactful changes in Ru]]></summary>
+        <content type="html"><![CDATA[Ruby 4.0 is here, releasing on Christmas Day 2025, marking 30 years since Ruby’s first public release.This release packs some genuinely exciting features.Let’s explore the most impactful changes in Ruby 4.0.ZJIT - A New JIT CompilerRuby 4.0 introduces ZJIT, a new just in time compiler built by the same team behind YJIT.Unlike YJIT’s lazy basic block versioning approach, ZJIT uses a more traditional method based compilation strategy.The key difference?ZJIT is designed to be more accessible to con]]></content>
+        <published>2025-12-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strengthening supply chain security: Preparing for the next malware campaign | The GitHub Blog]]></title>
+        <id>https://github.blog/?p=93091</id>
+        <link href="https://github.blog/security/supply-chain-security/strengthening-supply-chain-security-preparing-for-the-next-malware-campaign/"/>
+        <updated>2025-12-23T23:52:08.000Z</updated>
+        <summary type="html"><![CDATA[Security advice for users and maintainers to help reduce the impact of the next supply chain malware attack.The post Strengthening supply chain security: Preparing for the next malware campaign appear]]></summary>
+        <content type="html"><![CDATA[Security advice for users and maintainers to help reduce the impact of the next supply chain malware attack.The post Strengthening supply chain security: Preparing for the next malware campaign appeared first on The GitHub Blog.]]></content>
+        <author>
+            <name>Madison Oliver</name>
+        </author>
+        <category label="Security"/>
+        <category label="Supply chain security"/>
+        <category label="GitHub Security Lab"/>
+        <category label="npm"/>
+        <category label="supply chain security"/>
+        <published>2025-12-23T23:52:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quoting Salvatore Sanfilippo | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Dec/23/salvatore-sanfilippo/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Dec/23/salvatore-sanfilippo/#atom-everything"/>
+        <updated>2025-12-23T23:03:00.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;blockquote cite="https://news.ycombinator.com/item?id=46367224#46368706"&amp;gt;&amp;lt;p&amp;gt;If this [MicroQuickJS] had been available in 2010, Redis scripting would have been JavaScript and not Lua. Lua was chosen ]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;blockquote cite="https://news.ycombinator.com/item?id=46367224#46368706"&amp;gt;&amp;lt;p&amp;gt;If this [MicroQuickJS] had been available in 2010, Redis scripting would have been JavaScript and not Lua. Lua was chosen based on the implementation requirements, not on the language ones... (small, fast, ANSI-C). I appreciate certain ideas in Lua, and people love it, but I was never able to &amp;lt;em&amp;gt;like&amp;lt;/em&amp;gt; Lua, because it departs from a more Algol-like syntax and semantics without good reasons, for my taste. This creat]]></content>
+        <published>2025-12-23T23:03:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MicroQuickJS | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Dec/23/microquickjs/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Dec/23/microquickjs/#atom-everything"/>
+        <updated>2025-12-23T20:53:40.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://github.com/bellard/mquickjs"&amp;gt;MicroQuickJS&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;New project from programming legend Fabrice Bellard, of ffmpeg and QEMU and QuickJS and &amp;lt;a href="https://bellard.]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://github.com/bellard/mquickjs"&amp;gt;MicroQuickJS&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;New project from programming legend Fabrice Bellard, of ffmpeg and QEMU and QuickJS and &amp;lt;a href="https://bellard.org"&amp;gt;so much more&amp;lt;/a&amp;gt; fame:&amp;lt;/p&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;MicroQuickJS (aka. MQuickJS) is a Javascript engine targetted at embedded systems. It compiles and runs Javascript programs with as low as 10 kB of RAM. The whole engine requires about 100 kB of ROM (ARM Thumb-2 code) including the C library. The speed i]]></content>
+        <published>2025-12-23T20:53:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spearphishing Campaign Abuses npm Registry to Target U.S. and Allied Manufacturing and Healthcare Organizations | Socket]]></title>
+        <id>https://socket.dev/blog/spearphishing-campaign-abuses-npm-registry</id>
+        <link href="https://socket.dev/blog/spearphishing-campaign-abuses-npm-registry"/>
+        <updated>2025-12-23T16:05:48.134Z</updated>
+        <summary type="html"><![CDATA[A five-month operation turned 27 npm packages into durable hosting for browser-run lures that mimic document-sharing portals and Microsoft sign-in, targeting 25 organizations across manufacturing, ind]]></summary>
+        <content type="html"><![CDATA[A five-month operation turned 27 npm packages into durable hosting for browser-run lures that mimic document-sharing portals and Microsoft sign-in, targeting 25 organizations across manufacturing, industrial automation, plastics, and healthcare for credential theft.]]></content>
+        <published>2025-12-23T16:05:48.134Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thank You (2025 Edition) | CSS-Tricks]]></title>
+        <id>https://css-tricks.com/?p=391203</id>
+        <link href="https://css-tricks.com/thank-you-2025-edition/"/>
+        <updated>2025-12-23T15:52:53.000Z</updated>
+        <summary type="html"><![CDATA[This is the best job I've had in my life and it's only possible because you keep showing up each day to read, learn, share, and discuss all-things-front-end (and a little CSS, of course) with us.Thank]]></summary>
+        <content type="html"><![CDATA[This is the best job I've had in my life and it's only possible because you keep showing up each day to read, learn, share, and discuss all-things-front-end (and a little CSS, of course) with us.Thank You (2025 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></content>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+        <category label="Articles"/>
+        <published>2025-12-23T15:52:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixing the URL params performance penalty | Web Performance Calendar]]></title>
+        <id>https://calendar.perfplanet.com/?p=3154</id>
+        <link href="https://calendar.perfplanet.com/2025/fixing-the-url-params-performance-penalty/"/>
+        <updated>2025-12-23T13:41:11.000Z</updated>
+        <summary type="html"><![CDATA[Tales of two pages… What’s the difference between these two pages?: https://www.example.com/ https://www.example.com/?utm_source=email I mean they’ve got different URLs, but many of us would probably ]]></summary>
+        <content type="html"><![CDATA[Tales of two pages… What’s the difference between these two pages?: https://www.example.com/ https://www.example.com/?utm_source=email I mean they’ve got different URLs, but many of us would probably guess that that utm_source URL query parameters (or “URL params” or “search params” as it’s sometimes known) is not meaningful to the page contents and is more used for analytics […]]]></content>
+        <author>
+            <name>Barry Pollard</name>
+        </author>
+        <category label="performance"/>
+        <published>2025-12-23T13:41:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel Portraits: AI generated trading cards | Vercel News]]></title>
+        <id>https://vercel.com/blog/pixel-portraits-ai-generated-trading-cards</id>
+        <link href="https://vercel.com/blog/pixel-portraits-ai-generated-trading-cards"/>
+        <updated>2025-12-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At our recent Next.js Conf and Ship AI events, we introduced an activation that blended technical experimentation with playful nostalgia. The idea started long before anyone stepped into the venue. As]]></summary>
+        <content type="html"><![CDATA[At our recent Next.js Conf and Ship AI events, we introduced an activation that blended technical experimentation with playful nostalgia. The idea started long before anyone stepped into the venue. As part of the online registration experience for both events, attendees could prompt and generate their own trading cards, giving them an early taste of the format and creating the foundation for what we wanted to bring into the real world.Read more]]></content>
+        <published>2025-12-23T13:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giving Users A Voice Through Virtual Personas | Articles on Smashing Magazine — For Web Designers And Developers]]></title>
+        <id>https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/</id>
+        <link href="https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/"/>
+        <updated>2025-12-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.]]></summary>
+        <content type="html"><![CDATA[Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.]]></content>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+        <published>2025-12-23T10:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[正規表現すぐ忘れるのでビジュアルプログラミングツールを作った ~ Blocklyで簡単にビジュアルDSL作ろう ~ | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/blockly</id>
+        <link href="https://www.m3tech.blog/entry/blockly"/>
+        <updated>2025-12-23T08:22:44.000Z</updated>
+        <summary type="html"><![CDATA[皆さん、DSLを作ることってありますか？ 複雑な設定が可能な社内ツールを作るとき、 「DSLを許容したら自由度が上がって素敵では？」 と思うこと、ありますよね。 私個人としては、エンジニア向けのインタフェースとして、DSLで社内ツールを作ると、作る当時は楽しいものの、複雑なことを許容する分保守性に問題がでてくるデメリットも有り、近年は設定はyamlで書ける範囲にすることが多いです。 一方で、非エン]]></summary>
+        <content type="html"><![CDATA[皆さん、DSLを作ることってありますか？ 複雑な設定が可能な社内ツールを作るとき、 「DSLを許容したら自由度が上がって素敵では？」 と思うこと、ありますよね。 私個人としては、エンジニア向けのインタフェースとして、DSLで社内ツールを作ると、作る当時は楽しいものの、複雑なことを許容する分保守性に問題がでてくるデメリットも有り、近年は設定はyamlで書ける範囲にすることが多いです。 一方で、非エンジニア向けに、ロジックをビジュアルなDSLで提供できたら良いなってこともありませんか。 例えばjoinとfilterのみに絞ったデータ集計ツールを作りたい、行動Aをしたあとに行動Bをした一部のユーザー…]]></content>
+        <published>2025-12-23T08:22:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STORESにおけるTROCCOの導入と活用事例 | STORES Product Blog]]></title>
+        <id>https://product.st.inc/entry/2025/12/23/170927</id>
+        <link href="https://product.st.inc/entry/2025/12/23/170927"/>
+        <updated>2025-12-23T08:09:27.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、データ本部のssxotaです。STORES でデータエンジニアをやっています。 STORES のデータ基盤では、2025年7月からデータ転送ツールである TROCCO を導入しました。 今回のブログでは、TROCCO導入の背景、ツール選定の理由、活用事例について紹介します。 なぜTROCCOを導入したのか？ SaaS間のデータ連携におけるデータエンジニアの工数削減 これまでは、各Saa]]></summary>
+        <content type="html"><![CDATA[こんにちは、データ本部のssxotaです。STORES でデータエンジニアをやっています。 STORES のデータ基盤では、2025年7月からデータ転送ツールである TROCCO を導入しました。 今回のブログでは、TROCCO導入の背景、ツール選定の理由、活用事例について紹介します。 なぜTROCCOを導入したのか？ SaaS間のデータ連携におけるデータエンジニアの工数削減 これまでは、各SaaS間のデータ連携について、SaaS側で提供されているAPIに対してPythonやRubyでスクリプトを実装し、ワークフローエンジンとして採用しているArgo Workflows上にポーティングして実行…]]></content>
+        <published>2025-12-23T08:09:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cooking with Claude | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Dec/23/cooking-with-claude/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Dec/23/cooking-with-claude/#atom-everything"/>
+        <updated>2025-12-23T05:01:34.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;I've been having an absurd amount of fun recently using LLMs for cooking. I started out using them for basic recipes, but as I've grown more confident in their culinary abilities I've leaned into ]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;I've been having an absurd amount of fun recently using LLMs for cooking. I started out using them for basic recipes, but as I've grown more confident in their culinary abilities I've leaned into them for more advanced tasks. Today I tried something new: having Claude vibe-code up a custom application to help with the timing for a complicated meal preparation. It worked really well!&amp;lt;/p&amp;gt;&amp;lt;h4 id="a-custom-timing-app-for-two-recipes-at-once"&amp;gt;A custom timing app for two recipes at once&amp;lt;/h4&amp;gt;&amp;lt;p&amp;gt;We ]]></content>
+        <published>2025-12-23T05:01:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 26 で SwiftUI の ナビゲーションが壊れた - 非推奨 API が抱えていたリスク -  | STORES Product Blog]]></title>
+        <id>https://product.st.inc/entry/2025/12/23/100000</id>
+        <link href="https://product.st.inc/entry/2025/12/23/100000"/>
+        <updated>2025-12-23T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、@marcy731 です。 STORES レジ のモバイルチームのマネージャー兼iOSエンジニアをしています。 この記事は STORES Advent Calendar 2025 の 19 日目の記事です。 stores.fun STORES レジ は、2019/9/11 にファーストコミットされ、 2021/06/15 に正式リリースされた iPad 向け POS レジアプ]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、@marcy731 です。 STORES レジ のモバイルチームのマネージャー兼iOSエンジニアをしています。 この記事は STORES Advent Calendar 2025 の 19 日目の記事です。 stores.fun STORES レジ は、2019/9/11 にファーストコミットされ、 2021/06/15 に正式リリースされた iPad 向け POS レジアプリです。 www.st.inc 実装初期から フル SwiftUI で開発されており、当時としてはかなり挑戦的な技術選択でした。 2019 年当時の SwiftUI は、まだ登場したばかりで、 API…]]></content>
+        <published>2025-12-23T01:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 podcast episodes to help you build with confidence in 2026 | The GitHub Blog]]></title>
+        <id>https://github.blog/?p=93068</id>
+        <link href="https://github.blog/open-source/maintainers/5-podcast-episodes-to-help-you-build-with-confidence-in-2026/"/>
+        <updated>2025-12-23T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking ahead to the New Year? These GitHub Podcast episodes help you cut through the noise and build with more confidence across AI, open source, and developer tools.The post 5 podcast episodes to he]]></summary>
+        <content type="html"><![CDATA[Looking ahead to the New Year? These GitHub Podcast episodes help you cut through the noise and build with more confidence across AI, open source, and developer tools.The post 5 podcast episodes to help you build with confidence in 2026 appeared first on The GitHub Blog.]]></content>
+        <author>
+            <name>Cassidy Williams</name>
+        </author>
+        <category label="Maintainers"/>
+        <category label="Open Source"/>
+        <category label="GitHub Podcast"/>
+        <category label="open source"/>
+        <published>2025-12-23T00:15:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[あなたが支払ったタクシー料金は、どうやって乗務員の給料になるのか | newmo 技術ブログ]]></title>
+        <id>https://tech.newmo.me/entry/2025/12/23/090000</id>
+        <link href="https://tech.newmo.me/entry/2025/12/23/090000"/>
+        <updated>2025-12-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[newmoでソフトウェアエンジニアとして働いている @nozomuikuta です。この記事では、12月17日に投稿された「タクシーの給与計算のDX」の記事に関連して、あなたがタクシーの乗客として支払った料金が、タクシー乗務員に給料として支払われるまでの全体像を、特にnewmoグループである株式会社未来都を例に説明します。 tech.newmo.me 売上の発生 みなさんがタクシーに乗車する際、料]]></summary>
+        <content type="html"><![CDATA[newmoでソフトウェアエンジニアとして働いている @nozomuikuta です。この記事では、12月17日に投稿された「タクシーの給与計算のDX」の記事に関連して、あなたがタクシーの乗客として支払った料金が、タクシー乗務員に給料として支払われるまでの全体像を、特にnewmoグループである株式会社未来都を例に説明します。 tech.newmo.me 売上の発生 みなさんがタクシーに乗車する際、料金の支払い方には大きく分けて２つの方法があります。 ひとつは「現金支払い」で、その名のとおり、車内で現金により支払いをおこなう方法です。もうひとつは「未収」と呼ばれる現金支払い以外の方法であり、車載決…]]></content>
+        <published>2025-12-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WorkOS 2025: A Year in Review | WorkOS Blog]]></title>
+        <id>https://workos.com/blog/workos-2025-year-in-review</id>
+        <link href="https://workos.com/blog/workos-2025-year-in-review"/>
+        <updated>2025-12-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2025 was a landmark year for WorkOS. We grew our team, expanded our community, shipped relentlessly, and helped thousands of developers build enterprise-ready applications.]]></summary>
+        <content type="html"><![CDATA[2025 was a landmark year for WorkOS. We grew our team, expanded our community, shipped relentlessly, and helped thousands of developers build enterprise-ready applications.]]></content>
+        <published>2025-12-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コラム：2025年を終えて / 東﨑 | Mitsue-Links [ミツエーリンクス]]]></title>
+        <id>https://www.mitsue.co.jp/knowledge/column/20251223.html</id>
+        <link href="https://www.mitsue.co.jp/knowledge/column/20251223.html"/>
+        <updated>2025-12-23T00:00:00.000Z</updated>
+        <published>2025-12-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社会貢献活動：トライデントコンピューター専門学校でWebアクセシビリティの出張授業を実施 | Mitsue-Links [ミツエーリンクス]]]></title>
+        <id>https://www.mitsue.co.jp/company/csr/social/activities/index.html</id>
+        <link href="https://www.mitsue.co.jp/company/csr/social/activities/index.html"/>
+        <updated>2025-12-23T00:00:00.000Z</updated>
+        <published>2025-12-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This year’s most influential open source projects | The GitHub Blog]]></title>
+        <id>https://github.blog/?p=93051</id>
+        <link href="https://github.blog/open-source/maintainers/this-years-most-influential-open-source-projects/"/>
+        <updated>2025-12-22T23:48:52.000Z</updated>
+        <summary type="html"><![CDATA[From Appwrite to Zulip, Universe 2025’s Open Source Zone was stacked with standout projects showing just how far open source can go. Meet the maintainers—and if you want to join them in 2026, you can ]]></summary>
+        <content type="html"><![CDATA[From Appwrite to Zulip, Universe 2025’s Open Source Zone was stacked with standout projects showing just how far open source can go. Meet the maintainers—and if you want to join them in 2026, you can now apply for next year’s cohort.The post This year’s most influential open source projects appeared first on The GitHub Blog.]]></content>
+        <author>
+            <name>Lee Reilly</name>
+        </author>
+        <category label="Maintainers"/>
+        <category label="Open Source"/>
+        <category label="GitHub Universe"/>
+        <category label="maintainers"/>
+        <category label="open source"/>
+        <category label="open source community"/>
+        <published>2025-12-22T23:48:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malicious Chrome Extensions “Phantom Shuttle” Masquerade as a VPN to Intercept Traffic and Exfiltrate Credentials | Socket]]></title>
+        <id>https://socket.dev/blog/malicious-chrome-extensions-phantom-shuttle</id>
+        <link href="https://socket.dev/blog/malicious-chrome-extensions-phantom-shuttle"/>
+        <updated>2025-12-22T20:52:58.287Z</updated>
+        <summary type="html"><![CDATA[Fake “Phantom Shuttle” VPN Chrome extensions (active since 2017) hijack proxy auth to intercept traffic and continuously exfiltrate user credentials to attacker infrastructure.]]></summary>
+        <content type="html"><![CDATA[Fake “Phantom Shuttle” VPN Chrome extensions (active since 2017) hijack proxy auth to intercept traffic and continuously exfiltrate user credentials to attacker infrastructure.]]></content>
+        <published>2025-12-22T20:52:58.287Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Claude in Chrome to navigate out the Cloudflare dashboard | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Dec/22/claude-chrome-cloudflare/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Dec/22/claude-chrome-cloudflare/#atom-everything"/>
+        <updated>2025-12-22T16:10:30.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;I just had my first success using a browser agent - in this case the &amp;lt;a href="https://support.claude.com/en/articles/12012173-getting-started-with-claude-in-chrome"&amp;gt;Claude in Chrome extension&amp;lt;/a&amp;gt; ]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;I just had my first success using a browser agent - in this case the &amp;lt;a href="https://support.claude.com/en/articles/12012173-getting-started-with-claude-in-chrome"&amp;gt;Claude in Chrome extension&amp;lt;/a&amp;gt; - to solve an actual problem.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;A while ago I set things up so anything served from the &amp;lt;code&amp;gt;https://static.simonwillison.net/static/cors-allow/&amp;lt;/code&amp;gt; directory of my S3 bucket would have open &amp;lt;code&amp;gt;Access-Control-Allow-Origin: *&amp;lt;/code&amp;gt; headers. This is useful for hosting files online that can]]></content>
+        <published>2025-12-22T16:10:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a dinosaur runner game with Deno, pt. 3 | Deno]]></title>
+        <id>https://deno.com/blog/build-a-game-with-deno-3</id>
+        <link href="https://deno.com/blog/build-a-game-with-deno-3"/>
+        <updated>2025-12-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Adding obstacles, collision detection and game mechanics to our example browser-based game.]]></summary>
+        <content type="html"><![CDATA[Adding obstacles, collision detection and game mechanics to our example browser-based game.]]></content>
+        <published>2025-12-22T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[text-decoration-inset is Like Padding for Text Decorations | CSS-Tricks]]></title>
+        <id>https://css-tricks.com/?p=390681</id>
+        <link href="https://css-tricks.com/text-decoration-inset-is-like-padding-for-text-decorations/"/>
+        <updated>2025-12-22T14:39:52.000Z</updated>
+        <summary type="html"><![CDATA[The text-decoration-inset property solves a problem that we’ve had since the beginning of the web, which is that text decorations such as underlines extend beyond the first and last characters, result]]></summary>
+        <content type="html"><![CDATA[The text-decoration-inset property solves a problem that we’ve had since the beginning of the web, which is that text decorations such as underlines extend beyond the first and last characters, resulting in vertical misalignment.text-decoration-inset is Like Padding for Text Decorations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></content>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+        <category label="Articles"/>
+        <category label="typography"/>
+        <published>2025-12-22T14:39:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Workers powers our internal maintenance scheduling pipeline |  The Cloudflare Blog ]]></title>
+        <id>5pdspiP2m71MeIoVL8wv1i</id>
+        <link href="https://blog.cloudflare.com/building-our-maintenance-scheduler-on-workers/"/>
+        <updated>2025-12-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Physical data center maintenance is risky on a global network. We built a maintenance scheduler on Workers to safely plan disruptive operations, while solving scaling challenges by viewing the state o]]></summary>
+        <content type="html"><![CDATA[Physical data center maintenance is risky on a global network. We built a maintenance scheduler on Workers to safely plan disruptive operations, while solving scaling challenges by viewing the state of our infrastructure through a graph interface on top of multiple data sources and metrics pipelines.]]></content>
+        <author>
+            <name>Kevin Deems</name>
+        </author>
+        <category label="Cloudflare Workers"/>
+        <category label="Reliability"/>
+        <category label="Prometheus"/>
+        <category label="Infrastructure"/>
+        <published>2025-12-22T14:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We removed 80% of our agent’s tools | Vercel News]]></title>
+        <id>https://vercel.com/blog/we-removed-80-percent-of-our-agents-tools</id>
+        <link href="https://vercel.com/blog/we-removed-80-percent-of-our-agents-tools"/>
+        <updated>2025-12-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It got better.We spent months building a sophisticated internal text-to-SQL agent, d0, with specialized tools, heavy prompt engineering, and careful context management. It worked… kind of. But it was ]]></summary>
+        <content type="html"><![CDATA[It got better.We spent months building a sophisticated internal text-to-SQL agent, d0, with specialized tools, heavy prompt engineering, and careful context management. It worked… kind of. But it was fragile, slow, and required constant maintenance.So we tried something different. We deleted most of it and stripped the agent down to a single tool: execute arbitrary bash commands. We call this a file system agent. Claude gets direct access to your files and figures things out using , , and . grep]]></content>
+        <published>2025-12-22T13:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI SDK 6 | Vercel News]]></title>
+        <id>https://vercel.com/blog/ai-sdk-6</id>
+        <link href="https://vercel.com/blog/ai-sdk-6"/>
+        <updated>2025-12-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With over 20 million monthly downloads and adoption by teams ranging from startups to Fortune 500 companies, the is the leading TypeScript toolkit for building AI applications. It provides a unified A]]></summary>
+        <content type="html"><![CDATA[With over 20 million monthly downloads and adoption by teams ranging from startups to Fortune 500 companies, the is the leading TypeScript toolkit for building AI applications. It provides a unified API, allowing you to integrate with any AI provider, and seamlessly integrates with Next.js, React, Svelte, Vue, and Node.js. The AI SDK enables you to build everything from chatbots to complex background agents.AI SDKRead more]]></content>
+        <published>2025-12-22T13:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MiniMax M2.1 now live on Vercel AI Gateway | Vercel News]]></title>
+        <id>https://vercel.com/changelog/minimax-m2-1-now-live-on-vercel-ai-gateway</id>
+        <link href="https://vercel.com/changelog/minimax-m2-1-now-live-on-vercel-ai-gateway"/>
+        <updated>2025-12-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You can now access MiniMax's latest model, M2.1, with Vercel's and no other provider accounts required.AI GatewayMiniMax M2.1 is faster than its predecessor M2, with clear improvements specifically in]]></summary>
+        <content type="html"><![CDATA[You can now access MiniMax's latest model, M2.1, with Vercel's and no other provider accounts required.AI GatewayMiniMax M2.1 is faster than its predecessor M2, with clear improvements specifically in coding use cases and complicated multi-step tasks with tool calls. M2.1 writes higher quality code, is better at following instructions for difficult tasks, and has a cleaner reasoning process. The model has breadth in addition to depth, with improved performance across multiple coding languages (G]]></content>
+        <published>2025-12-22T13:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLM-4.7 available on Vercel AI Gateway | Vercel News]]></title>
+        <id>https://vercel.com/changelog/glm-4-7-available-on-vercel-ai-gateway</id>
+        <link href="https://vercel.com/changelog/glm-4-7-available-on-vercel-ai-gateway"/>
+        <updated>2025-12-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You can now access Z.ai's latest model, GLM-4.7, with Vercel's and no other provider accounts required.AI GatewayGLM-4.7 comes with major improvements in coding, tool usage, and multi-step reasoning, ]]></summary>
+        <content type="html"><![CDATA[You can now access Z.ai's latest model, GLM-4.7, with Vercel's and no other provider accounts required.AI GatewayGLM-4.7 comes with major improvements in coding, tool usage, and multi-step reasoning, especially with complex agentic tasks. The model also has a more natural tone for a better conversational experience and can product a more refined aesthetic for front-end work.To start building with GLM-4.7 via , set the model to :AI SDKzai/glm-4.7AI Gateway provides a unified API for calling model]]></content>
+        <published>2025-12-22T13:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Function start type now available in Runtime Logs | Vercel News]]></title>
+        <id>https://vercel.com/changelog/function-start-type-now-available-in-runtime-logs</id>
+        <link href="https://vercel.com/changelog/function-start-type-now-available-in-runtime-logs"/>
+        <updated>2025-12-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For any request involving a Vercel Function invocation, you can now view the function start type in the right hand details panel of Runtime Logs.A Function invocation can be either: , or . When a Func]]></summary>
+        <content type="html"><![CDATA[For any request involving a Vercel Function invocation, you can now view the function start type in the right hand details panel of Runtime Logs.A Function invocation can be either: , or . When a Function was invoked and it's a start, we also display the cold start duration like: .HotHot (prewarmed)ColdColdCold (280ms) or learn more about .Try it outRuntime LogsRead more]]></content>
+        <published>2025-12-22T13:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVFP4: 4ビットの浮動小数点でLLMを学習する仕組み | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/4bit_float_llm</id>
+        <link href="https://www.m3tech.blog/entry/4bit_float_llm"/>
+        <updated>2025-12-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、AI・機械学習チームの髙橋です。 この記事はエムスリー Advent Calendar 2025 22日目の記事です。前日は同じAI・機械学習チームの鴨田さんによる LLMによって非定形の会話ログを価値あるFAQデータにする話 - エムスリーテックブログでした。 迎賓館赤坂離宮の噴水: 並列処理で射出された水が中央で集約される様子はまるでGPUで行われる行列演算のよう？ はじめに Ch]]></summary>
+        <content type="html"><![CDATA[こんにちは、AI・機械学習チームの髙橋です。 この記事はエムスリー Advent Calendar 2025 22日目の記事です。前日は同じAI・機械学習チームの鴨田さんによる LLMによって非定形の会話ログを価値あるFAQデータにする話 - エムスリーテックブログでした。 迎賓館赤坂離宮の噴水: 並列処理で射出された水が中央で集約される様子はまるでGPUで行われる行列演算のよう？ はじめに ChatGPTが発表された2022年11月30日から3年が経過し、それからというものLLMの話を聞かない日はない世界になりました。 今日ではCoding Agent無しでは生きていけない、という読者も多い…]]></content>
+        <published>2025-12-22T10:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing for 75% is fine. Optimizing for 90% is where it gets interesting | Web Performance Calendar]]></title>
+        <id>https://calendar.perfplanet.com/?p=3148</id>
+        <link href="https://calendar.perfplanet.com/2025/optimizing-for-75-is-fine-optimizing-for-90-is-where-it-gets-interesting/"/>
+        <updated>2025-12-22T09:45:52.000Z</updated>
+        <summary type="html"><![CDATA[Why optimizing on p75 is a starting point. Optimizing for p90 should be our common goal. What is a percentile? The 75th percentile (p75) means 75% of users had an experience that was equal to or bette]]></summary>
+        <content type="html"><![CDATA[Why optimizing on p75 is a starting point. Optimizing for p90 should be our common goal. What is a percentile? The 75th percentile (p75) means 75% of users had an experience that was equal to or better than that value, and 25% were worse. If you work with Core Web Vitals, you live in the […]]]></content>
+        <author>
+            <name>Jordy Scholing</name>
+        </author>
+        <category label="performance"/>
+        <published>2025-12-22T09:45:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wrapping Up 2025 | Nx Blog]]></title>
+        <id>https://nx.dev/blog/wrapping-up-2025</id>
+        <link href="https://nx.dev/blog/wrapping-up-2025"/>
+        <updated>2025-12-22T08:41:32.000Z</updated>
+        <summary type="html"><![CDATA[In 2025, Nx became a unified Build Intelligence Platform combining build systems, CI orchestration, and AI integration. Learn about what we shipped in 2025, and what's coming in 2026.]]></summary>
+        <content type="html"><![CDATA[In 2025, Nx became a unified Build Intelligence Platform combining build systems, CI orchestration, and AI integration. Learn about what we shipped in 2025, and what's coming in 2026.]]></content>
+        <author>
+            <name>Philip Fulcher</name>
+        </author>
+        <published>2025-12-22T08:41:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Datadog DASH NYC 登壇と自動運転 Waymo 視察 | newmo 技術ブログ]]></title>
+        <id>https://tech.newmo.me/entry/2025/12/22/140000</id>
+        <link href="https://tech.newmo.me/entry/2025/12/22/140000"/>
+        <updated>2025-12-22T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Datadog の国際イベント DASH NYC に CfP から挑戦して登壇した準備の流れと、当日の様子を時系列で振り返ります。あわせてサンフランシスコで商用運行中の自動運転タクシー Waymo に乗った体験も紹介します。]]></summary>
+        <content type="html"><![CDATA[Datadog の国際イベント DASH NYC に CfP から挑戦して登壇した準備の流れと、当日の様子を時系列で振り返ります。あわせてサンフランシスコで商用運行中の自動運転タクシー Waymo に乗った体験も紹介します。]]></content>
+        <published>2025-12-22T05:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年使ってみて良かった AWS のモニタリング、オブザーバビリティ機能ベスト3 | カミナシ エンジニアブログ]]></title>
+        <id>https://kaminashi-developer.hatenablog.jp/entry/aws-observability-my-best3</id>
+        <link href="https://kaminashi-developer.hatenablog.jp/entry/aws-observability-my-best3"/>
+        <updated>2025-12-22T02:35:38.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、takagi (@tkg_216) です。私が開発運用に携わっている「カミナシ 従業員」では、クラウドサービスとしてAWSを主に利用しています。今年、運用していく中で「これ便利だな」と感じたAWSのモニタリング、オブザーバビリティに関する機能ベスト3を、以下の観点で紹介します。 背景や課題、なぜその機能を使おうと思ったか どうやって活用したか 効果や使ってみての感想 渋くてい]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、takagi (@tkg_216) です。私が開発運用に携わっている「カミナシ 従業員」では、クラウドサービスとしてAWSを主に利用しています。今年、運用していく中で「これ便利だな」と感じたAWSのモニタリング、オブザーバビリティに関する機能ベスト3を、以下の観点で紹介します。 背景や課題、なぜその機能を使おうと思ったか どうやって活用したか 効果や使ってみての感想 渋くていぶし銀な機能が多いですが、自分たちの環境でも活用できそう！であったり、そんなこともできるんだ〜というような何かしらの発見等があれば幸いです。 (1) S3 Storage Lens S3 Storag…]]></content>
+        <published>2025-12-22T02:35:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モバイルアプリのリリースから振り返る STORES 決済 の 2025年 | STORES Product Blog]]></title>
+        <id>https://product.st.inc/entry/2025/12/22/110000</id>
+        <link href="https://product.st.inc/entry/2025/12/22/110000"/>
+        <updated>2025-12-22T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年も気づけば師走っ！！ こちらは STORES Advent Calendar 2025 の記事です。(何日目の記事なのかな?) product.st.inc 毎年恒例です 毎年師走に STORES 決済 のモバイルアプリのリリースを振り返っています。 product.st.inc product.st.inc product.st.inc なので師走になったからには、今年も元気に振り返りますよ]]></summary>
+        <content type="html"><![CDATA[今年も気づけば師走っ！！ こちらは STORES Advent Calendar 2025 の記事です。(何日目の記事なのかな?) product.st.inc 毎年恒例です 毎年師走に STORES 決済 のモバイルアプリのリリースを振り返っています。 product.st.inc product.st.inc product.st.inc なので師走になったからには、今年も元気に振り返りますよ！！ ということで、おはようございます！ STORES 決済 モバイルチームの Engineering Manager、 iOS アプリ・SDKの開発を担当しております。いわいです。 ※昨年同様 ST…]]></content>
+        <published>2025-12-22T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neovim enhanced editing experience | Duy NG]]></title>
+        <id>/blog/neovim-enhance-editing-experiences/</id>
+        <link href="/blog/neovim-enhance-editing-experiences/"/>
+        <updated>2025-12-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Making editing feel magical with flash.nvim, yanky.nvim, grug-far.nvim, and noice.nvim]]></summary>
+        <content type="html"><![CDATA[Making editing feel magical with flash.nvim, yanky.nvim, grug-far.nvim, and noice.nvim]]></content>
+        <published>2025-12-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Private Key JWT vs Client Secret: Choosing the right OAuth authentication for confidential clients | WorkOS Blog]]></title>
+        <id>https://workos.com/blog/private-key-jwt-vs-client-secret</id>
+        <link href="https://workos.com/blog/private-key-jwt-vs-client-secret"/>
+        <updated>2025-12-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Understand how OAuth clients authenticate and when you should use client secrets vs private key JWT.]]></summary>
+        <content type="html"><![CDATA[Understand how OAuth clients authenticate and when you should use client secrets vs private key JWT.]]></content>
+        <published>2025-12-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insights from 100 site speed reviews in 2025 | Web Performance Calendar]]></title>
+        <id>https://calendar.perfplanet.com/?p=3147</id>
+        <link href="https://calendar.perfplanet.com/2025/insights-from-100-site-speed-reviews-in-2025/"/>
+        <updated>2025-12-21T11:23:22.000Z</updated>
+        <summary type="html"><![CDATA[Over the course of 2025, I have completed 100 site speed reviews at DebugBear. This is a free service we offer to trial accounts looking for a brief assessment of their current web performance. Reques]]></summary>
+        <content type="html"><![CDATA[Over the course of 2025, I have completed 100 site speed reviews at DebugBear. This is a free service we offer to trial accounts looking for a brief assessment of their current web performance. Requests consistently come in from small independent websites to much larger teams, across a wide range of industries. Each site speed […]]]></content>
+        <author>
+            <name>Conor McCarthy</name>
+        </author>
+        <category label="performance"/>
+        <published>2025-12-21T11:23:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quoting Shriram Krishnamurthi | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Dec/21/shriram-krishnamurthi/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Dec/21/shriram-krishnamurthi/#atom-everything"/>
+        <updated>2025-12-21T05:26:09.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;blockquote cite="https://parentheticallyspeaking.org/articles/pedagogy-recommendations/"&amp;gt;&amp;lt;p&amp;gt;Every time you are inclined to use the word “teach”, replace it with “learn”. That is, instead of saying, ]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;blockquote cite="https://parentheticallyspeaking.org/articles/pedagogy-recommendations/"&amp;gt;&amp;lt;p&amp;gt;Every time you are inclined to use the word “teach”, replace it with “learn”. That is, instead of saying, “I teach”, say “They learn”. It’s very easy to determine what you teach; you can just fill slides with text and claim to have taught. Shift your focus to determining how you know whether they learned what you claim to have taught (or indeed anything at all!). That is &amp;lt;em&amp;gt;much&amp;lt;/em&amp;gt; harder, but that i]]></content>
+        <published>2025-12-21T05:26:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLMによって非定形の会話ログを価値あるFAQデータにする話 | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/2025/12/21/100000</id>
+        <link href="https://www.m3tech.blog/entry/2025/12/21/100000"/>
+        <updated>2025-12-21T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI・機械学習チームの鴨田です。 この記事はエムスリー Advent Calendar 2025の21日目の記事です。 20日目は星川さんのSlackワークフロー使いこなせてる？進化したトリガーとリストで実現するハックでした。 サムネ TL;DR 問い合わせログからFAQ記事を自動生成するパイプラインを構築 パイプラインはFAQ以外にも応用可能 日々、企業のシステムには膨大な「テキストデータ」が蓄]]></summary>
+        <content type="html"><![CDATA[AI・機械学習チームの鴨田です。 この記事はエムスリー Advent Calendar 2025の21日目の記事です。 20日目は星川さんのSlackワークフロー使いこなせてる？進化したトリガーとリストで実現するハックでした。 サムネ TL;DR 問い合わせログからFAQ記事を自動生成するパイプラインを構築 パイプラインはFAQ以外にも応用可能 日々、企業のシステムには膨大な「テキストデータ」が蓄積されています。問い合わせログ、社内チャットツールでの会話、メールでのやり取りなど...これらは「フロー情報」として消費されるか、あるいはDBの肥やしとして眠ったままになりがちです。 そんな中、LLM…]]></content>
+        <published>2025-12-21T01:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neovim debugging for Node.js/TypeScript | Duy NG]]></title>
+        <id>/blog/neovim-setup-debug-nodejs/</id>
+        <link href="/blog/neovim-setup-debug-nodejs/"/>
+        <updated>2025-12-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[My journey setting up debugging in Neovim. The struggle, the breakthrough, and what finally worked]]></summary>
+        <content type="html"><![CDATA[My journey setting up debugging in Neovim. The struggle, the breakthrough, and what finally worked]]></content>
+        <published>2025-12-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 16でBluetoothチャネルサウンディングを試す | newmo 技術ブログ]]></title>
+        <id>https://tech.newmo.me/entry/2025/12/21/090000</id>
+        <link href="https://tech.newmo.me/entry/2025/12/21/090000"/>
+        <updated>2025-12-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに Bluetoothエンジニアのharadaです。 Android 16でBluetooth 6.0のチャネルサウンディングがサポートされましたね 🎉 チャネルサウンディングは、従来のRSSI (電波強度) を使った距離推定とは異なり、センチメートル級の精度で距離を測定できる 技術です。スマートロックやデジタルキーなど、「近づいたら解錠」といったユースケースで活用が期待されています 🔑 こ]]></summary>
+        <content type="html"><![CDATA[はじめに Bluetoothエンジニアのharadaです。 Android 16でBluetooth 6.0のチャネルサウンディングがサポートされましたね 🎉 チャネルサウンディングは、従来のRSSI (電波強度) を使った距離推定とは異なり、センチメートル級の精度で距離を測定できる 技術です。スマートロックやデジタルキーなど、「近づいたら解錠」といったユースケースで活用が期待されています 🔑 この記事では、実際にPixel 10とNordic nRF54L15 DKを使って動作確認した経験をもとに、Androidでのチャネルサウンディング実装方法を紹介します。 ちなみに、動かすまでにかなりハ…]]></content>
+        <published>2025-12-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenTelemetry for AdonisJS | AdonisJS Framework Blog]]></title>
+        <id>https://adonisjs.com/blog/introduction-adonisjs-opentelemetry</id>
+        <link href="https://adonisjs.com/blog/introduction-adonisjs-opentelemetry"/>
+        <updated>2025-12-20T08:32:15.000Z</updated>
+        <summary type="html"><![CDATA[Introducing @adonisjs/otel, a package that brings OpenTelemetry to AdonisJS with zero-config setup and sensible defaults.]]></summary>
+        <content type="html"><![CDATA[Introducing @adonisjs/otel, a package that brings OpenTelemetry to AdonisJS with zero-config setup and sensible defaults.]]></content>
+        <published>2025-12-20T08:32:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing CLS for Infinite Scroll and Load More | Web Performance Calendar]]></title>
+        <id>https://calendar.perfplanet.com/?p=3138</id>
+        <link href="https://calendar.perfplanet.com/2025/optimizing-cls-for-infinite-scroll-and-load-more/"/>
+        <updated>2025-12-20T08:22:39.000Z</updated>
+        <summary type="html"><![CDATA[Even though Cumulative Layout Shift (CLS) has been a well-known metric for about five years now, I still frequently encounter negative scores on major websites during my web performance audits. The mo]]></summary>
+        <content type="html"><![CDATA[Even though Cumulative Layout Shift (CLS) has been a well-known metric for about five years now, I still frequently encounter negative scores on major websites during my web performance audits. The most frequent causes of CLS I encounter fall into two categories: Promotional banners at the top of the page, which appear with a slight […]]]></content>
+        <author>
+            <name>Andrea Verlicchi</name>
+        </author>
+        <category label="performance"/>
+        <published>2025-12-20T08:22:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code の LSP サポート | azukiazusa のテックブログ2]]></title>
+        <id>https://azukiazusa.dev/blog/claude-code-lsp-support</id>
+        <link href="https://azukiazusa.dev/blog/claude-code-lsp-support"/>
+        <updated>2025-12-20T06:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Claude Code のバージョン 2.0.74 から LSP（Language Server Protocol）サポートが追加されました。LSP サポートにより、Claude Code はコードベースに対してシンボルの定義検索、参照検索、ホバー情報の取得などの操作が可能になります。この記事では Claude Code の LSP サポートの概要と使用方法を紹介します。]]></summary>
+        <content type="html"><![CDATA[Claude Code のバージョン 2.0.74 から LSP（Language Server Protocol）サポートが追加されました。LSP サポートにより、Claude Code はコードベースに対してシンボルの定義検索、参照検索、ホバー情報の取得などの操作が可能になります。この記事では Claude Code の LSP サポートの概要と使用方法を紹介します。]]></content>
+        <published>2025-12-20T06:12:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slackワークフロー使いこなせてる？進化したトリガーとリストで実現するハック | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/2025/12/20/120000</id>
+        <link href="https://www.m3tech.blog/entry/2025/12/20/120000"/>
+        <updated>2025-12-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 本記事は、M3 Advent Calendar 2025 20日目の記事です。 Unit3の星川 (@oboenikui) です。 Unit3では、主に医学書の電子書籍サービスや、医師の開業サポート、会員優待などのサービスを担当しています。 弊社ではチャットツールとしてSlackを使用しており、日々の業務で発生する申請や依頼といった定型作業は、Slackワークフローを使用することが多いで]]></summary>
+        <content type="html"><![CDATA[はじめに 本記事は、M3 Advent Calendar 2025 20日目の記事です。 Unit3の星川 (@oboenikui) です。 Unit3では、主に医学書の電子書籍サービスや、医師の開業サポート、会員優待などのサービスを担当しています。 弊社ではチャットツールとしてSlackを使用しており、日々の業務で発生する申請や依頼といった定型作業は、Slackワークフローを使用することが多いです。 Slackワークフローをあまり触ったことがない方は、もしかすると「簡単なフォームを作って投稿を作成するツール」という認識で止まっているかもしれません。 しかし現在のワークフローは、簡易的なノーコ…]]></content>
+        <published>2025-12-20T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quoting Andrej Karpathy | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Dec/19/andrej-karpathy/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Dec/19/andrej-karpathy/#atom-everything"/>
+        <updated>2025-12-19T23:07:52.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;blockquote cite="https://karpathy.bearblog.dev/year-in-review-2025/"&amp;gt;&amp;lt;p&amp;gt;In 2025, Reinforcement Learning from Verifiable Rewards (RLVR) emerged as the de facto new major stage to add to this mix. By ]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;blockquote cite="https://karpathy.bearblog.dev/year-in-review-2025/"&amp;gt;&amp;lt;p&amp;gt;In 2025, Reinforcement Learning from Verifiable Rewards (RLVR) emerged as the de facto new major stage to add to this mix. By training LLMs against automatically verifiable rewards across a number of environments (e.g. think math/code puzzles), the LLMs spontaneously develop strategies that look like "reasoning" to humans - they learn to break down problem solving into intermediate calculations and they learn a number of p]]></content>
+        <published>2025-12-19T23:07:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code Orange: Fail Small — our resilience plan following recent incidents |  The Cloudflare Blog ]]></title>
+        <id>DMVZ2E5NT13VbQvP1hUNj</id>
+        <link href="https://blog.cloudflare.com/fail-small-resilience-plan/"/>
+        <updated>2025-12-19T22:35:30.000Z</updated>
+        <summary type="html"><![CDATA[We have declared “Code Orange: Fail Small” to focus everyone at Cloudflare on a set of high-priority workstreams with one simple goal: ensure that the cause of our last two global outages never happen]]></summary>
+        <content type="html"><![CDATA[We have declared “Code Orange: Fail Small” to focus everyone at Cloudflare on a set of high-priority workstreams with one simple goal: ensure that the cause of our last two global outages never happens again.]]></content>
+        <author>
+            <name>Dane Knecht</name>
+        </author>
+        <category label="Outage"/>
+        <category label="Post Mortem"/>
+        <category label="Code Orange"/>
+        <published>2025-12-19T22:35:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release Notes for Safari Technology Preview 234 | WebKit]]></title>
+        <id>https://webkit.org/?p=17674</id>
+        <link href="https://webkit.org/blog/17674/release-notes-for-safari-technology-preview-234/"/>
+        <updated>2025-12-19T20:43:27.000Z</updated>
+        <summary type="html"><![CDATA[Safari Technology Preview Release 234 is now available for download for macOS Tahoe and macOS Sequoia.]]></summary>
+        <content type="html"><![CDATA[Safari Technology Preview Release 234 is now available for download for macOS Tahoe and macOS Sequoia.]]></content>
+        <category label="Safari Technology Preview"/>
+        <published>2025-12-19T20:43:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Small Year for tsc, a Giant Year for TypeScript | Effective TypeScript]]></title>
+        <id>https://effectivetypescript.com/2025/12/19/ts-2025/</id>
+        <link href="https://effectivetypescript.com/2025/12/19/ts-2025/"/>
+        <updated>2025-12-19T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;In terms of new TypeScript features, 2025 was a very quiet year. But it&amp;amp;#39;s been a big year for TypeScript and typed JavaScript in gene ]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;In terms of new TypeScript features, 2025 was a very quiet year. But it&amp;amp;#39;s been a big year for TypeScript and typed JavaScript in gene ]]></content>
+        <published>2025-12-19T20:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sam Rose explains how LLMs work with a visual essay | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2025/Dec/19/sam-rose-llms/#atom-everything</id>
+        <link href="https://simonwillison.net/2025/Dec/19/sam-rose-llms/#atom-everything"/>
+        <updated>2025-12-19T18:33:41.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://ngrok.com/blog/prompt-caching/"&amp;gt;Sam Rose explains how LLMs work with a visual essay&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Sam Rose is one of my favorite authors of &amp;lt;a href="https://simonwilliso]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://ngrok.com/blog/prompt-caching/"&amp;gt;Sam Rose explains how LLMs work with a visual essay&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Sam Rose is one of my favorite authors of &amp;lt;a href="https://simonwillison.net/tags/explorables/"&amp;gt;explorable interactive explanations&amp;lt;/a&amp;gt; - here's &amp;lt;a href="https://samwho.dev/"&amp;gt;his previous collection&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Sam joined ngrok in September as a developer educator. Here's his first big visual explainer for them, ostensibly about how prompt caching works but it quickly e]]></content>
+        <published>2025-12-19T18:33:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in F5 NGINX Gateway Fabric 2.3.0  | NGINX Community Blog]]></title>
+        <id>https://blog.nginx.org/?p=74794</id>
+        <link href="https://blog.nginx.org/blog/whats-new-in-f5-nginx-gateway-fabric-2-3-0"/>
+        <updated>2025-12-19T18:32:33.000Z</updated>
+        <summary type="html"><![CDATA[We’re pleased to announce F5 NGINX Gateway Fabric (NGF) 2.3.0, and we’re shipping it a little early, right before the holidays, for one compelling reason: to meet strong community demand for a Kuberne]]></summary>
+        <content type="html"><![CDATA[We’re pleased to announce F5 NGINX Gateway Fabric (NGF) 2.3.0, and we’re shipping it a little early, right before the holidays, for one compelling reason: to meet strong community demand for a Kubernetes Gateway API conformance-focused release. With this release, NGF is now one of only five generally available Gateway API implementations, as shown in the community’s official Gateway Controller Implementation Status. After […]]]></content>
+        <author>
+            <name>Hannah Ouellette</name>
+        </author>
+        <category label="Uncategorized"/>
+        <published>2025-12-19T18:32:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Multi-Brand Systems with Tokens and Composability | Frontend Masters Boost RSS Feed]]></title>
+        <id>https://frontendmasters.com/blog/?p=8041</id>
+        <link href="https://frontendmasters.com/blog/exploring-multi-brand-systems-with-tokens-and-composability/"/>
+        <updated>2025-12-19T16:59:44.000Z</updated>
+        <summary type="html"><![CDATA[Exploring a Card component made hyper flexible though use of easily changeable custom properties, props, and slots.]]></summary>
+        <content type="html"><![CDATA[Exploring a Card component made hyper flexible though use of easily changeable custom properties, props, and slots.]]></content>
+        <author>
+            <name>Adam Sedwick</name>
+        </author>
+        <category label="Blog Post"/>
+        <category label="Design"/>
+        <category label="Design Systems"/>
+        <category label="Vue"/>
+        <category label="Web Components"/>
+        <published>2025-12-19T16:59:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Masonry Layout is Now grid-lanes | CSS-Tricks]]></title>
+        <id>https://css-tricks.com/?p=390640</id>
+        <link href="https://css-tricks.com/masonry-layout-is-now-grid-lanes/"/>
+        <updated>2025-12-19T16:08:28.000Z</updated>
+        <summary type="html"><![CDATA[It's settled! A new CSS display property keyword called grid-lanes will trigger a masonry layout mode.Masonry Layout is Now grid-lanes originally published on CSS-Tricks, which is part of the DigitalO]]></summary>
+        <content type="html"><![CDATA[It's settled! A new CSS display property keyword called grid-lanes will trigger a masonry layout mode.Masonry Layout is Now grid-lanes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></content>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+        <category label="Articles"/>
+        <category label="csswg"/>
+        <category label="masonry"/>
+        <published>2025-12-19T16:08:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[End of Support for Router v1.x; Long-Term Support (LTS) Policy Update | Blog posts | RSS Feed]]></title>
+        <id>https://www.apollographql.com/blog/end-of-support-for-router-v1-x-long-term-support-lts-policy-update</id>
+        <link href="https://www.apollographql.com/blog/end-of-support-for-router-v1-x-long-term-support-lts-policy-update"/>
+        <updated>2025-12-19T15:42:00.000Z</updated>
+        <author>
+            <name>Shane Myrick</name>
+        </author>
+        <published>2025-12-19T15:42:00.000Z</published>
+    </entry>
+</feed>
