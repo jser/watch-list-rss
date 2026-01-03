@@ -20,13 +20,30 @@ const createFeedInfoList = (feedInfoTuples: FeedInfoTuple[]) => {
   return feedInfoList;
 };
 
+const fetchWithRetry = async (url: string, retries = 3, delay = 2000): Promise<Response> => {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    const response = await fetch(url);
+    if (response.ok) {
+      return response;
+    }
+    if (attempt < retries) {
+      console.warn(`Fetch failed (${response.status}), retrying in ${delay}ms... (attempt ${attempt}/${retries})`);
+      await new Promise((resolve) => setTimeout(resolve, delay));
+      delay *= 2; // exponential backoff
+    } else {
+      throw new Error(`Failed to fetch ${url}: ${response.status} ${response.statusText}`);
+    }
+  }
+  throw new Error(`Failed to fetch ${url} after ${retries} attempts`);
+};
+
 export const fetchFeedInfoList = async (): Promise<FeedInfo[]> => {
   interface FeedItem {
     url: string;
     feeds: ValidUrl[];
   }
-  // RSSの一覧を取得
-  const response = await fetch('https://jser.info/watch-list/data/opml-list.json');
+  // RSSの一覧を取得（リトライあり）
+  const response = await fetchWithRetry('https://jser.info/watch-list/data/opml-list.json');
   const feedInfoList: FeedItem[] = await response.json();
   // 特定のドメインは除外する
   const ExcludedDomains = [
