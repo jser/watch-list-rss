@@ -57,7 +57,8 @@ export const imageIconShortcode = async (src: string, alt: string, pathPrefix = 
   }
 
   if (src.startsWith('data:')) {
-    return `<img src='${src}' alt='${alt}' loading='lazy' width='16' height='16'>`;
+    // data URI favicons are not supported (security + HTML parsing issues)
+    return alternativeImageTag;
   }
 
   const parsedUrl = url.parse(src);
