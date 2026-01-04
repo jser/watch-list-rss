@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>JSer.info Watch List</title>
+        <link>https://jser.info/watch-list-rss/</link>
+        <description>JSer.infoの情報源となるサイトをまとめたRSSフィード</description>
+        <lastBuildDate>Sun, 04 Jan 2026 09:19:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>jser/watch-list-rss</generator>
+        <language>ja</language>
+        <image>
+            <title>JSer.info Watch List</title>
+            <url>https://jser.info/watch-list-rss/images/icon.png</url>
+            <link>https://jser.info/watch-list-rss/</link>
+        </image>
+        <copyright>jser/watch-list-rss</copyright>
+        <atom:link href="https://jser.info/watch-list-rss/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Year, New Website | StyleX Blog]]></title>
+            <link>https://stylexjs.com/blog/a-new-year-2026</link>
+            <guid>https://stylexjs.com/blog/a-new-year-2026</guid>
+            <pubDate>Sun, 04 Jan 2026 09:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Release 0.17.1 | StyleX Blog]]></title>
+            <link>https://stylexjs.com/blog/v0.17.1</link>
+            <guid>https://stylexjs.com/blog/v0.17.1</guid>
+            <pubDate>Sun, 04 Jan 2026 09:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Release 0.16.0 | StyleX Blog]]></title>
+            <link>https://stylexjs.com/blog/v0.16.0</link>
+            <guid>https://stylexjs.com/blog/v0.16.0</guid>
+            <pubDate>Sun, 04 Jan 2026 09:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Release 0.15.0 | StyleX Blog]]></title>
+            <link>https://stylexjs.com/blog/v0.15.0</link>
+            <guid>https://stylexjs.com/blog/v0.15.0</guid>
+            <pubDate>Sun, 04 Jan 2026 09:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Release 0.14.0 | StyleX Blog]]></title>
+            <link>https://stylexjs.com/blog/v0.14.0</link>
+            <guid>https://stylexjs.com/blog/v0.14.0</guid>
+            <pubDate>Sun, 04 Jan 2026 09:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Release 0.13.0 | StyleX Blog]]></title>
+            <link>https://stylexjs.com/blog/v0.13.0</link>
+            <guid>https://stylexjs.com/blog/v0.13.0</guid>
+            <pubDate>Sun, 04 Jan 2026 09:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Release 0.12.0 | StyleX Blog]]></title>
+            <link>https://stylexjs.com/blog/v0.12.0</link>
+            <guid>https://stylexjs.com/blog/v0.12.0</guid>
+            <pubDate>Sun, 04 Jan 2026 09:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Release 0.11.0 | StyleX Blog]]></title>
+            <link>https://stylexjs.com/blog/v0.11.0</link>
+            <guid>https://stylexjs.com/blog/v0.11.0</guid>
+            <pubDate>Sun, 04 Jan 2026 09:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Release 0.10.1 | StyleX Blog]]></title>
+            <link>https://stylexjs.com/blog/v0.10.1</link>
+            <guid>https://stylexjs.com/blog/v0.10.1</guid>
+            <pubDate>Sun, 04 Jan 2026 09:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Release 0.10.0 | StyleX Blog]]></title>
+            <link>https://stylexjs.com/blog/v0.10.0</link>
+            <guid>https://stylexjs.com/blog/v0.10.0</guid>
+            <pubDate>Sun, 04 Jan 2026 09:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Release 0.9.3 | StyleX Blog]]></title>
+            <link>https://stylexjs.com/blog/v0.9.3</link>
+            <guid>https://stylexjs.com/blog/v0.9.3</guid>
+            <pubDate>Sun, 04 Jan 2026 09:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Release 0.8.0 | StyleX Blog]]></title>
+            <link>https://stylexjs.com/blog/v0.8.0</link>
+            <guid>https://stylexjs.com/blog/v0.8.0</guid>
+            <pubDate>Sun, 04 Jan 2026 09:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Release 0.7.3 | StyleX Blog]]></title>
+            <link>https://stylexjs.com/blog/v0.7.3</link>
+            <guid>https://stylexjs.com/blog/v0.7.3</guid>
+            <pubDate>Sun, 04 Jan 2026 09:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Release 0.7.0 | StyleX Blog]]></title>
+            <link>https://stylexjs.com/blog/v0.7.0</link>
+            <guid>https://stylexjs.com/blog/v0.7.0</guid>
+            <pubDate>Sun, 04 Jan 2026 09:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Release 0.6.1 | StyleX Blog]]></title>
+            <link>https://stylexjs.com/blog/v0.6.1</link>
+            <guid>https://stylexjs.com/blog/v0.6.1</guid>
+            <pubDate>Sun, 04 Jan 2026 09:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Release 0.5.0 | StyleX Blog]]></title>
+            <link>https://stylexjs.com/blog/v0.5.0</link>
+            <guid>https://stylexjs.com/blog/v0.5.0</guid>
+            <pubDate>Sun, 04 Jan 2026 09:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Release 0.4.1 | StyleX Blog]]></title>
+            <link>https://stylexjs.com/blog/v0-4-1</link>
+            <guid>https://stylexjs.com/blog/v0-4-1</guid>
+            <pubDate>Sun, 04 Jan 2026 09:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing StyleX | StyleX Blog]]></title>
+            <link>https://stylexjs.com/blog/introducing-stylex</link>
+            <guid>https://stylexjs.com/blog/introducing-stylex</guid>
+            <pubDate>Sun, 04 Jan 2026 09:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quoting Jaana Dogan | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2026/Jan/4/jaana-dogan/#atom-everything</link>
+            <guid>https://simonwillison.net/2026/Jan/4/jaana-dogan/#atom-everything</guid>
+            <pubDate>Sun, 04 Jan 2026 03:03:20 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;blockquote cite="https://twitter.com/rakyll/status/2007239758158975130"&amp;gt;&amp;lt;p&amp;gt;I'm not joking and this isn't funny. We have been trying to build distributed agent orchestrators at Google since last year]]></description>
+            <content:encoded><![CDATA[ &amp;lt;blockquote cite="https://twitter.com/rakyll/status/2007239758158975130"&amp;gt;&amp;lt;p&amp;gt;I'm not joking and this isn't funny. We have been trying to build distributed agent orchestrators at Google since last year. There are various options, not everyone is aligned... I gave Claude Code a description of the problem, it generated what we built last year in an hour.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;It's not perfect and I'm iterating on it but this is where we are right now. If you are skeptical of coding agents, try it on a domain you a]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Was Daft Punk Having a Laugh When They Chose the Tempo of Harder, Better, Faster, Stronger? | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2026/Jan/3/daft-punk/#atom-everything</link>
+            <guid>https://simonwillison.net/2026/Jan/3/daft-punk/#atom-everything</guid>
+            <pubDate>Sat, 03 Jan 2026 05:57:07 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://www.madebywindmill.com/tempi/blog/hbfs-bpm/"&amp;gt;Was Daft Punk Having a Laugh When They Chose the Tempo of Harder, Better, Faster, Stronger?&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Depending on how y]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://www.madebywindmill.com/tempi/blog/hbfs-bpm/"&amp;gt;Was Daft Punk Having a Laugh When They Chose the Tempo of Harder, Better, Faster, Stronger?&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Depending on how you measure it, the tempo of Harder, Better, Faster, Stronger appears to be 123.45 beats per minute.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;This is one of those things that's so cool I'm just going to accept it as true.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;(I only today learned from &amp;lt;a href="https://news.ycombinator.com/item?id=46469577#46470831"&amp;gt;the Hacker News ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Figma MCP でデザインシステムを提供して AI コーディングエージェントに一貫したフロントエンドコードを書かせる | azukiazusa のテックブログ2]]></title>
+            <link>https://azukiazusa.dev/blog/using-figma-mcp-to-provide-design-system-for-ai-coding-agents</link>
+            <guid>https://azukiazusa.dev/blog/using-figma-mcp-to-provide-design-system-for-ai-coding-agents</guid>
+            <pubDate>Sat, 03 Jan 2026 01:27:00 GMT</pubDate>
+            <description><![CDATA[AI コーディングエージェントにフロントエンドのコードを書かせる際、Figma MCP を使用してデザインコンテキストやデザイントークンを提供することで、一貫したデザインガイドラインを遵守させる方法を紹介します。]]></description>
+            <content:encoded><![CDATA[AI コーディングエージェントにフロントエンドのコードを書かせる際、Figma MCP を使用してデザインコンテキストやデザイントークンを提供することで、一貫したデザインガイドラインを遵守させる方法を紹介します。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://azukiazusa.dev/blog/ogp/using-figma-mcp-to-provide-design-system-for-ai-coding-agents.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Quoting Will Larson | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2026/Jan/2/will-larson/#atom-everything</link>
+            <guid>https://simonwillison.net/2026/Jan/2/will-larson/#atom-everything</guid>
+            <pubDate>Fri, 02 Jan 2026 19:57:37 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;blockquote cite="https://lethain.com/company-ai-adoption/"&amp;gt;&amp;lt;p&amp;gt;My experience is that &amp;lt;em&amp;gt;real&amp;lt;/em&amp;gt; AI adoption on &amp;lt;em&amp;gt;real&amp;lt;/em&amp;gt; problems is a complex blend of: domain context on the problem, domain e]]></description>
+            <content:encoded><![CDATA[ &amp;lt;blockquote cite="https://lethain.com/company-ai-adoption/"&amp;gt;&amp;lt;p&amp;gt;My experience is that &amp;lt;em&amp;gt;real&amp;lt;/em&amp;gt; AI adoption on &amp;lt;em&amp;gt;real&amp;lt;/em&amp;gt; problems is a complex blend of: domain context on the problem, domain experience with AI tooling, and old-fashioned IT issues. I’m deeply skeptical of any initiative for internal AI adoption that doesn’t anchor on all three of those. This is an advantage of earlier stage companies, because you can often find aspects of all three of those in a single person, or at least]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The most popular blogs of Hacker News in 2025 | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2026/Jan/2/most-popular-blogs-of-hacker-news/#atom-everything</link>
+            <guid>https://simonwillison.net/2026/Jan/2/most-popular-blogs-of-hacker-news/#atom-everything</guid>
+            <pubDate>Fri, 02 Jan 2026 19:10:43 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://refactoringenglish.com/blog/2025-hn-top-5/"&amp;gt;The most popular blogs of Hacker News in 2025&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Michael Lynch maintains &amp;lt;a href="https://refactoringenglish.com/t]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://refactoringenglish.com/blog/2025-hn-top-5/"&amp;gt;The most popular blogs of Hacker News in 2025&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Michael Lynch maintains &amp;lt;a href="https://refactoringenglish.com/tools/hn-popularity/"&amp;gt;HN Popularity Contest&amp;lt;/a&amp;gt;, a site that tracks personal blogs on Hacker News and scores them based on how well they perform on that platform.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;The engine behind the project is the &amp;lt;a href="https://github.com/mtlynch/hn-popularity-contest-data/blob/master/data/domains-meta.cs]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[A first look at the Web Install API | Frontend Masters Boost RSS Feed]]></title>
+            <link>https://frontendmasters.com/blog/a-first-look-at-the-web-install-api/</link>
+            <guid>https://frontendmasters.com/blog/?p=8142</guid>
+            <pubDate>Fri, 02 Jan 2026 12:55:23 GMT</pubDate>
+            <description><![CDATA[Bruce Lawson: I was excited to see that the proposed new Web Install API has entered Origin Trial in Chromium. It kind of works in Chromium Canary, but is most complete in Microsoft Edge beta […] The ]]></description>
+            <content:encoded><![CDATA[Bruce Lawson: I was excited to see that the proposed new Web Install API has entered Origin Trial in Chromium. It kind of works in Chromium Canary, but is most complete in Microsoft Edge beta […] The reason I was excited is because I read the Web install API explainer when it was announced a few months ago: The […]]]></content:encoded>
+            <category>The Beat</category>
+            <category>PWA</category>
+            <category>Web Install API</category>
+            <enclosure length="0" type="image//blog/wp-json/social-image-generator/v1/image/8142" height="630" url="https://frontendmasters.com/blog/wp-json/social-image-generator/v1/image/8142" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[December 2025 sponsors-only newsletter | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2026/Jan/2/december/#atom-everything</link>
+            <guid>https://simonwillison.net/2026/Jan/2/december/#atom-everything</guid>
+            <pubDate>Fri, 02 Jan 2026 04:33:47 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;I sent the December edition of my &amp;lt;a href="https://github.com/sponsors/simonw/"&amp;gt;sponsors-only monthly newsletter&amp;lt;/a&amp;gt;. If you are a sponsor (or if you start a sponsorship now) you can &amp;lt;a href="http]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;I sent the December edition of my &amp;lt;a href="https://github.com/sponsors/simonw/"&amp;gt;sponsors-only monthly newsletter&amp;lt;/a&amp;gt;. If you are a sponsor (or if you start a sponsorship now) you can &amp;lt;a href="https://github.com/simonw-private/monthly/blob/main/2025-12-december.md"&amp;gt;access a copy here&amp;lt;/a&amp;gt;. In the newsletter this month:&amp;lt;/p&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;An in-depth review of LLMs in 2025&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;My coding agent projects in December&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;New models for December 2025&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Skills are an open standard now&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;C]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Quoting Ben Werdmuller | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2026/Jan/2/ben-werdmuller/#atom-everything</link>
+            <guid>https://simonwillison.net/2026/Jan/2/ben-werdmuller/#atom-everything</guid>
+            <pubDate>Fri, 02 Jan 2026 00:48:16 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;blockquote cite="https://werd.io/2025-the-year-in-llms/"&amp;gt;&amp;lt;p&amp;gt;[Claude Code] has the potential to transform all of tech. I also think we’re going to see a real split in the tech industry (and everywher]]></description>
+            <content:encoded><![CDATA[ &amp;lt;blockquote cite="https://werd.io/2025-the-year-in-llms/"&amp;gt;&amp;lt;p&amp;gt;[Claude Code] has the potential to transform all of tech. I also think we’re going to see a real split in the tech industry (and everywhere code is written) between people who are &amp;lt;em&amp;gt;outcome-driven&amp;lt;/em&amp;gt; and are excited to get to the part where they can test their work with users faster, and people who are &amp;lt;em&amp;gt;process-driven&amp;lt;/em&amp;gt; and get their meaning from the engineering itself and are upset about having that taken away.&amp;lt;/p&amp;gt;&amp;lt;/blockqu]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Rails 8.1 introduces support for joins in update_all for Postgresql and SQLite. | Saeloun Blog]]></title>
+            <link>https://blog.saeloun.com/2026/01/02/rails-supports-joins-in-update-all-for-postgresql-and-sqlite/</link>
+            <guid>https://blog.saeloun.com/2026/01/02/rails-supports-joins-in-update-all-for-postgresql-and-sqlite/</guid>
+            <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[ActiveRecord joins is used to combine records from multiple tables based on associations,generating an SQL INNER JOIN.With update_all, we can update multiple records quickly without triggering model v]]></description>
+            <content:encoded><![CDATA[ActiveRecord joins is used to combine records from multiple tables based on associations,generating an SQL INNER JOIN.With update_all, we can update multiple records quickly without triggering model validations, callbacks, or modifying timestamps.Combining these two methods is useful when we need to perform bulk updates based on data from associated tables.For example, syncing a column value from a parent record to all its children in a single query.BeforeWhen we use update_all together with joi]]></content:encoded>
+            <enclosure length="0" type="png" url="https://blog.saeloun.com/images/opengraph/ce326639c7ae6f8c0a394177c13ae95bfc87433f.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Building Type-Safe Compound Components | TkDodo's blog]]></title>
+            <link>https://tkdodo.eu/blog/building-type-safe-compound-components</link>
+            <guid>https://tkdodo.eu/blog/building-type-safe-compound-components</guid>
+            <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Compound Components are great, but should be type-safe. No, this isn't about the children prop ...]]></description>
+            <content:encoded><![CDATA[Compound Components are great, but should be type-safe. No, this isn't about the children prop ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://tkdodo.eu/blog/og-images/building-type-safe-compound-components.png" alt="Compound Components are great, but should be type-safe. No, this isn't about the children prop ..."/>
+        </item>
+        <item>
+            <title><![CDATA[Introducing gisthost.github.io | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2026/Jan/1/gisthost/#atom-everything</link>
+            <guid>https://simonwillison.net/2026/Jan/1/gisthost/#atom-everything</guid>
+            <pubDate>Thu, 01 Jan 2026 22:12:20 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;I am a huge fan of &amp;lt;a href="https://gistpreview.github.io/"&amp;gt;gistpreview.github.io&amp;lt;/a&amp;gt;, the site by Leon Huang that lets you append &amp;lt;code&amp;gt;?GIST_id&amp;lt;/code&amp;gt; to see a browser-rendered version of an HTM]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;I am a huge fan of &amp;lt;a href="https://gistpreview.github.io/"&amp;gt;gistpreview.github.io&amp;lt;/a&amp;gt;, the site by Leon Huang that lets you append &amp;lt;code&amp;gt;?GIST_id&amp;lt;/code&amp;gt; to see a browser-rendered version of an HTML page that you have saved to a Gist. The last commit was ten years ago and I needed a couple of small changes so I've forked it and deployed an updated version at &amp;lt;a href="https://gisthost.github.io/"&amp;gt;gisthost.github.io&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;&amp;lt;h4 id="some-background-on-gistpreview"&amp;gt;Some background on gistpreview&amp;lt;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[!important and CSS Custom Properties | Frontend Masters Boost RSS Feed]]></title>
+            <link>https://frontendmasters.com/blog/important-and-css-custom-properties/</link>
+            <guid>https://frontendmasters.com/blog/?p=8128</guid>
+            <pubDate>Thu, 01 Jan 2026 16:20:06 GMT</pubDate>
+            <description><![CDATA[The `!important` part doesn't become part of the value, the whole declaration is treated as !important;]]></description>
+            <content:encoded><![CDATA[The `!important` part doesn't become part of the value, the whole declaration is treated as !important;]]></content:encoded>
+            <category>Blog Post</category>
+            <category>!important</category>
+            <category>CSS</category>
+            <category>Custom Properties</category>
+            <enclosure length="0" type="image//blog/wp-json/social-image-generator/v1/image/8128" height="630" url="https://frontendmasters.com/blog/wp-json/social-image-generator/v1/image/8128" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[mubook-hon v2: EPUBビューアーをfoliate-jsに移行、Cloudflare Workersへ移行 | Web Scratch]]></title>
+            <link>https://efcl.info/2026/01/01/mubook-hon-v2/</link>
+            <guid>https://efcl.info/2026/01/01/mubook-hon-v2/</guid>
+            <pubDate>Thu, 01 Jan 2026 12:36:00 GMT</pubDate>
+            <description><![CDATA[mubook-honは、Dropboxに保存したEPUB/PDFファイルをブラウザで読めるウェブアプリです。Notionと連携して、読書メモや進捗をNotionに記録できます。mubook-hon: https://mubook-hon.jser.workers.dev/GitHub: https://github.com/azu/mubook-honURLが https://mubook-hon]]></description>
+            <content:encoded><![CDATA[mubook-honは、Dropboxに保存したEPUB/PDFファイルをブラウザで読めるウェブアプリです。Notionと連携して、読書メモや進捗をNotionに記録できます。mubook-hon: https://mubook-hon.jser.workers.dev/GitHub: https://github.com/azu/mubook-honURLが https://mubook-hon.vercel.app/ から https://mubook-hon.jser.workers.dev/ に変更されました。前回の記事から約2年半が経ち、大きな変更をしたので紹介します。mubook-hon: Dropboxに保存したepubやPDFを読むビューア、Notionにメモや読んでいる位置を記録できるMobile/PC対応のウェブアプリ | Web ScratchEPUBビューアーをBibiからfoliate-jsに移行EPUBの表示エンジンをBibiからfoliate-jsに移行しました。feat: replace Bibi with foliate-js for EPUB vie]]></content:encoded>
+            <enclosure length="0" type="png" url="https://efcl.info/public/favicon.png"/>
+        </item>
+        <item>
+            <title><![CDATA[What’s new in Svelte: January 2026 | Svelte blog]]></title>
+            <link>https://svelte.dev/blog/whats-new-in-svelte-january-2026</link>
+            <guid>https://svelte.dev/blog/whats-new-in-svelte-january-2026</guid>
+            <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[During the December holiday season, the Svelte team shared 24 days of Svelte knowledge, tips, and insights to unwrap in 2025’s Advent of Svelte. Learn more about under-utilized Svelte features through]]></description>
+            <content:encoded><![CDATA[During the December holiday season, the Svelte team shared 24 days of Svelte knowledge, tips, and insights to unwrap in 2025’s Advent of Svelte. Learn more about under-utilized Svelte features through a series of fun and interactive videos!There were also a bunch of improvements and showcase items across the Svelte ecosystem this last month. So let’s have a look...What’s new in Svelte &amp;amp; SvelteKitThe hydratable option (which adds an inline &amp;lt;script&amp;gt; block to the head) now has a csp option in rende]]></content:encoded>
+            <enclosure length="0" type="png" url="https://svelte.dev/blog/whats-new-in-svelte-january-2026/card.png"/>
+        </item>
+        <item>
+            <title><![CDATA[2025: The year in LLMs | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything</link>
+            <guid>https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything</guid>
+            <pubDate>Wed, 31 Dec 2025 23:50:40 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;This is the third in my annual series reviewing everything that happened in the LLM space over the past 12 months. For previous years see &amp;lt;a href="https://simonwillison.net/2023/Dec/31/ai-in-2023/]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;This is the third in my annual series reviewing everything that happened in the LLM space over the past 12 months. For previous years see &amp;lt;a href="https://simonwillison.net/2023/Dec/31/ai-in-2023/"&amp;gt;Stuff we figured out about AI in 2023&amp;lt;/a&amp;gt; and &amp;lt;a href="https://simonwillison.net/2024/Dec/31/llms-in-2024/"&amp;gt;Things we learned about LLMs in 2024&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;It’s been a year filled with a &amp;lt;em&amp;gt;lot&amp;lt;/em&amp;gt; of different trends.&amp;lt;/p&amp;gt;&amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href="https://simonwillison.net/2025/Dec/31/the-year-in-llms/#]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://static.simonwillison.net/static/2025/metr-long-task-2025.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Preserve State While Moving Elements in the DOM | Frontend Masters Boost RSS Feed]]></title>
+            <link>https://frontendmasters.com/blog/preserve-state-while-moving-elements-in-the-dom/</link>
+            <guid>https://frontendmasters.com/blog/?p=8131</guid>
+            <pubDate>Wed, 31 Dec 2025 23:03:28 GMT</pubDate>
+            <description><![CDATA[Bramus wrote this almost a year ago, but I’d still call it a relatively new feature of JavaScript and one very worth knowing about. With Node.prototype.moveBefore you can move elements around a DOM tr]]></description>
+            <content:encoded><![CDATA[Bramus wrote this almost a year ago, but I’d still call it a relatively new feature of JavaScript and one very worth knowing about. With Node.prototype.moveBefore you can move elements around a DOM tree, without resetting the element’s state. You don’t need it to maintain event listeners, but, as Bramus notes, it’ll keep an iframe loaded, animations […]]]></content:encoded>
+            <category>The Beat</category>
+            <category>JavaScript</category>
+            <category>moveBefore</category>
+            <enclosure length="0" type="image//blog/wp-json/social-image-generator/v1/image/8131" height="630" url="https://frontendmasters.com/blog/wp-json/social-image-generator/v1/image/8131" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[The Curious Case of the Shallow Session SPAs | Web Performance Calendar]]></title>
+            <link>https://calendar.perfplanet.com/2025/the-curious-case-of-the-shallow-session-spas/</link>
+            <guid>https://calendar.perfplanet.com/?p=3169</guid>
+            <pubDate>Wed, 31 Dec 2025 17:34:39 GMT</pubDate>
+            <description><![CDATA[Buried at the end of this year’s installment of my semi-annual series on network and device reality is a mystery: multiple, independent data sets from the Web Performance community indicate sites buil]]></description>
+            <content:encoded><![CDATA[Buried at the end of this year’s installment of my semi-annual series on network and device reality is a mystery: multiple, independent data sets from the Web Performance community indicate sites built as Single-Page Applications (“SPAs”) receive, on average, only one (1) “soft navigation” for every “hard” page load. The RUM Archive and Michal Mocny’s […]]]></content:encoded>
+            <category>performance</category>
+            <enclosure length="0" type="png" url="https://calendar.perfplanet.com/images/2025/alex/frontend_sadness_index.png"/>
+        </item>
+        <item>
+            <title><![CDATA[From Theory to Tiny: Implementing Compression Dictionaries | Web Performance Calendar]]></title>
+            <link>https://calendar.perfplanet.com/2025/from-theory-to-tiny-implementing-compression-dictionaries/</link>
+            <guid>https://calendar.perfplanet.com/?p=3167</guid>
+            <pubDate>Wed, 31 Dec 2025 17:08:00 GMT</pubDate>
+            <description><![CDATA[Compression Dictionary Transport became an official IETF Proposed Standard this September (congratulations to Yoav Weiss &amp;amp; Pat Meenan 🎉). If you don’t know what they are, I recommend watching Pat’s wo]]></description>
+            <content:encoded><![CDATA[Compression Dictionary Transport became an official IETF Proposed Standard this September (congratulations to Yoav Weiss &amp;amp; Pat Meenan 🎉). If you don’t know what they are, I recommend watching Pat’s wonderful performance.now() talk from 2023 – the TL;DR is that you can achieve incredible compression ratios resulting in file sizes a fraction of what we […]]]></content:encoded>
+            <category>performance</category>
+            <enclosure length="0" type="png" url="https://calendar.perfplanet.com/images/2025/ryan/dictionaries-new-connection-bug.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Codex cloud is now called Codex web | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2025/Dec/31/codex-cloud-is-now-called-codex-web/#atom-everything</link>
+            <guid>https://simonwillison.net/2025/Dec/31/codex-cloud-is-now-called-codex-web/#atom-everything</guid>
+            <pubDate>Wed, 31 Dec 2025 16:35:28 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://developers.openai.com/codex/cloud/"&amp;gt;Codex cloud is now called Codex web&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;It looks like OpenAI's &amp;lt;strong&amp;gt;Codex cloud&amp;lt;/strong&amp;gt; (the cloud version of their Cod]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://developers.openai.com/codex/cloud/"&amp;gt;Codex cloud is now called Codex web&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;It looks like OpenAI's &amp;lt;strong&amp;gt;Codex cloud&amp;lt;/strong&amp;gt; (the cloud version of their Codex coding agent) was quietly rebranded to &amp;lt;strong&amp;gt;Codex web&amp;lt;/strong&amp;gt; at some point in the last few days.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Here's a screenshot of the Internet Archive copy from &amp;lt;a href="https://web.archive.org/web/20251218043013/https://developers.openai.com/codex/cloud/"&amp;gt;18th December&amp;lt;/a&amp;gt; (the &amp;lt;a href="https:/]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://static.simonwillison.net/static/2025/codex-web.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teaching Agents about Performance insights | Web Performance Calendar]]></title>
+            <link>https://calendar.perfplanet.com/2025/teaching-agents-about-performance-insights/</link>
+            <guid>https://calendar.perfplanet.com/?p=3166</guid>
+            <pubDate>Wed, 31 Dec 2025 16:26:37 GMT</pubDate>
+            <description><![CDATA[AI is kinda everywhere! Everyone is shipping AI features or Agents, but few of those systems can reason about the complex reality of performance data. This session is a deep dive story into the journe]]></description>
+            <content:encoded><![CDATA[AI is kinda everywhere! Everyone is shipping AI features or Agents, but few of those systems can reason about the complex reality of performance data. This session is a deep dive story into the journey of building a Performance AI assistant and agentic workflows on top of a fork of Chrome DevTools. We’ll explore practical […]]]></content:encoded>
+            <category>performance</category>
+            <enclosure length="0" type="png" url="https://calendar.perfplanet.com/images/2025/vinicius/image7.png"/>
+        </item>
+        <item>
+            <title><![CDATA[What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More | CSS-Tricks]]></title>
+            <link>https://css-tricks.com/whats-important-2/</link>
+            <guid>https://css-tricks.com/?p=391298</guid>
+            <pubDate>Wed, 31 Dec 2025 16:18:23 GMT</pubDate>
+            <description><![CDATA[2026 is almost upon us. I know we’re all itching to see the clock strike midnight (cue The Final Countdown by Europe), but not without recapping the best CSS-related things that happened over the last]]></description>
+            <content:encoded><![CDATA[2026 is almost upon us. I know we’re all itching to see the clock strike midnight (cue The Final Countdown by Europe), but not without recapping the best CSS-related things that happened over the last two weeks!What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></content:encoded>
+            <category>Articles</category>
+            <category>news</category>
+            <enclosure length="0" type="image/png" height="570" url="https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/wi-2.png" width="1440" alt="What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More"/>
+        </item>
+        <item>
+            <title><![CDATA[Chrome DevTools Features I Use All the Time (and Why You Should Too) | Web Performance Calendar]]></title>
+            <link>https://calendar.perfplanet.com/2025/chrome-devtools-all-the-time/</link>
+            <guid>https://calendar.perfplanet.com/?p=3164</guid>
+            <pubDate>Wed, 31 Dec 2025 16:05:57 GMT</pubDate>
+            <description><![CDATA[Most developers open Chrome DevTools, check a couple of network requests, maybe refresh the page once or twice — and that’s it. I used to do the same. Over time, DevTools became something else entirel]]></description>
+            <content:encoded><![CDATA[Most developers open Chrome DevTools, check a couple of network requests, maybe refresh the page once or twice — and that’s it. I used to do the same. Over time, DevTools became something else entirely for me. Not just a debugging tool, but a way to understand how the browser actually experiences my code — […]]]></content:encoded>
+            <category>performance</category>
+            <enclosure length="0" type="png" url="https://calendar.perfplanet.com/images/2025/keerthana/performance-panel-3p.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Announcing Rspack 1.7 | Rspack Blog]]></title>
+            <link>https://rspack.rs/blog/announcing-1-7</link>
+            <guid>/blog/announcing-1-7</guid>
+            <pubDate>Wed, 31 Dec 2025 16:00:00 GMT</pubDate>
+            <enclosure length="0" type="png" url="https://assets.rspack.rs/rspack/assets/rspack-og-image-v1-7.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Open Source RUM with BasicRUM | Web Performance Calendar]]></title>
+            <link>https://calendar.perfplanet.com/2025/open-source-rum-with-basicrum/</link>
+            <guid>https://calendar.perfplanet.com/?p=3168</guid>
+            <pubDate>Wed, 31 Dec 2025 15:38:14 GMT</pubDate>
+            <description><![CDATA[It’s been a long, busy year but my friend Faisal and I stayed focused on building BasicRUM. After work, we pushed countless commits from a cozy café in Munich. The important news is that we’re wrappin]]></description>
+            <content:encoded><![CDATA[It’s been a long, busy year but my friend Faisal and I stayed focused on building BasicRUM. After work, we pushed countless commits from a cozy café in Munich. The important news is that we’re wrapping up a few final things, and in Q1 2026 we’ll publicly release the complete BasicRUM source code under a […]]]></content:encoded>
+            <category>performance</category>
+            <enclosure length="0" type="jpg" url="https://calendar.perfplanet.com/images/2025/tsvetan/5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[css-modules-kit の内部設計: CSS Modules のパースについて | mizdra's blog]]></title>
+            <link>https://www.mizdra.net/entry/2025/12/31/144753</link>
+            <guid>https://www.mizdra.net/entry/2025/12/31/144753</guid>
+            <pubDate>Wed, 31 Dec 2025 05:47:53 GMT</pubDate>
+            <description><![CDATA[css-modules-kit は CSS Modules のためのツールセットです。何ができるのか、どんな設計で作られているのかは以下の記事を見てください。 www.mizdra.net www.mizdra.net この記事では css-modules-kit の内部設計について紹介してみます。今回は CSS Modules のパースについてです。 3種類のツールと core パッケージについ]]></description>
+            <content:encoded><![CDATA[css-modules-kit は CSS Modules のためのツールセットです。何ができるのか、どんな設計で作られているのかは以下の記事を見てください。 www.mizdra.net www.mizdra.net この記事では css-modules-kit の内部設計について紹介してみます。今回は CSS Modules のパースについてです。 3種類のツールと core パッケージについて css-modules-kit は codegen, ts-plugin, linter-plugin (eslint-plugin or stylelint-plugin) の 3 種類のツール…]]></content:encoded>
+            <enclosure length="0" type="image//8454420450072948107/17179246901338704186/1767499395" url="https://ogimage.blog.st-hatena.com/8454420450072948107/17179246901338704186/1767499395" alt="css-modules-kit の内部設計: CSS Modules のパースについて - mizdra's blog"/>
+        </item>
+        <item>
+            <title><![CDATA[オープンソース活動の振り返り/GitHub Sponsorsの収入まとめ @ 2025 | Web Scratch]]></title>
+            <link>https://efcl.info/2025/12/31/open-source-in-2025/</link>
+            <guid>https://efcl.info/2025/12/31/open-source-in-2025/</guid>
+            <pubDate>Wed, 31 Dec 2025 05:10:00 GMT</pubDate>
+            <description><![CDATA[2025年のオープンソース活動の振り返りとGitHub Sponsorsでの収入をまとめた記事です。今年はtextlintとJSer.infoにMCPサーバーを実装しました。また、JavaScript PrimerをES2025に対応し、secretlintに新しい検出ルールを追加しました。AI連携とECMAScript最新仕様への対応が中心の年でした。TSKaigi 2025とYAPC::Fuk]]></description>
+            <content:encoded><![CDATA[2025年のオープンソース活動の振り返りとGitHub Sponsorsでの収入をまとめた記事です。今年はtextlintとJSer.infoにMCPサーバーを実装しました。また、JavaScript PrimerをES2025に対応し、secretlintに新しい検出ルールを追加しました。AI連携とECMAScript最新仕様への対応が中心の年でした。TSKaigi 2025とYAPC::Fukuoka 2025では、継続的なメンテナンスについて発表しました。サプライチェーン攻撃対策についてはZennに記事をまとめました。npmパッケージ/GitHub Actionsを利用する側/公開する側でサプライチェーン攻撃を防ぐためにやることメモ今までの振り返り2014年: https://efcl.info/2014/12/31/oss-in-2014/2015年: https://efcl.info/2015/12/31/oss-in-2015/2016年: https://efcl.info/2016/12/31/oss-in-2016/2017年: https://efcl.info/]]></content:encoded>
+            <enclosure length="0" type="png" url="https://efcl.info/public/favicon.png"/>
+        </item>
+        <item>
+            <title><![CDATA[2025年の振り返り | とろろこんぶろぐ]]></title>
+            <link>https://oisham.hatenablog.com/entry/2025/12/31/122833</link>
+            <guid>https://oisham.hatenablog.com/entry/2025/12/31/122833</guid>
+            <pubDate>Wed, 31 Dec 2025 03:28:33 GMT</pubDate>
+            <description><![CDATA[2025年はいろんなことがあった。 第二子👶 妻が第二子を妊娠した。 妊娠がわかったのが2月。 一人目のときもつわりがひどく、 二人目も残念ながらつわりが出た。 今回は一人目もいてのことなので、家事育児が妻が思うようにできなくなってしまった。 結果として、急遽自分が1ヶ月仕事を休むことにした。 幸い会社の制度で休めたのでよかった。 職場には迷惑をかけたが、休んで本当によかった。 (というか休む制度]]></description>
+            <content:encoded><![CDATA[2025年はいろんなことがあった。 第二子👶 妻が第二子を妊娠した。 妊娠がわかったのが2月。 一人目のときもつわりがひどく、 二人目も残念ながらつわりが出た。 今回は一人目もいてのことなので、家事育児が妻が思うようにできなくなってしまった。 結果として、急遽自分が1ヶ月仕事を休むことにした。 幸い会社の制度で休めたのでよかった。 職場には迷惑をかけたが、休んで本当によかった。 (というか休む制度がなかったら最悪仕事を辞めていたかもしれないなと思う) つわりのひどい時期をだいぶサポートできたが、1ヶ月では休みが足らないくらいではあった。 (つわりは治らなかった) 基本的に家事育児をしてたら一瞬…]]></content:encoded>
+            <enclosure length="0" type="image//8599973812309772717/17179246901329075553/1767151713" url="https://ogimage.blog.st-hatena.com/8599973812309772717/17179246901329075553/1767151713" alt="2025年の振り返り - とろろこんぶろぐ"/>
+        </item>
+        <item>
+            <title><![CDATA[Notes from December 2025 | Evan Hahn (dot com)]]></title>
+            <link>https://evanhahn.com/notes-from-december-2025/</link>
+            <guid>https://evanhahn.com/notes-from-december-2025/</guid>
+            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here are my notes from the final month of 2025.Little things I didI predict that Mastodon will outlive Bluesky because the latter is corporate-controlled. We’ll see if my prediction is correct in abou]]></description>
+            <content:encoded><![CDATA[Here are my notes from the final month of 2025.Little things I didI predict that Mastodon will outlive Bluesky because the latter is corporate-controlled. We’ll see if my prediction is correct in about 25 years.I’ve been working on a mystery project that uses Pyodide, the WebAssembly-powered Python distribution. After much toil I figured out how to make it do relative imports.I made a little audio speed calculator that lets you enter “4 hours, 20 minutes” and it’ll tell you how much time you’ll ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Inertia.js in Rails: a new era of effortless integration | Evil Martians]]></title>
+            <link>https://evilmartians.com/chronicles/inertiajs-in-rails-a-new-era-of-effortless-integration</link>
+            <guid>https://evilmartians.com/chronicles/inertiajs-in-rails-a-new-era-of-effortless-integration</guid>
+            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[We want to make Inertia.js more popular within the Rails community, so we've started a project to provide both Rails-specific community docs and a set of tools for simply integrating Inertia into Rail]]></description>
+            <content:encoded><![CDATA[We want to make Inertia.js more popular within the Rails community, so we've started a project to provide both Rails-specific community docs and a set of tools for simply integrating Inertia into Rails apps.]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://evilmartians.com/social-cards/chronicles/inertiajs-in-rails-a-new-era-of-effortless-integration.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Quoting Armin Ronacher | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2025/Dec/30/armin-ronacher/#atom-everything</link>
+            <guid>https://simonwillison.net/2025/Dec/30/armin-ronacher/#atom-everything</guid>
+            <pubDate>Tue, 30 Dec 2025 23:54:58 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;blockquote cite="https://lobste.rs/c/xccjtq"&amp;gt;&amp;lt;p&amp;gt;[...] The puzzle is still there. What’s gone is the labor. I never enjoyed hitting keys, writing minimal repro cases with little insight, digging thro]]></description>
+            <content:encoded><![CDATA[ &amp;lt;blockquote cite="https://lobste.rs/c/xccjtq"&amp;gt;&amp;lt;p&amp;gt;[...] The puzzle is still there. What’s gone is the labor. I never enjoyed hitting keys, writing minimal repro cases with little insight, digging through debug logs, or trying to decipher some obscure AWS IAM permission error. That work wasn’t the puzzle for me. It was just friction, laborious and frustrating. The thinking remains; the hitting of the keys and the frustrating is what’s been removed.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;&amp;lt;p class="cite"&amp;gt;&amp;amp;mdash; &amp;lt;a href=]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TIL: Downloading archived Git repositories from archive.softwareheritage.org | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2025/Dec/30/software-heritage/#atom-everything</link>
+            <guid>https://simonwillison.net/2025/Dec/30/software-heritage/#atom-everything</guid>
+            <pubDate>Tue, 30 Dec 2025 23:51:33 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://til.simonwillison.net/github/software-archive-recovery"&amp;gt;TIL: Downloading archived Git repositories from archive.softwareheritage.org&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Back in February I &amp;lt;a ]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://til.simonwillison.net/github/software-archive-recovery"&amp;gt;TIL: Downloading archived Git repositories from archive.softwareheritage.org&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Back in February I &amp;lt;a href="https://simonwillison.net/2025/Feb/7/sqlite-s3vfs/"&amp;gt;blogged about&amp;lt;/a&amp;gt; a neat Python library called &amp;lt;code&amp;gt;sqlite-s3vfs&amp;lt;/code&amp;gt; for accessing SQLite databases hosted in an S3 bucket, released as MIT licensed open source by the UK government's Department for Business and Trade.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;I went lookin]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Agentic AI, MCP, and spec-driven development: Top blog posts of 2025 | The GitHub Blog]]></title>
+            <link>https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/</link>
+            <guid>https://github.blog/?p=93097</guid>
+            <pubDate>Tue, 30 Dec 2025 17:20:10 GMT</pubDate>
+            <description><![CDATA[Explore the GitHub Blog’s top posts covering the biggest software development topics of the year.The post Agentic AI, MCP, and spec-driven development: Top blog posts of 2025 appeared first on The Git]]></description>
+            <content:encoded><![CDATA[Explore the GitHub Blog’s top posts covering the biggest software development topics of the year.The post Agentic AI, MCP, and spec-driven development: Top blog posts of 2025 appeared first on The GitHub Blog.]]></content:encoded>
+            <category>AI &amp;amp; ML</category>
+            <category>Developer skills</category>
+            <category>agentic AI</category>
+            <category>AI</category>
+            <category>GitHub Copilot</category>
+            <category>MCP</category>
+            <category>Spec-driven development</category>
+            <enclosure length="0" type="image/png" height="1260" url="https://github.blog/wp-content/uploads/2025/12/top-blog-posts.png" width="2400"/>
+        </item>
+        <item>
+            <title><![CDATA[7 Steps of a Web Performance Journey | Web Performance Calendar]]></title>
+            <link>https://calendar.perfplanet.com/2025/7-steps-of-a-web-performance-journey/</link>
+            <guid>https://calendar.perfplanet.com/?p=3163</guid>
+            <pubDate>Tue, 30 Dec 2025 16:25:59 GMT</pubDate>
+            <description><![CDATA[This year, Sergey Chernyshev, Eric Goldstein, and Alex Chernyshev – members of the NY Web Performance meetup – decided to collaborate on the future of the UX Speed Calculator tool Sergey created a few]]></description>
+            <content:encoded><![CDATA[This year, Sergey Chernyshev, Eric Goldstein, and Alex Chernyshev – members of the NY Web Performance meetup – decided to collaborate on the future of the UX Speed Calculator tool Sergey created a few years ago. The initial goal for the tool was to help explain web performance data and how performance impacts business using […]]]></content:encoded>
+            <category>performance</category>
+            <enclosure length="0" type="png" url="https://calendar.perfplanet.com/images/2025/serge/percentile.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Quoting Liz Fong-Jones | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2025/Dec/30/liz-fong-jones/#atom-everything</link>
+            <guid>https://simonwillison.net/2025/Dec/30/liz-fong-jones/#atom-everything</guid>
+            <pubDate>Tue, 30 Dec 2025 16:05:08 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;blockquote cite="https://bsky.app/profile/lizthegrey.com/post/3mb65fnjiis25"&amp;gt;&amp;lt;p&amp;gt;In essence a language model changes you from a programmer who writes lines of code, to a programmer that manages the c]]></description>
+            <content:encoded><![CDATA[ &amp;lt;blockquote cite="https://bsky.app/profile/lizthegrey.com/post/3mb65fnjiis25"&amp;gt;&amp;lt;p&amp;gt;In essence a language model changes you from a programmer who writes lines of code, to a programmer that manages the context the model has access to, prunes irrelevant things, adds useful material to context, and writes detailed specifications. If that doesn't sound fun to you, you won't enjoy it.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Think about it as if it is a junior developer that has read every textbook in the world but has 0 practical exper]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How To Design For (And With) Deaf People | Articles on Smashing Magazine — For Web Designers And Developers]]></title>
+            <link>https://smashingmagazine.com/2025/12/how-design-for-with-deaf-people/</link>
+            <guid>https://smashingmagazine.com/2025/12/how-design-for-with-deaf-people/</guid>
+            <pubDate>Tue, 30 Dec 2025 10:00:00 GMT</pubDate>
+            <description><![CDATA[Practical UX guidelines to keep in mind for 466 million people who experience hearing loss. More design patterns in Smart Interface Design Patterns, a **friendly video course on UX** and design patter]]></description>
+            <content:encoded><![CDATA[Practical UX guidelines to keep in mind for 466 million people who experience hearing loss. More design patterns in Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://files.smashing.media/articles/how-design-for-with-deaf-people/how-design-for-with-deaf-people.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Claude Code のツール検索ツールを有効にして MCP のトークン使用量を削減する | azukiazusa のテックブログ2]]></title>
+            <link>https://azukiazusa.dev/blog/enable-claude-code-tool-search-to-reduce-mcp-token-usage</link>
+            <guid>https://azukiazusa.dev/blog/enable-claude-code-tool-search-to-reduce-mcp-token-usage</guid>
+            <pubDate>Tue, 30 Dec 2025 05:32:00 GMT</pubDate>
+            <description><![CDATA[Claude Code のツール検索ツールを有効にすることで、MCP ツールの定義を事前にコンテキストウィンドウに読み込まず、必要に応じて動的にツールを検索・呼び出しできます。これにより、多数の MCP ツールをインストールしている場合でもトークン使用量を大幅に削減できる可能性があります。この記事では Claude Code のツール検索ツールの概要と使用方法を紹介します。]]></description>
+            <content:encoded><![CDATA[Claude Code のツール検索ツールを有効にすることで、MCP ツールの定義を事前にコンテキストウィンドウに読み込まず、必要に応じて動的にツールを検索・呼び出しできます。これにより、多数の MCP ツールをインストールしている場合でもトークン使用量を大幅に削減できる可能性があります。この記事では Claude Code のツール検索ツールの概要と使用方法を紹介します。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://azukiazusa.dev/blog/ogp/enable-claude-code-tool-search-to-reduce-mcp-token-usage.png"/>
+        </item>
+        <item>
+            <title><![CDATA[What's new in Astro - December 2025 | The Astro Blog]]></title>
+            <link>https://astro.build/blog/whats-new-december-2025/</link>
+            <guid>https://astro.build/blog/whats-new-december-2025/</guid>
+            <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[December 2025 - Astro v6 alpha release, and more!]]></description>
+            <content:encoded><![CDATA[December 2025 - Astro v6 alpha release, and more!]]></content:encoded>
+            <enclosure length="0" type="webp" url="https://astro.build/_astro/og.DO42NQOe.webp" alt="What's new in Astro - December 2025"/>
+        </item>
+        <item>
+            <title><![CDATA[Rails 7.1 allows passing validate(_check)_constraint through change_table | Saeloun Blog]]></title>
+            <link>https://blog.saeloun.com/2025/12/30/bulk-migrations-validate-check-constraint/</link>
+            <guid>https://blog.saeloun.com/2025/12/30/bulk-migrations-validate-check-constraint/</guid>
+            <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[When we are running Rails migrations,it’s common to combine multiple changes into a singlechange_table block especially when we want to keep database schema in sync.Before Rails 7.1Previously,validate]]></description>
+            <content:encoded><![CDATA[When we are running Rails migrations,it’s common to combine multiple changes into a singlechange_table block especially when we want to keep database schema in sync.Before Rails 7.1Previously,validate_constraint andvalidate_check_constrainthad to be called outside the change_table block,requiring constraint creation andvalidation to be handled as two separate steps.For example:class AddNameColumnsAndConstraintToUser &amp;lt; ActiveRecord::Migration[7.0] def change change_table :user, bulk: true do |t| ]]></content:encoded>
+            <enclosure length="0" type="png" url="https://blog.saeloun.com/images/opengraph/399cc3793819d7ae7daa4c8a8b97ba253d0f112d.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Prediction: Mastodon will outlive Bluesky | Evan Hahn (dot com)]]></title>
+            <link>https://evanhahn.com/prediction-mastodon-will-outlive-bluesky/</link>
+            <guid>https://evanhahn.com/prediction-mastodon-will-outlive-bluesky/</guid>
+            <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Disclaimer: I don’t know what I’m talking about.Mastodon and Bluesky are, in my opinion, superior to the centralized status quo. They’re built on important protocols: ActivityPub for Mastodon and the ]]></description>
+            <content:encoded><![CDATA[Disclaimer: I don’t know what I’m talking about.Mastodon and Bluesky are, in my opinion, superior to the centralized status quo. They’re built on important protocols: ActivityPub for Mastodon and the AT Protocol for Bluesky. These decentralized, interoperable networks sidestep some significant security threats and enable tremendous creativity. I like them both.But between the two, I predict that ActivityPub will outlast AT Proto. Specifically, I think ActivityPub will be relevant in 2050 and AT ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[pnpm 10.27 | pnpm Blog]]></title>
+            <link>https://pnpm.io/blog/releases/10.27</link>
+            <guid>https://pnpm.io/blog/releases/10.27</guid>
+            <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[pnpm 10.27 adds a new setting to ignore trust policy checks for older package versions, introduces a project registry for global virtual store pruning, and includes several bug fixes.]]></description>
+            <content:encoded><![CDATA[pnpm 10.27 adds a new setting to ignore trust policy checks for older package versions, introduces a project registry for global virtual store pruning, and includes several bug fixes.]]></content:encoded>
+            <category>release</category>
+            <enclosure length="0" type="png" url="https://pnpm.io/img/ogimage.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Open Source WebAssembly Runtimes Built in MoonBit | MoonBit Blog]]></title>
+            <link>https://www.moonbitlang.com/blog/moonbit-wasm-runtime</link>
+            <guid>https://www.moonbitlang.com/blog/moonbit-wasm-runtime</guid>
+            <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Open Source WebAssembly Runtimes Built in MoonBit]]></description>
+            <content:encoded><![CDATA[Open Source WebAssembly Runtimes Built in MoonBit]]></content:encoded>
+            <category>MoonBit</category>
+            <enclosure length="0" type="png" url="https://www.moonbitlang.com/img/blogs/2025-12-30-moonbit-wasm-runtime/cover.png"/>
+        </item>
+        <item>
+            <title><![CDATA[shot-scraper 1.9 | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2025/Dec/29/shot-scraper/#atom-everything</link>
+            <guid>https://simonwillison.net/2025/Dec/29/shot-scraper/#atom-everything</guid>
+            <pubDate>Mon, 29 Dec 2025 22:33:13 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://github.com/simonw/shot-scraper/releases/tag/1.9"&amp;gt;shot-scraper 1.9&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;New release of my &amp;lt;a href="https://shot-scraper.datasette.io/"&amp;gt;shot-scraper&amp;lt;/a&amp;gt; CLI tool ]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://github.com/simonw/shot-scraper/releases/tag/1.9"&amp;gt;shot-scraper 1.9&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;New release of my &amp;lt;a href="https://shot-scraper.datasette.io/"&amp;gt;shot-scraper&amp;lt;/a&amp;gt; CLI tool for taking screenshots and scraping websites with JavaScript from the terminal.&amp;lt;/p&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;The &amp;lt;code&amp;gt;shot-scraper har&amp;lt;/code&amp;gt; command has a new &amp;lt;code&amp;gt;-x/--extract&amp;lt;/code&amp;gt; option which extracts all of the resources loaded by the page out to a set of files. This location can be controlled by]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Bugs that survive the heat of continuous fuzzing | The GitHub Blog]]></title>
+            <link>https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/</link>
+            <guid>https://github.blog/?p=92971</guid>
+            <pubDate>Mon, 29 Dec 2025 22:01:14 GMT</pubDate>
+            <description><![CDATA[Learn why some long-enrolled OSS-Fuzz projects still contain vulnerabilities and how you can find them.The post Bugs that survive the heat of continuous fuzzing appeared first on The GitHub Blog.]]></description>
+            <content:encoded><![CDATA[Learn why some long-enrolled OSS-Fuzz projects still contain vulnerabilities and how you can find them.The post Bugs that survive the heat of continuous fuzzing appeared first on The GitHub Blog.]]></content:encoded>
+            <category>Security</category>
+            <category>Vulnerability research</category>
+            <category>fuzzing</category>
+            <category>GitHub Security Lab</category>
+            <category>open source</category>
+            <enclosure length="0" type="image/png" height="630" url="https://github.blog/wp-content/uploads/2025/03/github_logo_invertocat_dark_1.png" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[Quoting D. Richard Hipp | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2025/Dec/29/d-richard-hipp/#atom-everything</link>
+            <guid>https://simonwillison.net/2025/Dec/29/d-richard-hipp/#atom-everything</guid>
+            <pubDate>Mon, 29 Dec 2025 21:51:49 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;blockquote cite="https://sigmodrecord.org/publications/sigmodRecord/1906/pdfs/06_Profiles_Hipp.pdf"&amp;gt;&amp;lt;p&amp;gt;But once we got that and got this aviation grade testing in place, the number of bugs just drop]]></description>
+            <content:encoded><![CDATA[ &amp;lt;blockquote cite="https://sigmodrecord.org/publications/sigmodRecord/1906/pdfs/06_Profiles_Hipp.pdf"&amp;gt;&amp;lt;p&amp;gt;But once we got that and got this aviation grade testing in place, the number of bugs just dropped to a trickle. Now we still do have bugs but the aviation grade testing allows us to move fast, which is important because in this business you either move fast or you're disrupted. So, we're able to make major changes to the structure of the code that we deliver and be confident that we're not b]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Quoting Jason Gorman | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2025/Dec/29/jason-gorman/#atom-everything</link>
+            <guid>https://simonwillison.net/2025/Dec/29/jason-gorman/#atom-everything</guid>
+            <pubDate>Mon, 29 Dec 2025 20:50:22 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;blockquote cite="https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/"&amp;gt;&amp;lt;p&amp;gt;The hard part of computer programming isn't expressing what we want the m]]></description>
+            <content:encoded><![CDATA[ &amp;lt;blockquote cite="https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/"&amp;gt;&amp;lt;p&amp;gt;The hard part of computer programming isn't expressing what we want the machine to do in code. The hard part is turning human thinking -- with all its wooliness and ambiguity and contradictions -- into &amp;lt;em&amp;gt;computational thinking&amp;lt;/em&amp;gt; that is logically precise and unambiguous, and that can then be expressed formally in the syntax of a programming language.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;That was ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Copyright Release for Contributions To SQLite | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2025/Dec/29/copyright-release/#atom-everything</link>
+            <guid>https://simonwillison.net/2025/Dec/29/copyright-release/#atom-everything</guid>
+            <pubDate>Mon, 29 Dec 2025 19:58:45 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://www.sqlite.org/copyright-release.html"&amp;gt;Copyright Release for Contributions To SQLite&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;D. Richard Hipp &amp;lt;a href="https://news.ycombinator.com/item?id=46420453]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://www.sqlite.org/copyright-release.html"&amp;gt;Copyright Release for Contributions To SQLite&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;D. Richard Hipp &amp;lt;a href="https://news.ycombinator.com/item?id=46420453#46424225"&amp;gt;called me out&amp;lt;/a&amp;gt; for spreading misinformation on Hacker News that SQLite refuses outside contributions:&amp;lt;/p&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;No, Simon, we don't "refuse". We are just very selective and there is a lot of paperwork involved to confirm the contribution is in the public domain and does not con]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[A Year of Nx Webinars | Nx Blog]]></title>
+            <link>https://nx.dev/blog/a-year-of-nx-webinars</link>
+            <guid>https://nx.dev/blog/a-year-of-nx-webinars</guid>
+            <pubDate>Mon, 29 Dec 2025 15:28:28 GMT</pubDate>
+            <description><![CDATA[Catch up on a year of Nx webinars covering CI optimization, AI-assisted development in monorepos, and practical strategies for faster builds. All recordings available free.]]></description>
+            <content:encoded><![CDATA[Catch up on a year of Nx webinars covering CI optimization, AI-assisted development in monorepos, and practical strategies for faster builds. All recordings available free.]]></content:encoded>
+            <enclosure length="0" type="image/png" height="421" url="https://nx.dev/documentation/blog/images/2025-12-29/header.png" width="800" alt="Nx: Smart, Fast and Extensible Build System"/>
+        </item>
+        <item>
+            <title><![CDATA[Third Parties and Single Points of Failure | Web Performance Calendar]]></title>
+            <link>https://calendar.perfplanet.com/2025/third-parties-and-single-points-of-failure/</link>
+            <guid>https://calendar.perfplanet.com/?p=3162</guid>
+            <pubDate>Mon, 29 Dec 2025 14:44:05 GMT</pubDate>
+            <description><![CDATA[You’ve heard it many times – third party content can easily cause an otherwise well performing website to become sluggish and slow. And depending on how this content is loaded, it can also introduce s]]></description>
+            <content:encoded><![CDATA[You’ve heard it many times – third party content can easily cause an otherwise well performing website to become sluggish and slow. And depending on how this content is loaded, it can also introduce single points of failure (SPOFs). When a large cloud provider or content delivery network (CDN) experiences a disruption, their impacts are […]]]></content:encoded>
+            <category>performance</category>
+            <enclosure length="0" type="jpg" url="https://calendar.perfplanet.com/images/2025/paul/third-party-render-blocking-requests-http-archive.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How I Write Custom Elements with lit-html | Frontend Masters Boost RSS Feed]]></title>
+            <link>https://frontendmasters.com/blog/custom-elements-with-lit-html/</link>
+            <guid>https://frontendmasters.com/blog/?p=8102</guid>
+            <pubDate>Mon, 29 Dec 2025 14:11:35 GMT</pubDate>
+            <description><![CDATA[You can use a smaller part of Lit to build web web components that still take advantage of some of it's best features, particularly if you're cool with Light DOM.]]></description>
+            <content:encoded><![CDATA[You can use a smaller part of Lit to build web web components that still take advantage of some of it's best features, particularly if you're cool with Light DOM.]]></content:encoded>
+            <category>Blog Post</category>
+            <category>JavaScript</category>
+            <category>Lit</category>
+            <category>Web Components</category>
+            <enclosure length="0" type="image//blog/wp-json/social-image-generator/v1/image/8102" height="630" url="https://frontendmasters.com/blog/wp-json/social-image-generator/v1/image/8102" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[MCP Server Update: AI Agents Can Now Access Semaphore Docs | Semaphore]]></title>
+            <link>https://semaphore.io/blog/mcp-server-docs</link>
+            <guid>https://semaphore.io/?p=27337</guid>
+            <pubDate>Mon, 29 Dec 2025 10:09:07 GMT</pubDate>
+            <description><![CDATA[See how Semaphore’s MCP Server enables AI agents to read docs, build CI pipelines from scratch, debug failures, and continuously improve workflows using real CI/CD context.The post MCP Server Update: ]]></description>
+            <content:encoded><![CDATA[See how Semaphore’s MCP Server enables AI agents to read docs, build CI pipelines from scratch, debug failures, and continuously improve workflows using real CI/CD context.The post MCP Server Update: AI Agents Can Now Access Semaphore Docs appeared first on Semaphore.]]></content:encoded>
+            <category>Uncategorized</category>
+            <enclosure length="0" type="image/png" height="1020" url="https://semaphore.io/wp-content/uploads/2025/12/unit-tests-fixed.png" width="1732"/>
+        </item>
+        <item>
+            <title><![CDATA[Quoting Aaron Levie | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2025/Dec/29/aaron-levie/#atom-everything</link>
+            <guid>https://simonwillison.net/2025/Dec/29/aaron-levie/#atom-everything</guid>
+            <pubDate>Mon, 29 Dec 2025 03:32:24 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;blockquote cite="https://twitter.com/levie/status/2004654686629163154"&amp;gt;&amp;lt;p&amp;gt;Jevons paradox is coming to knowledge work. By making it far cheaper to take on any type of task that we can possibly imagin]]></description>
+            <content:encoded><![CDATA[ &amp;lt;blockquote cite="https://twitter.com/levie/status/2004654686629163154"&amp;gt;&amp;lt;p&amp;gt;Jevons paradox is coming to knowledge work. By making it far cheaper to take on any type of task that we can possibly imagine, we’re ultimately going to be doing far more. The vast majority of AI tokens in the future will be used on things we don't even do today as workers: they will be used on the software projects that wouldn't have been started, the contracts that wouldn't have been reviewed, the medical research that]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Rails 8.1 now sorts table columns alphabetically when dumping the schema | Saeloun Blog]]></title>
+            <link>https://blog.saeloun.com/2025/12/29/rails-sorts-table-columns-by-name-when-dumping-schema/</link>
+            <guid>https://blog.saeloun.com/2025/12/29/rails-sorts-table-columns-by-name-when-dumping-schema/</guid>
+            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[schema.rb documents the database structure in a database-agnostic way, providing a Ruby representation of the schema within the limits of what Active Record can express.BeforeWhen running migrations, ]]></description>
+            <content:encoded><![CDATA[schema.rb documents the database structure in a database-agnostic way, providing a Ruby representation of the schema within the limits of what Active Record can express.BeforeWhen running migrations, Rails generates the schema.rb file by dumping the current database structure. However, the order of columns in schema.rb reflects the physical column order in the database, which typically follows migration history.Imagine you have a posts table:create_table "posts", force: :cascade do |t| t.string ]]></content:encoded>
+            <enclosure length="0" type="png" url="https://blog.saeloun.com/images/opengraph/d5e72f46a1e72d4cc4165f25b12f051cf9da62e8.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Notes from "Bad Company: Private Equity and the Death of the American Dream" | Evan Hahn (dot com)]]></title>
+            <link>https://evanhahn.com/bad-company-book-notes/</link>
+            <guid>https://evanhahn.com/bad-company-book-notes/</guid>
+            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bad Company: Private Equity and the Death of the American Dream is a book about private equity in the United States. My main takeaway: private equity is bad. I also learned a few other straightforward]]></description>
+            <content:encoded><![CDATA[Bad Company: Private Equity and the Death of the American Dream is a book about private equity in the United States. My main takeaway: private equity is bad. I also learned a few other straightforward lessons:Private equity has one goal: to maximize shareholder value. As you might imagine, this causes lots of problems.Private equity firms may acquire a business with no intention of keeping it running. It can be more profitable to shutter the business.Leveraged buyouts dramatically lower the risk]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🚀 pnpm in 2025 | pnpm Blog]]></title>
+            <link>https://pnpm.io/blog/2025/12/29/pnpm-in-2025</link>
+            <guid>https://pnpm.io/blog/2025/12/29/pnpm-in-2025</guid>
+            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[2025 has been a transformative year for pnpm. While our primary focus was redefining the security model of package management, we also delivered significant improvements in performance and developer e]]></description>
+            <content:encoded><![CDATA[2025 has been a transformative year for pnpm. While our primary focus was redefining the security model of package management, we also delivered significant improvements in performance and developer experience.]]></content:encoded>
+            <category>recap</category>
+            <enclosure length="0" type="png" url="https://pnpm.io/img/ogimage.png"/>
+        </item>
+        <item>
+            <title><![CDATA[AWS Lambda から GKE への移行で遭遇した"見えないボトルネック"の正体と解決策 | LegalOn Technologies Engineering Blog]]></title>
+            <link>https://tech.legalforce.co.jp/entry/aws-lambda-to-gke</link>
+            <guid>https://tech.legalforce.co.jp/entry/aws-lambda-to-gke</guid>
+            <pubDate>Sun, 28 Dec 2025 23:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに こんにちは。株式会社LegalOn TechnologiesでソフトウェアエンジニアをしているLiboです。 弊社のメインプロダクト「LegalOn」において、「エディター」と呼んでいる機能の基盤をAWS LambdaからKubernetesに移行した際、スケーラビリティの課題に直面しました。本記事では、一見不可解な挙動をどのように調査し解決へと導いたか、一連の流れをご紹介します。]]></description>
+            <content:encoded><![CDATA[はじめに こんにちは。株式会社LegalOn TechnologiesでソフトウェアエンジニアをしているLiboです。 弊社のメインプロダクト「LegalOn」において、「エディター」と呼んでいる機能の基盤をAWS LambdaからKubernetesに移行した際、スケーラビリティの課題に直面しました。本記事では、一見不可解な挙動をどのように調査し解決へと導いたか、一連の流れをご紹介します。]]></content:encoded>
+            <enclosure length="0" type="image//26006613532454869/17179246901336832184/1766975655" url="https://ogimage.blog.st-hatena.com/26006613532454869/17179246901336832184/1766975655" alt="AWS Lambda から GKE への移行で遭遇した&amp;quot;見えないボトルネック&amp;quot;の正体と解決策 - LegalOn Technologies Engineering Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[simonw/actions-latest | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2025/Dec/28/actions-latest/#atom-everything</link>
+            <guid>https://simonwillison.net/2025/Dec/28/actions-latest/#atom-everything</guid>
+            <pubDate>Sun, 28 Dec 2025 22:45:10 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://github.com/simonw/actions-latest"&amp;gt;simonw/actions-latest&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Today in extremely niche projects, I got fed up of Claude Code creating GitHub Actions workflows fo]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://github.com/simonw/actions-latest"&amp;gt;simonw/actions-latest&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Today in extremely niche projects, I got fed up of Claude Code creating GitHub Actions workflows for me that used stale actions: &amp;lt;code&amp;gt;actions/setup-python@v4&amp;lt;/code&amp;gt; when the latest is &amp;lt;code&amp;gt;actions/setup-python@v6&amp;lt;/code&amp;gt; for example.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;I couldn't find a good single place listing those latest versions, so I had Claude Code for web (via my phone, I'm out on errands) build a Git scraper to publ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Tips for making the Performance Panel less overwhelming | Web Performance Calendar]]></title>
+            <link>https://calendar.perfplanet.com/2025/tips-for-making-the-performance-panel-less-overwhelming/</link>
+            <guid>https://calendar.perfplanet.com/?p=3160</guid>
+            <pubDate>Sun, 28 Dec 2025 16:31:09 GMT</pubDate>
+            <description><![CDATA[Introduction The Performance Panel is used for detailed investigations on traces captured during page load or during user interactions. It’s a critical tool for understanding and debugging performance]]></description>
+            <content:encoded><![CDATA[Introduction The Performance Panel is used for detailed investigations on traces captured during page load or during user interactions. It’s a critical tool for understanding and debugging performance issues, but it can be overwhelming to newcomers. Previously I wrote about the Landing screen released back in Chrome 129 but I didn’t cover recording and analysing […]]]></content:encoded>
+            <category>performance</category>
+            <enclosure length="0" type="png" url="https://calendar.perfplanet.com/images/2025/ian/time-span-annotations-opt.png"/>
+        </item>
+        <item>
+            <title><![CDATA[これがフロントエンドで話題になった記事！ ICS MEDIAの2025年 | ICS MEDIA]]></title>
+            <link>https://ics.media/entry/251229/</link>
+            <guid>https://ics.media/entry/251229/</guid>
+            <pubDate>Sun, 28 Dec 2025 15:00:00 GMT</pubDate>
+            <description><![CDATA[記事は ics.media へアクセスしてご覧ください。]]></description>
+            <content:encoded><![CDATA[記事は ics.media へアクセスしてご覧ください。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://ics.media/entry/251229/images/eyecatch.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Substack Network error = security content they don't allow to be sent | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2025/Dec/28/substack-network-error/#atom-everything</link>
+            <guid>https://simonwillison.net/2025/Dec/28/substack-network-error/#atom-everything</guid>
+            <pubDate>Sun, 28 Dec 2025 04:16:27 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;I just sent out the &amp;lt;a href="https://simonw.substack.com/p/a-new-way-to-extract-detailed-transcripts"&amp;gt;latest edition&amp;lt;/a&amp;gt; of the newsletter version of this blog. It's a long one! Turns out I wrote ]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;I just sent out the &amp;lt;a href="https://simonw.substack.com/p/a-new-way-to-extract-detailed-transcripts"&amp;gt;latest edition&amp;lt;/a&amp;gt; of the newsletter version of this blog. It's a long one! Turns out I wrote a lot of stuff in the past 10 days.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;The newsletter is out two days later than I had planned because I kept running into an infuriating issue with Substack: it would refuse to save my content with a "Network error" and "Not saved" and I couldn't figure out why.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;img alt="Screenshot of the]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://static.simonwillison.net/static/2025/substack-card-2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pluribus training data | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2025/Dec/27/john-cena/#atom-everything</link>
+            <guid>https://simonwillison.net/2025/Dec/27/john-cena/#atom-everything</guid>
+            <pubDate>Sat, 27 Dec 2025 15:43:34 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;p&amp;gt;In advocating for LLMs as useful and important technology despite how they're trained I'm beginning to feel a little bit like John Cena in &amp;lt;a href="https://m.imdb.com/title/tt22202452/"&amp;gt;Pluribus&amp;lt;/]]></description>
+            <content:encoded><![CDATA[ &amp;lt;p&amp;gt;In advocating for LLMs as useful and important technology despite how they're trained I'm beginning to feel a little bit like John Cena in &amp;lt;a href="https://m.imdb.com/title/tt22202452/"&amp;gt;Pluribus&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;&amp;lt;details style="margin-bottom: 1em"&amp;gt;&amp;lt;summary&amp;gt;Pluribus spoiler (episode 6)&amp;lt;/summary&amp;gt;&amp;lt;blockquote&amp;gt;Given our druthers, would we choose to consume HDP? No. Throughout history, most cultures, though not all, have taken a dim view of anthropophagy. Honestly, we're not that keen on it ourselves. But ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Chrome DevTools for Debugging Web Performance | Web Performance Calendar]]></title>
+            <link>https://calendar.perfplanet.com/2025/chrome-devtools-for-debugging-web-performance/</link>
+            <guid>https://calendar.perfplanet.com/?p=3159</guid>
+            <pubDate>Sat, 27 Dec 2025 14:33:57 GMT</pubDate>
+            <description><![CDATA[This is a step-by-step guide on how I use Chrome DevTools (DevTools from now on) to detect Web Performance issues on a website, as well as validate hypotheses to fix some of the problems found. Discla]]></description>
+            <content:encoded><![CDATA[This is a step-by-step guide on how I use Chrome DevTools (DevTools from now on) to detect Web Performance issues on a website, as well as validate hypotheses to fix some of the problems found. Disclaimer Before diving in, I want to clarify that: this is not a guide on how DevTools works, it’s a […]]]></content:encoded>
+            <category>performance</category>
+            <enclosure length="0" type="png" url="https://calendar.perfplanet.com/images/2025/joan/DevTools-Snippets-LCP-Sub-Parts.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Quoting Boris Cherny | Simon Willison's Weblog]]></title>
+            <link>https://simonwillison.net/2025/Dec/27/boris-cherny/#atom-everything</link>
+            <guid>https://simonwillison.net/2025/Dec/27/boris-cherny/#atom-everything</guid>
+            <pubDate>Sat, 27 Dec 2025 14:13:43 GMT</pubDate>
+            <description><![CDATA[ &amp;lt;blockquote cite="https://twitter.com/bcherny/status/2004887829252317325"&amp;gt;&amp;lt;p&amp;gt;A year ago, Claude struggled to generate bash commands without escaping issues. It worked for seconds or minutes at a time]]></description>
+            <content:encoded><![CDATA[ &amp;lt;blockquote cite="https://twitter.com/bcherny/status/2004887829252317325"&amp;gt;&amp;lt;p&amp;gt;A year ago, Claude struggled to generate bash commands without escaping issues. It worked for seconds or minutes at a time. We saw early signs that it may become broadly useful for coding one day.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Fast forward to today. In the last thirty days, I landed 259 PRs -- 497 commits, 40k lines added, 38k lines removed. Every single line was written by Claude Code + Opus 4.5.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;&amp;lt;p class="cite"&amp;gt;&amp;amp;mdash; &amp;lt;a hr]]></content:encoded>
+        </item>
+    </channel>
+</rss>
