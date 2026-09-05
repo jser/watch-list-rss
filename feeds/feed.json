@@ -1,0 +1,2645 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "JSer.info Watch List",
+    "home_page_url": "https://jser.info/watch-list-rss/",
+    "feed_url": "https://jser.info/watch-list-rss/feeds/feed.json",
+    "description": "JSer.infoの情報源となるサイトをまとめたRSSフィード",
+    "icon": "https://jser.info/watch-list-rss/images/icon.png",
+    "items": [
+        {
+            "id": "https://bun.com/blog/bun-v1.4.2",
+            "content_html": "This release fixes two regressions impacting Elysia and AsyncLocalStorage, a hang in @discordjs/ws, CMYK JPEG decoding in Bun.Image, a rare JIT crash, and a GC crash on musl.",
+            "url": "https://bun.com/blog/bun-v1.4.2",
+            "title": "Bun v1.4.2 | bun.com",
+            "summary": "This release fixes two regressions impacting Elysia and AsyncLocalStorage, a hang in @discordjs/ws, CMYK JPEG decoding in Bun.Image, a rare JIT crash, and a GC crash on musl.",
+            "image": {
+                "url": "https://bun.com/og/blog/bun-v1.4.2.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-05T05:39:32.000Z",
+            "date_published": "2026-09-05T05:39:32.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Bun v1.4.2",
+                "blogTitle": "bun.com",
+                "blogLink": "https://bun.com",
+                "blogLinkMd5Hash": "79f1d287313eb5c11792b9cfe6c70609",
+                "favicon": "https://bun.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://azukiazusa.dev/blog/tanstack-charts-design-and-usage",
+            "content_html": "多くのグラフライブラリがある中、TanStack Charts はなぜ作られたのでしょうか。この記事では、TanStack Charts の設計思想を整理し、React で売上の折れ線にキャンペーンの注釈を重ねるサンプルを紹介します。",
+            "url": "https://azukiazusa.dev/blog/tanstack-charts-design-and-usage",
+            "title": "新しいグラフライブラリ TanStack Charts の設計思想と使い方 | azukiazusa のテックブログ2",
+            "summary": "多くのグラフライブラリがある中、TanStack Charts はなぜ作られたのでしょうか。この記事では、TanStack Charts の設計思想を整理し、React で売上の折れ線にキャンペーンの注釈を重ねるサンプルを紹介します。",
+            "image": {
+                "url": "https://ogp.azukiazusa.dev/blog/ogp/tanstack-charts-design-and-usage.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-05T04:33:00.000Z",
+            "date_published": "2026-09-05T04:33:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "新しいグラフライブラリ TanStack Charts の設計思想と使い方",
+                "blogTitle": "azukiazusa のテックブログ2",
+                "blogLink": "https://azukiazusa.dev",
+                "blogLinkMd5Hash": "f333203079d9928b7fa83832f57ad131",
+                "favicon": "https://azukiazusa.dev/favicon.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+            "content_html": " &lt;p&gt;I got access to GPT-6 Astra this afternoon, so naturally I used it to generate &lt;a href=\"https://simonwillison.net/tags/pelican-riding-a-bicycle/\"&gt;SVGs of pelicans riding bicycles&lt;/a&gt; - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I rendered those pelicans in &lt;a href=\"https://static.simonwillison.net/static/2026/gpt-6-and-5.6-pelicans.html\"&gt;a comparison grid&lt;/a&gt; with GPT-5.6 Sol, Terra, and Luna, and beyond being fun the result was surprisi",
+            "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+            "title": "The Pelican comparison grid for Astra is pretty interesting | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;I got access to GPT-6 Astra this afternoon, so naturally I used it to generate &lt;a href=\"https://simonwillison.net/tags/pelican-riding-a-bicycle/\"&gt;SVGs of pelicans riding bicycles&lt;/a&gt; - at low, med",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2026/astra-grid-card.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-04T23:59:05.000Z",
+            "date_published": "2026-09-04T23:59:05.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The Pelican comparison grid for Astra is pretty interesting",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+            "content_html": " &lt;p&gt;Here we go again... &lt;a href=\"https://collusion.wiki\"&gt;Discovery of a new OpenAI agent message board&lt;/a&gt; by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the &lt;em&gt;latest&lt;/em&gt; &lt;a href=\"https://simonwillison.net/tags/accidental-cyberattacks/\"&gt;accidental cyberattack&lt;/a&gt; by models being trained by OpenAI. This time it was agents engaged in some sort of web research benchmark, so they had (supposedly) controlled access to the Web. The agents figured out they could upd",
+            "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+            "title": "OpenAI's rogue agents were caught communicating via public wikis | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;Here we go again... &lt;a href=\"https://collusion.wiki\"&gt;Discovery of a new OpenAI agent message board&lt;/a&gt; by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the &lt;em&gt;late",
+            "date_modified": "2026-09-04T17:38:48.000Z",
+            "date_published": "2026-09-04T17:38:48.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "OpenAI's rogue agents were caught communicating via public wikis",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://socket.dev/blog/gpt-6-astra-cybersecurity",
+            "content_html": "GPT-6 Astra hits 100% on ExploitBench and finds zero-days autonomously, while independent tests reveal scope violations and monitoring gaps.",
+            "url": "https://socket.dev/blog/gpt-6-astra-cybersecurity",
+            "title": "GPT-6 Astra Attempts Supply Chain Attacks Against Open Source Maintainers in Testing | Socket",
+            "summary": "GPT-6 Astra hits 100% on ExploitBench and finds zero-days autonomously, while independent tests reveal scope violations and monitoring gaps.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/cgdhsj6q/production/563c9619e2e48464f61f44580d6660539932930a-1672x941.png?w=1000&q=95&fit=max&auto=format",
+                "type": "png"
+            },
+            "date_modified": "2026-09-04T17:03:46.348Z",
+            "date_published": "2026-09-04T17:03:46.348Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "GPT-6 Astra Attempts Supply Chain Attacks Against Open Source Maintainers in Testing",
+                "blogTitle": "Socket",
+                "blogLink": "https://socket.dev/api/blog/feed.json",
+                "blogLinkMd5Hash": "1ad7c1f71e0aa48ea310910290f40d4a",
+                "favicon": "https://socket.dev/next-public-assets/favicon.ico"
+            }
+        },
+        {
+            "id": "https://github.blog/?p=98615",
+            "content_html": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot.The post Project HydraFusion: Frontier quality via multi-model orchestration appeared first on The GitHub Blog.",
+            "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+            "title": "Project HydraFusion: Frontier quality via multi-model orchestration | The GitHub Blog",
+            "summary": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research previe",
+            "image": {
+                "height": "1260",
+                "type": "image/jpeg",
+                "url": "https://github.blog/wp-content/uploads/2026/09/OptA_UI.jpg",
+                "width": "2400"
+            },
+            "date_modified": "2026-09-04T16:04:14.000Z",
+            "date_published": "2026-09-04T16:04:14.000Z",
+            "author": {
+                "name": "GitHub Staff"
+            },
+            "tags": [
+                "AI &amp; ML",
+                "GitHub Copilot",
+                "LLMs",
+                "benchmarking"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Project HydraFusion: Frontier quality via multi-model orchestration",
+                "blogTitle": "The GitHub Blog",
+                "blogLink": "https://github.blog/",
+                "blogLinkMd5Hash": "f5d9dec3dc3bf03d9b3049b109e60a1d",
+                "favicon": "https://github.githubassets.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://blog.master.dev/?p=10858",
+            "content_html": "The transition to the Rust version of the React Compiler for the 1,036-file React Router codebase resulted in a significant speed increase, improving build times from 14.3 seconds to 0.81 seconds. The new compiler addresses previous limitations and ensures consistency across the toolchain, making it easier to manage builds with enhanced performance and capabilities.",
+            "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+            "title": "React Now Rusted All The Way Out | Master.dev Blog RSS Feed",
+            "summary": "The transition to the Rust version of the React Compiler for the 1,036-file React Router codebase resulted in a significant speed increase, improving build times from 14.3 seconds to 0.81 seconds. The",
+            "date_modified": "2026-09-04T15:29:39.000Z",
+            "date_published": "2026-09-04T15:29:39.000Z",
+            "author": {
+                "name": "Andrew Patton"
+            },
+            "tags": [
+                "Blog Post"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "React Now Rusted All The Way Out",
+                "blogTitle": "Master.dev Blog RSS Feed",
+                "blogLink": "https://blog.master.dev",
+                "blogLinkMd5Hash": "61b7f9099864eec938d5589848ac72da"
+            }
+        },
+        {
+            "id": "https://www.aikido.dev/blog/dirty-frag",
+            "content_html": "Dirty Frag turns low-privileged Linux access into root, and can escape containers. The affected CVEs, how to check if you're exposed, and how to fix it.Category: Vulnerabilities &amp; Threats",
+            "url": "https://www.aikido.dev/blog/dirty-frag",
+            "title": "Dirty Frag (CVE-2026-43284): the Linux kernel bug that turns read access into root | Aikido Security's Blog",
+            "summary": "Dirty Frag turns low-privileged Linux access into root, and can escape containers. The affected CVEs, how to check if you're exposed, and how to fix it.Category: Vulnerabilities &amp; Threats",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a9adf27a56beb9eb7e5302e_OG_%5Bgeneric-seo-title%5D_16x9.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-04T15:09:00.000Z",
+            "date_published": "2026-09-04T15:09:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Dirty Frag (CVE-2026-43284): the Linux kernel bug that turns read access into root",
+                "blogTitle": "Aikido Security's Blog",
+                "blogLink": "https://www.aikido.dev",
+                "blogLinkMd5Hash": "0c77fc38d005cda3e64903cf14f94346",
+                "favicon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6a44c0d59562153f7bd081ff_favicon.png"
+            }
+        },
+        {
+            "id": "https://www.aikido.dev/blog/stop-breaking-slas",
+            "content_html": "How to use Aikido Libraries to patch vulnerable dependencies and meet security SLAs. Category: Aikido",
+            "url": "https://www.aikido.dev/blog/stop-breaking-slas",
+            "title": "Stop breaking SLAs: how to patch vulnerabilities before the fix even ships | Aikido Security's Blog",
+            "summary": "How to use Aikido Libraries to patch vulnerable dependencies and meet security SLAs. Category: Aikido",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a9b1541d80db66beda7903f_Stop-breaking-SLAs_OG.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-04T14:27:00.000Z",
+            "date_published": "2026-09-04T14:27:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Stop breaking SLAs: how to patch vulnerabilities before the fix even ships",
+                "blogTitle": "Aikido Security's Blog",
+                "blogLink": "https://www.aikido.dev",
+                "blogLinkMd5Hash": "0c77fc38d005cda3e64903cf14f94346",
+                "favicon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6a44c0d59562153f7bd081ff_favicon.png"
+            }
+        },
+        {
+            "id": "https://www.aikido.dev/blog/trivy-alternatives",
+            "content_html": "Six Trivy alternatives compared for 2026 on container scanning, IaC, SAST, prioritization, and fixes, with where each one actually fits.Category: DevSec Tools &amp; Comparisons",
+            "url": "https://www.aikido.dev/blog/trivy-alternatives",
+            "title": "Top Trivy alternatives for container and cloud scanning in 2026 | Aikido Security's Blog",
+            "summary": "Six Trivy alternatives compared for 2026 on container scanning, IaC, SAST, prioritization, and fixes, with where each one actually fits.Category: DevSec Tools &amp; Comparisons",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a9ad46285d0bbcfff439eef_OG_%5Bgeneric-seo-title%5D_16x9.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-04T14:23:00.000Z",
+            "date_published": "2026-09-04T14:23:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Top Trivy alternatives for container and cloud scanning in 2026",
+                "blogTitle": "Aikido Security's Blog",
+                "blogLink": "https://www.aikido.dev",
+                "blogLinkMd5Hash": "0c77fc38d005cda3e64903cf14f94346",
+                "favicon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6a44c0d59562153f7bd081ff_favicon.png"
+            }
+        },
+        {
+            "id": "https://azukiazusa.dev/blog/pnpm-update-include-github-actions",
+            "content_html": "GitHub Actions で使用する Action をコミット SHA に固定すると安全性が高まる一方、更新作業が煩雑になります。pnpm 11.16.0 で追加された `pnpm update --include-github-actions` を使うと、パッケージと Action の更新を同じコマンドで管理できます。この記事では基本的な使い方を確認します。",
+            "url": "https://azukiazusa.dev/blog/pnpm-update-include-github-actions",
+            "title": "pnpm update で GitHub Actions もまとめて更新する | azukiazusa のテックブログ2",
+            "summary": "GitHub Actions で使用する Action をコミット SHA に固定すると安全性が高まる一方、更新作業が煩雑になります。pnpm 11.16.0 で追加された `pnpm update --include-github-actions` を使うと、パッケージと Action の更新を同じコマンドで管理できます。この記事では基本的な使い方を確認します。",
+            "image": {
+                "url": "https://ogp.azukiazusa.dev/blog/ogp/pnpm-update-include-github-actions.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-04T13:05:00.000Z",
+            "date_published": "2026-09-04T13:05:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "pnpm update で GitHub Actions もまとめて更新する",
+                "blogTitle": "azukiazusa のテックブログ2",
+                "blogLink": "https://azukiazusa.dev",
+                "blogLinkMd5Hash": "f333203079d9928b7fa83832f57ad131",
+                "favicon": "https://azukiazusa.dev/favicon.png"
+            }
+        },
+        {
+            "id": "https://bun.com/blog/bun-v1.4.1",
+            "content_html": "Fixes 202 issues, addressing 236 👍. HTTP/2 in Bun.serve, Bun.write() streams Response bodies to disk, self-contained workspace node_modules, bun install --offline and --prefer-offline, WebSocket pause() and resume(), crypto.argon2, tree-shaking through dynamic import(), smarter CommonJS to ESM conversion for default imports, --compile --bytecode when cross-compiling, smaller and faster-starting compiled executables, up to 9x faster Buffer reads and writes, 2x faster AsyncLocalStorage, faster sta",
+            "url": "https://bun.com/blog/bun-v1.4.1",
+            "title": "Bun v1.4.1 | bun.com",
+            "summary": "Fixes 202 issues, addressing 236 👍. HTTP/2 in Bun.serve, Bun.write() streams Response bodies to disk, self-contained workspace node_modules, bun install --offline and --prefer-offline, WebSocket pause",
+            "image": {
+                "url": "https://bun.com/og/blog/bun-v1.4.1.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-04T06:47:12.000Z",
+            "date_published": "2026-09-04T06:47:12.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Bun v1.4.1",
+                "blogTitle": "bun.com",
+                "blogLink": "https://bun.com",
+                "blogLinkMd5Hash": "79f1d287313eb5c11792b9cfe6c70609",
+                "favicon": "https://bun.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
+            "content_html": " &lt;p&gt;The August edition of my &lt;a href=\"https://github.com/sponsors/simonw/\"&gt;sponsors-only monthly newsletter&lt;/a&gt; is out. If you are a sponsor (or if you start a sponsorship now) you can &lt;a href=\"https://github.com/simonw-private/monthly/blob/main/2026-08-august.md\"&gt;access it here&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;This month:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;We got more details on OpenAl's accidental cyberattacks&lt;/li&gt;&lt;li&gt;One-shotting Raccoon Heist games with Fable 5 and Sol 5.6&lt;/li&gt;&lt;li&gt;Claude auto mode&lt;/li&gt;&lt;li&gt;Understanding ChatGPT Work&lt;/li&gt;",
+            "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
+            "title": "August newsletter is out | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;The August edition of my &lt;a href=\"https://github.com/sponsors/simonw/\"&gt;sponsors-only monthly newsletter&lt;/a&gt; is out. If you are a sponsor (or if you start a sponsorship now) you can &lt;a href=\"https:",
+            "date_modified": "2026-09-04T05:54:40.000Z",
+            "date_published": "2026-09-04T05:54:40.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "August newsletter is out",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://eslint.org/blog/2026/09/eslint-v10.10.0-released/",
+            "content_html": "HighlightsThe no-unexpected-multiline rule has been updated to check regular expression literals with d and v flags./* eslint no-unexpected-multiline: \"error\" */// Unexpected newline between numerator and division operatorfoo = bar/regex/v.exec(baz).forEach(qux);12345Copy code to clipboard The following rules have also been updated to avoid incorrect or unexpected behavior in some edge cases:new-capno-extra-bindno-unreachableprefer-object-has-ownFeatures264b434 feat: add d and v flags to no-unex",
+            "url": "https://eslint.org/blog/2026/09/eslint-v10.10.0-released/",
+            "title": "ESLint v10.10.0 released | ESLint Blog",
+            "summary": "HighlightsThe no-unexpected-multiline rule has been updated to check regular expression literals with d and v flags./* eslint no-unexpected-multiline: \"error\" */// Unexpected newline between numerator",
+            "image": {
+                "url": "https://eslint.org/assets/images/blog-covers/release-notes-minor.png",
+                "alt": "ESLint v10.10.0 released",
+                "type": "png"
+            },
+            "date_modified": "2026-09-04T00:00:00.000Z",
+            "date_published": "2026-09-04T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "ESLint v10.10.0 released",
+                "blogTitle": "ESLint Blog",
+                "blogLink": "https://eslint.org/feed.xml",
+                "blogLinkMd5Hash": "b9e963552193f51c0094592cd3d72cb4",
+                "favicon": "https://eslint.org/favicon.ico"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/ling-3-0-flash-sante-is-now-available-on-ai-gateway-for-free",
+            "content_html": "is now available on AI Gateway, free to use through October 4.Ling 3.0 Flash Sante from inclusionAILing 3.0 Flash Sante is a health and medicine-focused version of . It is a Mixture-of-Experts model with 124B total parameters and about 5.1B active per token, a 256K token context window, and function calling.Ling 3.0 FlashThe model is built for medical reasoning, professional healthcare tasks, deep research, evidence-based retrieval, and multi-step medical workflows. It retains the base model's g",
+            "url": "https://vercel.com/changelog/ling-3-0-flash-sante-is-now-available-on-ai-gateway-for-free",
+            "title": "Ling 3.0 Flash Sante is now available on AI Gateway for free | Vercel News",
+            "summary": "is now available on AI Gateway, free to use through October 4.Ling 3.0 Flash Sante from inclusionAILing 3.0 Flash Sante is a health and medicine-focused version of . It is a Mixture-of-Experts model w",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5P96Goh9cE4twnHsrz63Rz/e97e41e40a8d533c9c7b213d12783de5/image__77_.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-04T00:00:00.000Z",
+            "date_published": "2026-09-04T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Ling 3.0 Flash Sante is now available on AI Gateway for free",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/gpt-6-astra-now-available-on-vercel-ai-gateway",
+            "content_html": "from OpenAI is now available on AI Gateway. It is designed for long-running agentic work across software engineering, computer and browser use, scientific research, and professional workflows.GPT 6 AstraAstra can navigate software, complete forms, organize records, analyze data, run simulations, and build and test websites. It also improves instruction following during evolving tasks. It can incorporate new requirements without losing earlier constraints, continue independent work while waiting ",
+            "url": "https://vercel.com/changelog/gpt-6-astra-now-available-on-vercel-ai-gateway",
+            "title": "GPT 6 Astra now available on Vercel AI Gateway | Vercel News",
+            "summary": "from OpenAI is now available on AI Gateway. It is designed for long-running agentic work across software engineering, computer and browser use, scientific research, and professional workflows.GPT 6 As",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2SwiRCJ2yQI6jiStpqx4n4/f327115564457532b4d646d8b597a55f/Vercel_x_OpenAI.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-04T00:00:00.000Z",
+            "date_published": "2026-09-04T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GPT 6 Astra now available on Vercel AI Gateway",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://www.mitsue.co.jp/news/events/20260904.html",
+            "content_html": "",
+            "url": "https://www.mitsue.co.jp/news/events/20260904.html",
+            "title": "イベント登壇：「生成AI × マーケティング フォーラム 2026」に登壇 | Mitsue-Links [ミツエーリンクス]",
+            "image": {
+                "url": "https://www.mitsue.co.jp/assets/img/og/event_01.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-04T00:00:00.000Z",
+            "date_published": "2026-09-04T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "イベント登壇：「生成AI × マーケティング フォーラム 2026」に登壇",
+                "blogTitle": "Mitsue-Links [ミツエーリンクス]",
+                "blogLink": "http://www.mitsue.co.jp",
+                "blogLinkMd5Hash": "b5e6ec681b24b0c52c5b8284b76252bc"
+            }
+        },
+        {
+            "id": "https://webkit.org/?p=18283",
+            "content_html": "It’s that exciting time of year again when we start considering Interop proposals for next year!",
+            "url": "https://webkit.org/blog/18283/submit-your-ideas-for-interop-2027/",
+            "title": "Submit your ideas for Interop 2027 | WebKit",
+            "summary": "It’s that exciting time of year again when we start considering Interop proposals for next year!",
+            "image": {
+                "url": "https://webkit.org/wp-content/themes/webkit/images/preview-card.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-03T21:53:33.000Z",
+            "date_published": "2026-09-03T21:53:33.000Z",
+            "tags": [
+                "News"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Submit your ideas for Interop 2027",
+                "blogTitle": "WebKit",
+                "blogLink": "https://webkit.org",
+                "blogLinkMd5Hash": "b730832646f3d89d16cb1f1d637b0261",
+                "favicon": "https://webkit.org/favicon.ico"
+            }
+        },
+        {
+            "id": "01M1JE1CN6W3KJCTMCDZ6Y1M59",
+            "content_html": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams identify and patch the most critical threats first.",
+            "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
+            "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models | Cloudflare Blog",
+            "summary": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Disco",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M1M93F7AEJ7GBHA2V4NNP3XK.01M1M93G208121NF47SS8DRCZ6.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-09-03T21:03:02.000Z",
+            "date_published": "2026-09-03T21:03:02.000Z",
+            "author": {
+                "name": "Ken Sanderson"
+            },
+            "tags": [
+                "Artificial Intelligence",
+                "Developers",
+                "Product News",
+                "Security",
+                "Workers"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.svg"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://openai.com/index/gpt-6-astra/\"&gt;GPT‑6 Astra&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;GPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API and AWS\" - I've not tried it yet myself, so I don't have a great deal to say about it yet.&lt;/p&gt;&lt;p&gt;It's going to be API priced at the same rate as Claude Fable 5 and 5.1: $10/million input and $50/million ou",
+            "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+            "title": "GPT‑6 Astra | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://openai.com/index/gpt-6-astra/\"&gt;GPT‑6 Astra&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;GPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become availab",
+            "date_modified": "2026-09-03T20:18:41.000Z",
+            "date_published": "2026-09-03T20:18:41.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GPT‑6 Astra",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://medium.com/p/cf7a108f524e",
+            "content_html": "",
+            "url": "https://craft.faire.com/staying-close-to-the-craft-in-a-rapidly-shifting-industry-cf7a108f524e",
+            "title": "Staying close to the craft in a rapidly shifting industry | The Craft - Medium",
+            "date_modified": "2026-09-03T18:44:10.000Z",
+            "date_published": "2026-09-03T18:44:10.000Z",
+            "author": {
+                "name": "Ryan Lee"
+            },
+            "tags": [
+                "product-design",
+                "ux",
+                "design",
+                "ai",
+                "career-advice"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Staying close to the craft in a rapidly shifting industry",
+                "blogTitle": "The Craft - Medium",
+                "blogLink": "https://craft.faire.com?source=rss----4af981bb79f---4",
+                "blogLinkMd5Hash": "bc48159f24d653bae64186fe9ea25735"
+            }
+        },
+        {
+            "id": "https://www.aikido.dev/blog/meccha-chameleon-rce",
+            "content_html": "We found a second delayed RCE in MECCHA CHAMELEON: a malicious custom map could write files anywhere on your system and run code after a restart. Now patched in 4.0.0.Category: Vulnerabilities &amp; Threats",
+            "url": "https://www.aikido.dev/blog/meccha-chameleon-rce",
+            "title": "MECCHA CHAMELEON can't hide from the RCE  | Aikido Security's Blog",
+            "summary": "We found a second delayed RCE in MECCHA CHAMELEON: a malicious custom map could write files anywhere on your system and run code after a restart. Now patched in 4.0.0.Category: Vulnerabilities &amp; Threa",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a989b3ebadbb4f760b97de7_meccha%20OG.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-03T18:00:00.000Z",
+            "date_published": "2026-09-03T18:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MECCHA CHAMELEON can't hide from the RCE ",
+                "blogTitle": "Aikido Security's Blog",
+                "blogLink": "https://www.aikido.dev",
+                "blogLinkMd5Hash": "0c77fc38d005cda3e64903cf14f94346",
+                "favicon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6a44c0d59562153f7bd081ff_favicon.png"
+            }
+        },
+        {
+            "id": "https://github.blog/?p=98638",
+            "content_html": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful.The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub Blog.",
+            "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+            "title": "GitHub Copilot app for Beginners: Run several agents at once | The GitHub Blog",
+            "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful.The post GitHub Copilot app for Beginners: Run several agents a",
+            "image": {
+                "height": "698",
+                "type": "image/png",
+                "url": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-12.28.34-PM.png?fit=1242%2C698",
+                "width": "1242"
+            },
+            "date_modified": "2026-09-03T16:00:00.000Z",
+            "date_published": "2026-09-03T16:00:00.000Z",
+            "author": {
+                "name": "Kayla Cinnamon"
+            },
+            "tags": [
+                "AI &amp; ML",
+                "GitHub Copilot",
+                "GitHub Copilot app",
+                "GitHub Copilot app for Beginners"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GitHub Copilot app for Beginners: Run several agents at once",
+                "blogTitle": "The GitHub Blog",
+                "blogLink": "https://github.blog/",
+                "blogLinkMd5Hash": "f5d9dec3dc3bf03d9b3049b109e60a1d",
+                "favicon": "https://github.githubassets.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/run-cursor-cloud-agents-vercel-sandbox",
+            "content_html": "can now run in instead of Cursor's hosted machines. Cursor Cloud AgentsVercel SandboxCursor manages the agent harness and inference loop. Its APIs let you supply the execution environment where agents clone repositories, edit files, and run commands and tests. Self-Hosted Machines requires a Cursor Enterprise plan.Self-Hosted MachinesVercel Sandbox provides that execution environment as an isolated Firecracker microVM for each agent request. and form a durable control plane that claims queued ag",
+            "url": "https://vercel.com/changelog/run-cursor-cloud-agents-vercel-sandbox",
+            "title": "Cursor Cloud Agents can now run in Vercel Sandbox | Vercel News",
+            "summary": "can now run in instead of Cursor's hosted machines. Cursor Cloud AgentsVercel SandboxCursor manages the agent harness and inference loop. Its APIs let you supply the execution environment where agents",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5KmgvmWZwaaPFGskgNOJAu/6b3659ba24e56f6bf4fe2c181d6d95e5/run_cursor_cloud_agents_in_vercel_sandbox_og_card.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-03T15:00:00.000Z",
+            "date_published": "2026-09-03T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Cursor Cloud Agents can now run in Vercel Sandbox",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://blog.master.dev/?p=10917",
+            "content_html": "There was a fun and intellectual debate recently about UI controls for dark/light mode. I think the story starts with Modern Web Guidance skills from Google, which recommend using a two-state toggle, apparently written by Lea Verou, and Bramus Van Damme takes issue with it. Lea explained her thinking in detail, which is a great […]",
+            "url": "https://blog.master.dev/two-vs-three-state-color-theme-toggles/",
+            "title": "Two vs. Three-State Color Theme Toggles | Master.dev Blog RSS Feed",
+            "summary": "There was a fun and intellectual debate recently about UI controls for dark/light mode. I think the story starts with Modern Web Guidance skills from Google, which recommend using a two-state toggle, ",
+            "date_modified": "2026-09-03T14:54:53.000Z",
+            "date_published": "2026-09-03T14:54:53.000Z",
+            "author": {
+                "name": "Chris Coyier"
+            },
+            "tags": [
+                "The Beat",
+                "CSS",
+                "Dark Theme",
+                "Toggle"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Two vs. Three-State Color Theme Toggles",
+                "blogTitle": "Master.dev Blog RSS Feed",
+                "blogLink": "https://blog.master.dev",
+                "blogLinkMd5Hash": "61b7f9099864eec938d5589848ac72da"
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20260903a",
+            "content_html": "2026年9月11日から9月13日までの3日間にわたり開催される、iOSDC Japan 2026にて、LINEヤフーはゴールドスポンサーを務めます。本ブログでは、LINEヤフーから登壇する発表者・パ...",
+            "url": "https://techblog.lycorp.co.jp/ja/20260903a",
+            "title": "iOSDC Japan 2026にLINEヤフーのエンジニア7名が登壇します（9/11〜9/13） | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "2026年9月11日から9月13日までの3日間にわたり開催される、iOSDC Japan 2026にて、LINEヤフーはゴールドスポンサーを務めます。本ブログでは、LINEヤフーから登壇する発表者・パ...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/c35fc7f78c9c0de859446f8fd07d5a60/7d66e/d9a06ac193374f7bb90de7d28bb62e00.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-03T03:00:00.000Z",
+            "date_published": "2026-09-03T03:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "iOSDC Japan 2026にLINEヤフーのエンジニア7名が登壇します（9/11〜9/13）",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/basic-build-machines",
+            "content_html": "Pro and Enterprise teams can now select Basic build machines. Basic build machines have 2 vCPUs and 8 GB of memory, offering a more cost-efficient option for smaller apps or agents that build with fewer resources. New Pro and Enterprise projects still default to , which scale automatically and are recommended for most use cases. Elastic build machinesTo use Basic build machines, update your project configuration in , , or with Vercel CLI or later:team settingsproject settings59.6.0Hobby accounts",
+            "url": "https://vercel.com/changelog/basic-build-machines",
+            "title": "Basic build machines are now available on Pro and Enterprise | Vercel News",
+            "summary": "Pro and Enterprise teams can now select Basic build machines. Basic build machines have 2 vCPUs and 8 GB of memory, offering a more cost-efficient option for smaller apps or agents that build with few",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/01R753Fv7g1PXCjku0Poam/3d09d66f1455266f8531259219d66b52/basic_build_machines_available_on_pro_and_enterpri_og_card-2.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-03T01:00:00.000Z",
+            "date_published": "2026-09-03T01:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Basic build machines are now available on Pro and Enterprise",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://astro.build/blog/astro-730/",
+            "content_html": "Astro 7.3 adds an --ignore-lock flag for astro preview, passes Astro's runtime logger into custom image services and cache providers, and ships a finalize() helper for Cloudflare custom worker entrypoints.",
+            "url": "https://astro.build/blog/astro-730/",
+            "title": "Astro 7.3 | The Astro Blog",
+            "summary": "Astro 7.3 adds an --ignore-lock flag for astro preview, passes Astro's runtime logger into custom image services and cache providers, and ships a finalize() helper for Cloudflare custom worker entrypo",
+            "image": {
+                "url": "https://astro.build/_astro/og-astro-7.3.Bfx4hTf9.webp",
+                "alt": "Astro 7.3",
+                "type": "webp"
+            },
+            "date_modified": "2026-09-03T00:00:00.000Z",
+            "date_published": "2026-09-03T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Astro 7.3",
+                "blogTitle": "The Astro Blog",
+                "blogLink": "https://astro.build/",
+                "blogLinkMd5Hash": "e8e8dd8e7f96ccbcfb57767d55bc8996",
+                "favicon": "https://astro.build/favicon.svg"
+            }
+        },
+        {
+            "id": "https://moonrepo.dev/blog/proto-v0.62",
+            "content_html": "Dozens of community tools now install by name alone, shell activation learned how to turn itself",
+            "url": "https://moonrepo.dev/blog/proto-v0.62",
+            "title": "proto v0.62 - Community plugins, shell deactivation, and Zig support | moonrepo Blog",
+            "summary": "Dozens of community tools now install by name alone, shell activation learned how to turn itself",
+            "image": {
+                "url": "https://moonrepo.dev/img/hero/slate-bg.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-03T00:00:00.000Z",
+            "date_published": "2026-09-03T00:00:00.000Z",
+            "tags": [
+                "zig",
+                "zls",
+                "plugins",
+                "registry",
+                "community",
+                "activate",
+                "deactivate",
+                "shell"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "proto v0.62 - Community plugins, shell deactivation, and Zig support",
+                "blogTitle": "moonrepo Blog",
+                "blogLink": "https://moonrepo.dev/blog",
+                "blogLinkMd5Hash": "64c933e72c3f531af328db7498503b05",
+                "favicon": "https://moonrepo.dev/img/favicon.svg"
+            }
+        },
+        {
+            "id": "https://nx.dev/blog/nx-23-2-release",
+            "content_html": "The Oxc toolchain arrives in Nx. Plus leaner task output, Nx running inside agent sandboxes, and a cache shared across worktrees and repository clones.",
+            "url": "https://nx.dev/blog/nx-23-2-release",
+            "title": "Nx 23.2 Is Here: Oxlint, Oxfmt, Leaner CLI Output and Better Caching | Nx Blog",
+            "summary": "The Oxc toolchain arrives in Nx. Plus leaner task output, Nx running inside agent sandboxes, and a cache shared across worktrees and repository clones.",
+            "image": {
+                "height": "421",
+                "url": "https://nx.dev/blog/images/articles/nx-23-2-release-cover.webp",
+                "width": "800",
+                "alt": "Nx: Smart Monorepos · Fast CI",
+                "type": "webp"
+            },
+            "date_modified": "2026-09-03T00:00:00.000Z",
+            "date_published": "2026-09-03T00:00:00.000Z",
+            "author": {
+                "name": "Juri Strumpflohner"
+            },
+            "tags": [
+                "release"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Nx 23.2 Is Here: Oxlint, Oxfmt, Leaner CLI Output and Better Caching",
+                "blogTitle": "Nx Blog",
+                "blogLink": "https://nx.dev/blog",
+                "blogLinkMd5Hash": "3daffd24adea44725656681ab6f52822",
+                "favicon": "https://nx.dev/favicon/favicon.svg"
+            }
+        },
+        {
+            "id": "https://github.blog/?p=98631",
+            "content_html": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations.The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub Blog.",
+            "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+            "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! | The GitHub Blog",
+            "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations.The post Decoding the new AI lingo: Loops, harnesses, sq",
+            "image": {
+                "height": "1080",
+                "type": "image/png",
+                "url": "https://github.blog/wp-content/uploads/2025/07/LinkedIn-Light-Mode-16x9-1.png?fit=1920%2C1080",
+                "width": "1920"
+            },
+            "date_modified": "2026-09-02T21:00:00.000Z",
+            "date_published": "2026-09-02T21:00:00.000Z",
+            "author": {
+                "name": "Cassidy Williams"
+            },
+            "tags": [
+                "AI &amp; ML",
+                "agentic AI",
+                "AI",
+                "GitHub Podcast"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+                "blogTitle": "The GitHub Blog",
+                "blogLink": "https://github.blog/",
+                "blogLinkMd5Hash": "f5d9dec3dc3bf03d9b3049b109e60a1d",
+                "favicon": "https://github.githubassets.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://blog.nginx.org/?p=75116",
+            "content_html": "NGINX Gateway Fabric 2.7 is a significant release, targeting Gateway API conformance, data plane improvements, and workflow enhancements. TCPRoute and UDPRoute graduate to v1 with Gateway API 1.6, TLS listeners gain Terminate mode, and a new HTTPExternalAuthFilter calls out to an authorization proxy without an NGINX snippet. Seven more NGINX settings move out of snippets […]",
+            "url": "https://blog.nginx.org/blog/nginx-gateway-fabric-2-7-gateway-api-1-6-conformance-external-authentication-and-fewer-snippets",
+            "title": "NGINX Gateway Fabric 2.7: Gateway API 1.6 conformance, external authentication, and fewer snippets | NGINX Community Blog",
+            "summary": "NGINX Gateway Fabric 2.7 is a significant release, targeting Gateway API conformance, data plane improvements, and workflow enhancements. TCPRoute and UDPRoute graduate to v1 with Gateway API 1.6, TLS",
+            "image": {
+                "url": "https://nginxblog-8de1046ff5a84f2c-endpoint.azureedge.net/blobnginxbloga72cde487e/wp-content/uploads/2024/05/cropped-NGINX-product-square-1.png",
+                "type": "png",
+                "width": 60,
+                "height": 60
+            },
+            "date_modified": "2026-09-02T18:45:54.000Z",
+            "date_published": "2026-09-02T18:45:54.000Z",
+            "author": {
+                "name": "Alessandro"
+            },
+            "tags": [
+                "Gateway",
+                "Kubernetes",
+                "Release",
+                "gateway fabric",
+                "kubernetes",
+                "release"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "NGINX Gateway Fabric 2.7: Gateway API 1.6 conformance, external authentication, and fewer snippets",
+                "blogTitle": "NGINX Community Blog",
+                "blogLink": "https://blog.nginx.org",
+                "blogLinkMd5Hash": "832a98a304298b762b7c232f82df6dcf",
+                "favicon": "https://blog.nginx.org/wp-content/uploads/2024/05/cropped-NGINX-product-square-2-32x32.png"
+            }
+        },
+        {
+            "id": "https://github.blog/?p=98586",
+            "content_html": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task.The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog.",
+            "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+            "title": "How we make AI coding more cost efficient without sacrificing task quality | The GitHub Blog",
+            "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task.The post How we make AI coding more cost efficient without sacrificing task quality appear",
+            "image": {
+                "height": "1080",
+                "type": "image/png",
+                "url": "https://github.blog/wp-content/uploads/2026/01/generic-github-copilot-commit-logo.png?fit=1920%2C1080",
+                "width": "1920"
+            },
+            "date_modified": "2026-09-02T18:00:00.000Z",
+            "date_published": "2026-09-02T18:00:00.000Z",
+            "author": {
+                "name": "Erik Kristensen"
+            },
+            "tags": [
+                "AI &amp; ML",
+                "Architecture &amp; optimization",
+                "Engineering",
+                "GitHub Copilot",
+                "agentic AI",
+                "GitHub Copilot CLI",
+                "GitHub Copilot code review",
+                "LLMs",
+                "prompt engineering"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "How we make AI coding more cost efficient without sacrificing task quality",
+                "blogTitle": "The GitHub Blog",
+                "blogLink": "https://github.blog/",
+                "blogLinkMd5Hash": "f5d9dec3dc3bf03d9b3049b109e60a1d",
+                "favicon": "https://github.githubassets.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://webkit.org/?p=18227",
+            "content_html": "WebKit for Safari 27 adds full spec compliance for top-level `await`.",
+            "url": "https://webkit.org/blog/18227/fixing-top-level-await-in-safari/",
+            "title": "Fixing Top-Level Await in Safari | WebKit",
+            "summary": "WebKit for Safari 27 adds full spec compliance for top-level `await`.",
+            "image": {
+                "url": "https://webkit.org/wp-content/uploads/top-level-await-diagram-dark-scaled.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-02T17:05:29.000Z",
+            "date_published": "2026-09-02T17:05:29.000Z",
+            "tags": [
+                "JavaScript"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Fixing Top-Level Await in Safari",
+                "blogTitle": "WebKit",
+                "blogLink": "https://webkit.org",
+                "blogLinkMd5Hash": "b730832646f3d89d16cb1f1d637b0261",
+                "favicon": "https://webkit.org/favicon.ico"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.34\"&gt;llm-gemini 0.34&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;New model &lt;code&gt;gemini-3.8-flash&lt;/code&gt; for &lt;a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/\"&gt;Gemini 3.8 Flash&lt;/a&gt;, with low, medium and high thinking levels. &lt;a href=\"https://github.com/simonw/llm-gemini/issues/146\"&gt;#146&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Fixed async responses failing to record the resolved model versi",
+            "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+            "title": "llm-gemini 0.34 | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.34\"&gt;llm-gemini 0.34&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;New model &lt;code&gt;gemini-3.8-flash&lt;/code&gt; for &lt;a href=\"https://",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2026-09-02/image.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-02T16:39:38.000Z",
+            "date_published": "2026-09-02T16:39:38.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "llm-gemini 0.34",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://shopify.engineering/river-vulnerability-remediation",
+            "content_html": "River, Shopify’s AI agent in Slack, enables autonomous vulnerability remediation, not just detection.",
+            "url": "https://shopify.engineering/river-vulnerability-remediation",
+            "title": "How River takes security work from a fix to merge | Shopify Engineering",
+            "summary": "River, Shopify’s AI agent in Slack, enables autonomous vulnerability remediation, not just detection.",
+            "image": {
+                "url": "https://cdn.shopify.com/b/shopify-brochure2-assets/07e1fad36dab89645573962ca37bcae1.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-02T16:30:45.000Z",
+            "date_published": "2026-09-02T16:30:45.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "How River takes security work from a fix to merge",
+                "blogTitle": "Shopify Engineering",
+                "blogLink": "https://shopify.engineering",
+                "blogLinkMd5Hash": "5984f6a64d96c33feb52e842605b4575",
+                "favicon": "https://cdn.shopify.com/shopifycloud/web/assets/v1/favicon-default-6cbad9de243dbae3.ico"
+            }
+        },
+        {
+            "id": "https://blog.nginx.org/?p=75119",
+            "content_html": "NGINX Ingress Controller 5.6 implements more support for configuring NGINX through resources instead of through snippets. HTTP Strict Transport Security (HSTS) becomes a first-class policy across VirtualServer, VirtualServerRoute, and Ingress. Two new annotations close configuration gaps for teams moving off Ingress-NGINX, and the X-Forwarded base headers can now be turned off through the ConfigMap. Operational […]",
+            "url": "https://blog.nginx.org/blog/nginx-ingress-controller-5-6-hsts-without-snippets-a-faster-start-on-large-clusters-and-improved-configuration-safety",
+            "title": "NGINX Ingress Controller 5.6: HSTS without snippets, a faster start on large clusters, and improved configuration safety | NGINX Community Blog",
+            "summary": "NGINX Ingress Controller 5.6 implements more support for configuring NGINX through resources instead of through snippets. HTTP Strict Transport Security (HSTS) becomes a first-class policy across Virt",
+            "image": {
+                "url": "https://nginxblog-8de1046ff5a84f2c-endpoint.azureedge.net/blobnginxbloga72cde487e/wp-content/uploads/2024/05/cropped-NGINX-product-square-1.png",
+                "type": "png",
+                "width": 60,
+                "height": 60
+            },
+            "date_modified": "2026-09-02T15:23:24.000Z",
+            "date_published": "2026-09-02T15:23:24.000Z",
+            "author": {
+                "name": "Alessandro"
+            },
+            "tags": [
+                "Ingress",
+                "Kubernetes",
+                "Release",
+                "ingress",
+                "kubernetes",
+                "release"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "NGINX Ingress Controller 5.6: HSTS without snippets, a faster start on large clusters, and improved configuration safety",
+                "blogTitle": "NGINX Community Blog",
+                "blogLink": "https://blog.nginx.org",
+                "blogLinkMd5Hash": "832a98a304298b762b7c232f82df6dcf",
+                "favicon": "https://blog.nginx.org/wp-content/uploads/2024/05/cropped-NGINX-product-square-2-32x32.png"
+            }
+        },
+        {
+            "id": "https://ics.media/entry/260903/",
+            "content_html": "記事は ics.media へアクセスしてご覧ください。",
+            "url": "https://ics.media/entry/260903/",
+            "title": "useStateとuseEffectだけじゃもったいない！ ユーザー体験を改善するReactの便利機能 | ICS MEDIA",
+            "summary": "記事は ics.media へアクセスしてご覧ください。",
+            "image": {
+                "url": "https://ics.media/entry/260903/images/eyecatch.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-02T15:00:00.000Z",
+            "date_published": "2026-09-02T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 33,
+                "originalTitle": "useStateとuseEffectだけじゃもったいない！ ユーザー体験を改善するReactの便利機能",
+                "blogTitle": "ICS MEDIA",
+                "blogLink": "https://ics.media/",
+                "blogLinkMd5Hash": "5613f1ce3f92c963b186e9de484adb40",
+                "favicon": "https://ics.media/_assets/icons/favicon.png"
+            }
+        },
+        {
+            "id": "https://blog.nginx.org/?p=75128",
+            "content_html": "For over two decades, NGINX has been the workhorse of the modern web. Its classic request-processing architecture—reading HTTP headers, matching a URI location path, and streaming payload data to backend services—built the foundation of modern web traffic management. However, the way web applications and AI agent systems communicate is fundamentally evolving. Modern application stacks rely […]",
+            "url": "https://blog.nginx.org/blog/nginx-1-31-5-control-api-predicate-locations-early-body-inspection-and-more",
+            "title": "NGINX 1.31.5: Control API, predicate locations, early body inspection, and more | NGINX Community Blog",
+            "summary": "For over two decades, NGINX has been the workhorse of the modern web. Its classic request-processing architecture—reading HTTP headers, matching a URI location path, and streaming payload data to back",
+            "image": {
+                "url": "https://nginxblog-8de1046ff5a84f2c-endpoint.azureedge.net/blobnginxbloga72cde487e/wp-content/uploads/2024/05/cropped-NGINX-product-square-1.png",
+                "type": "png",
+                "width": 60,
+                "height": 60
+            },
+            "date_modified": "2026-09-02T14:48:39.000Z",
+            "date_published": "2026-09-02T14:48:39.000Z",
+            "author": {
+                "name": "Alessandro"
+            },
+            "tags": [
+                "Announcement",
+                "Core",
+                "Release",
+                "announcement",
+                "core",
+                "release"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "NGINX 1.31.5: Control API, predicate locations, early body inspection, and more",
+                "blogTitle": "NGINX Community Blog",
+                "blogLink": "https://blog.nginx.org",
+                "blogLinkMd5Hash": "832a98a304298b762b7c232f82df6dcf",
+                "favicon": "https://blog.nginx.org/wp-content/uploads/2024/05/cropped-NGINX-product-square-2-32x32.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+            "content_html": " &lt;p&gt;Anthropic &lt;a href=\"https://platform.claude.com/docs/en/release-notes/system-prompts/overview\"&gt;publish the system prompts&lt;/a&gt; for their Claude consumer applications (&lt;a href=\"https://claude.ai/\"&gt;Claude.ai&lt;/a&gt; and the Claude mobile apps - sadly not for Claude Cowork or Claude Code). I &lt;em&gt;love&lt;/em&gt; that they do this, and that they share not just the current prompts but historic changes to their prompts as well.&lt;/p&gt;&lt;p&gt;They used to keep all of the prompts on a single page, but when I checked tod",
+            "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+            "title": "Claude's new system prompt really doesn't want to reproduce song lyrics | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;Anthropic &lt;a href=\"https://platform.claude.com/docs/en/release-notes/system-prompts/overview\"&gt;publish the system prompts&lt;/a&gt; for their Claude consumer applications (&lt;a href=\"https://claude.ai/\"&gt;Cl",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2026-09-01/IMG_7797.jpeg",
+                "type": "jpeg"
+            },
+            "date_modified": "2026-09-02T14:16:42.000Z",
+            "date_published": "2026-09-02T14:16:42.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://blog.master.dev/?p=10467",
+            "content_html": "You've got your permissions elements, custom element registries, a potential future for HTML includes, HTML-in-Canvas, and a bunch more.",
+            "url": "https://blog.master.dev/new-things-you-should-know-about-html-here-in-mid-2026/",
+            "title": "New Things You Should Know About HTML Here in Mid 2026 | Master.dev Blog RSS Feed",
+            "summary": "You've got your permissions elements, custom element registries, a potential future for HTML includes, HTML-in-Canvas, and a bunch more.",
+            "date_modified": "2026-09-02T13:05:23.000Z",
+            "date_published": "2026-09-02T13:05:23.000Z",
+            "author": {
+                "name": "Chris Coyier"
+            },
+            "tags": [
+                "Blog Post",
+                "HTML",
+                "Web Components"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "New Things You Should Know About HTML Here in Mid 2026",
+                "blogTitle": "Master.dev Blog RSS Feed",
+                "blogLink": "https://blog.master.dev",
+                "blogLinkMd5Hash": "61b7f9099864eec938d5589848ac72da"
+            }
+        },
+        {
+            "id": "https://www.stepsecurity.io/blog/runtime-security-for-aws-codebuild-hosted-github-actions-runners",
+            "content_html": "Harden-Runner now secures GitHub Actions jobs running on AWS CodeBuild-hosted runners, on EC2 compute, with managed or custom images.",
+            "url": "https://www.stepsecurity.io/blog/runtime-security-for-aws-codebuild-hosted-github-actions-runners",
+            "title": "Runtime Security for AWS CodeBuild-Hosted GitHub Actions Runners  | Step Security Blog",
+            "summary": "Harden-Runner now secures GitHub Actions jobs running on AWS CodeBuild-hosted runners, on EC2 compute, with managed or custom images.",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bf8/6a9622cad654143aa9d8da38_Cover_Artboard%207%20copy%2099.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-02T10:07:46.000Z",
+            "date_published": "2026-09-02T10:07:46.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Runtime Security for AWS CodeBuild-Hosted GitHub Actions Runners ",
+                "blogTitle": "Step Security Blog",
+                "blogLink": "https://www.stepsecurity.io",
+                "blogLinkMd5Hash": "24b853cd91d5977a9af3395b8ae81579",
+                "favicon": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bc5/675212a565f0987a0779a91f_stesecurity-favicon.png"
+            }
+        },
+        {
+            "id": "https://www.stepsecurity.io/blog/introducing-deny-list-egress-policies-for-harden-runner",
+            "content_html": "A new denied-endpoints input blocks the destinations you name and leaves everything else reachable. Here is why that matters, and how to use it to stop CI from bypassing your package proxy",
+            "url": "https://www.stepsecurity.io/blog/introducing-deny-list-egress-policies-for-harden-runner",
+            "title": "Introducing deny list egress policies for Harden-Runner  | Step Security Blog",
+            "summary": "A new denied-endpoints input blocks the destinations you name and leaves everything else reachable. Here is why that matters, and how to use it to stop CI from bypassing your package proxy",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bf8/6a95e68d3fe5d5452931f124_Cover_Artboard%207%20copy%2098.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-02T10:07:46.000Z",
+            "date_published": "2026-09-02T10:07:46.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Introducing deny list egress policies for Harden-Runner ",
+                "blogTitle": "Step Security Blog",
+                "blogLink": "https://www.stepsecurity.io",
+                "blogLinkMd5Hash": "24b853cd91d5977a9af3395b8ae81579",
+                "favicon": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bc5/675212a565f0987a0779a91f_stesecurity-favicon.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/app-and-dev-domains-included-with-free-domain-for-pro",
+            "content_html": "We recently announced that all teams can claim . That offer now includes and , bringing the eligible TLDs to eight:Proa free domain for one year.app.devThe offer still covers one domain per team, and premium domains are not eligible. After the first year, your domain will at the regular price shown at checkout when you claim it.renew automaticallyClaim yours at , and see the for full terms.vercel.com/domainsfree domain FAQRead more.app.dev.online.site.space.store.tech.website",
+            "url": "https://vercel.com/changelog/app-and-dev-domains-included-with-free-domain-for-pro",
+            "title": "Free domain with Pro offer now includes .app and .dev | Vercel News",
+            "summary": "We recently announced that all teams can claim . That offer now includes and , bringing the eligible TLDs to eight:Proa free domain for one year.app.devThe offer still covers one domain per team, and ",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/oso5MyE5hePmBmqeiQQY4/0245b1b8fb95df8e782b3b38d517347f/free_domain_with_pro_offer_includes_app_and_dev_og_card.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-02T07:00:00.000Z",
+            "date_published": "2026-09-02T07:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Free domain with Pro offer now includes .app and .dev",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+            "content_html": " &lt;blockquote cite=\"https://forums.paint.net/topic/134563-🍷-extremely-experimental-winelinux-support-how-to-get-started/\"&gt;&lt;p&gt;Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use. And I can't just \"disable\" the use of Direct2D. So, instead, &lt;strong&gt;Paint.NET now has an internal, from-scratch, clean-room reverse-engineered rewrite of Direct2D that it uses on WINE&lt;/strong&gt; (triggered by using &lt;strong&gt;/wine&lt;/stron",
+            "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+            "title": "Quoting Rick Brewster | Simon Willison's Weblog",
+            "summary": " &lt;blockquote cite=\"https://forums.paint.net/topic/134563-🍷-extremely-experimental-winelinux-support-how-to-get-started/\"&gt;&lt;p&gt;Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's ",
+            "date_modified": "2026-09-02T05:50:57.000Z",
+            "date_published": "2026-09-02T05:50:57.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Quoting Rick Brewster",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://developers.prtimes.com/?p=10308",
+            "content_html": "こんにちは。フロントエンドエンジニアの白濱（@shiraha_maru）です。 PR TIMESではプレスキット用PDFのサムネイル生成や、FAX原稿用PDFのページ数取得に PDF.js を利用しています。PDF.js […]",
+            "url": "https://developers.prtimes.com/2026/09/02/include-version-in-static-asset-urls/",
+            "title": "静的アセットの配信URLにバージョンを含めてアップデート時のキャッシュ不整合を防ぐ | PR TIMES 開発者ブログ",
+            "summary": "こんにちは。フロントエンドエンジニアの白濱（@shiraha_maru）です。 PR TIMESではプレスキット用PDFのサムネイル生成や、FAX原稿用PDFのページ数取得に PDF.js を利用しています。PDF.js […]",
+            "date_modified": "2026-09-02T02:00:00.000Z",
+            "date_published": "2026-09-02T02:00:00.000Z",
+            "author": {
+                "name": "白濱 宏樹"
+            },
+            "tags": [
+                "開発",
+                "Webフロントエンド"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "静的アセットの配信URLにバージョンを含めてアップデート時のキャッシュ不整合を防ぐ",
+                "blogTitle": "PR TIMES 開発者ブログ",
+                "blogLink": "https://developers.prtimes.com",
+                "blogLinkMd5Hash": "7fe99f6693d45838e8641b892c708d37"
+            }
+        },
+        {
+            "id": "https://medium.com/p/39ff8e0271a4",
+            "content_html": "",
+            "url": "https://blog.angular.dev/customizing-angular-aria-tabs-quickly-with-google-antigravity-cli-39ff8e0271a4",
+            "title": "Customizing Angular Aria Tabs Quickly with Google Antigravity CLI | Angular Blog - Medium",
+            "date_modified": "2026-09-02T01:50:59.000Z",
+            "date_published": "2026-09-02T01:50:59.000Z",
+            "author": {
+                "name": "Angular"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Customizing Angular Aria Tabs Quickly with Google Antigravity CLI",
+                "blogTitle": "Angular Blog - Medium",
+                "blogLink": "https://blog.angular.dev?source=rss----447683c3d9a3---4",
+                "blogLinkMd5Hash": "a1fb146f4b56e02d55146fdf8902ba6e"
+            }
+        },
+        {
+            "id": "https://mametter.hatenablog.com/entry/2026/09/02/095452",
+            "content_html": "English version: Quine Clique 久々に大作の Quine を作りました。 51 言語のプログラムがお互いにお互いを再生成しあうことができる multiquine です。 Quine Clique 解説動画はこちら。 www.youtube.com リポジトリはこちら。 github.com これは何？ 順を追って説明します。まず、これが qc.rb です。 qc.rb これは Ruby で書かれた Quine です。つまり、実行すると自分自身を出力します。 # qc.rb の出力は、qc.rb 自身と一致する $ ruby qc.rb &gt; out.bin $ dif…",
+            "url": "https://mametter.hatenablog.com/entry/2026/09/02/095452",
+            "title": "Quine Clique: 51 言語が互いに出力しあう巨大 multi-quine | まめめも",
+            "summary": "English version: Quine Clique 久々に大作の Quine を作りました。 51 言語のプログラムがお互いにお互いを再生成しあうことができる multiquine です。 Quine Clique 解説動画はこちら。 www.youtube.com リポジトリはこちら。 github.com これは何？ 順を追って説明します。まず、これが qc.rb です。 qc.rb ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/4e9c234be1c4c6d36db115237ca3d126f8cad80a/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fku-ma-me%2F20260902%2F20260902003058.png",
+                "alt": "Quine Clique: 51 言語が互いに出力しあう巨大 multi-quine - まめめも",
+                "type": "png"
+            },
+            "date_modified": "2026-09-02T00:54:52.000Z",
+            "date_published": "2026-09-02T00:54:52.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Quine Clique: 51 言語が互いに出力しあう巨大 multi-quine",
+                "blogTitle": "まめめも",
+                "blogLink": "https://mametter.hatenablog.com/",
+                "blogLinkMd5Hash": "cd62d36ac53f7851cb030ff72be1b5be",
+                "favicon": "https://mametter.hatenablog.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://astro.build/blog/starlight-042/",
+            "content_html": "Less JavaScript, and more JavaScript, all in one release.",
+            "url": "https://astro.build/blog/starlight-042/",
+            "title": "Starlight 0.42 | The Astro Blog",
+            "summary": "Less JavaScript, and more JavaScript, all in one release.",
+            "image": {
+                "url": "https://astro.build/_astro/og-starlight-042.Czw4Xmrh.webp",
+                "alt": "Starlight 0.42",
+                "type": "webp"
+            },
+            "date_modified": "2026-09-02T00:00:00.000Z",
+            "date_published": "2026-09-02T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Starlight 0.42",
+                "blogTitle": "The Astro Blog",
+                "blogLink": "https://astro.build/",
+                "blogLinkMd5Hash": "e8e8dd8e7f96ccbcfb57767d55bc8996",
+                "favicon": "https://astro.build/favicon.svg"
+            }
+        },
+        {
+            "id": "https://evilmartians.com/chronicles/why-gusto-hired-evil-martians-for-sidekiq-infrastructure",
+            "content_html": "Gusto runs payroll for 500,000+ businesses on one of the largest Rails monoliths anywhere. Why a team this strong hired Evil Martians for Sidekiq at scale, what running background jobs at that size actually takes, and when to stop waiting for the perfect hire.",
+            "url": "https://evilmartians.com/chronicles/why-gusto-hired-evil-martians-for-sidekiq-infrastructure",
+            "title": "Why Gusto hired Evil Martians for Sidekiq infrastructure | Evil Martians",
+            "summary": "Gusto runs payroll for 500,000+ businesses on one of the largest Rails monoliths anywhere. Why a team this strong hired Evil Martians for Sidekiq at scale, what running background jobs at that size ac",
+            "image": {
+                "url": "https://evilmartians.com/social-cards/chronicles/why-gusto-hired-evil-martians-for-sidekiq-infrastructure.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-02T00:00:00.000Z",
+            "date_published": "2026-09-02T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Why Gusto hired Evil Martians for Sidekiq infrastructure",
+                "blogTitle": "Evil Martians",
+                "blogLink": "https://evilmartians.com/chronicles",
+                "blogLinkMd5Hash": "53d7ea73bf73cd9930fe093343086722",
+                "favicon": "https://evilmartians.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://voidzero.dev/posts/whats-new-aug-2026",
+            "content_html": "Welcome to another edition of Tales from the Void!Regularly, we recap the project updates for Void, Vite+, Vite, Vitest, Rolldown, Oxc, and what’s happening in our community.React Compiler Support in Vite ​The React Compiler is now available in Vite 8 via Oxc. It memoizes your components and hooks at build time, so you stop hand-writing useMemo and useCallback while getting fewer re-renders for free.Until now, using the compiler meant keeping Babel in your Vite pipeline. oxc-transform-react repl",
+            "url": "https://voidzero.dev/posts/whats-new-aug-2026",
+            "title": "Tales from the Void: August 2026 Recap | VoidZero",
+            "summary": "Welcome to another edition of Tales from the Void!Regularly, we recap the project updates for Void, Vite+, Vite, Vitest, Rolldown, Oxc, and what’s happening in our community.React Compiler Support in ",
+            "image": {
+                "url": "https://voidzero.dev/covers/update-2026-aug.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-02T00:00:00.000Z",
+            "date_published": "2026-09-02T00:00:00.000Z",
+            "author": {
+                "name": "Alexander Lichter"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Tales from the Void: August 2026 Recap",
+                "blogTitle": "VoidZero",
+                "blogLink": "https://voidzero.dev/",
+                "blogLinkMd5Hash": "da76980607861ad0ffe7dff76eb455b4",
+                "favicon": "https://voidzero.dev/favicon.svg"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/muse-spark-1-3-now-available-on-ai-gateway",
+            "content_html": "is now available on AI Gateway, in both the standard and contributor pricing tiers.Muse Spark 1.3 from MetaThis model improves on prior Muse Spark models at agent work and coding, with a 1M token context window and text, image, and PDF input. On coding it takes fewer turns and writes less filler than the previous release.To use Muse Spark 1.3, set to :modelmeta/muse-spark-1.3 is a pricing tier on the same model rather than a separate one, with the same weights, capabilities, and context window. ",
+            "url": "https://vercel.com/changelog/muse-spark-1-3-now-available-on-ai-gateway",
+            "title": "Muse Spark 1.3 now available on AI Gateway | Vercel News",
+            "summary": "is now available on AI Gateway, in both the standard and contributor pricing tiers.Muse Spark 1.3 from MetaThis model improves on prior Muse Spark models at agent work and coding, with a 1M token cont",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7A6sXjeRC0lrfnxInP7996/e908500d803496bcb3b0dc8e37de3259/image__65_.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-02T00:00:00.000Z",
+            "date_published": "2026-09-02T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Muse Spark 1.3 now available on AI Gateway",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/glm-5-3-is-50-off-through-digitalocean-on-ai-gateway",
+            "content_html": "is 50% off on AI Gateway through Tuesday, September 8, in partnership with DigitalOcean.GLM-5.3Because the promo name goes away when the offer ends, treat it as something you switch on for the window rather than hardcode. To keep the standard name in your code instead, pin the provider with under , which prefers DigitalOcean and falls back to the others if it cannot serve the request.order: ['digitalocean']providerOptions.gatewayGLM-5.3 takes text input, with a 1M token context window and a maxi",
+            "url": "https://vercel.com/changelog/glm-5-3-is-50-off-through-digitalocean-on-ai-gateway",
+            "title": "GLM-5.3 is 50% off through DigitalOcean on AI Gateway | Vercel News",
+            "summary": "is 50% off on AI Gateway through Tuesday, September 8, in partnership with DigitalOcean.GLM-5.3Because the promo name goes away when the offer ends, treat it as something you switch on for the window ",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/74B13NeqFCe8w7jV8Litst/0379c83620a96745d9c7f4e3207c5c88/image__102_.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-02T00:00:00.000Z",
+            "date_published": "2026-09-02T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GLM-5.3 is 50% off through DigitalOcean on AI Gateway",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/gemini-3-8-flash-now-available-on-ai-gateway",
+            "content_html": "is now available on AI Gateway.Gemini 3.8 Flash from GoogleThe model is 50% off through December 31st. It has a 1M token context window, accepts text, image, PDF, and video input, returns text, and supports tool calling and web search. Maximum output is 65,536 tokens.Gemini 3.8 Flash improves on prior Flash models at software engineering, agent work, and multi-step reasoning, at the same speed and cost as the previous release. Thinking is on by default.To use Gemini 3.8 Flash, set to :modelgoogl",
+            "url": "https://vercel.com/changelog/gemini-3-8-flash-now-available-on-ai-gateway",
+            "title": "Gemini 3.8 Flash now available on AI Gateway | Vercel News",
+            "summary": "is now available on AI Gateway.Gemini 3.8 Flash from GoogleThe model is 50% off through December 31st. It has a 1M token context window, accepts text, image, PDF, and video input, returns text, and su",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/38lhFWswSQd6xdOwRCNNKC/9d4006e436aba2c29c165b60f58e816a/image.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-02T00:00:00.000Z",
+            "date_published": "2026-09-02T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Gemini 3.8 Flash now available on AI Gateway",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://www.debugbear.com/blog/marketing-dev-collaboration",
+            "content_html": "Marketing owns the site experience but developers make the changes. Learn how both teams can use shared performance data, experiments, and alerts to work together on page speed.",
+            "url": "https://www.debugbear.com/blog/marketing-dev-collaboration",
+            "title": "How Marketing And Development Teams Can Collaborate On Page Speed | DebugBear Blog",
+            "summary": "Marketing owns the site experience but developers make the changes. Learn how both teams can use shared performance data, experiments, and alerts to work together on page speed.",
+            "image": {
+                "url": "https://www.debugbear.com/dimg/e7e7117a8a2b19463cb5a2e2ad82ef51.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-02T00:00:00.000Z",
+            "date_published": "2026-09-02T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "How Marketing And Development Teams Can Collaborate On Page Speed",
+                "blogTitle": "DebugBear Blog",
+                "blogLink": "https://www.debugbear.com/blog",
+                "blogLinkMd5Hash": "dfc47606b2a9887ba30c5223a7a02839",
+                "favicon": "https://www.debugbear.com/public/favicon-2022-32x32.png"
+            }
+        },
+        {
+            "id": "https://www.mitsue.co.jp/news/release/20260902.html",
+            "content_html": "",
+            "url": "https://www.mitsue.co.jp/news/release/20260902.html",
+            "title": "ニュースリリース：「Webサイト監視」サービスをリリース | Mitsue-Links [ミツエーリンクス]",
+            "image": {
+                "url": "https://www.mitsue.co.jp/assets/img/og/news.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-02T00:00:00.000Z",
+            "date_published": "2026-09-02T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ニュースリリース：「Webサイト監視」サービスをリリース",
+                "blogTitle": "Mitsue-Links [ミツエーリンクス]",
+                "blogLink": "http://www.mitsue.co.jp",
+                "blogLinkMd5Hash": "b5e6ec681b24b0c52c5b8284b76252bc"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+            "content_html": " &lt;p&gt;Today is &lt;a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-1\"&gt;Claude Fable (and Mythos) 5.1 day&lt;/a&gt;. Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announcement spends a notable amount of time on scientific research, boasting of a 52.6% score on the brand new &lt;a href=\"https://www.terminal-bench-science.ai\"&gt;Terminal-Bench-Science 0.1&lt;/a&gt; benchmark (first announced &lt;a href=\"https://www.tbench.ai/news/termi",
+            "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+            "title": "Claude Fable 5.1 made me a really nice animated pelican | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;Today is &lt;a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-1\"&gt;Claude Fable (and Mythos) 5.1 day&lt;/a&gt;. Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and lo",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2026/fable-5.1-max.webp",
+                "type": "webp"
+            },
+            "date_modified": "2026-09-01T23:57:28.000Z",
+            "date_published": "2026-09-01T23:57:28.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Claude Fable 5.1 made me a really nice animated pelican",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+            "content_html": " &lt;p&gt;I was poking around in my &lt;code&gt;~/.cache/&lt;/code&gt; folder using &lt;a href=\"https://www.omnigroup.com/more\"&gt;OmniDiskSweeper&lt;/a&gt; when I spotted something interesting. The OpenAI Codex desktop app (since &lt;a href=\"https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app\"&gt;rebranded&lt;/a&gt; to just ChatGPT) has 1.7GB of stuff in there in a folder called &lt;code&gt;codex-primary-runtime&lt;/code&gt;, including a full Python installation, a full Node.js installation, and native binaries for &lt;",
+            "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+            "title": "Codex bundles LibreOffice | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;I was poking around in my &lt;code&gt;~/.cache/&lt;/code&gt; folder using &lt;a href=\"https://www.omnigroup.com/more\"&gt;OmniDiskSweeper&lt;/a&gt; when I spotted something interesting. The OpenAI Codex desktop app (since",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2026/codex-primay-runtime.webp",
+                "type": "webp"
+            },
+            "date_modified": "2026-09-01T19:03:01.000Z",
+            "date_published": "2026-09-01T19:03:01.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Codex bundles LibreOffice",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://socket.dev/blog/microsoft-teams",
+            "content_html": "Socket can now send alerts and supply chain attack notifications to Microsoft Teams, with filters that route the right updates to each channel.",
+            "url": "https://socket.dev/blog/microsoft-teams",
+            "title": "Microsoft Teams Notifications Are Now Available in Socket | Socket",
+            "summary": "Socket can now send alerts and supply chain attack notifications to Microsoft Teams, with filters that route the right updates to each channel.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/cgdhsj6q/production/242a342d9d50d5de55ce5aeb0a74f67cd8141835-2400x1260.png?w=1000&q=95&fit=max&auto=format",
+                "type": "png"
+            },
+            "date_modified": "2026-09-01T18:45:02.949Z",
+            "date_published": "2026-09-01T18:45:02.949Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Microsoft Teams Notifications Are Now Available in Socket",
+                "blogTitle": "Socket",
+                "blogLink": "https://socket.dev/api/blog/feed.json",
+                "blogLinkMd5Hash": "1ad7c1f71e0aa48ea310910290f40d4a",
+                "favicon": "https://socket.dev/next-public-assets/favicon.ico"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/1/geojson/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;Tool:&lt;/strong&gt; &lt;a href=\"https://tools.simonwillison.net/geojson\"&gt;GeoJSON Map Viewer&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I was helping Natalie gather some maps of local political boundaries (for the &lt;a href=\"https://granada.ca.gov\"&gt;Granada Community Services District&lt;/a&gt; and the &lt;a href=\"https://midcoastcommunitycouncil.org\"&gt;Midcoast Community Council&lt;/a&gt;) and found a need to display some GeoJSON files on a map and export that as a PNG. I asked GPT-5.6-Sol for suggestions of tools and it proactively built one",
+            "url": "https://simonwillison.net/2026/Sep/1/geojson/",
+            "title": "GeoJSON Map Viewer | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;Tool:&lt;/strong&gt; &lt;a href=\"https://tools.simonwillison.net/geojson\"&gt;GeoJSON Map Viewer&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I was helping Natalie gather some maps of local political boundaries (for the &lt;a href=\"https:",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2026/geojson-tool.webp",
+                "type": "webp"
+            },
+            "date_modified": "2026-09-01T18:05:45.000Z",
+            "date_published": "2026-09-01T18:05:45.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GeoJSON Map Viewer",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
+            "content_html": " &lt;blockquote cite=\"https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/\"&gt;&lt;p&gt;They took the letters from me! I have to talk about &lt;em&gt;dwarf behavior&lt;/em&gt; now. I can't even talk about dwarf AI. It doesn't exist. It's &lt;em&gt;dwarf behavior&lt;/em&gt;, and they misbehave sometimes&lt;/p&gt;&lt;/blockquote&gt;&lt;p class=\"cite\"&gt;&amp;mdash; &lt;a href=\"https://www.pcgamer.com/gaming-industry/dwarf-fortres",
+            "url": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
+            "title": "Quoting Tarn Adams | Simon Willison's Weblog",
+            "summary": " &lt;blockquote cite=\"https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis",
+            "date_modified": "2026-09-01T17:01:11.000Z",
+            "date_published": "2026-09-01T17:01:11.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Quoting Tarn Adams",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://www.aikido.dev/blog/top-dspm-tools",
+            "content_html": "Compare the top DSPM tools of 2026: Aikido, Wiz, Cyera, Varonis, and Orca, on data access, remediation, and how they find exposureCategory: DevSec Tools &amp; Comparisons",
+            "url": "https://www.aikido.dev/blog/top-dspm-tools",
+            "title": "Top DSPM tools in 2026 | Aikido Security's Blog",
+            "summary": "Compare the top DSPM tools of 2026: Aikido, Wiz, Cyera, Varonis, and Orca, on data access, remediation, and how they find exposureCategory: DevSec Tools &amp; Comparisons",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a970624298bf7d2c2966aa3_OG_%5Bgeneric-seo-title%5D_16x9.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-01T16:49:00.000Z",
+            "date_published": "2026-09-01T16:49:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Top DSPM tools in 2026",
+                "blogTitle": "Aikido Security's Blog",
+                "blogLink": "https://www.aikido.dev",
+                "blogLinkMd5Hash": "0c77fc38d005cda3e64903cf14f94346",
+                "favicon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6a44c0d59562153f7bd081ff_favicon.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/datasette/datasette-mcp/releases/tag/0.2\"&gt;datasette-mcp 0.2&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;code&gt;\"rows\"&lt;/code&gt; from &lt;code&gt;execute_sql&lt;/code&gt; is now an array of objects. Previously it was an array of arrays. This should help weaker models avoid losing track of which positional array element maps to which column. &lt;a href=\"https://github.com/datasette/datasette-mcp/issues/1\"&gt;#1&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Now depends on &lt;code&gt;mcp&amp;gt;=2.1.1&lt;/code&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;/b",
+            "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
+            "title": "datasette-mcp 0.2 | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/datasette/datasette-mcp/releases/tag/0.2\"&gt;datasette-mcp 0.2&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;code&gt;\"rows\"&lt;/code&gt; from &lt;code&gt;execute_sql&lt;/code&gt; is n",
+            "date_modified": "2026-09-01T15:30:12.000Z",
+            "date_published": "2026-09-01T15:30:12.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "datasette-mcp 0.2",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://discuss.python.org/t/python-3-15-0-candidate-2-is-here/108841\"&gt;Python 3.15.0 candidate 2 is here!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;Entering the release candidate phase, only reviewed code changes which are clear bug fixes are allowed between this release candidate and the final release. [...]&lt;/p&gt;&lt;p&gt;We &lt;strong&gt;strongly ",
+            "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
+            "title": "Python 3.15.0 candidate 2 is here! | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://discuss.python.org/t/python-3-15-0-candidate-2-is-here/108841\"&gt;Python 3.15.0 candidate 2 is here!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;Hugo van Kemenade (release manager for Python 3.14 and 3.",
+            "date_modified": "2026-09-01T14:59:18.000Z",
+            "date_published": "2026-09-01T14:59:18.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Python 3.15.0 candidate 2 is here!",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://www.aikido.dev/blog/dark-figure-supply-chain-detection",
+            "content_html": "String-based rules only catch malware that's already been seen. Behavioral detection is how you find the supply chain attacks.Category: News",
+            "url": "https://www.aikido.dev/blog/dark-figure-supply-chain-detection",
+            "title": "The dark figure of supply chain detection | Aikido Security's Blog",
+            "summary": "String-based rules only catch malware that's already been seen. Behavioral detection is how you find the supply chain attacks.Category: News",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a959374bb7fdcb199365b43_The-dark-figure-behind-supply-chain-detection_OG.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-01T14:39:00.000Z",
+            "date_published": "2026-09-01T14:39:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The dark figure of supply chain detection",
+                "blogTitle": "Aikido Security's Blog",
+                "blogLink": "https://www.aikido.dev",
+                "blogLinkMd5Hash": "0c77fc38d005cda3e64903cf14f94346",
+                "favicon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6a44c0d59562153f7bd081ff_favicon.png"
+            }
+        },
+        {
+            "id": "01M1DAE3EH5FEG7RQMQD63A731",
+            "content_html": "Could we get more cache space with the same hardware? We prototyped compression inside Cloudflare's cache to find out.",
+            "url": "https://blog.cloudflare.com/cache-transcoding/",
+            "title": "How we could save petabytes of cache storage with Zstandard and Pingora | Cloudflare Blog",
+            "summary": "Could we get more cache space with the same hardware? We prototyped compression inside Cloudflare's cache to find out.",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M1DAPGD3MF590TVQC32X12TX.01M1DAPH1P5MKSPDY4VF9A3H3T.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-09-01T12:59:00.000Z",
+            "date_published": "2026-09-01T12:59:00.000Z",
+            "author": {
+                "name": "Aashi Patel"
+            },
+            "tags": [
+                "Cache",
+                "Compression",
+                "Internship Experience",
+                "Performance",
+                "Pingora"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "How we could save petabytes of cache storage with Zstandard and Pingora",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.svg"
+            }
+        },
+        {
+            "id": "https://azukiazusa.dev/blog/style-video-with-media-state-pseudo-classes",
+            "content_html": "video 要素の再生やミュート状態に応じて見た目を変えるには、JavaScript でイベントを監視して CSS クラスを同期する方法が使われてきました。メディア状態擬似クラスを使うと、ブラウザが管理する再生、一時停止、シーク、バッファリング、ミュートなどの状態を CSS から直接選択できます。この記事では 7 つの擬似クラスの条件と、:has() を組み合わせて動画プレイヤーの表示を切り替える方法を紹介します。",
+            "url": "https://azukiazusa.dev/blog/style-video-with-media-state-pseudo-classes",
+            "title": "`:playing` や `:muted` で video 要素の状態に応じたスタイルを適用する | azukiazusa のテックブログ2",
+            "summary": "video 要素の再生やミュート状態に応じて見た目を変えるには、JavaScript でイベントを監視して CSS クラスを同期する方法が使われてきました。メディア状態擬似クラスを使うと、ブラウザが管理する再生、一時停止、シーク、バッファリング、ミュートなどの状態を CSS から直接選択できます。この記事では 7 つの擬似クラスの条件と、:has() を組み合わせて動画プレイヤーの表示を切り替える",
+            "image": {
+                "url": "https://ogp.azukiazusa.dev/blog/ogp/style-video-with-media-state-pseudo-classes.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-01T11:00:00.000Z",
+            "date_published": "2026-09-01T11:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "`:playing` や `:muted` で video 要素の状態に応じたスタイルを適用する",
+                "blogTitle": "azukiazusa のテックブログ2",
+                "blogLink": "https://azukiazusa.dev",
+                "blogLinkMd5Hash": "f333203079d9928b7fa83832f57ad131",
+                "favicon": "https://azukiazusa.dev/favicon.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/blog/fluid-compute-takes-any-shape",
+            "content_html": "Workloads differ in how long they run, how much memory they take, and how much of the environment they control. That previously meant a different compute primitive for each job, so product iterations required provisioning infrastructure, not just working on a feature.We built Vercel so that none of this has to be your problem. The compute layer is a single system with a simple job. Take any workload, assemble the machine it needs, swap configuration on the fly, and absorb burst capacity in real ",
+            "url": "https://vercel.com/blog/fluid-compute-takes-any-shape",
+            "title": "Compute that takes any shape | Vercel News",
+            "summary": "Workloads differ in how long they run, how much memory they take, and how much of the environment they control. That previously meant a different compute primitive for each job, so product iterations ",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/hu5stcez0gWSJ6ojYbWra/b6ea1dbf9a1285e2c41ff92695ffb374/compute_that_shapes_and_transforms_og_card__1_.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-01T07:00:00.000Z",
+            "date_published": "2026-09-01T07:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Compute that takes any shape",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://socket.dev/blog/pnpm-12",
+            "content_html": "pnpm 12 rewrites the package manager in Rust, cutting install times by up to 90% while preserving pnpm 11 workflows and lockfiles.",
+            "url": "https://socket.dev/blog/pnpm-12",
+            "title": "pnpm 12’s Rust Rewrite Cuts Install Times by Up to 90% | Socket",
+            "summary": "pnpm 12 rewrites the package manager in Rust, cutting install times by up to 90% while preserving pnpm 11 workflows and lockfiles.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/cgdhsj6q/production/49cb0985cccce46c1d938363766aca6fc8b56733-1672x941.png?w=1000&q=95&fit=max&auto=format",
+                "type": "png"
+            },
+            "date_modified": "2026-09-01T02:52:00.183Z",
+            "date_published": "2026-09-01T02:52:00.183Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "pnpm 12’s Rust Rewrite Cuts Install Times by Up to 90%",
+                "blogTitle": "Socket",
+                "blogLink": "https://socket.dev/api/blog/feed.json",
+                "blogLinkMd5Hash": "1ad7c1f71e0aa48ea310910290f40d4a",
+                "favicon": "https://socket.dev/next-public-assets/favicon.ico"
+            }
+        },
+        {
+            "id": "https://developers.prtimes.com/?p=10292",
+            "content_html": "こんにちは。PR TIMESでエンジニアをしている田中 (@Romira915)です。 この記事では、認可をアプリケーション側に残したまま、素材ダウンロード用ZIPの配信をApache・PHPからFastly・S3へ切り […]",
+            "url": "https://developers.prtimes.com/2026/09/01/fastly-s3-download-offloading/",
+            "title": "素材ダウンロード負荷軽減のためにApache – PHP から切り離し、Fastly – S3 経由で配信するようにしました | PR TIMES 開発者ブログ",
+            "summary": "こんにちは。PR TIMESでエンジニアをしている田中 (@Romira915)です。 この記事では、認可をアプリケーション側に残したまま、素材ダウンロード用ZIPの配信をApache・PHPからFastly・S3へ切り […]",
+            "date_modified": "2026-09-01T01:00:00.000Z",
+            "date_published": "2026-09-01T01:00:00.000Z",
+            "author": {
+                "name": "田中 湧大"
+            },
+            "tags": [
+                "インフラ",
+                "開発",
+                "AWS",
+                "Fastly",
+                "PHP",
+                "S3"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "素材ダウンロード負荷軽減のためにApache – PHP から切り離し、Fastly – S3 経由で配信するようにしました",
+                "blogTitle": "PR TIMES 開発者ブログ",
+                "blogLink": "https://developers.prtimes.com",
+                "blogLinkMd5Hash": "7fe99f6693d45838e8641b892c708d37"
+            }
+        },
+        {
+            "id": "https://evilmartians.com/chronicles/ten-anti-ai-slop-moves-for-frontend-projects-going-faster-than-humans-can-review",
+            "content_html": "Ten checks that catch what AI-written frontend code hides: contract codegen, boundary linting, mutation testing, and dead-code detectors.",
+            "url": "https://evilmartians.com/chronicles/ten-anti-ai-slop-moves-for-frontend-projects-going-faster-than-humans-can-review",
+            "title": "10 anti-AI slop moves for frontend projects going faster than humans can review | Evil Martians",
+            "summary": "Ten checks that catch what AI-written frontend code hides: contract codegen, boundary linting, mutation testing, and dead-code detectors.",
+            "image": {
+                "url": "https://evilmartians.com/social-cards/chronicles/ten-anti-ai-slop-moves-for-frontend-projects-going-faster-than-humans-can-review.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-01T00:00:00.000Z",
+            "date_published": "2026-09-01T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "10 anti-AI slop moves for frontend projects going faster than humans can review",
+                "blogTitle": "Evil Martians",
+                "blogLink": "https://evilmartians.com/chronicles",
+                "blogLinkMd5Hash": "53d7ea73bf73cd9930fe093343086722",
+                "favicon": "https://evilmartians.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://nx.dev/blog/dotnet-openapi-type-safety",
+            "content_html": "Generate an OpenAPI document from a .NET API at build time, generate a TypeScript client from it, and let the Nx task graph keep the two in sync.",
+            "url": "https://nx.dev/blog/dotnet-openapi-type-safety",
+            "title": "Full-Stack Type Safety Across Languages with @nx/dotnet | Nx Blog",
+            "summary": "Generate an OpenAPI document from a .NET API at build time, generate a TypeScript client from it, and let the Nx task graph keep the two in sync.",
+            "image": {
+                "height": "421",
+                "url": "https://nx.dev/blog/images/articles/dotnet-openapi-type-safety-cover.png",
+                "width": "800",
+                "alt": "Nx: Smart Monorepos · Fast CI",
+                "type": "png"
+            },
+            "date_modified": "2026-09-01T00:00:00.000Z",
+            "date_published": "2026-09-01T00:00:00.000Z",
+            "author": {
+                "name": "Craigory Coppola"
+            },
+            "tags": [
+                "tutorial",
+                "dotnet",
+                "typescript",
+                "monorepo"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Full-Stack Type Safety Across Languages with @nx/dotnet",
+                "blogTitle": "Nx Blog",
+                "blogLink": "https://nx.dev/blog",
+                "blogLinkMd5Hash": "3daffd24adea44725656681ab6f52822",
+                "favicon": "https://nx.dev/favicon/favicon.svg"
+            }
+        },
+        {
+            "id": "https://svelte.dev/blog/whats-new-in-svelte-september-2026",
+            "content_html": "This month, Svelte 5.57 shipped with new SvelteMap methods and a few quality-of-life additions while SvelteKit 3 got closer to the finish line with its Release Candidate.The sv CLI also got a new ai-tools add-on that replaces the old mcp one, and sv@next now ships a task-based sveltekit-3 migration for existing apps.Let’s dive a bit deeper!What’s new in SvelteSvelteMap now has getOrInsert and getOrInsertComputed methods for the common “read or initialize” pattern (5.57.0, Docs, #18728)createCont",
+            "url": "https://svelte.dev/blog/whats-new-in-svelte-september-2026",
+            "title": "What’s new in Svelte: September 2026 | Svelte blog",
+            "summary": "This month, Svelte 5.57 shipped with new SvelteMap methods and a few quality-of-life additions while SvelteKit 3 got closer to the finish line with its Release Candidate.The sv CLI also got a new ai-t",
+            "image": {
+                "url": "https://svelte.dev/blog/whats-new-in-svelte-september-2026/card.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-01T00:00:00.000Z",
+            "date_published": "2026-09-01T00:00:00.000Z",
+            "author": {
+                "name": "Dani Sandoval"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "What’s new in Svelte: September 2026",
+                "blogTitle": "Svelte blog",
+                "blogLink": "https://svelte.dev/blog",
+                "blogLinkMd5Hash": "cd1810ebbb144490d5c40bd9762de117",
+                "favicon": "https://svelte.dev/favicon.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/qwen-3-8-max-0902-now-available-on-ai-gateway",
+            "content_html": "is now available on AI Gateway.Qwen 3.8 Max 0902 from AlibabaThis is a new snapshot of Qwen 3.8 Max, with the gains concentrated in coding on larger projects, long-horizon work that runs without supervision, and agent runs. Vision handling is more accurate on charts and dense documents.To use Qwen 3.8 Max 0902, set to :modelalibaba/qwen3.8-max-0902The dated ID pins this snapshot, so a later release will not change what your requests run against.To move existing traffic onto it without a code cha",
+            "url": "https://vercel.com/changelog/qwen-3-8-max-0902-now-available-on-ai-gateway",
+            "title": "Qwen 3.8 Max 0902 now available on AI Gateway | Vercel News",
+            "summary": "is now available on AI Gateway.Qwen 3.8 Max 0902 from AlibabaThis is a new snapshot of Qwen 3.8 Max, with the gains concentrated in coding on larger projects, long-horizon work that runs without super",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2aBIEKewKIpdYSPv9E76Wn/5a0957249bafced81d33df0534df0187/Vercel_x_Qwen.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-01T00:00:00.000Z",
+            "date_published": "2026-09-01T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Qwen 3.8 Max 0902 now available on AI Gateway",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/claude-fable-5-1-now-available-on-ai-gateway",
+            "content_html": "is now available on AI Gateway.Claude Fable 5.1 from AnthropicFable 5.1 improvements compared to previous Claude models are concentrated in long, multi-stage work like agentic coding, knowledge work, and research that takes several rounds of searching and following up.Anthropic ships Fable 5.1 with cybersecurity and biology safety classifiers enabled. Finding vulnerabilities in source code is allowed, but some routine coding and debugging may still be refused. To ensure requests are still servic",
+            "url": "https://vercel.com/changelog/claude-fable-5-1-now-available-on-ai-gateway",
+            "title": "Claude Fable 5.1 now available on AI Gateway | Vercel News",
+            "summary": "is now available on AI Gateway.Claude Fable 5.1 from AnthropicFable 5.1 improvements compared to previous Claude models are concentrated in long, multi-stage work like agentic coding, knowledge work, ",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1nxbUaUVfuEnDEKT9lRXrY/a709d6455cfbd73f7ef021e13322f8b4/Vercel_x_Anthropic.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-01T00:00:00.000Z",
+            "date_published": "2026-09-01T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Claude Fable 5.1 now available on AI Gateway",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/aws-privatelink-is-now-available-on-pro-and-enterprise",
+            "content_html": "is now available for Pro and Enterprise teams as part of Advanced Networking. It allows Vercel Functions and builds to connect to AWS-hosted services without sending traffic over the public internet.AWS PrivateLinkUse it to reach AWS-hosted databases such as RDS, Aurora, and Neon; SaaS services such as Snowflake and MongoDB Atlas; internal services behind an AWS Network Load Balancer; and S3 or DynamoDB through gateway endpoints.To configure PrivateLink, open your project's and enable . Select N",
+            "url": "https://vercel.com/changelog/aws-privatelink-is-now-available-on-pro-and-enterprise",
+            "title": "AWS PrivateLink is now available on Pro and Enterprise | Vercel News",
+            "summary": "is now available for Pro and Enterprise teams as part of Advanced Networking. It allows Vercel Functions and builds to connect to AWS-hosted services without sending traffic over the public internet.A",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1Q5NApbiVqIHOdJPdVjfyj/76c9e0c62324beb789e59a7ec5f59772/aws-privatelink.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-01T00:00:00.000Z",
+            "date_published": "2026-09-01T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AWS PrivateLink is now available on Pro and Enterprise",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://grahamdumpleton.me/posts/2026/08/introducing-wrapture/\"&gt;Introducing wrapture&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;New from Graham Dumpleton (of &lt;a href=\"https://pypi.org/project/wrapt/\"&gt;wrapt&lt;/a&gt;, mod_wsgi, and New Relic's Python agent fame), who describes Wrapture as taking the monkeypatching ideas from wrapt and extending them to apply to testing and tracing at the same time.&lt;/p&gt;&lt;p&gt;Wrapture (&lt;a href=\"https://wrapture.readthedocs.io/\"&gt;full documentation here&lt;/a&gt;) makes it easy to wrap a",
+            "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
+            "title": "Introducing wrapture | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://grahamdumpleton.me/posts/2026/08/introducing-wrapture/\"&gt;Introducing wrapture&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;New from Graham Dumpleton (of &lt;a href=\"https://pypi.org/project/wrapt/\"&gt;wrapt&lt;",
+            "date_modified": "2026-08-31T23:59:36.000Z",
+            "date_published": "2026-08-31T23:59:36.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Introducing wrapture",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Aug/31/andrew-digby/",
+            "content_html": " &lt;blockquote cite=\"https://bsky.app/profile/digs.bsky.social/post/3mufrrsfhq22r\"&gt;&lt;p&gt;325 #kakapo! The chicks from this year's record breeding season are now juveniles and so have been added to the population. In 1995 there were just 51 kākāpō left. Recovery of critically endangered species &lt;em&gt;is&lt;/em&gt; possible with sustained effort.&lt;/p&gt;&lt;/blockquote&gt;&lt;p class=\"cite\"&gt;&amp;mdash; &lt;a href=\"https://bsky.app/profile/digs.bsky.social/post/3mufrrsfhq22r\"&gt;Andrew Digby&lt;/a&gt;, providing the best news of the year&lt;/",
+            "url": "https://simonwillison.net/2026/Aug/31/andrew-digby/",
+            "title": "Quoting Andrew Digby | Simon Willison's Weblog",
+            "summary": " &lt;blockquote cite=\"https://bsky.app/profile/digs.bsky.social/post/3mufrrsfhq22r\"&gt;&lt;p&gt;325 #kakapo! The chicks from this year's record breeding season are now juveniles and so have been added to the popu",
+            "date_modified": "2026-08-31T22:25:02.000Z",
+            "date_published": "2026-08-31T22:25:02.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Quoting Andrew Digby",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://socket.dev/blog/oss-supplyl-chain-security-blackhat",
+            "content_html": "Socket CTO Ahmad Nassri joins AppSec leaders at Black Hat to discuss active malware, package manager risks, and software supply chain defense.",
+            "url": "https://socket.dev/blog/oss-supplyl-chain-security-blackhat",
+            "title": "6 AppSec CTOs Debate Open Source Supply Chain Security at Black Hat | Socket",
+            "summary": "Socket CTO Ahmad Nassri joins AppSec leaders at Black Hat to discuss active malware, package manager risks, and software supply chain defense.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/cgdhsj6q/production/4795b2a7ca1d3cb9ba6ee590c2d962f097fdbdf1-1920x1080.png?w=1000&q=95&fit=max&auto=format",
+                "type": "png"
+            },
+            "date_modified": "2026-08-31T20:31:58.881Z",
+            "date_published": "2026-08-31T20:31:58.881Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "6 AppSec CTOs Debate Open Source Supply Chain Security at Black Hat",
+                "blogTitle": "Socket",
+                "blogLink": "https://socket.dev/api/blog/feed.json",
+                "blogLinkMd5Hash": "1ad7c1f71e0aa48ea310910290f40d4a",
+                "favicon": "https://socket.dev/next-public-assets/favicon.ico"
+            }
+        },
+        {
+            "id": "https://css-tricks.com/?p=396630",
+            "content_html": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.Let’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+            "url": "https://css-tricks.com/css-random-function-polyfill/",
+            "title": "Let’s Use the Emergent CSS random() Function in all the Browsers | CSS-Tricks",
+            "summary": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.Let’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published",
+            "image": {
+                "height": "600",
+                "type": "image/webp",
+                "url": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/random-stars-shuffle.webp",
+                "width": "1200",
+                "alt": "A dark background sprinkled with randomizes glowing stars, large and small, with a large shuffle emoji overlaid on top."
+            },
+            "date_modified": "2026-08-31T15:12:19.000Z",
+            "date_published": "2026-08-31T15:12:19.000Z",
+            "author": {
+                "name": "Lee Meyer"
+            },
+            "tags": [
+                "Articles",
+                "CSS functions",
+                "polyfill",
+                "random",
+                "resource"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Let’s Use the Emergent CSS random() Function in all the Browsers",
+                "blogTitle": "CSS-Tricks",
+                "blogLink": "https://css-tricks.com",
+                "blogLinkMd5Hash": "b7ccd4b455c364f0f55fc55649723785",
+                "favicon": "https://css-tricks.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://socket.dev/blog/packagist-themes-ios-spyware",
+            "content_html": "Thirteen malicious Packagist themes expose visitors on unpatched iPhones to a WebKit-to-kernel exploit chain that steals device data and wallet seeds.",
+            "url": "https://socket.dev/blog/packagist-themes-ios-spyware",
+            "title": "13 Malicious Packagist Themes Deliver iOS Spyware That Steals Crypto Wallet Seeds | Socket",
+            "summary": "Thirteen malicious Packagist themes expose visitors on unpatched iPhones to a WebKit-to-kernel exploit chain that steals device data and wallet seeds.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/cgdhsj6q/production/1a11948afcedfed3b8cb7bf75c78122abe80cffc-1672x941.png?w=1000&q=95&fit=max&auto=format",
+                "type": "png"
+            },
+            "date_modified": "2026-08-31T14:25:35.660Z",
+            "date_published": "2026-08-31T14:25:35.660Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "13 Malicious Packagist Themes Deliver iOS Spyware That Steals Crypto Wallet Seeds",
+                "blogTitle": "Socket",
+                "blogLink": "https://socket.dev/api/blog/feed.json",
+                "blogLinkMd5Hash": "1ad7c1f71e0aa48ea310910290f40d4a",
+                "favicon": "https://socket.dev/next-public-assets/favicon.ico"
+            }
+        },
+        {
+            "id": "https://css-tricks.com/?p=396738",
+            "content_html": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last couple of weeks or so.What’s !important #18: &lt;geolocation&gt;, Syntax ::highlight()ing, named-feature(), and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+            "url": "https://css-tricks.com/whats-important-18/",
+            "title": "What’s !important #18: &lt;geolocation&gt;, Syntax ::highlight()ing, named-feature(), and More | CSS-Tricks",
+            "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produc",
+            "image": {
+                "height": "1258",
+                "type": "image/jpeg",
+                "url": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi18.jpg",
+                "width": "1516",
+                "alt": "What’s !important #18: &lt;geolocation&gt;, Syntax ::highlight()ing, named-feature(), and More"
+            },
+            "date_modified": "2026-08-31T14:08:55.000Z",
+            "date_published": "2026-08-31T14:08:55.000Z",
+            "author": {
+                "name": "Daniel Schwarz"
+            },
+            "tags": [
+                "Articles",
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "What’s !important #18: &lt;geolocation&gt;, Syntax ::highlight()ing, named-feature(), and More",
+                "blogTitle": "CSS-Tricks",
+                "blogLink": "https://css-tricks.com",
+                "blogLinkMd5Hash": "b7ccd4b455c364f0f55fc55649723785",
+                "favicon": "https://css-tricks.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://blog.master.dev/?p=10841",
+            "content_html": "The why and how to get it installed and use it with different models, then actually build something. Plus a little Zod type safety for good measure.",
+            "url": "https://blog.master.dev/having-fun-with-vercels-ai-sdk-and-ai-gateway/",
+            "title": "Having Fun with Vercel’s AI SDK and AI Gateway | Master.dev Blog RSS Feed",
+            "summary": "The why and how to get it installed and use it with different models, then actually build something. Plus a little Zod type safety for good measure.",
+            "date_modified": "2026-08-31T13:31:20.000Z",
+            "date_published": "2026-08-31T13:31:20.000Z",
+            "author": {
+                "name": "Adam Rackis"
+            },
+            "tags": [
+                "Blog Post",
+                "AI",
+                "JavaScript",
+                "Vercel",
+                "Zod"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Having Fun with Vercel’s AI SDK and AI Gateway",
+                "blogTitle": "Master.dev Blog RSS Feed",
+                "blogLink": "https://blog.master.dev",
+                "blogLinkMd5Hash": "61b7f9099864eec938d5589848ac72da"
+            }
+        },
+        {
+            "id": "01M15GV7R8AFPM9KDM9HXDKJZ4",
+            "content_html": "Bot operators have historically had the economic advantage, bypassing static, deterministic detection rules with cheap proxies and retooling. Cloudflare's new Adaptive Intelligence engine flips this dynamic by autonomously learning from the meta-signals of live traffic and deploying disposable rules, making automated attacks too expensive to sustain.",
+            "url": "https://blog.cloudflare.com/introducing-adaptive-intelligence/",
+            "title": "Introducing Adaptive Intelligence: Undermining the economics of every bot attack | Cloudflare Blog",
+            "summary": "Bot operators have historically had the economic advantage, bypassing static, deterministic detection rules with cheap proxies and retooling. Cloudflare's new Adaptive Intelligence engine flips this d",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M15GS69WEYGDMY3B1NHZGYZX.01M15GS72XAM4E7AESJXBQCCNR.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-08-31T12:59:00.000Z",
+            "date_published": "2026-08-31T12:59:00.000Z",
+            "author": {
+                "name": "Chris Pope"
+            },
+            "tags": [
+                "Application Security",
+                "Bot Management",
+                "Machine Learning",
+                "Product News"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Introducing Adaptive Intelligence: Undermining the economics of every bot attack",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.svg"
+            }
+        },
+        {
+            "id": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
+            "content_html": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
+            "url": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
+            "title": "The Many Faces Of September (2026 Wallpapers Edition) | Articles on Smashing Magazine — For Web Designers And Developers",
+            "summary": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catchin",
+            "image": {
+                "url": "https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
+                "type": "png"
+            },
+            "date_modified": "2026-08-31T11:00:00.000Z",
+            "date_published": "2026-08-31T11:00:00.000Z",
+            "author": {
+                "name": "hello@smashingmagazine.com (Cosima Mielke)"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The Many Faces Of September (2026 Wallpapers Edition)",
+                "blogTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+                "blogLink": "https://www.smashingmagazine.com/",
+                "blogLinkMd5Hash": "af6aa6a81ad9adc77e3f2e79aba7ce4f",
+                "favicon": "https://smashingmagazine.com/images/favicon/favicon.ico"
+            }
+        },
+        {
+            "id": "https://evanhahn.com/notes-from-august-2026/",
+            "content_html": "Since last month, I released some new stuff at work, clicked a bunch of links, and wrote a little bit.Things I did this AugustAt Ghost, we added analytics for automated email sequences. This helps publishers see how their sequences are doing. This simple feature turned out to be pretty tricky under the hood.Learned that Vim has a joke trigger called UserGettingBored.I continued to write for Zelda Dungeon, including an interview with a very cool ROM hack developer.Links I clicked“Libertarian futu",
+            "url": "https://evanhahn.com/notes-from-august-2026/",
+            "title": "Notes from August 2026 | Evan Hahn (dot com)",
+            "summary": "Since last month, I released some new stuff at work, clicked a bunch of links, and wrote a little bit.Things I did this AugustAt Ghost, we added analytics for automated email sequences. This helps pub",
+            "date_modified": "2026-08-31T06:00:00.000Z",
+            "date_published": "2026-08-31T06:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Notes from August 2026",
+                "blogTitle": "Evan Hahn (dot com)",
+                "blogLink": "https://evanhahn.com/blog/",
+                "blogLinkMd5Hash": "47adc829d74ec34ab7209c805a3e728f"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/fx-ai-sdk-harness-adapter",
+            "content_html": "The now supports , Vercel's lightweight, open-source coding agent. The harness layer provides one API for running coding agents in your application, so you can add fx without building a separate integration.AI SDK harness layerfxConfigure with the official adapter: HarnessAgent@ai-sdk/harness-fxThe adapter connects to fx over the Agent Client Protocol (ACP) using .@ai-sdk/harness-fx@ai-sdk/harness-acpfx joins Claude Code, Cline, Codex, Cursor, Deep Agents, Grok Build, OpenCode, and Pi in the lis",
+            "url": "https://vercel.com/changelog/fx-ai-sdk-harness-adapter",
+            "title": "fx is now available in the AI SDK harness layer | Vercel News",
+            "summary": "The now supports , Vercel's lightweight, open-source coding agent. The harness layer provides one API for running coding agents in your application, so you can add fx without building a separate integ",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2Uqe6dcqRd3eBd77QUzf8V/2570ac4428c01ff0781e8a24438fc0b3/fx_ai_sdk_harness_adapter_og_card_og_card.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-08-31T06:00:00.000Z",
+            "date_published": "2026-08-31T06:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "fx is now available in the AI SDK harness layer",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/set-per-user-budgets-on-ai-gateway",
+            "content_html": "You can now use to set a dollar spending limit for each user on your team. AI Gateway budgetsThe limit covers spend from every API key attributed to the user, along with their app tokens. After it's reached, AI Gateway rejects new requests until the budget resets or is increased.This is useful for controlling spend from coding agents and other workloads that run without supervision, and prevents one user from consuming all of the team's shared budget. Open the view on the to set two kinds of use",
+            "url": "https://vercel.com/changelog/set-per-user-budgets-on-ai-gateway",
+            "title": "Set per-user budgets on AI Gateway | Vercel News",
+            "summary": "You can now use to set a dollar spending limit for each user on your team. AI Gateway budgetsThe limit covers spend from every API key attributed to the user, along with their app tokens. After it's r",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5ogVZz3qmuauCTDxUPJQyS/c794acf4b7ede740e2ab61e4f71adf0c/set_user_budgets_on_ai_gateway_og_card.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-08-31T06:00:00.000Z",
+            "date_published": "2026-08-31T06:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Set per-user budgets on AI Gateway",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md",
+            "content_html": "Across Vercel, we use coding agents to design and build pages that have to look and feel like Vercel. The typography, color, and composition all need to carry the same judgment that we put into the pages we already ship ourselves. , our skill that teaches agents how we design when they work in our codebases. The skill lives in each repository alongside the code that it governs, explaining how agents can find and understand our design system as well as product guidelines for whatever they are bui",
+            "url": "https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md",
+            "title": "How our agents build on-brand pages with design.md | Vercel News",
+            "summary": "Across Vercel, we use coding agents to design and build pages that have to look and feel like Vercel. The typography, color, and composition all need to carry the same judgment that we put into the pa",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5F2lrV1tu5qQsQiSSll8GA/7ee5274fbd32707cdd76a176dbc04f47/sandbox-Network-Boundary__1_.png",
+                "type": "png"
+            },
+            "date_modified": "2026-08-31T04:00:00.000Z",
+            "date_published": "2026-08-31T04:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "How our agents build on-brand pages with design.md",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://astro.build/blog/whats-new-august-2026/",
+            "content_html": "August 2026 - Project Steward announcement, new Astro Playground, Astro Germany, and more!",
+            "url": "https://astro.build/blog/whats-new-august-2026/",
+            "title": "What's new in Astro - August 2026 | The Astro Blog",
+            "summary": "August 2026 - Project Steward announcement, new Astro Playground, Astro Germany, and more!",
+            "image": {
+                "url": "https://astro.build/_astro/og.D4OlwN_N.webp",
+                "alt": "What's new in Astro - August 2026",
+                "type": "webp"
+            },
+            "date_modified": "2026-08-31T00:00:00.000Z",
+            "date_published": "2026-08-31T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "What's new in Astro - August 2026",
+                "blogTitle": "The Astro Blog",
+                "blogLink": "https://astro.build/",
+                "blogLinkMd5Hash": "e8e8dd8e7f96ccbcfb57767d55bc8996",
+                "favicon": "https://astro.build/favicon.svg"
+            }
+        },
+        {
+            "id": "https://alfy.blog/2026/08/31/cross-origin-storage.html",
+            "content_html": "Two sites, the same 8GB model, two downloads. A look at Cross-Origin Storage, the WICG proposal for sharing big files across origins without leaking history.",
+            "url": "https://alfy.blog/2026/08/31/cross-origin-storage.html",
+            "title": "I wanted the browser to just ship jQuery. Cross-Origin Storage came for rescue | Ahmad Alfy",
+            "summary": "Two sites, the same 8GB model, two downloads. A look at Cross-Origin Storage, the WICG proposal for sharing big files across origins without leaking history.",
+            "date_modified": "2026-08-31T00:00:00.000Z",
+            "date_published": "2026-08-31T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "I wanted the browser to just ship jQuery. Cross-Origin Storage came for rescue",
+                "blogTitle": "Ahmad Alfy",
+                "blogLink": "https://alfy.blog/",
+                "blogLinkMd5Hash": "a392489bc65408c6dbce024fbb6138a8"
+            }
+        },
+        {
+            "id": "https://remix.run/blog/remix-3-release-candidate",
+            "content_html": "Remix 3 RC is available now. A full-stack JavaScript framework built on web primitives and shipped as a single dependency.",
+            "url": "https://remix.run/blog/remix-3-release-candidate",
+            "title": "Remix 3 Release Candidate | Remix Blog",
+            "summary": "Remix 3 RC is available now. A full-stack JavaScript framework built on web primitives and shipped as a single dependency.",
+            "image": {
+                "url": "http://remix.run/img/remix-3-release-candidate?title=Remix+3+Release+Candidate&date=August+31%2C+2026&authorName=Brooks+Lybrand&authorTitle=Developer+Relations+Manager&ogImage=%2Fblog-images%2Fheaders%2Fremix-3-release-candidate.png",
+                "type": "png"
+            },
+            "date_modified": "2026-08-31T00:00:00.000Z",
+            "date_published": "2026-08-31T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 4,
+                "originalTitle": "Remix 3 Release Candidate",
+                "blogTitle": "Remix Blog",
+                "blogLink": "https://remix.run/blog",
+                "blogLinkMd5Hash": "442eb981844c8013147a6c6444cd9904",
+                "favicon": "https://remix.run/favicon.ico"
+            }
+        },
+        {
+            "id": "https://servo.org/blog/2026/08/31/july-in-servo/",
+            "content_html": "Servo 0.5.0 contains all of the changes we landed in July, which came out to 488 commits, and we now publish binaries for Linux aarch64 (@mukilan, #46760)!DOM text selections are now visible (@mrobinson, @SimonSapin, #46698, #46864, #46742, #46889, #46126).Interactive selection is coming soon!For security fixes, see § Security.`, and DOM selection rendering\" /&gt;We’ve shipped several new web platform features:‘Cache-Control: stale-while-revalidate’ (@arayaryoma, #46060)‘text-decoration-thickness’ ",
+            "url": "https://servo.org/blog/2026/08/31/july-in-servo/",
+            "title": "July in Servo: more platforms, faster canvas, web fonts in SVG, and more! | Servo Blog",
+            "summary": "Servo 0.5.0 contains all of the changes we landed in July, which came out to 488 commits, and we now publish binaries for Linux aarch64 (@mukilan, #46760)!DOM text selections are now visible (@mrobins",
+            "image": {
+                "url": "https://servo.org/svg/servo-color-positive.svg",
+                "alt": "Servo logo",
+                "type": "svg"
+            },
+            "date_modified": "2026-08-31T00:00:00.000Z",
+            "date_published": "2026-08-31T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "July in Servo: more platforms, faster canvas, web fonts in SVG, and more!",
+                "blogTitle": "Servo Blog",
+                "blogLink": "https://servo.org/blog/feed.xml",
+                "blogLinkMd5Hash": "34983ba2c68c7e7db2a851d47786c2f6",
+                "favicon": "https://servo.org/svg/servo-symbol-color-no-container.svg"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/vercel-sandbox-now-calculates-snapshot-storage-costs-daily",
+            "content_html": "Vercel now calculates charges for from each day’s average usage and adds them to your monthly invoice. Previously, billing used one average across the entire monthly billing period. Sandbox snapshot storageYou can track these daily charges on the team’s and see how changes in storage affect your cost.Usage pageThe rate remains $0.08 per GB-month; only how usage is calculated has changed. The update takes effect automatically at the start of the next billing period for Pro and Enterprise teams. N",
+            "url": "https://vercel.com/changelog/vercel-sandbox-now-calculates-snapshot-storage-costs-daily",
+            "title": "Vercel Sandbox now calculates snapshot storage costs daily | Vercel News",
+            "summary": "Vercel now calculates charges for from each day’s average usage and adds them to your monthly invoice. Previously, billing used one average across the entire monthly billing period. Sandbox snapshot s",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7HYtU9FtZrQ9WouBy3nOIA/76e0ff74d28acdf0ca5ec3ac8c671e33/snapshot-storage-og-final.png",
+                "type": "png"
+            },
+            "date_modified": "2026-08-31T00:00:00.000Z",
+            "date_published": "2026-08-31T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Vercel Sandbox now calculates snapshot storage costs daily",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+            "content_html": " &lt;p&gt;OpenAI &lt;a href=\"https://openai.com/index/chatgpt-for-your-most-ambitious-work/\"&gt;announced ChatGPT Work&lt;/a&gt; on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here's what I've figured out about it so far.&lt;/p&gt;&lt;h4 id=\"two-products\"&gt;ChatGPT Work is actually two products&lt;/h4&gt;&lt;p&gt;The more interesting version of ChatGPT Work is the one that runs in the cloud. This can be accessed via &lt;a href=\"https://www.chatgpt.com/\"&gt;chatgp",
+            "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+            "title": "Understanding ChatGPT Work | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;OpenAI &lt;a href=\"https://openai.com/index/chatgpt-for-your-most-ambitious-work/\"&gt;announced ChatGPT Work&lt;/a&gt; on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2026/chatgpt-work-card.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-08-30T23:59:47.000Z",
+            "date_published": "2026-08-30T23:59:47.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Understanding ChatGPT Work",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://azukiazusa.dev/blog/balance-flex-lines-with-flex-wrap-balance",
+            "content_html": "flex-wrap: wrap では、最後の行に少数のアイテムだけが残り、行ごとのアイテムの量が大きく偏ることがあります。flex-wrap: balance は、通常の折り返しで決まる行数を維持しながら、各行の長さが近くなるように Flex アイテムを振り分けます。この記事では balance 使い方について紹介します。",
+            "url": "https://azukiazusa.dev/blog/balance-flex-lines-with-flex-wrap-balance",
+            "title": "flex-wrap: balance で Flexbox の折り返しを均等にする | azukiazusa のテックブログ2",
+            "summary": "flex-wrap: wrap では、最後の行に少数のアイテムだけが残り、行ごとのアイテムの量が大きく偏ることがあります。flex-wrap: balance は、通常の折り返しで決まる行数を維持しながら、各行の長さが近くなるように Flex アイテムを振り分けます。この記事では balance 使い方について紹介します。",
+            "image": {
+                "url": "https://ogp.azukiazusa.dev/blog/ogp/balance-flex-lines-with-flex-wrap-balance.png",
+                "type": "png"
+            },
+            "date_modified": "2026-08-30T10:06:00.000Z",
+            "date_published": "2026-08-30T10:06:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "flex-wrap: balance で Flexbox の折り返しを均等にする",
+                "blogTitle": "azukiazusa のテックブログ2",
+                "blogLink": "https://azukiazusa.dev",
+                "blogLinkMd5Hash": "f333203079d9928b7fa83832f57ad131",
+                "favicon": "https://azukiazusa.dev/favicon.png"
+            }
+        },
+        {
+            "id": "https://azukiazusa.dev/blog/zod-compile-validation",
+            "content_html": "Zod 4.5 で、スキーマを実行時に最適化された JavaScript へ変換する z.compile() が追加されました。コンパイル済みスキーマは通常のスキーマと同じ API を保ちながら、複雑なデータの検証を高速化します。この記事では基本的な使い方と仕組みを紹介します。",
+            "url": "https://azukiazusa.dev/blog/zod-compile-validation",
+            "title": "Zod の z.compile() でバリデーションを高速化する | azukiazusa のテックブログ2",
+            "summary": "Zod 4.5 で、スキーマを実行時に最適化された JavaScript へ変換する z.compile() が追加されました。コンパイル済みスキーマは通常のスキーマと同じ API を保ちながら、複雑なデータの検証を高速化します。この記事では基本的な使い方と仕組みを紹介します。",
+            "image": {
+                "url": "https://ogp.azukiazusa.dev/blog/ogp/zod-compile-validation.png",
+                "type": "png"
+            },
+            "date_modified": "2026-08-30T02:18:00.000Z",
+            "date_published": "2026-08-30T02:18:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 43,
+                "originalTitle": "Zod の z.compile() でバリデーションを高速化する",
+                "blogTitle": "azukiazusa のテックブログ2",
+                "blogLink": "https://azukiazusa.dev",
+                "blogLinkMd5Hash": "f333203079d9928b7fa83832f57ad131",
+                "favicon": "https://azukiazusa.dev/favicon.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/minimax-h3-and-h3-max-are-50-off-on-ai-gateway",
+            "content_html": "and are 50% off on AI Gateway from August 30 through September 13, in partnership with MiniMax.MiniMax H3H3 MaxThe discount covers requests billed through AI Gateway, at every duration and in every aspect ratio the model supports.The model IDs ( and ) are unchanged, so requests you already send pick up the discounted rate with no code change:minimax/minimax-h3minimax/minimax-h3-maxRenders take minutes, so runs the generation as a background job and makes short status requests until it lands, rat",
+            "url": "https://vercel.com/changelog/minimax-h3-and-h3-max-are-50-off-on-ai-gateway",
+            "title": "MiniMax H3 and H3 Max are 50% off on AI Gateway | Vercel News",
+            "summary": "and are 50% off on AI Gateway from August 30 through September 13, in partnership with MiniMax.MiniMax H3H3 MaxThe discount covers requests billed through AI Gateway, at every duration and in every as",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/20yZQiIRVIrL4Y5mvQlsTe/3c8935388762292ca142432e205b9b9f/Vercel_x_MiniMax.png",
+                "type": "png"
+            },
+            "date_modified": "2026-08-30T00:00:00.000Z",
+            "date_published": "2026-08-30T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MiniMax H3 and H3 Max are 50% off on AI Gateway",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Aug/29/hy4/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://hy.tencent.ai/research/hy4-preview\"&gt;Introducing Hy4 Preview&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, &lt;a href=\"https://huggingface.co/tencent/Hy4-preview\"&gt;1.56TB on Hugging Face&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;This is a big size increase from their previous &lt;a href=\"https://huggingface.co/tencent/Hy3\"&gt;Hy3&lt;/a&gt; in July, which was 295B, 21B active, 256,000 context, 598",
+            "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+            "title": "Introducing Hy4 Preview | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://hy.tencent.ai/research/hy4-preview\"&gt;Introducing Hy4 Preview&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total param",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2026-08-29/IMG_7725.jpeg",
+                "type": "jpeg"
+            },
+            "date_modified": "2026-08-29T23:53:13.000Z",
+            "date_published": "2026-08-29T23:53:13.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Introducing Hy4 Preview",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://susisu.hatenablog.com/entry/2026/08/29/235949",
+            "content_html": "最近[いつ?]は AI に登壇用のスライドをポン出しさせたという話や, それに対する賛否両論を各所で聞くようになってきました. そこで私も試しに AI にスライドをポン出しさせてみて, 実際に登壇に耐える品質なのかレビューしてみました. 条件設定は以下の通りです: Claude Code を使用 題材は tsc.rip の実装リポジトリ 詳しくは前回の記事 tsc.rip を支える技術 または 型レベル Web アプリケーション - Object.create(null) を参照 リポジトリにはソースコード一式と, 構成などを書いた CLAUDE.md が含まれています 指示は tsc.rip…",
+            "url": "https://susisu.hatenablog.com/entry/2026/08/29/235949",
+            "title": "AI ポン出しスライド品評会 | Object.create(null)",
+            "summary": "最近[いつ?]は AI に登壇用のスライドをポン出しさせたという話や, それに対する賛否両論を各所で聞くようになってきました. そこで私も試しに AI にスライドをポン出しさせてみて, 実際に登壇に耐える品質なのかレビューしてみました. 条件設定は以下の通りです: Claude Code を使用 題材は tsc.rip の実装リポジトリ 詳しくは前回の記事 tsc.rip を支える技術 または 型",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/8454420450093413037/14945776032070605592/1788046736",
+                "alt": "AI ポン出しスライド品評会 - Object.create(null)"
+            },
+            "date_modified": "2026-08-29T14:59:49.000Z",
+            "date_published": "2026-08-29T14:59:49.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 72,
+                "originalTitle": "AI ポン出しスライド品評会",
+                "blogTitle": "Object.create(null)",
+                "blogLink": "https://susisu.hatenablog.com/",
+                "blogLinkMd5Hash": "6790f236bf6140c98755f37eb8737934",
+                "favicon": "https://susisu.hatenablog.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://azukiazusa.dev/blog/responsive-shapes-with-css-shape-function",
+            "content_html": "clip-path の path() 関数で複雑な図形を作ると、固定座標のため要素のサイズへ追従させにくいという問題があります。shape() 関数ではパーセントや CSS の単位、カスタムプロパティを使って曲線を含む図形を定義できます。この記事では幅を変更できる吹き出しを作り、path() との違いや offset-path への応用を紹介します。",
+            "url": "https://azukiazusa.dev/blog/responsive-shapes-with-css-shape-function",
+            "title": "CSS の shape() 関数でレスポンシブな図形を作る | azukiazusa のテックブログ2",
+            "summary": "clip-path の path() 関数で複雑な図形を作ると、固定座標のため要素のサイズへ追従させにくいという問題があります。shape() 関数ではパーセントや CSS の単位、カスタムプロパティを使って曲線を含む図形を定義できます。この記事では幅を変更できる吹き出しを作り、path() との違いや offset-path への応用を紹介します。",
+            "image": {
+                "url": "https://ogp.azukiazusa.dev/blog/ogp/responsive-shapes-with-css-shape-function.png",
+                "type": "png"
+            },
+            "date_modified": "2026-08-29T10:12:00.000Z",
+            "date_published": "2026-08-29T10:12:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "CSS の shape() 関数でレスポンシブな図形を作る",
+                "blogTitle": "azukiazusa のテックブログ2",
+                "blogLink": "https://azukiazusa.dev",
+                "blogLinkMd5Hash": "f333203079d9928b7fa83832f57ad131",
+                "favicon": "https://azukiazusa.dev/favicon.png"
+            }
+        },
+        {
+            "id": "https://susisu.hatenablog.com/entry/2026/08/29/130400",
+            "content_html": "先週 8/22 に Kyoto.なんか #8 を開催しました. 名前の通り何でもありのイベントですが, 今年も多彩な登壇・参加者が集まって面白い会になったと思います. いつもありがとうございます. 私は「tsc.rip を支える技術」というタイトルで登壇しました. 以下は発表の記事版です. 当日のスライドは末尾にあります. TypeScript 7.0 先月 7/8 に TypeScript 7.0 がリリースされました. コンパイラ (tsc) の実装言語が TypeScript 自体から Go になり, パフォーマンスが向上しています. めでたいですね. devblogs.microsof…",
+            "url": "https://susisu.hatenablog.com/entry/2026/08/29/130400",
+            "title": "tsc.rip を支える技術 または 型レベル Web アプリケーション | Object.create(null)",
+            "summary": "先週 8/22 に Kyoto.なんか #8 を開催しました. 名前の通り何でもありのイベントですが, 今年も多彩な登壇・参加者が集まって面白い会になったと思います. いつもありがとうございます. 私は「tsc.rip を支える技術」というタイトルで登壇しました. 以下は発表の記事版です. 当日のスライドは末尾にあります. TypeScript 7.0 先月 7/8 に TypeScript 7.",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/8454420450093413037/14945776032069135679/1787976240",
+                "alt": "tsc.rip を支える技術 または 型レベル Web アプリケーション - Object.create(null)"
+            },
+            "date_modified": "2026-08-29T04:04:00.000Z",
+            "date_published": "2026-08-29T04:04:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 7,
+                "originalTitle": "tsc.rip を支える技術 または 型レベル Web アプリケーション",
+                "blogTitle": "Object.create(null)",
+                "blogLink": "https://susisu.hatenablog.com/",
+                "blogLinkMd5Hash": "6790f236bf6140c98755f37eb8737934",
+                "favicon": "https://susisu.hatenablog.com/icon/favicon"
+            }
+        },
+        {
+            "id": "https://azukiazusa.dev/blog/chrome-devtools-automatic-workspaces",
+            "content_html": "Chrome でローカル開発をしていると、開発サーバーへ GET /.well-known/appspecific/com.chrome.devtools.json という見慣れないリクエストが送られることがあります。これは Chrome DevTools がローカルプロジェクトを Workspace として自動検出するためのリクエストです。この記事では、実際にどのように動作するの確認します",
+            "url": "https://azukiazusa.dev/blog/chrome-devtools-automatic-workspaces",
+            "title": "ローカル開発中に現れる GET /.well-known/appspecific/com.chrome.devtools.json とは何か | azukiazusa のテックブログ2",
+            "summary": "Chrome でローカル開発をしていると、開発サーバーへ GET /.well-known/appspecific/com.chrome.devtools.json という見慣れないリクエストが送られることがあります。これは Chrome DevTools がローカルプロジェクトを Workspace として自動検出するためのリクエストです。この記事では、実際にどのように動作するの確認します",
+            "image": {
+                "url": "https://ogp.azukiazusa.dev/blog/ogp/chrome-devtools-automatic-workspaces.png",
+                "type": "png"
+            },
+            "date_modified": "2026-08-29T00:32:00.000Z",
+            "date_published": "2026-08-29T00:32:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 4,
+                "originalTitle": "ローカル開発中に現れる GET /.well-known/appspecific/com.chrome.devtools.json とは何か",
+                "blogTitle": "azukiazusa のテックブログ2",
+                "blogLink": "https://azukiazusa.dev",
+                "blogLinkMd5Hash": "f333203079d9928b7fa83832f57ad131",
+                "favicon": "https://azukiazusa.dev/favicon.png"
+            }
+        },
+        {
+            "id": "https://pnpm.io/blog/releases/11.25",
+            "content_html": "pnpm 11.25 replaces topological batches with a task scheduler, adds configurable",
+            "url": "https://pnpm.io/blog/releases/11.25",
+            "title": "pnpm 11.25 | pnpm Blog",
+            "summary": "pnpm 11.25 replaces topological batches with a task scheduler, adds configurable",
+            "image": {
+                "url": "https://pnpm.io/img/ogimage.png",
+                "type": "png"
+            },
+            "date_modified": "2026-08-29T00:00:00.000Z",
+            "date_published": "2026-08-29T00:00:00.000Z",
+            "tags": [
+                "release"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "pnpm 11.25",
+                "blogTitle": "pnpm Blog",
+                "blogLink": "https://pnpm.io/blog",
+                "blogLinkMd5Hash": "ee683ee84b103511e83fb54df4a7fa3c",
+                "favicon": "https://pnpm.io/img/favicon.png"
+            }
+        },
+        {
+            "id": "https://pnpm.io/blog/releases/12.1",
+            "content_html": "pnpm 12.1 brings the new workspace task scheduler to the Rust CLI, persists",
+            "url": "https://pnpm.io/blog/releases/12.1",
+            "title": "pnpm 12.1 | pnpm Blog",
+            "summary": "pnpm 12.1 brings the new workspace task scheduler to the Rust CLI, persists",
+            "image": {
+                "url": "https://pnpm.io/img/ogimage.png",
+                "type": "png"
+            },
+            "date_modified": "2026-08-29T00:00:00.000Z",
+            "date_published": "2026-08-29T00:00:00.000Z",
+            "tags": [
+                "release"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "pnpm 12.1",
+                "blogTitle": "pnpm Blog",
+                "blogLink": "https://pnpm.io/blog",
+                "blogLinkMd5Hash": "ee683ee84b103511e83fb54df4a7fa3c",
+                "favicon": "https://pnpm.io/img/favicon.png"
+            }
+        },
+        {
+            "id": "https://webpack.js.org/blog/2026-08-29-webpack-5-110/",
+            "content_html": "Webpack 5.110",
+            "url": "https://webpack.js.org/blog/2026-08-29-webpack-5-110/",
+            "title": "Webpack 5.110 | webpack Blog",
+            "summary": "Webpack 5.110",
+            "image": {
+                "url": "https://webpack.js.org/icon-pwa-512x512.934507c816afbcdb.png",
+                "type": "png"
+            },
+            "date_modified": "2026-08-29T00:00:00.000Z",
+            "date_published": "2026-08-29T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Webpack 5.110",
+                "blogTitle": "webpack Blog",
+                "blogLink": "https://webpack.js.org/blog/",
+                "blogLinkMd5Hash": "88850db0404d0addcc8515c169fb2b57",
+                "favicon": "https://webpack.js.org/favicon.a3dd58d3142f7566.ico"
+            }
+        },
+        {
+            "id": "https://www.stepsecurity.io/blog/7nohe-openapi-react-query-codegen-compromised-npm-publishing-workflow",
+            "content_html": "Ten malicious versions of @7nohe/openapi-react-query-codegen were published through an exposed npm publishing workflow. IOCs and recovery steps inside.",
+            "url": "https://www.stepsecurity.io/blog/7nohe-openapi-react-query-codegen-compromised-npm-publishing-workflow",
+            "title": "@7nohe/openapi-react-query-codegen Compromised Through an Exposed npm Publishing Workflow | Step Security Blog",
+            "summary": "Ten malicious versions of @7nohe/openapi-react-query-codegen were published through an exposed npm publishing workflow. IOCs and recovery steps inside.",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bf8/6a921121d9c8bbe8229939ae_6a921044245387f333557f80_openapi-rqc-hero.png",
+                "type": "png"
+            },
+            "date_modified": "2026-08-28T23:15:06.000Z",
+            "date_published": "2026-08-28T23:15:06.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "@7nohe/openapi-react-query-codegen Compromised Through an Exposed npm Publishing Workflow",
+                "blogTitle": "Step Security Blog",
+                "blogLink": "https://www.stepsecurity.io",
+                "blogLinkMd5Hash": "24b853cd91d5977a9af3395b8ae81579",
+                "favicon": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bc5/675212a565f0987a0779a91f_stesecurity-favicon.png"
+            }
+        },
+        {
+            "id": "https://www.stepsecurity.io/blog/dev-machine-guard-now-inventories-where-developer-credentials-live",
+            "content_html": "Dev Machine Guard now inventories where developer tools keep credentials. See which credential sources are in use across your fleet, how many devices each one affects, and how much of that material is sitting in plaintext. Credential values, fragments, hashes, and fingerprints are never stored, displayed, or sent off the device.",
+            "url": "https://www.stepsecurity.io/blog/dev-machine-guard-now-inventories-where-developer-credentials-live",
+            "title": "Dev Machine Guard Now Inventories Where Developer Credentials Live  | Step Security Blog",
+            "summary": "Dev Machine Guard now inventories where developer tools keep credentials. See which credential sources are in use across your fleet, how many devices each one affects, and how much of that material is",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bf8/6a8f926fadd3f5d9f0f7742d_image%20(145).png",
+                "type": "png"
+            },
+            "date_modified": "2026-08-28T22:52:49.000Z",
+            "date_published": "2026-08-28T22:52:49.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Dev Machine Guard Now Inventories Where Developer Credentials Live ",
+                "blogTitle": "Step Security Blog",
+                "blogLink": "https://www.stepsecurity.io",
+                "blogLinkMd5Hash": "24b853cd91d5977a9af3395b8ae81579",
+                "favicon": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bc5/675212a565f0987a0779a91f_stesecurity-favicon.png"
+            }
+        },
+        {
+            "id": "https://www.stepsecurity.io/blog/dev-machine-guard-now-inventories-browser-extensions-on-developer-machines",
+            "content_html": "Dev Machine Guard now inventories browser extensions across your developer fleet. See every extension installed in Chrome, Edge, and Firefox, what each one is currently permitted to do, whether it came from a marketplace or was installed some other way, and which devices are running it.",
+            "url": "https://www.stepsecurity.io/blog/dev-machine-guard-now-inventories-browser-extensions-on-developer-machines",
+            "title": "Dev Machine Guard Now Inventories Browser Extensions on Developer Machines  | Step Security Blog",
+            "summary": "Dev Machine Guard now inventories browser extensions across your developer fleet. See every extension installed in Chrome, Edge, and Firefox, what each one is currently permitted to do, whether it cam",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bf8/6a8f8ceb2951a159f8eccf25_image%20(143).png",
+                "type": "png"
+            },
+            "date_modified": "2026-08-28T22:52:49.000Z",
+            "date_published": "2026-08-28T22:52:49.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Dev Machine Guard Now Inventories Browser Extensions on Developer Machines ",
+                "blogTitle": "Step Security Blog",
+                "blogLink": "https://www.stepsecurity.io",
+                "blogLinkMd5Hash": "24b853cd91d5977a9af3395b8ae81579",
+                "favicon": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bc5/675212a565f0987a0779a91f_stesecurity-favicon.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://anil.recoil.org/notes/rumour-is-the-exploit\"&gt;Just a rumour of a bug is enough to find a security exploit these days&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of attempted exploits within minutes of patches being shared for discussion:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;This normally takes a few days a",
+            "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+            "title": "Just a rumour of a bug is enough to find a security exploit these days | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://anil.recoil.org/notes/rumour-is-the-exploit\"&gt;Just a rumour of a bug is enough to find a security exploit these days&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;Anil Madhavapeddy is a professor of com",
+            "date_modified": "2026-08-28T22:12:02.000Z",
+            "date_published": "2026-08-28T22:12:02.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Just a rumour of a bug is enough to find a security exploit these days",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://www.aikido.dev/blog/popular-code-generator-for-tanstack-query-hit-by-supply-chain-worm",
+            "content_html": "A supply chain worm was found hiding in @7nohe/openapi-react-query-codegen, a popular code generator for TanStack Query, stealing credentials and spreading itself to every package the victim maintains.Category: Vulnerabilities &amp; Threats",
+            "url": "https://www.aikido.dev/blog/popular-code-generator-for-tanstack-query-hit-by-supply-chain-worm",
+            "title": "Popular code generator for TanStack Query hit by supply chain worm | Aikido Security's Blog",
+            "summary": "A supply chain worm was found hiding in @7nohe/openapi-react-query-codegen, a popular code generator for TanStack Query, stealing credentials and spreading itself to every package the victim maintains",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a91fd1df22aebf0b7257c14_Popular%20code%20generator%20for%20TanStack%20Query%20hit%20by%20supply%20chain%20worm.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-08-28T21:25:00.000Z",
+            "date_published": "2026-08-28T21:25:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Popular code generator for TanStack Query hit by supply chain worm",
+                "blogTitle": "Aikido Security's Blog",
+                "blogLink": "https://www.aikido.dev",
+                "blogLinkMd5Hash": "0c77fc38d005cda3e64903cf14f94346",
+                "favicon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6a44c0d59562153f7bd081ff_favicon.png"
+            }
+        },
+        {
+            "id": "https://socket.dev/blog/openapi-react-query-codegen-npm-compromise",
+            "content_html": "Ten malicious OpenAPI React Query Codegen versions were published to npm in the Mini Shai-Hulud attack, all with valid provenance.",
+            "url": "https://socket.dev/blog/openapi-react-query-codegen-npm-compromise",
+            "title": "OpenAPI React Query Codegen Compromised in Mini Shai-Hulud npm Supply Chain Attack | Socket",
+            "summary": "Ten malicious OpenAPI React Query Codegen versions were published to npm in the Mini Shai-Hulud attack, all with valid provenance.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/cgdhsj6q/production/f1df8a136986bef75f4ddebc1dba17183edcbe33-1046x671.png?w=1000&q=95&fit=max&auto=format",
+                "type": "png"
+            },
+            "date_modified": "2026-08-28T20:49:35.145Z",
+            "date_published": "2026-08-28T20:49:35.145Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "OpenAPI React Query Codegen Compromised in Mini Shai-Hulud npm Supply Chain Attack",
+                "blogTitle": "Socket",
+                "blogLink": "https://socket.dev/api/blog/feed.json",
+                "blogLinkMd5Hash": "1ad7c1f71e0aa48ea310910290f40d4a",
+                "favicon": "https://socket.dev/next-public-assets/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.aikido.dev/blog/securing-docker-images",
+            "content_html": "Most of a container's vulnerabilities come from the base image. How to harden Docker images, why hardening is ongoing, and how to patch the base you already run.Category: Guides &amp; Best Practices",
+            "url": "https://www.aikido.dev/blog/securing-docker-images",
+            "title": "Securing Docker images | Aikido Security's Blog",
+            "summary": "Most of a container's vulnerabilities come from the base image. How to harden Docker images, why hardening is ongoing, and how to patch the base you already run.Category: Guides &amp; Best Practices",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a91f2793054b5604d3ef7d7_OG_%5Bgeneric-seo-title%5D_16x9.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-08-28T20:29:00.000Z",
+            "date_published": "2026-08-28T20:29:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Securing Docker images",
+                "blogTitle": "Aikido Security's Blog",
+                "blogLink": "https://www.aikido.dev",
+                "blogLinkMd5Hash": "0c77fc38d005cda3e64903cf14f94346",
+                "favicon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6a44c0d59562153f7bd081ff_favicon.png"
+            }
+        },
+        {
+            "id": "https://socket.dev/blog/autonomous-agents-escape",
+            "content_html": "Socket joins more than 100 technology, cybersecurity, and financial organizations calling for a global surge in cyber defense.",
+            "url": "https://socket.dev/blog/autonomous-agents-escape",
+            "title": "When Autonomous Agents Escape: Why Socket Signed the Cyber Defense Open Letter | Socket",
+            "summary": "Socket joins more than 100 technology, cybersecurity, and financial organizations calling for a global surge in cyber defense.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/cgdhsj6q/production/6f20fd0ff0d7c36de38f171cb43b14c871be72ab-1672x941.png?w=1000&q=95&fit=max&auto=format",
+                "type": "png"
+            },
+            "date_modified": "2026-08-28T16:02:57.032Z",
+            "date_published": "2026-08-28T16:02:57.032Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "When Autonomous Agents Escape: Why Socket Signed the Cyber Defense Open Letter",
+                "blogTitle": "Socket",
+                "blogLink": "https://socket.dev/api/blog/feed.json",
+                "blogLinkMd5Hash": "1ad7c1f71e0aa48ea310910290f40d4a",
+                "favicon": "https://socket.dev/next-public-assets/favicon.ico"
+            }
+        }
+    ]
+}
