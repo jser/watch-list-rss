@@ -1,0 +1,1230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jser.info/watch-list-rss/</id>
+    <title>JSer.info Watch List</title>
+    <updated>2026-09-26T16:53:16.484Z</updated>
+    <generator>jser/watch-list-rss</generator>
+    <link rel="alternate" href="https://jser.info/watch-list-rss/"/>
+    <link rel="self" href="https://jser.info/watch-list-rss/feeds/atom.xml"/>
+    <subtitle>JSer.infoの情報源となるサイトをまとめたRSSフィード</subtitle>
+    <logo>https://jser.info/watch-list-rss/images/icon.png</logo>
+    <icon>https://jser.info/watch-list-rss/images/favicon.ico</icon>
+    <rights>jser/watch-list-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS の scroll-axis-lock で斜め方向にスクロールできる UI を作る | azukiazusa のテックブログ2]]></title>
+        <id>https://azukiazusa.dev/blog/css-scroll-axis-lock</id>
+        <link href="https://azukiazusa.dev/blog/css-scroll-axis-lock"/>
+        <updated>2026-09-26T05:12:00.000Z</updated>
+        <summary type="html"><![CDATA[ブラウザはスクロール操作の方向を縦か横の一方向に固定することがあります。scroll-axis-lock プロパティを使うと、この軸ロックを解除できます。この記事で scroll-axis-lock の基本的な使い方を紹介します。]]></summary>
+        <content type="html"><![CDATA[ブラウザはスクロール操作の方向を縦か横の一方向に固定することがあります。scroll-axis-lock プロパティを使うと、この軸ロックを解除できます。この記事で scroll-axis-lock の基本的な使い方を紹介します。]]></content>
+        <published>2026-09-26T05:12:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Socket Joins New OpenJS Program to Fund Node.js Security Work | Socket]]></title>
+        <id>https://socket.dev/blog/openjs-nodejs-security</id>
+        <link href="https://socket.dev/blog/openjs-nodejs-security"/>
+        <updated>2026-09-25T20:59:05.513Z</updated>
+        <summary type="html"><![CDATA[Socket is joining the OpenJS Security Stewardship Program to fund Node.js vulnerability research, maintainer remediation, and security releases.]]></summary>
+        <content type="html"><![CDATA[Socket is joining the OpenJS Security Stewardship Program to fund Node.js vulnerability research, maintainer remediation, and security releases.]]></content>
+        <published>2026-09-25T20:59:05.513Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot app for Beginners: How to build custom workflows with canvases | The GitHub Blog]]></title>
+        <id>https://github.blog/?p=99027</id>
+        <link href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/"/>
+        <updated>2026-09-25T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done.The post ]]></summary>
+        <content type="html"><![CDATA[Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done.The post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog.]]></content>
+        <author>
+            <name>Kayla Cinnamon</name>
+        </author>
+        <category label="AI &amp;amp; ML"/>
+        <category label="GitHub Copilot"/>
+        <category label="GitHub Copilot app"/>
+        <category label="GitHub Copilot app for Beginners"/>
+        <published>2026-09-25T18:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quoting John Gruber | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/25/john-gruber/</id>
+        <link href="https://simonwillison.net/2026/Sep/25/john-gruber/"/>
+        <updated>2026-09-25T17:22:01.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;blockquote cite="https://daringfireball.net/linked/2026/09/25/aten-muse"&amp;gt;&amp;lt;p&amp;gt;Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their o]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;blockquote cite="https://daringfireball.net/linked/2026/09/25/aten-muse"&amp;gt;&amp;lt;p&amp;gt;Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) &amp;lt;em&amp;gt;and&amp;lt;/em&amp;gt; because it’s packaged in an easy-to-install easy-to-use way. It’s literally presented as &amp;lt;a href="https://daringfireball.net/linked/2026/09/24/song-meta-muse-cute"&amp;gt;a cute mascot&amp;lt;/a&amp;gt;. It’s the first consumer-accessible agentic AI sys]]></content>
+        <published>2026-09-25T17:22:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Randomly Place an Element Along Edge of Another Element | Master.dev Blog RSS Feed]]></title>
+        <id>https://blog.master.dev/?p=11153</id>
+        <link href="https://blog.master.dev/randomly-place-an-element-along-edge-of-another-element/"/>
+        <updated>2026-09-25T16:03:35.000Z</updated>
+        <summary type="html"><![CDATA[We can animate an element along the border edge of another element to random positions... pretty easily? Might as well be a cute dog.]]></summary>
+        <content type="html"><![CDATA[We can animate an element along the border edge of another element to random positions... pretty easily? Might as well be a cute dog.]]></content>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+        <category label="Blog Post"/>
+        <category label="Animation"/>
+        <category label="CSS"/>
+        <category label="offset-path"/>
+        <category label="random()"/>
+        <published>2026-09-25T16:03:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving site performance by shipping more CSS | The GitHub Blog]]></title>
+        <id>https://github.blog/?p=99030</id>
+        <link href="https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/"/>
+        <updated>2026-09-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How we fully migrated github.com away from CSS-in-JS.The post Improving site performance by shipping more CSS appeared first on The GitHub Blog.]]></summary>
+        <content type="html"><![CDATA[How we fully migrated github.com away from CSS-in-JS.The post Improving site performance by shipping more CSS appeared first on The GitHub Blog.]]></content>
+        <author>
+            <name>Josh Black</name>
+        </author>
+        <category label="Architecture &amp;amp; optimization"/>
+        <category label="Engineering"/>
+        <category label="User experience"/>
+        <category label="automation"/>
+        <category label="CSS"/>
+        <category label="design systems"/>
+        <category label="performance engineering"/>
+        <category label="Primer"/>
+        <category label="scripting"/>
+        <published>2026-09-25T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Architecting the Modern Web: Debounce APIs, Rendering Strategies, and Automated AI Setup! ⚡ | Angular Blog - Medium]]></title>
+        <id>https://medium.com/p/826bc54ae3a9</id>
+        <link href="https://blog.angular.dev/architecting-the-modern-web-debounce-apis-rendering-strategies-and-automated-ai-setup-826bc54ae3a9"/>
+        <updated>2026-09-25T13:59:49.000Z</updated>
+        <author>
+            <name>Angular</name>
+        </author>
+        <category label="angular-weekly"/>
+        <category label="angular-community-weekly"/>
+        <category label="angular"/>
+        <published>2026-09-25T13:59:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An update on Angular’s TypeScript 7-powered Compiler | Angular Blog - Medium]]></title>
+        <id>https://medium.com/p/9619a35e2b0a</id>
+        <link href="https://blog.angular.dev/an-update-on-angulars-typescript-7-powered-compiler-9619a35e2b0a"/>
+        <updated>2026-09-25T13:59:11.000Z</updated>
+        <author>
+            <name>Angular</name>
+        </author>
+        <category label="angular"/>
+        <category label="typescript-7"/>
+        <category label="angular-compiler"/>
+        <published>2026-09-25T13:59:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agents can now set up your website’s security with Turnstile Spin | Cloudflare Blog]]></title>
+        <id>01M39NRWHQ3A97HJ70DRJS7VGM</id>
+        <link href="https://blog.cloudflare.com/turnstile-spin/"/>
+        <updated>2026-09-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification]]></summary>
+        <content type="html"><![CDATA[Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification.]]></content>
+        <author>
+            <name>Jules Lemee</name>
+        </author>
+        <category label="Agents"/>
+        <category label="AI"/>
+        <category label="Bot Management"/>
+        <category label="Security"/>
+        <category label="Turnstile"/>
+        <published>2026-09-25T13:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Index: Issue #199 | Piccalilli - Everything]]></title>
+        <id>https://piccalil.li/the-index/199/?ref=main-rss-feed</id>
+        <link href="https://piccalil.li/the-index/199/"/>
+        <updated>2026-09-25T09:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Blurry before beautiful: image previews for the webA very good looking proposal!The root scroller and how not to lose itYet another in-depth, fantastic article by Kilian at Polypane.fonts.xyzYou know ]]></summary>
+        <content type="html"><![CDATA[Blurry before beautiful: image previews for the webA very good looking proposal!The root scroller and how not to lose itYet another in-depth, fantastic article by Kilian at Polypane.fonts.xyzYou know us by now: we see a good place to get fonts and we share it. This is a very nice offering with loads to choose from.“AI, make the website good”With these seismic changes, I will continue to make the argument that craft defined as caring about the quality of output (independent of the tools used to g]]></content>
+        <author>
+            <name>Andy Bell</name>
+        </author>
+        <published>2026-09-25T09:55:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Push images to Vercel Container Registry from GitHub Actions | Vercel News]]></title>
+        <id>https://vercel.com/changelog/vcr-login-github-action</id>
+        <link href="https://vercel.com/changelog/vcr-login-github-action"/>
+        <updated>2026-09-25T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[You can now push container images from GitHub Actions to (VCR) without storing long-lived registry credentials.Vercel Container RegistryThe new action authenticates your workflow using GitHub OIDC. It]]></summary>
+        <content type="html"><![CDATA[You can now push container images from GitHub Actions to (VCR) without storing long-lived registry credentials.Vercel Container RegistryThe new action authenticates your workflow using GitHub OIDC. It exchanges the workflow’s OIDC token for a short-lived Vercel access token, then uses that token to log in to . When the job ends, the action logs out and revokes the Vercel token.vercel/vcr-action/loginvcr.vercel.comTo start: Then add the login step before you build and push and the image:The actio]]></content>
+        <published>2026-09-25T09:15:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State of agent skills | Vercel News]]></title>
+        <id>https://vercel.com/blog/state-of-agent-skills</id>
+        <link href="https://vercel.com/blog/state-of-agent-skills"/>
+        <updated>2026-09-25T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In seven months, the registry grew to one million agent skills and recorded nearly 280 million installs.skills.shA skill gives an AI agent reusable instructions for a particular job. Agents are capabl]]></summary>
+        <content type="html"><![CDATA[In seven months, the registry grew to one million agent skills and recorded nearly 280 million installs.skills.shA skill gives an AI agent reusable instructions for a particular job. Agents are capable but generic; they can do many jobs, but they don't know how a specific person, team, or company does them. A skill supplies that missing context and can be as simple as a file written in ordinary language. Anthropic introduced in October 2025, and Vercel launched the registry three months later.Ag]]></content>
+        <published>2026-09-25T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Northern Gannet, Great Blue Heron, California Brown Pelican | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/25/sighting-403293902/</id>
+        <link href="https://simonwillison.net/2026/Sep/25/sighting-403293902/"/>
+        <updated>2026-09-25T02:07:04.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;img src="https://static.inaturalist.org/photos/740453177/large.jpg" alt="Northern Gannet"&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;img src="https://static.inaturalist.org/photos/740453341/large.jpg" alt="Great Blue Heron"&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;img src="https://static.inaturalist.org/photos/740453177/large.jpg" alt="Northern Gannet"&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;img src="https://static.inaturalist.org/photos/740453341/large.jpg" alt="Great Blue Heron"&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;img src="https://static.inaturalist.org/photos/740454506/large.jpg" alt="California Brown Pelican"&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Northern Gannet, Great Blue Heron, California Brown Pelican, in Monterey Bay National Marine Sanctuary, CA, US, CA&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;New 200-800mm Canon EF lens got me my best photo of &amp;lt;a href="https://si]]></content>
+        <published>2026-09-25T02:07:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pnpm 11.28 | pnpm Blog]]></title>
+        <id>https://pnpm.io/blog/releases/11.28</id>
+        <link href="https://pnpm.io/blog/releases/11.28"/>
+        <updated>2026-09-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[pnpm 11.28 adds the forceIgnoresPlatform setting and pnpm update --peer,]]></summary>
+        <content type="html"><![CDATA[pnpm 11.28 adds the forceIgnoresPlatform setting and pnpm update --peer,]]></content>
+        <category label="release"/>
+        <published>2026-09-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pnpm 12.7 | pnpm Blog]]></title>
+        <id>https://pnpm.io/blog/releases/12.7</id>
+        <link href="https://pnpm.io/blog/releases/12.7"/>
+        <updated>2026-09-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[pnpm 12.7 lets the global node shim follow .nvmrc and .node-version,]]></summary>
+        <content type="html"><![CDATA[pnpm 12.7 lets the global node shim follow .nvmrc and .node-version,]]></content>
+        <category label="release"/>
+        <published>2026-09-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel Canary is now available in stealth for free on AI Gateway | Vercel News]]></title>
+        <id>https://vercel.com/changelog/pixel-canary-is-now-available-in-stealth-for-free-on-ai-gateway</id>
+        <link href="https://vercel.com/changelog/pixel-canary-is-now-available-in-stealth-for-free-on-ai-gateway"/>
+        <updated>2026-09-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[is now available on as . It's free for a limited time while in stealth.Pixel CanaryAI Gatewaystealth/pixel-canaryPixel Canary is strong at coding, including building applications and refactoring exist]]></summary>
+        <content type="html"><![CDATA[is now available on as . It's free for a limited time while in stealth.Pixel CanaryAI Gatewaystealth/pixel-canaryPixel Canary is strong at coding, including building applications and refactoring existing code. It is well suited to frontend development and mobile app design, from responsive layouts and app screens to navigation and interactive components.On , Pixel Canary ties at a 90.3% baseline success rate, passing 28 of 31 tasks. With Next.js documentation supplied through , it passes 30 of 3]]></content>
+        <published>2026-09-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vercel Sandbox now supports memory observability | Vercel News]]></title>
+        <id>https://vercel.com/changelog/vercel-sandbox-now-supports-memory-observability</id>
+        <link href="https://vercel.com/changelog/vercel-sandbox-now-supports-memory-observability"/>
+        <updated>2026-09-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[now includes memory usage data.Vercel Sandbox observabilityYou can access sandbox memory usage data in the dashboard and through the CLI via the command. vercel metricsThe Memory Usage card reports av]]></summary>
+        <content type="html"><![CDATA[now includes memory usage data.Vercel Sandbox observabilityYou can access sandbox memory usage data in the dashboard and through the CLI via the command. vercel metricsThe Memory Usage card reports average, P75, and P95 memory across your sandboxes, alongside the existing CPU usage and data transfer metrics on the sandbox overview page and the project and team-level pages.On the sandbox detail page, charts are designed to show how close a sandbox is running to its memory ceiling by: Sandbox memo]]></content>
+        <published>2026-09-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crafting WCAG 3 for more accessible user experiences | Web Accessibility Initiative (WAI)]]></title>
+        <id>https://www.w3.org/WAI/news/2026-09-25/wcag3-blog/</id>
+        <link href="https://www.w3.org/WAI/news/2026-09-25/wcag3-blog/"/>
+        <updated>2026-09-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the W3C blog post Crafting WCAG 3 for more accessible user experiences, W3C WAI Director Shawn Lawton Henry covers some of the stakes and challenges in developing W3C Accessibility Guidelines (WCAG]]></summary>
+        <content type="html"><![CDATA[In the W3C blog post Crafting WCAG 3 for more accessible user experiences, W3C WAI Director Shawn Lawton Henry covers some of the stakes and challenges in developing W3C Accessibility Guidelines (WCAG) 3.]]></content>
+        <published>2026-09-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コラム：変わり続ける環境で、Webサイトの品質をどう保つか / 加藤 | Mitsue-Links [ミツエーリンクス]]]></title>
+        <id>https://www.mitsue.co.jp/knowledge/column/20260925.html</id>
+        <link href="https://www.mitsue.co.jp/knowledge/column/20260925.html"/>
+        <updated>2026-09-25T00:00:00.000Z</updated>
+        <published>2026-09-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Note on 24th September 2026 | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/24/harder/</id>
+        <link href="https://simonwillison.net/2026/Sep/24/harder/"/>
+        <updated>2026-09-24T23:31:08.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We can do amazing things with them, but unlocking their full potent]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;Tags: &amp;lt;a href="https://simonwillison.net/tags/coding-agents"&amp;gt;coding-agents&amp;lt;/a&amp;gt;, &amp;lt;a href="https://simonwillison.net/tags/ai"&amp;gt;ai&amp;lt;/a&amp;gt;, &amp;lt;a href="https://simonwillison.net/tags/llms"&amp;gt;llms&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;]]></content>
+        <published>2026-09-24T23:31:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re-Enabled GitHub Actions Expose Thousands of Repositories to Mini Shai-Hulud | Socket]]></title>
+        <id>https://socket.dev/blog/mini-shai-hulud-actions</id>
+        <link href="https://socket.dev/blog/mini-shai-hulud-actions"/>
+        <updated>2026-09-24T21:14:48.798Z</updated>
+        <summary type="html"><![CDATA[Two compromised GitHub Actions were re-enabled with malicious tags intact, exposing thousands of downstream repositories to Mini Shai-Hulud.]]></summary>
+        <content type="html"><![CDATA[Two compromised GitHub Actions were re-enabled with malicious tags intact, exposing thousands of downstream repositories to Mini Shai-Hulud.]]></content>
+        <published>2026-09-24T21:14:48.798Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[commit-rewriter 0.2 | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/24/commit-rewriter/</id>
+        <link href="https://simonwillison.net/2026/Sep/24/commit-rewriter/"/>
+        <updated>2026-09-24T20:06:53.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Release:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://github.com/simonw/commit-rewriter/releases/tag/0.2"&amp;gt;commit-rewriter 0.2&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Support for branches other than the default branch. Use &amp;lt;c]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Release:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://github.com/simonw/commit-rewriter/releases/tag/0.2"&amp;gt;commit-rewriter 0.2&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Support for branches other than the default branch. Use &amp;lt;code&amp;gt;uvx commit-rewriter --branch other&amp;lt;/code&amp;gt; to run against another branch. &amp;lt;a href="https://github.com/simonw/commit-rewriter/issues/3"&amp;gt;#3&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;p&amp;gt;Tags: &amp;lt;a href="https://simonwillison.net/tags/git"&amp;gt;git&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; ]]></content>
+        <published>2026-09-24T20:06:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When chat is the wrong UI | The GitHub Blog]]></title>
+        <id>https://github.blog/?p=98939</id>
+        <link href="https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/"/>
+        <updated>2026-09-24T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What is a developer to do when they need something more tangible than a chat box? Enter canvases.The post When chat is the wrong UI appeared first on The GitHub Blog.]]></summary>
+        <content type="html"><![CDATA[What is a developer to do when they need something more tangible than a chat box? Enter canvases.The post When chat is the wrong UI appeared first on The GitHub Blog.]]></content>
+        <author>
+            <name>Burke Holland</name>
+        </author>
+        <category label="AI &amp;amp; ML"/>
+        <category label="GitHub Copilot"/>
+        <category label="canvases"/>
+        <category label="GitHub Copilot app"/>
+        <published>2026-09-24T20:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[datasette 1.0a41 | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/24/datasette/</id>
+        <link href="https://simonwillison.net/2026/Sep/24/datasette/"/>
+        <updated>2026-09-24T19:15:23.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Release:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://github.com/simonw/datasette/releases/tag/1.0a41"&amp;gt;datasette 1.0a41&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;Alec Garcia added &amp;lt;a href="https://docs.datasette.io/en/latest/internals.htm]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Release:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://github.com/simonw/datasette/releases/tag/1.0a41"&amp;gt;datasette 1.0a41&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;Alec Garcia added &amp;lt;a href="https://docs.datasette.io/en/latest/internals.html#internals-telemetry"&amp;gt;support for OpenTelemetry&amp;lt;/a&amp;gt; to Datasette in this release.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;I've also refactored all of Datasette's modal dialogs to a single Web Component, which is now &amp;lt;a href="https://docs.datasette.io/en/latest/javascript_plugins.html#javascript-plugins-modals"&amp;gt;documented for other ]]></content>
+        <published>2026-09-24T19:15:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top CodeQL alternatives in 2026 | Aikido Security's Blog]]></title>
+        <id>https://www.aikido.dev/blog/top-codeql-alternatives</id>
+        <link href="https://www.aikido.dev/blog/top-codeql-alternatives"/>
+        <updated>2026-09-24T19:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Top CodeQL alternatives compared on noise, fixes, cost, and more: Aikido Security, Semgrep, Snyk Code, SonarQube, Checkmarx, and VeracodeCategory: DevSec Tools &amp;amp; Comparisons]]></summary>
+        <content type="html"><![CDATA[Top CodeQL alternatives compared on noise, fixes, cost, and more: Aikido Security, Semgrep, Snyk Code, SonarQube, Checkmarx, and VeracodeCategory: DevSec Tools &amp;amp; Comparisons]]></content>
+        <published>2026-09-24T19:12:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-powered fuzzing with the GitHub Security Lab Taskflow Agent | The GitHub Blog]]></title>
+        <id>https://github.blog/?p=98465</id>
+        <link href="https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/"/>
+        <updated>2026-09-24T18:26:12.000Z</updated>
+        <summary type="html"><![CDATA[In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent a]]></summary>
+        <content type="html"><![CDATA[In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog.]]></content>
+        <author>
+            <name>Antonio Morales</name>
+        </author>
+        <category label="AI &amp;amp; ML"/>
+        <category label="Application security"/>
+        <category label="Generative AI"/>
+        <category label="Security"/>
+        <category label="Vulnerability research"/>
+        <category label="agentic AI"/>
+        <category label="fuzzing"/>
+        <category label="GitHub Security Lab"/>
+        <category label="open source"/>
+        <published>2026-09-24T18:26:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers | Cloudflare Blog]]></title>
+        <id>01M38DRFS3KYJZFDF0GNHZHXGF</id>
+        <link href="https://blog.cloudflare.com/containers-cross-tenant-vulnerability/"/>
+        <updated>2026-09-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[External security researchers at Accomplish identified a vulnerability in Cloudflare Containers that could expose residual disk data from previous workloads. We explain how the issue worked, how we in]]></summary>
+        <content type="html"><![CDATA[External security researchers at Accomplish identified a vulnerability in Cloudflare Containers that could expose residual disk data from previous workloads. We explain how the issue worked, how we investigated it, and the steps we took to remediate it.]]></content>
+        <author>
+            <name>Rushil Mehra</name>
+        </author>
+        <category label="Containers"/>
+        <category label="Developer Platform"/>
+        <category label="Developers"/>
+        <category label="Multi-tenant Security"/>
+        <category label="Security"/>
+        <category label="Vulnerabilities"/>
+        <published>2026-09-24T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three.js Conf Paris 2026参加レポート | ICS MEDIA]]></title>
+        <id>https://ics.media/entry/260925/</id>
+        <link href="https://ics.media/entry/260925/"/>
+        <updated>2026-09-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[記事は ics.media へアクセスしてご覧ください。]]></summary>
+        <content type="html"><![CDATA[記事は ics.media へアクセスしてご覧ください。]]></content>
+        <published>2026-09-24T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100 Devs | Master.dev Blog RSS Feed]]></title>
+        <id>https://blog.master.dev/?p=11158</id>
+        <link href="https://blog.master.dev/100-devs/"/>
+        <updated>2026-09-24T13:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Kevin Powell is doing game-show-style (specifically Family Feud) shorts where, using data from a survey of 100 devs, he asks another dev what the most popular answers were. Here’s:]]></summary>
+        <content type="html"><![CDATA[Kevin Powell is doing game-show-style (specifically Family Feud) shorts where, using data from a survey of 100 devs, he asks another dev what the most popular answers were. Here’s:]]></content>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+        <category label="The Beat"/>
+        <category label="CSS"/>
+        <published>2026-09-24T13:46:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public Packages | vlt /vōlt/ | blog]]></title>
+        <id>https://vlt.io/blog/public-packages</id>
+        <link href="https://vlt.io/blog/public-packages"/>
+        <updated>2026-09-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore the JavaScript ecosystem without an account, and publish packages from your own registry for anyone to install.]]></summary>
+        <content type="html"><![CDATA[Explore the JavaScript ecosystem without an account, and publish packages from your own registry for anyone to install.]]></content>
+        <author>
+            <name>jason@vlt.sh (Jason Korol)</name>
+        </author>
+        <category label="features"/>
+        <published>2026-09-24T10:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Vercel Bug Bounty Program is now publicly available | Vercel News]]></title>
+        <id>https://vercel.com/blog/the-vercel-bug-bounty-program-is-now-publicly-available</id>
+        <link href="https://vercel.com/blog/the-vercel-bug-bounty-program-is-now-publicly-available"/>
+        <updated>2026-09-24T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In 2022, we launched a private bug bounty program through HackerOne. Over the last several years, we've worked with HackerOne's VIP program to refine our process, targets, and scope, onboarding thousa]]></summary>
+        <content type="html"><![CDATA[In 2022, we launched a private bug bounty program through HackerOne. Over the last several years, we've worked with HackerOne's VIP program to refine our process, targets, and scope, onboarding thousands of their best researchers and hardening security across our platform. We've translated those learnings into several public bounty programs: Today, we are combining our private and OSS bounty programs into a single, public . Vercel bug bounty programAI has fundamentally changed the nature of bug ]]></content>
+        <published>2026-09-24T07:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Klaviyo shipped 356 internal apps in two weeks on Vercel  | Vercel News]]></title>
+        <id>https://vercel.com/blog/how-klaviyo-shipped-356-internal-apps-in-two-weeks-on-vercel</id>
+        <link href="https://vercel.com/blog/how-klaviyo-shipped-356-internal-apps-in-two-weeks-on-vercel"/>
+        <updated>2026-09-24T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Klaviyo on VercelImplementing safeguards across the stackBuilt a platform for shipping internal apps512 builders and 356 live apps in two weeksEvery app ships SSO-gated and private by defaultBuilders ]]></summary>
+        <content type="html"><![CDATA[Klaviyo on VercelImplementing safeguards across the stackBuilt a platform for shipping internal apps512 builders and 356 live apps in two weeksEvery app ships SSO-gated and private by defaultBuilders go from idea to live app in 3 minutes Apps are private and SSO-gated through OktaSensitive environment variables are set at the team level, out of builders' handsKlaviyo's hardened GitHub security is inherited by every projectWiz scans every project, and findings feed Klaviyo's SIEMPublic deployment]]></content>
+        <published>2026-09-24T04:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[itch.io で Posting Puzzle を公開しました | まめめも]]></title>
+        <id>https://mametter.hatenablog.com/entry/2026/09/24/100015</id>
+        <link href="https://mametter.hatenablog.com/entry/2026/09/24/100015"/>
+        <updated>2026-09-24T01:00:15.000Z</updated>
+        <summary type="html"><![CDATA[itch.io で Posting Puzzle というゲームを公開しました。封筒と切手を対応付けるだけの小さなブラウザパズルです。全 12 ステージ。 mametter.itch.io ルールは口頭で説明するより、実際に触ってみてもらったほうがわかりやすいと思うので、遊んでみてください。 以下ネタバレ 元ネタ これはポストの対応問題（Post correspondence problem 、以下]]></summary>
+        <content type="html"><![CDATA[itch.io で Posting Puzzle というゲームを公開しました。封筒と切手を対応付けるだけの小さなブラウザパズルです。全 12 ステージ。 mametter.itch.io ルールは口頭で説明するより、実際に触ってみてもらったほうがわかりやすいと思うので、遊んでみてください。 以下ネタバレ 元ネタ これはポストの対応問題（Post correspondence problem 、以下 PCP）という決定不能問題をほぼそのままゲームにしたものです *1 。「ポスト」は郵便ポストではなく、問題の考案者の名前（Emil Post）です。 決定不能なので、この問題の汎用ソルバーを書くこと…]]></content>
+        <published>2026-09-24T01:00:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detect when elements overlap with CSS | Ahmad Shadeed]]></title>
+        <id>https://ishadeed.com/article/css-detect-overlap/</id>
+        <link href="https://ishadeed.com/article/css-detect-overlap/"/>
+        <updated>2026-09-24T00:00:00.000Z</updated>
+        <published>2026-09-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Legora Cut CI Maintenance in Half | Nx Blog]]></title>
+        <id>https://nx.dev/blog/legora-success-story</id>
+        <link href="https://nx.dev/blog/legora-success-story"/>
+        <updated>2026-09-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How a three-person platform team at Legora halved their CI config, drove sandbox violations to zero, and stopped hand-tuning shards across 600+ projects.]]></summary>
+        <content type="html"><![CDATA[How a three-person platform team at Legora halved their CI config, drove sandbox violations to zero, and stopped hand-tuning shards across 600+ projects.]]></content>
+        <author>
+            <name>Juri Strumpflohner</name>
+        </author>
+        <category label="customer-story"/>
+        <category label="ci"/>
+        <category label="nx-cloud"/>
+        <category label="caching"/>
+        <published>2026-09-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vercel Connect now supports TanStack AI | Vercel News]]></title>
+        <id>https://vercel.com/changelog/vercel-connect-tanstack-ai</id>
+        <link href="https://vercel.com/changelog/vercel-connect-tanstack-ai"/>
+        <updated>2026-09-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agents built with TanStack AI can now call OAuth-protected MCP servers through Vercel Connect, with no credentials for you to store or rotate.The new subpath exports , which takes a TanStack transport]]></summary>
+        <content type="html"><![CDATA[Agents built with TanStack AI can now call OAuth-protected MCP servers through Vercel Connect, with no credentials for you to store or rotate.The new subpath exports , which takes a TanStack transport config and attaches a Connect-backed auth provider. The provider is called before every MCP request, so the token is always fresh.@vercel/connect/tanstack-aiconnectMCPTransportIf the user has not granted access, fails with a consent challenge before the model runs. Catch it with and redirect to Con]]></content>
+        <published>2026-09-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release Notes for Safari Technology Preview 253 | WebKit]]></title>
+        <id>https://webkit.org/?p=18357</id>
+        <link href="https://webkit.org/blog/18357/release-notes-for-safari-technology-preview-253/"/>
+        <updated>2026-09-23T21:46:47.000Z</updated>
+        <summary type="html"><![CDATA[Safari Technology Preview Release 253 is now available for download for macOS Golden Gate and macOS Tahoe.]]></summary>
+        <content type="html"><![CDATA[Safari Technology Preview Release 253 is now available for download for macOS Golden Gate and macOS Tahoe.]]></content>
+        <category label="News"/>
+        <published>2026-09-23T21:46:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malicious Firefox Extension Poses as PDF Identity Verifier to Hijack Google Accounts | Socket]]></title>
+        <id>https://socket.dev/blog/firefox-google-account-takeover</id>
+        <link href="https://socket.dev/blog/firefox-google-account-takeover"/>
+        <updated>2026-09-23T21:37:15.973Z</updated>
+        <summary type="html"><![CDATA[A malicious Firefox extension fetches its payload after installation to evade detection, steal Google session cookies, and automate account takeover.]]></summary>
+        <content type="html"><![CDATA[A malicious Firefox extension fetches its payload after installation to evade detection, steal Google session cookies, and automate account takeover.]]></content>
+        <published>2026-09-23T21:37:15.973Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rendering huge pull requests in the GitHub Copilot app | The GitHub Blog]]></title>
+        <id>https://github.blog/?p=99002</id>
+        <link href="https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/"/>
+        <updated>2026-09-23T18:29:49.000Z</updated>
+        <summary type="html"><![CDATA[How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.The post Rendering huge pull requests in the GitHub Copilot app ap]]></summary>
+        <content type="html"><![CDATA[How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.The post Rendering huge pull requests in the GitHub Copilot app appeared first on The GitHub Blog.]]></content>
+        <author>
+            <name>Alberto Gimeno</name>
+        </author>
+        <category label="AI &amp;amp; ML"/>
+        <category label="Engineering"/>
+        <category label="GitHub Copilot"/>
+        <category label="User experience"/>
+        <category label="GitHub Copilot app"/>
+        <category label="technical deep dive"/>
+        <published>2026-09-23T18:29:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js 22.23.3 (LTS) | Node.js Blog]]></title>
+        <id>/blog/release/v22.23.3?1790187760940</id>
+        <link href="https://nodejs.org/en/blog/release/v22.23.3"/>
+        <updated>2026-09-23T18:22:40.000Z</updated>
+        <published>2026-09-23T18:22:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlimited Vercel Blob stores on every plan | Vercel News]]></title>
+        <id>https://vercel.com/changelog/unlimited-vercel-blob-stores-on-every-plan</id>
+        <link href="https://vercel.com/changelog/unlimited-vercel-blob-stores-on-every-plan"/>
+        <updated>2026-09-23T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You can now create as many stores as you need. The previous limits of 100 stores on Hobby, 500 on Pro, and 1,000 on Enterprise no longer apply.Vercel BlobBlob store creation is now billed alongside ot]]></summary>
+        <content type="html"><![CDATA[You can now create as many stores as you need. The previous limits of 100 stores on Hobby, 500 on Pro, and 1,000 on Enterprise no longer apply.Vercel BlobBlob store creation is now billed alongside other , including , , and calls. On Pro that's $5.00 per million. On Hobby it counts toward the 2,000 free operations you get each month. Deleting a store is free.Blob Advanced Operationsput()copy()list()Create a new store whenever you want a hard boundary instead of a pathname convention:Storage, ope]]></content>
+        <published>2026-09-23T18:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 3.8 TTS Playground | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/23/gemini-tts-playground/</id>
+        <link href="https://simonwillison.net/2026/Sep/23/gemini-tts-playground/"/>
+        <updated>2026-09-23T17:12:27.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Tool:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://tools.simonwillison.net/gemini-tts-playground"&amp;gt;Gemini 3.8 TTS Playground&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;Google &amp;lt;a href="https://blog.google/innovation-and-ai/models-and-researc]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Tool:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://tools.simonwillison.net/gemini-tts-playground"&amp;gt;Gemini 3.8 TTS Playground&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;Google &amp;lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/"&amp;gt;released two new Gemini text-to-speech models&amp;lt;/a&amp;gt; today - &amp;lt;code&amp;gt;gemini-3.8-flash-tts&amp;lt;/code&amp;gt; and &amp;lt;code&amp;gt;gemini-3.8-flash-lite-tts&amp;lt;/code&amp;gt;.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;They come with a library of over 2,000 voices, plus the ability to create a custom voice with "just a 30-second au]]></content>
+        <published>2026-09-23T17:12:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shadow roots, explained with live examples | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/23/shadow-roots/</id>
+        <link href="https://simonwillison.net/2026/Sep/23/shadow-roots/"/>
+        <updated>2026-09-23T16:37:18.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Tool:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://tools.simonwillison.net/shadow-roots"&amp;gt;Shadow roots, explained with live examples&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;Prompt to Fable 5.1 Medium:&amp;lt;/p&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;Build an art]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Tool:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://tools.simonwillison.net/shadow-roots"&amp;gt;Shadow roots, explained with live examples&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;Prompt to Fable 5.1 Medium:&amp;lt;/p&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;Build an artifact to explain shadow roots in CSS with interactive examples&amp;lt;/code&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;p&amp;gt;Tags: &amp;lt;a href="https://simonwillison.net/tags/css"&amp;gt;css&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; ]]></content>
+        <published>2026-09-23T16:37:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Solo | Master.dev Blog RSS Feed]]></title>
+        <id>https://blog.master.dev/?p=11114</id>
+        <link href="https://blog.master.dev/introducing-solo/"/>
+        <updated>2026-09-23T16:02:22.000Z</updated>
+        <summary type="html"><![CDATA[A versatile tool for managing coding projects, integrating multiple terminals and AI agents within a single control panel.]]></summary>
+        <content type="html"><![CDATA[A versatile tool for managing coding projects, integrating multiple terminals and AI agents within a single control panel.]]></content>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+        <category label="Blog Post"/>
+        <category label="AI"/>
+        <category label="CLI"/>
+        <category label="Solo"/>
+        <category label="TanStack"/>
+        <published>2026-09-23T16:02:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Greptile alternatives in 2026 | Aikido Security's Blog]]></title>
+        <id>https://www.aikido.dev/blog/top-greptile-alternatives</id>
+        <link href="https://www.aikido.dev/blog/top-greptile-alternatives"/>
+        <updated>2026-09-23T16:01:00.000Z</updated>
+        <summary type="html"><![CDATA[We compare the top Greptile alternatives in 2026 on coverage, noise, review depth and more: Aikido Security, CodeRabbit, Qodo, Graphite, SonarQube and CodeAnt AICategory: DevSec Tools &amp;amp; Comparisons]]></summary>
+        <content type="html"><![CDATA[We compare the top Greptile alternatives in 2026 on coverage, noise, review depth and more: Aikido Security, CodeRabbit, Qodo, Graphite, SonarQube and CodeAnt AICategory: DevSec Tools &amp;amp; Comparisons]]></content>
+        <published>2026-09-23T16:01:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sckit Supply Chain Worm Hits MemTensor npm &amp;amp; PyPi scopes | Step Security Blog]]></title>
+        <id>https://www.stepsecurity.io/blog/sckit-supply-chain-worm-hits-memtensor-npm-pypi-scopes</id>
+        <link href="https://www.stepsecurity.io/blog/sckit-supply-chain-worm-hits-memtensor-npm-pypi-scopes"/>
+        <updated>2026-09-23T14:34:30.000Z</updated>
+        <summary type="html"><![CDATA[Compromised MemTensor npm releases turn an AI memory plugin into a credential-harvesting entry point, exposing prompts and creating a path to further package compromise.]]></summary>
+        <content type="html"><![CDATA[Compromised MemTensor npm releases turn an AI memory plugin into a credential-harvesting entry point, exposing prompts and creating a path to further package compromise.]]></content>
+        <published>2026-09-23T14:34:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need. | The GitHub Blog]]></title>
+        <id>https://github.blog/?p=98976</id>
+        <link href="https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/"/>
+        <updated>2026-09-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute.The post Dev]]></summary>
+        <content type="html"><![CDATA[New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute.The post Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need. appeared first on The GitHub Blog.]]></content>
+        <author>
+            <name>Paull Young</name>
+        </author>
+        <category label="News &amp;amp; insights"/>
+        <category label="Research"/>
+        <published>2026-09-23T13:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aikido and Deel: set up once, secure every hire | Aikido Security's Blog]]></title>
+        <id>https://www.aikido.dev/blog/aikido-deel-partnership</id>
+        <link href="https://www.aikido.dev/blog/aikido-deel-partnership"/>
+        <updated>2026-09-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Code, cloud, and devices, covered automatically once someone's hired through Deel.Category: Product &amp;amp; Company Updates]]></summary>
+        <content type="html"><![CDATA[Code, cloud, and devices, covered automatically once someone's hired through Deel.Category: Product &amp;amp; Company Updates]]></content>
+        <published>2026-09-23T13:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Writing Authentication Checks Into Every Service. Combine Them in your Kubernetes Gateway. | NGINX Community Blog]]></title>
+        <id>https://blog.nginx.org/?p=75198</id>
+        <link href="https://blog.nginx.org/blog/stop-writing-authentication-checks-into-every-service-combine-them-in-your-kubernetes-gateway"/>
+        <updated>2026-09-23T12:52:56.000Z</updated>
+        <summary type="html"><![CDATA[If you run a platform with a dozen or more services behind it, you’ve probably seen this pattern. Service A checks an API key. Service B calls out to your identity provider directly. Service C has a h]]></summary>
+        <content type="html"><![CDATA[If you run a platform with a dozen or more services behind it, you’ve probably seen this pattern. Service A checks an API key. Service B calls out to your identity provider directly. Service C has a half-finished authentication middleware that hasn’t been touched in a while. Every team solved the same problem differently, and […]]]></content>
+        <author>
+            <name>Alessandro</name>
+        </author>
+        <category label="Gateway"/>
+        <category label="Knowledge Base"/>
+        <category label="Kubernetes"/>
+        <category label="gateway fabric"/>
+        <category label="knowledge-base"/>
+        <category label="kubernetes"/>
+        <published>2026-09-23T12:52:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop buttons triggering zoom when they’re double tapped | Piccalilli - Everything]]></title>
+        <id>https://piccalil.li/blog/stop-buttons-triggering-zoom-when-theyre-double-tapped/?ref=main-rss-feed</id>
+        <link href="https://piccalil.li/blog/stop-buttons-triggering-zoom-when-theyre-double-tapped/"/>
+        <updated>2026-09-23T11:55:00.000Z</updated>
+        <summary type="html"><![CDATA[I stumbled across this great project by Barry Prendergast. It's a web-based radio player with a lush UI. On mobile I spotted that as I was rapidly flicking through the stations to find one that was on]]></summary>
+        <content type="html"><![CDATA[I stumbled across this great project by Barry Prendergast. It's a web-based radio player with a lush UI. On mobile I spotted that as I was rapidly flicking through the stations to find one that was on air, the browser was zooming in and out.Here's a screen clip:Watch the video.I thought this behaviour was related to their viewport meta tag setup, but they have that set up perfectly:&amp;lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&amp;gt;Now, you could prevent the zooming by adding ]]></content>
+        <author>
+            <name>Andy Bell</name>
+        </author>
+        <published>2026-09-23T11:55:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MemTensor npm and PyPI Packages Compromised in Credential-Stealing Supply Chain Attack | Socket]]></title>
+        <id>https://socket.dev/blog/memtensor-compromise</id>
+        <link href="https://socket.dev/blog/memtensor-compromise"/>
+        <updated>2026-09-23T09:16:58.512Z</updated>
+        <summary type="html"><![CDATA[The compromise affects MemTensor's MemOS, an open source memory framework for large language models (LLMs) and AI agents. Both npm package @memtensor/memos-cloud-openclaw-plugin and the PyPI package M]]></summary>
+        <content type="html"><![CDATA[The compromise affects MemTensor's MemOS, an open source memory framework for large language models (LLMs) and AI agents. Both npm package @memtensor/memos-cloud-openclaw-plugin and the PyPI package MemoryOS are compromised. They drop cross-platform Go binaries that exfiltrate developer secrets.]]></content>
+        <published>2026-09-23T09:16:58.512Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Novel supplychain.local Go worm appears | Aikido Security's Blog]]></title>
+        <id>https://www.aikido.dev/blog/supplychain-local-memtensor-npm-pypi</id>
+        <link href="https://www.aikido.dev/blog/supplychain-local-memtensor-npm-pypi"/>
+        <updated>2026-09-23T07:41:00.000Z</updated>
+        <summary type="html"><![CDATA["supplychain.local": malicious code found in MemTensor's npm plugin (0.1.21, 0.1.23) and PyPI's MemoryOS (2.0.34).Category: Vulnerabilities &amp;amp; Threats]]></summary>
+        <content type="html"><![CDATA["supplychain.local": malicious code found in MemTensor's npm plugin (0.1.21, 0.1.23) and PyPI's MemoryOS (2.0.34).Category: Vulnerabilities &amp;amp; Threats]]></content>
+        <published>2026-09-23T07:41:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Send GitLab an email, push to main | Aikido Security's Blog]]></title>
+        <id>https://www.aikido.dev/blog/gitlab-email-push-to-main</id>
+        <link href="https://www.aikido.dev/blog/gitlab-email-push-to-main"/>
+        <updated>2026-09-23T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GitLab gives you a private email address to create issues. If leaked, anyone who has it can push code, execute CI/CD jobs, and bypass IP restrictions across all of your public and private projects.Cat]]></summary>
+        <content type="html"><![CDATA[GitLab gives you a private email address to create issues. If leaked, anyone who has it can push code, execute CI/CD jobs, and bypass IP restrictions across all of your public and private projects.Category: Research]]></content>
+        <published>2026-09-23T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SF October 14th: A Birds of a Feather Session on Agentic Engineering | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/</id>
+        <link href="https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/"/>
+        <updated>2026-09-23T02:53:19.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://luma.com/vxuiuyvg"&amp;gt;SF October 14th: A Birds of a Feather Session on Agentic Engineering&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;I'm hosting an evening event with Jesse Vincent in San Francisco on]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://luma.com/vxuiuyvg"&amp;gt;SF October 14th: A Birds of a Feather Session on Agentic Engineering&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;I'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things with and on top of coding agents.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Think of it as an agentic show-and-tell:&amp;lt;/p&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;​Compare notes with other builders and experimenters on things you’re trying, what you're learning, and what you haven’t]]></content>
+        <published>2026-09-23T02:53:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber Resilience Act is here! Myth busting and first impressions | Aikido Security's Blog]]></title>
+        <id>https://www.aikido.dev/blog/cyber-resilience-act-myth-busting-first-impressions</id>
+        <link href="https://www.aikido.dev/blog/cyber-resilience-act-myth-busting-first-impressions"/>
+        <updated>2026-09-23T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Cyber Resilience Act's first deadline just came up on September 11, 2026. What the new Single Reporting Platform looks like, and four common CRA myths debunked.Category: News]]></summary>
+        <content type="html"><![CDATA[The Cyber Resilience Act's first deadline just came up on September 11, 2026. What the new Single Reporting Platform looks like, and four common CRA myths debunked.Category: News]]></content>
+        <published>2026-09-23T01:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI makes design system guardrails mandatory; this framework delivers them | Evil Martians]]></title>
+        <id>https://evilmartians.com/chronicles/ai-makes-design-system-guardrails-mandatory-this-framework-delivers-them</id>
+        <link href="https://evilmartians.com/chronicles/ai-makes-design-system-guardrails-mandatory-this-framework-delivers-them"/>
+        <updated>2026-09-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI has made implementing and enforcing design systems cheaper than ever. At the cost of speed, this falls through the cracks. But agentic development makes good design system practice non-negotiable. ]]></summary>
+        <content type="html"><![CDATA[AI has made implementing and enforcing design systems cheaper than ever. At the cost of speed, this falls through the cracks. But agentic development makes good design system practice non-negotiable. Implement a design system and bring consistency to an existing project.]]></content>
+        <published>2026-09-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The root scroller and how not to lose it | Polypane Blog]]></title>
+        <id>https://polypane.app/blog/the-root-scroller-and-how-not-to-lose-it/</id>
+        <link href="https://polypane.app/blog/the-root-scroller-and-how-not-to-lose-it/"/>
+        <updated>2026-09-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every page has one main scroll container that scrolls the page itself: the root scroll container, or root scroller for short. Because it…]]></summary>
+        <content type="html"><![CDATA[Every page has one main scroll container that scrolls the page itself: the root scroll container, or root scroller for short. Because it…]]></content>
+        <published>2026-09-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 3.8 text-to-speech models now available on AI Gateway | Vercel News]]></title>
+        <id>https://vercel.com/changelog/gemini-3-8-text-to-speech-models-now-available-on-ai-gateway</id>
+        <link href="https://vercel.com/changelog/gemini-3-8-text-to-speech-models-now-available-on-ai-gateway"/>
+        <updated>2026-09-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[and from Google are now available on .Gemini 3.8 Flash-Lite TTSGemini 3.8 Flash TTSAI GatewayBoth models take text and generate speech in more than 100 languages. They support long-form narration, con]]></summary>
+        <content type="html"><![CDATA[and from Google are now available on .Gemini 3.8 Flash-Lite TTSGemini 3.8 Flash TTSAI GatewayBoth models take text and generate speech in more than 100 languages. They support long-form narration, control over delivery, and two-speaker dialogue.Generate and listen to speech in the or the . For setup instructions and more code examples, see the and .Flash-Lite TTS playgroundFlash TTS playgroundspeech quickstarttext-to-speech guideAI Gateway provides one API for speech generation alongside your ot]]></content>
+        <published>2026-09-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drives for Vercel Sandbox are now in public beta | Vercel News]]></title>
+        <id>https://vercel.com/changelog/drives-for-vercel-sandbox-are-now-in-public-beta</id>
+        <link href="https://vercel.com/changelog/drives-for-vercel-sandbox-are-now-in-public-beta"/>
+        <updated>2026-09-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Drives for Vercel Sandbox are now available in public beta on Hobby, Pro, and Enterprise.A Drive is persistent storage that you mount as a directory in a Vercel Sandbox. It isn’t tied to a single sand]]></summary>
+        <content type="html"><![CDATA[Drives for Vercel Sandbox are now available in public beta on Hobby, Pro, and Enterprise.A Drive is persistent storage that you mount as a directory in a Vercel Sandbox. It isn’t tied to a single sandbox, so you can reuse the same Drive across runs and different sandbox instances.Use Drives to preserve an agent's workspace or on-disk memory, or to reuse datasets, models, and dependency trees.Create or retrieve a Drive and mount it at a path when starting a sandbox. Read and write files through t]]></content>
+        <published>2026-09-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I rebuilt 0xinsider around Polymarket sports and esports data | Trevor I. Lasn, Building 0xinsider]]></title>
+        <id>https://www.trevorlasn.com/blog/0xinsider-polymarket-sports-esports-analytics</id>
+        <link href="https://www.trevorlasn.com/blog/0xinsider-polymarket-sports-esports-analytics"/>
+        <updated>2026-09-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[0xinsider is now Polymarket analytics for sports and esports. What 149,700 wallets and 411,770 large buys say, with every query public.]]></summary>
+        <content type="html"><![CDATA[0xinsider is now Polymarket analytics for sports and esports. What 149,700 wallets and 411,770 large buys say, with every query public.]]></content>
+        <published>2026-09-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I added Agentic Resource Discovery to 0xinsider so agents can find it | Trevor I. Lasn, Building 0xinsider]]></title>
+        <id>https://www.trevorlasn.com/blog/agentic-resource-discovery-ard</id>
+        <link href="https://www.trevorlasn.com/blog/agentic-resource-discovery-ard"/>
+        <updated>2026-09-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ARD is a new proposal from Google, Microsoft and Hugging Face for how agents find tools. What's in it, what 0xinsider publishes, and what a registry returns.]]></summary>
+        <content type="html"><![CDATA[ARD is a new proposal from Google, Microsoft and Hugging Face for how agents find tools. What's in it, what 0xinsider publishes, and what a registry returns.]]></content>
+        <published>2026-09-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/</id>
+        <link href="https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/"/>
+        <updated>2026-09-22T23:46:41.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;Yesterday was &amp;lt;a href="https://x.ai/news/grok-4-7"&amp;gt;Grok 4.7&amp;lt;/a&amp;gt; (&amp;lt;a href="https://news.ycombinator.com/item?id=49788838#49790209"&amp;gt;pelicans&amp;lt;/a&amp;gt;) and &amp;lt;a href="https://mimo.xiaomi.com/mimo-v2-6"&amp;gt;MiMo]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;Yesterday was &amp;lt;a href="https://x.ai/news/grok-4-7"&amp;gt;Grok 4.7&amp;lt;/a&amp;gt; (&amp;lt;a href="https://news.ycombinator.com/item?id=49788838#49790209"&amp;gt;pelicans&amp;lt;/a&amp;gt;) and &amp;lt;a href="https://mimo.xiaomi.com/mimo-v2-6"&amp;gt;MiMo v2.6 Flash/Pro&amp;lt;/a&amp;gt; (&amp;lt;a href="https://news.ycombinator.com/item?id=49792730#49793480"&amp;gt;more pelicans&amp;lt;/a&amp;gt;). Today Anthropic &amp;lt;a href="https://www.anthropic.com/claude-opus-5-5"&amp;gt;released Claude Opus 5.5&amp;lt;/a&amp;gt;, and around an hour later OpenAI &amp;lt;a href="https://openai.com/index/introducing-gpt-6-sol-and-luna]]></content>
+        <published>2026-09-22T23:46:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brighter Than White | Master.dev Blog RSS Feed]]></title>
+        <id>https://blog.master.dev/?p=11123</id>
+        <link href="https://blog.master.dev/brighter-than-white/"/>
+        <updated>2026-09-22T21:43:13.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve got an HDR display, and use Chrome 137+ or Safari 26+ (even on iOS), perhaps you’ve seen images sometimes with colors that are so bright they seem to dim the rest of the screen. I find it a ]]></summary>
+        <content type="html"><![CDATA[If you’ve got an HDR display, and use Chrome 137+ or Safari 26+ (even on iOS), perhaps you’ve seen images sometimes with colors that are so bright they seem to dim the rest of the screen. I find it a bit distracting, but I can see how it could be a fun technological gimick sometimes. […]]]></content>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+        <category label="The Beat"/>
+        <category label="Color"/>
+        <category label="HDR"/>
+        <published>2026-09-22T21:43:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[llm 0.36 | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/22/llm/</id>
+        <link href="https://simonwillison.net/2026/Sep/22/llm/"/>
+        <updated>2026-09-22T18:48:37.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Release:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://github.com/simonw/llm/releases/tag/0.36"&amp;gt;llm 0.36&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;blockquote&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;New OpenAI models: &amp;lt;code&amp;gt;gpt-6-sol&amp;lt;/code&amp;gt; for &amp;lt;a href="https://developers.o]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Release:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://github.com/simonw/llm/releases/tag/0.36"&amp;gt;llm 0.36&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;blockquote&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;New OpenAI models: &amp;lt;code&amp;gt;gpt-6-sol&amp;lt;/code&amp;gt; for &amp;lt;a href="https://developers.openai.com/api/docs/models/gpt-6-sol"&amp;gt;GPT-6 Sol&amp;lt;/a&amp;gt; and &amp;lt;code&amp;gt;gpt-6-luna&amp;lt;/code&amp;gt; for &amp;lt;a href="https://developers.openai.com/api/docs/models/gpt-6-luna"&amp;gt;GPT-6 Luna&amp;lt;/a&amp;gt;. &amp;lt;a href="https://github.com/simonw/llm/issues/1702"&amp;gt;#1702&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Model plugins can now declare &amp;lt;code&amp;gt;supports_conversation = Fals]]></content>
+        <published>2026-09-22T18:48:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quoting @therealcornpop | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/22/therealcornpop/</id>
+        <link href="https://simonwillison.net/2026/Sep/22/therealcornpop/"/>
+        <updated>2026-09-22T18:03:21.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;blockquote cite="https://www.tiktok.com/@therealcornpop/video/7687243097801051422"&amp;gt;&amp;lt;p&amp;gt;Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [.]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;blockquote cite="https://www.tiktok.com/@therealcornpop/video/7687243097801051422"&amp;gt;&amp;lt;p&amp;gt;Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general AI-isms of "it's not X, it's Y", or the rule of three, or the really weird broken staccato-like way of writing where you just say a lot of things with all these punctuation marks. and it sounds really deep, but it's not.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;It's the lack of &amp;lt;em&amp;gt;anything&amp;lt;/em&amp;gt;. It's th]]></content>
+        <published>2026-09-22T18:03:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[llm-anthropic 0.29 | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/22/llm-anthropic/</id>
+        <link href="https://simonwillison.net/2026/Sep/22/llm-anthropic/"/>
+        <updated>2026-09-22T17:14:55.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Release:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://github.com/simonw/llm-anthropic/releases/tag/0.29"&amp;gt;llm-anthropic 0.29&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;Adds support for &amp;lt;a href="https://www.anthropic.com/claude-opus-5-5"&amp;gt;Cla]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Release:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://github.com/simonw/llm-anthropic/releases/tag/0.29"&amp;gt;llm-anthropic 0.29&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;Adds support for &amp;lt;a href="https://www.anthropic.com/claude-opus-5-5"&amp;gt;Claude Opus 5.5&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;&amp;lt;pre&amp;gt;&amp;lt;code&amp;gt;llm -m claude-opus-5.5 "prompt goes here"&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt; &amp;lt;p&amp;gt;Tags: &amp;lt;a href="https://simonwillison.net/tags/llm"&amp;gt;llm&amp;lt;/a&amp;gt;, &amp;lt;a href="https://simonwillison.net/tags/anthropic"&amp;gt;anthropic&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; ]]></content>
+        <published>2026-09-22T17:14:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apollo API IP Allowlist Update: Second IP Addresses Now Live | Blog posts | RSS Feed]]></title>
+        <id>https://www.apollographql.com/blog/apollo-api-ip-allowlist-update-second-ip-address-now-live</id>
+        <link href="https://www.apollographql.com/blog/apollo-api-ip-allowlist-update-second-ip-address-now-live"/>
+        <updated>2026-09-22T16:53:29.000Z</updated>
+        <author>
+            <name>David Glasser</name>
+        </author>
+        <published>2026-09-22T16:53:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[llm-typesafe 0.1a0 | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/22/llm-typesafe/</id>
+        <link href="https://simonwillison.net/2026/Sep/22/llm-typesafe/"/>
+        <updated>2026-09-22T15:54:16.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Release:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://github.com/simonw/llm-typesafe/releases/tag/0.1a0"&amp;gt;llm-typesafe 0.1a0&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;I built this new plugin for &amp;lt;a href="https://llm.datasette.io/"&amp;gt;LLM&amp;lt;/a&amp;gt; ]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Release:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://github.com/simonw/llm-typesafe/releases/tag/0.1a0"&amp;gt;llm-typesafe 0.1a0&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;I built this new plugin for &amp;lt;a href="https://llm.datasette.io/"&amp;gt;LLM&amp;lt;/a&amp;gt; to add support for &amp;lt;a href="https://simonwillison.net/2026/Sep/21/jev/"&amp;gt;TypeSafe AI's new Jev model&amp;lt;/a&amp;gt;. Install it like this:&amp;lt;/p&amp;gt;&amp;lt;pre&amp;gt;&amp;lt;code&amp;gt;llm install llm-typesafe&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;&amp;lt;p&amp;gt;Then set an API key (&amp;lt;a href="https://console.typesafe.ai/"&amp;gt;get one here&amp;lt;/a&amp;gt;, the waitlist seems to move pretty fast):&amp;lt;]]></content>
+        <published>2026-09-22T15:54:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We just shipped support for the ugliest part of HTTP: Vary | Cloudflare Blog]]></title>
+        <id>01M34JJ73CQHS91WGFD6NM0X09</id>
+        <link href="https://blog.cloudflare.com/vary-support/"/>
+        <updated>2026-09-22T14:04:31.000Z</updated>
+        <summary type="html"><![CDATA[Vary support is now available in Cache Rules on every plan. You can normalize known negotiation headers, pass exact values through to the origin when those small differences matter, or bypass cache wh]]></summary>
+        <content type="html"><![CDATA[Vary support is now available in Cache Rules on every plan. You can normalize known negotiation headers, pass exact values through to the origin when those small differences matter, or bypass cache when the variation is too unpredictable.]]></content>
+        <author>
+            <name>Alex Krivit</name>
+        </author>
+        <category label="Cache"/>
+        <category label="CDN"/>
+        <category label="Performance"/>
+        <category label="Pingora"/>
+        <published>2026-09-22T14:04:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Worker Previews: Isolated preview environments for every change your agent makes | Cloudflare Blog]]></title>
+        <id>01M31X3A04MPGJV1GB3JFSSSYM</id>
+        <link href="https://blog.cloudflare.com/worker-previews/"/>
+        <updated>2026-09-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Worker Previews gives every branch its own URL, configuration, state, and observability, so you and your agents can test changes in parallel without affecting production.]]></summary>
+        <content type="html"><![CDATA[Worker Previews gives every branch its own URL, configuration, state, and observability, so you and your agents can test changes in parallel without affecting production.]]></content>
+        <author>
+            <name>Yomna Shousha</name>
+        </author>
+        <category label="Architecture"/>
+        <category label="Developers"/>
+        <category label="Product News"/>
+        <category label="Serverless"/>
+        <category label="Workers"/>
+        <published>2026-09-22T13:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graphalgo campaign spreads to Terraform providers and Go Modules | Aikido Security's Blog]]></title>
+        <id>https://www.aikido.dev/blog/graphalgo-terraform-go-modules</id>
+        <link href="https://www.aikido.dev/blog/graphalgo-terraform-go-modules"/>
+        <updated>2026-09-22T12:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Aikido found Graphalgo-linked Go malware in Terraform providers and Go Modules, using targeted triggers, Slack, and blockchain C2.Category: Vulnerabilities &amp;amp; Threats]]></summary>
+        <content type="html"><![CDATA[Aikido found Graphalgo-linked Go malware in Terraform providers and Go Modules, using targeted triggers, Slack, and blockchain C2.Category: Vulnerabilities &amp;amp; Threats]]></content>
+        <published>2026-09-22T12:18:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js 26.10.0 (Current) | Node.js Blog]]></title>
+        <id>/blog/release/v26.10.0?1790067829095</id>
+        <link href="https://nodejs.org/en/blog/release/v26.10.0"/>
+        <updated>2026-09-22T09:03:49.000Z</updated>
+        <published>2026-09-22T09:03:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JetBrains Air: Building a System of Products for Agentic Software Development | Company | The JetBrains Blog]]></title>
+        <id>https://blog.jetbrains.com/?post_type=blog&amp;amp;p=739812</id>
+        <link href="https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/"/>
+        <updated>2026-09-22T09:00:34.000Z</updated>
+        <summary type="html"><![CDATA[AI can produce code. Organizations still have to produce software. Agentic development is changing how software gets made, but it hasn’t changed what it costs to be wrong. Six months ago, we began pub]]></summary>
+        <content type="html"><![CDATA[AI can produce code. Organizations still have to produce software. Agentic development is changing how software gets made, but it hasn’t changed what it costs to be wrong. Six months ago, we began publicly experimenting with agentic development environments. Around the same time, we introduced JetBrains Central as an open control and execution system for […]]]></content>
+        <author>
+            <name>Kirill Skrygan</name>
+        </author>
+        <category label="agentic-ai"/>
+        <category label="ai"/>
+        <category label="jetbrains"/>
+        <category label="new-products"/>
+        <category label="news"/>
+        <category label="releases"/>
+        <published>2026-09-22T09:00:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lovable’s OJ Rewrites Vite’s Dev Server in Rust as AI Lowers the Cost of Forking Open Source | Socket]]></title>
+        <id>https://socket.dev/blog/oj-vite-rust</id>
+        <link href="https://socket.dev/blog/oj-vite-rust"/>
+        <updated>2026-09-22T05:48:11.599Z</updated>
+        <summary type="html"><![CDATA[Lovable’s OJ rewrites Vite’s dev server in Rust, reducing memory use and preview times as AI lowers the cost of open source reimplementation.]]></summary>
+        <content type="html"><![CDATA[Lovable’s OJ rewrites Vite’s dev server in Rust, reducing memory use and preview times as AI lowers the cost of open source reimplementation.]]></content>
+        <published>2026-09-22T05:48:11.599Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing The Nx Cloud Timeline View | Nx Blog]]></title>
+        <id>https://nx.dev/blog/nx-cloud-timeline-view</id>
+        <link href="https://nx.dev/blog/nx-cloud-timeline-view"/>
+        <updated>2026-09-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Get full visibility into your distributed CI run with Nx Agents.]]></summary>
+        <content type="html"><![CDATA[Get full visibility into your distributed CI run with Nx Agents.]]></content>
+        <author>
+            <name>Juri Strumpflohner</name>
+        </author>
+        <category label="nx-cloud"/>
+        <category label="ci"/>
+        <published>2026-09-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Motion Studio | Motion Magazine]]></title>
+        <id>https://motion.dev/magazine/introducing-motion-studio</id>
+        <link href="https://motion.dev/magazine/introducing-motion-studio"/>
+        <updated>2026-09-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When perfecting the feel of an animation, it can be difficult to stay in your flow. These days, animating is a process of back-and-forth between your code and your UI. Make a change, wait for the relo]]></summary>
+        <content type="html"><![CDATA[When perfecting the feel of an animation, it can be difficult to stay in your flow. These days, animating is a process of back-and-forth between your code and your UI. Make a change, wait for the reload, test, repeat.Agents have been a great new addition, allowing us to edit complex sequences without handwriting a ton of code. But for making small timing and easing adjustments, even the fastest models are too slow, needing to write every change back to your codebase.Motion Studio provides the so]]></content>
+        <author>
+            <name>Matt Perry</name>
+        </author>
+        <category label="Announcement"/>
+        <published>2026-09-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pnpm 12.6 | pnpm Blog]]></title>
+        <id>https://pnpm.io/blog/releases/12.6</id>
+        <link href="https://pnpm.io/blog/releases/12.6"/>
+        <updated>2026-09-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[pnpm 12.6 ships with automatic dependency deduplication, relocatable]]></summary>
+        <content type="html"><![CDATA[pnpm 12.6 ships with automatic dependency deduplication, relocatable]]></content>
+        <category label="release"/>
+        <published>2026-09-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-6 Sol and Luna now available on AI Gateway | Vercel News]]></title>
+        <id>https://vercel.com/changelog/gpt-6-sol-and-luna-now-available-on-ai-gateway</id>
+        <link href="https://vercel.com/changelog/gpt-6-sol-and-luna-now-available-on-ai-gateway"/>
+        <updated>2026-09-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[and from are now available on .GPT-6 SolGPT-6 LunaOpenAIAI GatewayBoth models bring GPT-6 improvements in professional work, coding, computer use, factuality, and communication at a lower price than .]]></summary>
+        <content type="html"><![CDATA[and from are now available on .GPT-6 SolGPT-6 LunaOpenAIAI GatewayBoth models bring GPT-6 improvements in professional work, coding, computer use, factuality, and communication at a lower price than .GPT-6 AstraBoth Sol and Luna communicate more directly than their GPT-5.6 counterparts, with less jargon and fewer low-value details. They also improve factual reliability and are less likely to make misleading claims about work completed during coding tasks.Use and across the , , , and connected to]]></content>
+        <published>2026-09-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Opus 5.5 now available on AI Gateway | Vercel News]]></title>
+        <id>https://vercel.com/changelog/claude-opus-5-5-now-available-on-ai-gateway</id>
+        <link href="https://vercel.com/changelog/claude-opus-5-5-now-available-on-ai-gateway"/>
+        <updated>2026-09-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[from is now available on . It is a step-change improvement over , with its biggest gains in agentic coding, long-running agent tasks, and knowledge work. Anthropic cites that Opus 5.5 performs at the ]]></summary>
+        <content type="html"><![CDATA[from is now available on . It is a step-change improvement over , with its biggest gains in agentic coding, long-running agent tasks, and knowledge work. Anthropic cites that Opus 5.5 performs at the level of Fable 5.1, but ~30% faster and ~40% cheaper than Opus 5 per task.Claude Opus 5.5AnthropicAI GatewayOpus 5Opus 5.5 is also a better collaborator over long runs. It reports back in plain language on what it did, what it found, and what it needs next, making it easier to supervise work that sp]]></content>
+        <published>2026-09-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WCAG 2.2 and 2.1 in French — Authorized translations updated | Web Accessibility Initiative (WAI)]]></title>
+        <id>https://www.w3.org/WAI/news/2026-09-22/wcag-french/</id>
+        <link href="https://www.w3.org/WAI/news/2026-09-22/wcag-french/"/>
+        <updated>2026-09-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The French authorized translations of Web Content Accessibility Guidelines (WCAG) are updated:]]></summary>
+        <content type="html"><![CDATA[The French authorized translations of Web Content Accessibility Guidelines (WCAG) are updated:]]></content>
+        <published>2026-09-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jev introduces a new shape of LLM - System One, aka Decision Models | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/21/jev/</id>
+        <link href="https://simonwillison.net/2026/Sep/21/jev/"/>
+        <updated>2026-09-21T23:09:20.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;Last week &amp;lt;a href="https://typesafe.ai/"&amp;gt;TypeSafe AI&amp;lt;/a&amp;gt; unveiled &amp;lt;a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev"&amp;gt;Jev&amp;lt;/a&amp;gt;, their first example of a new category of model t]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;Last week &amp;lt;a href="https://typesafe.ai/"&amp;gt;TypeSafe AI&amp;lt;/a&amp;gt; unveiled &amp;lt;a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev"&amp;gt;Jev&amp;lt;/a&amp;gt;, their first example of a new category of model that they are calling "System One models" (I'm with Maggie Appleton, I think "decision models" is &amp;lt;a href="https://twitter.com/Mappletons/status/2101560333441610133"&amp;gt;a better name&amp;lt;/a&amp;gt; for these). Jev is an interesting variant on the usual LLM format: it still accepts text inputs, but instead of text ]]></content>
+        <published>2026-09-21T23:09:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Python Workers are now generally available | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/</id>
+        <link href="https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/"/>
+        <updated>2026-09-21T22:25:44.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://blog.cloudflare.com/python-workers-ga/"&amp;gt;Cloudflare Python Workers are now generally available&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;After a two year preview, Cloudflare's support for running Py]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://blog.cloudflare.com/python-workers-ga/"&amp;gt;Cloudflare Python Workers are now generally available&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: "Python is now a first-class, fully supported language on the Cloudflare Developer Platform".&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;A neat thing about this is how it works. Cloudflare are running Python compiled to WebAssembly via Pyodide in their V8-based &amp;lt;a href="htt]]></content>
+        <published>2026-09-21T22:25:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helix: The internal tool powering our Shopify app's native migration | Shopify Engineering]]></title>
+        <id>https://shopify.engineering/helix</id>
+        <link href="https://shopify.engineering/helix"/>
+        <updated>2026-09-21T21:12:33.000Z</updated>
+        <summary type="html"><![CDATA[We built Helix to help LLMs rebuild the Shopify app in Swift and Kotlin, using small checkpoints and strict quality gates to keep the code shippable.]]></summary>
+        <content type="html"><![CDATA[We built Helix to help LLMs rebuild the Shopify app in Swift and Kotlin, using small checkpoints and strict quality gates to keep the code shippable.]]></content>
+        <published>2026-09-21T21:12:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vercel Connect now supports Microsoft Teams | Vercel News]]></title>
+        <id>https://vercel.com/changelog/vercel-connect-microsoft-teams</id>
+        <link href="https://vercel.com/changelog/vercel-connect-microsoft-teams"/>
+        <updated>2026-09-21T17:10:00.000Z</updated>
+        <summary type="html"><![CDATA[now includes a managed connector for . Creating one gives your organization a Teams bot that your apps and agents run. People can @mention it in channels or message it directly, and your code receives]]></summary>
+        <content type="html"><![CDATA[now includes a managed connector for . Creating one gives your organization a Teams bot that your apps and agents run. People can @mention it in channels or message it directly, and your code receives the message and replies as the bot.Vercel ConnectMicrosoft TeamsAs a , Vercel registers the Entra app and Azure Bot resource in your tenant, so there's no client secret to store. A tenant administrator with an Azure subscription completes setup once. Incoming Teams activities are verified and forwa]]></content>
+        <published>2026-09-21T17:10:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark Mode Very Much Matters To Me | Master.dev Blog RSS Feed]]></title>
+        <id>https://blog.master.dev/?p=11094</id>
+        <link href="https://blog.master.dev/dark-mode-very-much-matters-to-me/"/>
+        <updated>2026-09-21T15:35:54.000Z</updated>
+        <summary type="html"><![CDATA[It's not just vibes, it's an accessibility thing.]]></summary>
+        <content type="html"><![CDATA[It's not just vibes, it's an accessibility thing.]]></content>
+        <author>
+            <name>Preethi Sam</name>
+        </author>
+        <category label="Blog Post"/>
+        <category label="Accessibility"/>
+        <category label="Color"/>
+        <category label="CSS"/>
+        <category label="Dark Theme"/>
+        <category label="UX"/>
+        <published>2026-09-21T15:35:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deployments now show billable duration and CPU minutes | Vercel News]]></title>
+        <id>https://vercel.com/changelog/deployments-now-show-billable-duration-and-cpu-minutes</id>
+        <link href="https://vercel.com/changelog/deployments-now-show-billable-duration-and-cpu-minutes"/>
+        <updated>2026-09-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Deployments now show their billable duration and CPU minutes in the dashboard, , and the . Use it to understand how each build contributes to your usage.vc inspectREST APIBillable duration is the buil]]></summary>
+        <content type="html"><![CDATA[Deployments now show their billable duration and CPU minutes in the dashboard, , and the . Use it to understand how each build contributes to your usage.vc inspectREST APIBillable duration is the build and post-build time combined, rounded up to the next whole minute. CPU minutes are that figure multiplied by the machine's vCPUs.To see the same breakdown from the CLI, update to version 59.23.1 or later with , then run :npm i -g vercel@latestvc inspectLearn more about in the docs.build machines a]]></content>
+        <published>2026-09-21T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Aikido Altar: the model that makes sovereign security intelligence possible  | Aikido Security's Blog]]></title>
+        <id>https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security</id>
+        <link href="https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security"/>
+        <updated>2026-09-21T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Aikido Altar is a compressed, open-weight AI model built for sovereign security intelligence, powering Aikido Machine's on-prem, air-gapped pentesting.Category: Product &amp;amp; Company Updates]]></summary>
+        <content type="html"><![CDATA[Aikido Altar is a compressed, open-weight AI model built for sovereign security intelligence, powering Aikido Machine's on-prem, air-gapped pentesting.Category: Product &amp;amp; Company Updates]]></content>
+        <published>2026-09-21T13:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NGINX Control API: View In-Memory Configuration and Reload via HTTP Requests | NGINX Community Blog]]></title>
+        <id>https://blog.nginx.org/?p=75206</id>
+        <link href="https://blog.nginx.org/blog/nginx-control-api-view-in-memory-configuration-and-reload-via-http-requests"/>
+        <updated>2026-09-21T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Before the latest release, NGINX had to be controlled exclusively by Unix signals. The most notable one is SIGHUP or the well-known “nginx -s reload” command. This configuration method, while very sta]]></summary>
+        <content type="html"><![CDATA[Before the latest release, NGINX had to be controlled exclusively by Unix signals. The most notable one is SIGHUP or the well-known “nginx -s reload” command. This configuration method, while very stable, does not meet modern environment requirements: there are very few available options, no direct feedback messages on errors, and no real extensibility. We […]]]></content>
+        <author>
+            <name>Alessandro</name>
+        </author>
+        <category label="Architecture"/>
+        <category label="Core"/>
+        <category label="Knowledge Base"/>
+        <category label="architecture"/>
+        <category label="core"/>
+        <category label="knowledge-base"/>
+        <published>2026-09-21T13:15:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Workers are now generally available | Cloudflare Blog]]></title>
+        <id>01M2V3682PGT0BQZV5H15J7FSE</id>
+        <link href="https://blog.cloudflare.com/python-workers-ga/"/>
+        <updated>2026-09-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Python Workers allow developers to run Python web frameworks and AI orchestration libraries natively in the Cloudflare Workers runtime. You can seamlessly integrate with Cloudflare's ecosystem includi]]></summary>
+        <content type="html"><![CDATA[Python Workers allow developers to run Python web frameworks and AI orchestration libraries natively in the Cloudflare Workers runtime. You can seamlessly integrate with Cloudflare's ecosystem including D1, R2, and Workers AI without writing any JavaScript glue code.]]></content>
+        <author>
+            <name>Gyeongjae Choi</name>
+        </author>
+        <category label="AI"/>
+        <category label="Developer Platform"/>
+        <category label="Developers"/>
+        <category label="Python"/>
+        <category label="WASM"/>
+        <category label="Workers"/>
+        <published>2026-09-21T13:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCP サーバーからエージェントスキルを配布する Skills Extension | azukiazusa のテックブログ2]]></title>
+        <id>https://azukiazusa.dev/blog/mcp-skills-extension</id>
+        <link href="https://azukiazusa.dev/blog/mcp-skills-extension"/>
+        <updated>2026-09-21T06:10:00.000Z</updated>
+        <summary type="html"><![CDATA[MCP サーバーが提供するツールを使いこなすには、複数のツールを組み合わせる手順や判断基準も必要です。Skills Extension は、こうした知識を記した Agent Skills を MCP 経由で発見・取得するための拡張です。この記事では設計の背景、スキルを段階的に読み込む仕組み、Node.js での実装例と対応状況を紹介します。]]></summary>
+        <content type="html"><![CDATA[MCP サーバーが提供するツールを使いこなすには、複数のツールを組み合わせる手順や判断基準も必要です。Skills Extension は、こうした知識を記した Agent Skills を MCP 経由で発見・取得するための拡張です。この記事では設計の背景、スキルを段階的に読み込む仕組み、Node.js での実装例と対応状況を紹介します。]]></content>
+        <published>2026-09-21T06:10:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spellbook of Skill: The Twin Project Nobody Asked For, But I Built Anyway | Playful Programming's Atom Feed]]></title>
+        <id>https://playfulprogramming.com/posts/thw-twin-project</id>
+        <link href="https://playfulprogramming.com/posts/thw-twin-project"/>
+        <updated>2026-09-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Where Spellbook of Prompt gives you the incantation, Spellbook of Skill teaches you the magic behind it. It's structured, practical guides organized by category and difficulty, each one built to save ]]></summary>
+        <content type="html"><![CDATA[Where Spellbook of Prompt gives you the incantation, Spellbook of Skill teaches you the magic behind it. It's structured, practical guides organized by category and difficulty, each one built to save time and actually get you somewhere, not just another wall of theory.]]></content>
+        <published>2026-09-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MiMo V2.6 models now available on AI Gateway | Vercel News]]></title>
+        <id>https://vercel.com/changelog/mimo-v2-6-models-now-available-on-ai-gateway</id>
+        <link href="https://vercel.com/changelog/mimo-v2-6-models-now-available-on-ai-gateway"/>
+        <updated>2026-09-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[, , and from are now available on .MiMo V2.6 ProMiMo V2.6 FlashMiMo V2.6 Pro UltraSpeedXiaomiAI GatewayMiMo V2.6 combines coding, reasoning, and tool use with native text, image, audio, and video unde]]></summary>
+        <content type="html"><![CDATA[, , and from are now available on .MiMo V2.6 ProMiMo V2.6 FlashMiMo V2.6 Pro UltraSpeedXiaomiAI GatewayMiMo V2.6 combines coding, reasoning, and tool use with native text, image, audio, and video understanding. Its 1M token context supports long repositories, tool traces, and multi-session agent work, with structured outputs and up to 128K output tokens.Choose a model based on the workload:To use MiMo V2.6 in a , install the latest Vercel CLI and run:coding agentThen select , , or in your agent.]]></content>
+        <published>2026-09-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Gateway now supports TypeSafe clients and an HTTP API for Jev | Vercel News]]></title>
+        <id>https://vercel.com/changelog/ai-gateway-now-supports-typesafe-clients-and-http-api-for-jev</id>
+        <link href="https://vercel.com/changelog/ai-gateway-now-supports-typesafe-clients-and-http-api-for-jev"/>
+        <updated>2026-09-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You can now call through AI Gateway using an existing TypeSafe client or the HTTP API, in addition to the AI SDK.Jev from TypeSafe AI is a probabilistic decision model for software. State goes in, and]]></summary>
+        <content type="html"><![CDATA[You can now call through AI Gateway using an existing TypeSafe client or the HTTP API, in addition to the AI SDK.Jev from TypeSafe AI is a probabilistic decision model for software. State goes in, and typed answers come out with probabilities attached, so there's no generated text to parse. Requests are billed through AI Gateway on all three paths, so they appear alongside your other model calls in usage and observability.JevChange the base URL and API key. Your calls, questions, and response sh]]></content>
+        <published>2026-09-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grok 4.7 now available and 40% off on AI Gateway, fx, and eve | Vercel News]]></title>
+        <id>https://vercel.com/changelog/grok-4-7-now-available-and-40-off-on-ai-gateway-fx-eve</id>
+        <link href="https://vercel.com/changelog/grok-4-7-now-available-and-40-off-on-ai-gateway-fx-eve"/>
+        <updated>2026-09-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[from SpaceXAI is now available on AI Gateway and 40% off through September 27. The discount applies automatically when you call .Grok 4.7spacexai/grok-4.7Grok 4.7 has a 500K token context window and s]]></summary>
+        <content type="html"><![CDATA[from SpaceXAI is now available on AI Gateway and 40% off through September 27. The discount applies automatically when you call .Grok 4.7spacexai/grok-4.7Grok 4.7 has a 500K token context window and supports low, medium, high, and xhigh reasoning levels, giving you control over the tradeoff between latency and depth.Use everywhere you call the model. The same ID works with the , the , and connected to AI Gateway:spacexai/grok-4.7AI SDKOpenAI-compatible Chat Completions APIcoding agentsTo use Gro]]></content>
+        <published>2026-09-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quoting voxium | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/20/voxium/</id>
+        <link href="https://simonwillison.net/2026/Sep/20/voxium/"/>
+        <updated>2026-09-20T21:06:43.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;blockquote cite="https://twitter.com/v0xium/status/2101526107128529120"&amp;gt;&amp;lt;p&amp;gt;It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, P]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;blockquote cite="https://twitter.com/v0xium/status/2101526107128529120"&amp;gt;&amp;lt;p&amp;gt;It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobody on my team likes this. They are being forced to ship as much as they can. I have heard multiple times from higher management that pushing code is not a bottleneck, so why are we slow? People are worki]]></content>
+        <published>2026-09-20T21:06:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCP was always a bad idea? | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/20/hn-49779718/</id>
+        <link href="https://simonwillison.net/2026/Sep/20/hn-49779718/"/>
+        <updated>2026-09-20T20:24:41.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;a href="https://news.ycombinator.com/item?id=49779329#49779718"&amp;gt;My comment&amp;lt;/a&amp;gt; on &amp;lt;a href="https://news.ycombinator.com/item?id=49779329"&amp;gt;MCP was always a bad idea?&amp;lt;/a&amp;gt; &amp;amp;mdash; Hacker News.&amp;lt;/p&amp;gt;&amp;lt;p]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;a href="https://news.ycombinator.com/item?id=49779329#49779718"&amp;gt;My comment&amp;lt;/a&amp;gt; on &amp;lt;a href="https://news.ycombinator.com/item?id=49779329"&amp;gt;MCP was always a bad idea?&amp;lt;/a&amp;gt; &amp;amp;mdash; Hacker News.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;This article entirely misses the value that MCP brings today.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Sure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw etc) with unfettered internet access - just let it call APIs directly.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;If you want to operate ]]></content>
+        <published>2026-09-20T20:24:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[llm-keys-ui 0.1 | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/20/llm-keys-ui/</id>
+        <link href="https://simonwillison.net/2026/Sep/20/llm-keys-ui/"/>
+        <updated>2026-09-20T19:22:19.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Release:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://github.com/simonw/llm-keys-ui/releases/tag/0.1"&amp;gt;llm-keys-ui 0.1&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;This plugin solves a very specific problem.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;I've started using &amp;lt;a href="]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Release:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://github.com/simonw/llm-keys-ui/releases/tag/0.1"&amp;gt;llm-keys-ui 0.1&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;This plugin solves a very specific problem.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;I've started using &amp;lt;a href="https://learn.chatgpt.com/docs/remote"&amp;gt;Codex Remote&amp;lt;/a&amp;gt; to run coding agents on various machines while controlling them from my phone. &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Sometimes I use those machines to hack on LLM projects, and occasionally that means I need to configure an API key.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;I don't like pasting API keys into a]]></content>
+        <published>2026-09-20T19:22:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[json-render と Jev で UI を組み立ててみた | azukiazusa のテックブログ2]]></title>
+        <id>https://azukiazusa.dev/blog/json-render-jev</id>
+        <link href="https://azukiazusa.dev/blog/json-render-jev"/>
+        <updated>2026-09-20T03:41:00.000Z</updated>
+        <summary type="html"><![CDATA[json-render の Jev 連携では、文言やデータを含むコンポーネントの候補を用意し、モデルに選択と配置を任せます。従来の json-render では、モデルが新しい Props を生成していました。この記事では Jev 連携の仕組みと、従来の json-render との違いを紹介します。]]></summary>
+        <content type="html"><![CDATA[json-render の Jev 連携では、文言やデータを含むコンポーネントの候補を用意し、モデルに選択と配置を任せます。従来の json-render では、モデルが新しい Props を生成していました。この記事では Jev 連携の仕組みと、従来の json-render との違いを紹介します。]]></content>
+        <published>2026-09-20T03:41:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[datasette-explain 0.2.2 | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/20/datasette-explain/</id>
+        <link href="https://simonwillison.net/2026/Sep/20/datasette-explain/"/>
+        <updated>2026-09-20T00:22:04.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Release:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://github.com/simonw/datasette-explain/releases/tag/0.2.2"&amp;gt;datasette-explain 0.2.2&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;blockquote&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;Explain plans now work on read-only stored-qu]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Release:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://github.com/simonw/datasette-explain/releases/tag/0.2.2"&amp;gt;datasette-explain 0.2.2&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;blockquote&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;Explain plans now work on read-only stored-query pages.&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;/blockquote&amp;gt;&amp;lt;p&amp;gt;I upgraded &amp;lt;a href="https://datasette.simonwillison.net"&amp;gt;datasette.simonwillison.net&amp;lt;/a&amp;gt; to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin.&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;Tags: &amp;lt;a href="https://simonwillison.net/tags/sqlite"&amp;gt;sqlite&amp;lt;/a&amp;gt;, &amp;lt;a href="https://]]></content>
+        <published>2026-09-20T00:22:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fumadocs OpenAPI v12 | Fumadocs Blog]]></title>
+        <id>/blog/openapi-v12</id>
+        <link href="https://fumadocs.dev/blog/openapi-v12"/>
+        <updated>2026-09-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Headless API pages, and a UI you own.]]></summary>
+        <content type="html"><![CDATA[Headless API pages, and a UI you own.]]></content>
+        <author>
+            <name>Fuma Nama</name>
+        </author>
+        <published>2026-09-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[datasette-auth-github 1.0 | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/19/datasette-auth-github/</id>
+        <link href="https://simonwillison.net/2026/Sep/19/datasette-auth-github/"/>
+        <updated>2026-09-19T19:52:02.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Release:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://github.com/simonw/datasette-auth-github/releases/tag/1.0"&amp;gt;datasette-auth-github 1.0&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;I run this GitHub login plugin on the &amp;lt;a href="https://age]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Release:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://github.com/simonw/datasette-auth-github/releases/tag/1.0"&amp;gt;datasette-auth-github 1.0&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;I run this GitHub login plugin on the &amp;lt;a href="https://agent.datasette.io/"&amp;gt;agent.datasette.io&amp;lt;/a&amp;gt; demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out that the plugin was setting cookies without a &amp;lt;code&amp;gt;Max-Age&amp;lt;/code&amp;gt; parameter, so they were expiring at the end of a browser session (which in Mobile Safari seems t]]></content>
+        <published>2026-09-19T19:52:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California Sea Lion, Brandt's Cormorant | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/19/sighting-401567341/</id>
+        <link href="https://simonwillison.net/2026/Sep/19/sighting-401567341/"/>
+        <updated>2026-09-19T17:10:08.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;img src="https://static.inaturalist.org/photos/737061413/large.jpg" alt="California Sea Lion"&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;img src="https://static.inaturalist.org/photos/737061040/large.jpg" alt="Brandt&amp;amp;#x27;s Cormor]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;img src="https://static.inaturalist.org/photos/737061413/large.jpg" alt="California Sea Lion"&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;img src="https://static.inaturalist.org/photos/737061040/large.jpg" alt="Brandt&amp;amp;#x27;s Cormorant"&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;California Sea Lion, Brandt&amp;amp;#x27;s Cormorant, in Pillar Point Harbor, CA, US&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;I only noticed this after I had taken the photo: Morris &amp;lt;a href="https://simonwillison.net/2026/Aug/15/sighting-391300422/"&amp;gt;the Northern Gannet&amp;lt;/a&amp;gt; is peeking out from behind the base of the sign.&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;T]]></content>
+        <published>2026-09-19T17:10:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeSafe AI の Jev を TypeScript で試してみた | azukiazusa のテックブログ2]]></title>
+        <id>https://azukiazusa.dev/blog/jev-support-routing</id>
+        <link href="https://azukiazusa.dev/blog/jev-support-routing"/>
+        <updated>2026-09-19T01:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Jev は入力された状態に対して、選択肢の判定や段階評価、真である確率を返すモデルです。この記事では TypeScript で問い合わせを評価し、実際の出力をもとに担当部署や人の確認へ振り分ける処理を紹介します。]]></summary>
+        <content type="html"><![CDATA[Jev は入力された状態に対して、選択肢の判定や段階評価、真である確率を返すモデルです。この記事では TypeScript で問い合わせを評価し、実際の出力をもとに担当部署や人の確認へ振り分ける処理を紹介します。]]></content>
+        <published>2026-09-19T01:17:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini Hacked Three Companies in First Known Breakout by Google’s AI | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/</id>
+        <link href="https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/"/>
+        <updated>2026-09-18T23:57:57.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2"&amp;gt;Gemini Hacked Three Companies in First Known Breakout by Google’s AI&amp;lt;/a&amp;gt;&amp;lt;]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;a href="https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2"&amp;gt;Gemini Hacked Three Companies in First Known Breakout by Google’s AI&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Gemini finally caught up on &amp;lt;a href="https://www.felonybench.com/"&amp;gt;Felony Bench&amp;lt;/a&amp;gt;!&amp;lt;/p&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed by OpenAI, Anthr]]></content>
+        <published>2026-09-18T23:57:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custom Glow Rings Inside of Elements | Master.dev Blog RSS Feed]]></title>
+        <id>https://blog.master.dev/?p=11076</id>
+        <link href="https://blog.master.dev/custom-glow-rings-inside-of-elements/"/>
+        <updated>2026-09-18T22:32:56.000Z</updated>
+        <summary type="html"><![CDATA[A box-shadow is an obvious choice for an inner glow of an element to highlight it. But with some fancy masking, we can use any overlay style we want.]]></summary>
+        <content type="html"><![CDATA[A box-shadow is an obvious choice for an inner glow of an element to highlight it. But with some fancy masking, we can use any overlay style we want.]]></content>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+        <category label="Blog Post"/>
+        <category label="box-shadow"/>
+        <category label="conic-gradient()"/>
+        <category label="CSS"/>
+        <category label="Design"/>
+        <category label="Mask"/>
+        <published>2026-09-18T22:32:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spend Management expands to Enterprise Flexible Commitment plans | Vercel News]]></title>
+        <id>https://vercel.com/changelog/spend-management-enterprise-flex</id>
+        <link href="https://vercel.com/changelog/spend-management-enterprise-flex"/>
+        <updated>2026-09-18T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise teams on Flexible Commitment plans can now use , already , at no additional cost.Spend Managementavailable on ProYou can set a budget at any time in .Spend Management settingsSet a budget p]]></summary>
+        <content type="html"><![CDATA[Enterprise teams on Flexible Commitment plans can now use , already , at no additional cost.Spend Managementavailable on ProYou can set a budget at any time in .Spend Management settingsSet a budget per billing cycle, and when your team's metered usage approaches or crosses it, Spend Management can send email notifications, trigger a webhook, or pause the production deployments of all projects. The amount governs the metered usage that draws down from your prepaid balance. Setting an amount does]]></content>
+        <published>2026-09-18T20:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Note on 18th September 2026 | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/</id>
+        <link href="https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/"/>
+        <updated>2026-09-18T19:21:32.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;p&amp;gt;Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassi]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;p&amp;gt;Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Skeptical geneticist: "pfft, it's just frog DNA. And they deliberately let them eat people for the marketing."&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;Tags: &amp;lt;a href="https://simonwillison.net/tags/llms"&amp;gt;llms&amp;lt;/a&amp;gt;, &amp;lt;a href="https://simonwillison.net/tags/ai"&amp;gt;ai&amp;lt;/a&amp;gt;, &amp;lt;a href="https://simonwillison.net/tags/generative-ai"]]></content>
+        <published>2026-09-18T19:21:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quoting Thariq Shihipar | Simon Willison's Weblog]]></title>
+        <id>https://simonwillison.net/2026/Sep/18/thariq-shihipar/</id>
+        <link href="https://simonwillison.net/2026/Sep/18/thariq-shihipar/"/>
+        <updated>2026-09-18T19:09:27.000Z</updated>
+        <summary type="html"><![CDATA[ &amp;lt;blockquote cite="https://twitter.com/trq212/status/2101009392611278961"&amp;gt;&amp;lt;p&amp;gt;We're adding support for AGENTS.md to Claude Code. &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Starting today in version 2.1.277, if there is no CLAUDE.md in a ]]></summary>
+        <content type="html"><![CDATA[ &amp;lt;blockquote cite="https://twitter.com/trq212/status/2101009392611278961"&amp;gt;&amp;lt;p&amp;gt;We're adding support for AGENTS.md to Claude Code. &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;AGENTS.md support is built off of Claude Code mods, our upcoming way to customize the Claude Code harness.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;This is a built-in mod, but you’ll be able to build custom versions of project instructions yourself as you’d like too.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;You ca]]></content>
+        <published>2026-09-18T19:09:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Birthday, Shai-Hulud | Socket]]></title>
+        <id>https://socket.dev/blog/happy-birthday-shai-hulud</id>
+        <link href="https://socket.dev/blog/happy-birthday-shai-hulud"/>
+        <updated>2026-09-18T18:46:45.889Z</updated>
+        <summary type="html"><![CDATA[It has been one year since Shai-Hulud made its first appearance on npm.]]></summary>
+        <content type="html"><![CDATA[It has been one year since Shai-Hulud made its first appearance on npm.]]></content>
+        <published>2026-09-18T18:46:45.889Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebMCP support now available in mcp-handler | Vercel News]]></title>
+        <id>https://vercel.com/changelog/webmcp-mcp-handler</id>
+        <link href="https://vercel.com/changelog/webmcp-mcp-handler"/>
+        <updated>2026-09-18T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[now has experimental support for , the proposed web standard for exposing tools to in-browser agents. Add a single script tag to your site, and your existing MCP tools become available there too.mcp-h]]></summary>
+        <content type="html"><![CDATA[now has experimental support for , the proposed web standard for exposing tools to in-browser agents. Add a single script tag to your site, and your existing MCP tools become available there too.mcp-handlerWebMCPOpt tools in by adding them to the object:experimental_webMcpThen load the script from your MCP endpoint with the parameter:?webmcp-scriptThe script registers those tools with the page and proxies each call back to your MCP server as the signed-in user, so authenticated tools work withou]]></content>
+        <published>2026-09-18T18:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saving another 100TB of RAM with math (and Rust) | Cloudflare Blog]]></title>
+        <id>01M2PG0CV1HQN5RRFVQ49YYMWY</id>
+        <link href="https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/"/>
+        <updated>2026-09-18T17:23:58.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflare's global network is immense but not limitless. As we look for small ways to trim our resource usage, we sometimes get lucky and we can cut significantly more. Here’s how we reduced one of o]]></summary>
+        <content type="html"><![CDATA[Cloudflare's global network is immense but not limitless. As we look for small ways to trim our resource usage, we sometimes get lucky and we can cut significantly more. Here’s how we reduced one of our Pingora-based service's RAM usage with statistics.]]></content>
+        <author>
+            <name>Kevin Guthrie</name>
+        </author>
+        <category label="Deep Dive"/>
+        <category label="Engineering"/>
+        <category label="Open Source"/>
+        <category label="Optimization"/>
+        <category label="Performance"/>
+        <category label="Pingora"/>
+        <category label="Rust"/>
+        <published>2026-09-18T17:23:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v0 now reads npm credentials from shared environment variables | Vercel News]]></title>
+        <id>https://vercel.com/changelog/v0-now-reads-npm-credentials-from-shared-environment-variables</id>
+        <link href="https://vercel.com/changelog/v0-now-reads-npm-credentials-from-shared-environment-variables"/>
+        <updated>2026-09-18T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[now installs private packages from npm and custom registries using credentials stored as shared environment variables on Vercel.v0This makes it easier for teams to build with their existing design sys]]></summary>
+        <content type="html"><![CDATA[now installs private packages from npm and custom registries using credentials stored as shared environment variables on Vercel.v0This makes it easier for teams to build with their existing design systems, component libraries, and internal packages directly in v0.To get started, add one of the following as a on Vercel, scoped to Development and/or Preview:shared environment variable supports scoped registries and references to other environment variables. For example, configure an organization s]]></content>
+        <published>2026-09-18T17:00:00.000Z</published>
+    </entry>
+</feed>
