@@ -1,0 +1,2878 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "JSer.info Watch List",
+    "home_page_url": "https://jser.info/watch-list-rss/",
+    "feed_url": "https://jser.info/watch-list-rss/feeds/feed.json",
+    "description": "JSer.infoの情報源となるサイトをまとめたRSSフィード",
+    "icon": "https://jser.info/watch-list-rss/images/icon.png",
+    "items": [
+        {
+            "id": "https://susisu.hatenablog.com/entry/2026/10/03/203956",
+            "content_html": "前提: ESLint の設定方法と共有設定 ESLint での共有設定の主な役割は, プラグインの設定とルールの設定の二つです. ESLint 本体には JavaScript に関する基本的なルールしか組み込まれていません. そのため TypeScript など異なる言語に対するルールや, Node.js, React などの特定の環境やライブラリ固有のルール, その他発展的なルールを使うためには, 追加でプラグインをインストールして設定を記述する必要があります. この設定はそれなりに (プロジェクトごとに毎回記述するにしては) 複雑になることもあり (例: TypeScript で impo…",
+            "url": "https://susisu.hatenablog.com/entry/2026/10/03/203956",
+            "title": "Oxlint の共有設定みんなどうしてる? | Object.create(null)",
+            "summary": "前提: ESLint の設定方法と共有設定 ESLint での共有設定の主な役割は, プラグインの設定とルールの設定の二つです. ESLint 本体には JavaScript に関する基本的なルールしか組み込まれていません. そのため TypeScript など異なる言語に対するルールや, Node.js, React などの特定の環境やライブラリ固有のルール, その他発展的なルールを使うためには",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/8454420450093413037/14945776032085647420/1791027831",
+                "alt": "Oxlint の共有設定みんなどうしてる? - Object.create(null)"
+            },
+            "date_modified": "2026-10-03T11:39:56.000Z",
+            "date_published": "2026-10-03T11:39:56.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Oxlint の共有設定みんなどうしてる?",
+                "blogTitle": "Object.create(null)",
+                "blogLink": "https://susisu.hatenablog.com/",
+                "blogLinkMd5Hash": "6790f236bf6140c98755f37eb8737934",
+                "favicon": "https://susisu.hatenablog.com/icon/favicon"
+            }
+        },
+        {
+            "id": "01M3XKBJCTDTMBBCNNHA141F04",
+            "content_html": "Streamline demonstrates how to build long-running, continuous video processing pipelines by pairing Cloudflare Workers and Durable Objects with a containerized media engine.",
+            "url": "https://blog.cloudflare.com/streamline/",
+            "title": "Streamline: custom video pipelines with Cloudflare Stream and Workers | Cloudflare Blog",
+            "summary": "Streamline demonstrates how to build long-running, continuous video processing pipelines by pairing Cloudflare Workers and Durable Objects with a containerized media engine.",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XKQEZWPQRGSGGDW5CV9AF6.01M3XKQFTYW63D87Y4VTQ32HJS.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T16:13:45.000Z",
+            "date_published": "2026-10-02T16:13:45.000Z",
+            "author": {
+                "name": "Willi Geiger"
+            },
+            "tags": [
+                "Birthday Week",
+                "Cloudflare Stream",
+                "Containers",
+                "Developer Platform",
+                "Durable Objects",
+                "Workers"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://github.blog/?p=99170",
+            "content_html": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow.The post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog.",
+            "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
+            "title": "AI is changing developer work. Here are three skills to strengthen. | The GitHub Blog",
+            "summary": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow.The post AI is changing developer work. Here are three skills to strengthen. appea",
+            "image": {
+                "height": "1263",
+                "type": "image/png",
+                "url": "https://github.blog/wp-content/uploads/2026/03/branchingout.png",
+                "width": "2402"
+            },
+            "date_modified": "2026-10-02T15:00:00.000Z",
+            "date_published": "2026-10-02T15:00:00.000Z",
+            "author": {
+                "name": "Gwen Davis"
+            },
+            "tags": [
+                "AI &amp; ML",
+                "Career growth",
+                "Developer skills",
+                "AI",
+                "career development"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AI is changing developer work. Here are three skills to strengthen.",
+                "blogTitle": "The GitHub Blog",
+                "blogLink": "https://github.blog/",
+                "blogLinkMd5Hash": "f5d9dec3dc3bf03d9b3049b109e60a1d",
+                "favicon": "https://github.githubassets.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://blog.master.dev/?p=11189",
+            "content_html": "The new CSS progress() function calculates a value between 0 and 1, representing its position within a defined range. While awaiting broader browser support, users can manually implement this using other methods.",
+            "url": "https://blog.master.dev/fallbacks-for-css-progress/",
+            "title": "Fallbacks for CSS `progress()` | Master.dev Blog RSS Feed",
+            "summary": "The new CSS progress() function calculates a value between 0 and 1, representing its position within a defined range. While awaiting broader browser support, users can manually implement this using ot",
+            "image": {
+                "height": "630",
+                "url": "https://blog.master.dev/wp-json/social-image-generator/v1/image/11189",
+                "width": "1200"
+            },
+            "date_modified": "2026-10-02T14:10:00.000Z",
+            "date_published": "2026-10-02T14:10:00.000Z",
+            "author": {
+                "name": "Matthew Morete"
+            },
+            "tags": [
+                "Blog Post",
+                "clamp()",
+                "CSS",
+                "progress()"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Fallbacks for CSS `progress()`",
+                "blogTitle": "Master.dev Blog RSS Feed",
+                "blogLink": "https://blog.master.dev",
+                "blogLinkMd5Hash": "61b7f9099864eec938d5589848ac72da",
+                "favicon": "https://blog.master.dev/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "01M3XM9KVCRB6JKE07Q88EPGD2",
+            "content_html": "Cloudflare AI Gateway now supports native web search API integration in partnership with Ceramic.ai, Exa, and Linkup. Developers can now inject real-time web context into model inference calls via AI Gateway, REST APIs, or Workers bindings.",
+            "url": "https://blog.cloudflare.com/introducing-web-search-api/",
+            "title": "Introducing Web Search API via AI Gateway | Cloudflare Blog",
+            "summary": "Cloudflare AI Gateway now supports native web search API integration in partnership with Ceramic.ai, Exa, and Linkup. Developers can now inject real-time web context into model inference calls via AI ",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XMD1R3RKTSPGW4TNF59S9D.01M3XMD2FKJAHHSQP0E10VYFXD.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T13:28:10.000Z",
+            "date_published": "2026-10-02T13:28:10.000Z",
+            "author": {
+                "name": "Michelle Chen"
+            },
+            "tags": [
+                "AI",
+                "AI Gateway",
+                "Birthday Week",
+                "Developer Platform"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Introducing Web Search API via AI Gateway",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "01M3XHCB64KZ1NTN3N83GY590B",
+            "content_html": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing.",
+            "url": "https://blog.cloudflare.com/one-observability-platform/",
+            "title": "8 major updates to Cloudflare Observability | Cloudflare Blog",
+            "summary": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pr",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XJY66SMGWS94XAH56FMNMK.01M3XJY71T6ME3V0ZSDDKNWAXH.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T13:00:00.000Z",
+            "date_published": "2026-10-02T13:00:00.000Z",
+            "author": {
+                "name": "Nevi Shah"
+            },
+            "tags": [
+                "Birthday Week",
+                "Logs",
+                "Observability",
+                "Product News",
+                "Tracing",
+                "Workers"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "8 major updates to Cloudflare Observability",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "01M3XE7G2V6JJXPKX92B1D4080",
+            "content_html": "Cloudflare Traces shows how a request moves through security rules, transformations, cache, routing, Workers, and your origin, then follows it across services running anywhere in your stack.",
+            "url": "https://blog.cloudflare.com/cloudflare-tracing/",
+            "title": "Introducing Cloudflare Traces: follow requests through our entire platform | Cloudflare Blog",
+            "summary": "Cloudflare Traces shows how a request moves through security rules, transformations, cache, routing, Workers, and your origin, then follows it across services running anywhere in your stack.",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XERG2M3W0AF6DR6E14218A.01M3XERHCQTS14NJ390N327RG1.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T13:00:00.000Z",
+            "date_published": "2026-10-02T13:00:00.000Z",
+            "author": {
+                "name": "Mar Witek"
+            },
+            "tags": [
+                "Birthday Week",
+                "Developer Platform",
+                "Observability",
+                "Tracing",
+                "Workers"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Introducing Cloudflare Traces: follow requests through our entire platform",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "01M3XD0M307DCDJ5QYA2RFTW87",
+            "content_html": "A year after pledging to eliminate two-tier product access, Cloudflare has expanded Logpush, multi-account governance, and higher platform limits to all accounts. Here is an update on our progress, how we dogfood these tools internally, and what is coming next.",
+            "url": "https://blog.cloudflare.com/enterprise-for-all-update/",
+            "title": "Updates on our pledge to make Cloudflare features accessible to everyone | Cloudflare Blog",
+            "summary": "A year after pledging to eliminate two-tier product access, Cloudflare has expanded Logpush, multi-account governance, and higher platform limits to all accounts. Here is an update on our progress, ho",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XD4X46H418B7C0YZYKW9XG.01M3XD504XT4Z069E3VPPVCW8Y.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T13:00:00.000Z",
+            "date_published": "2026-10-02T13:00:00.000Z",
+            "author": {
+                "name": "Oliver Roup"
+            },
+            "tags": [
+                "Birthday Week",
+                "Developers",
+                "Product News",
+                "Terraform"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Updates on our pledge to make Cloudflare features accessible to everyone",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "01M3WRXHGNF2ZH02N0GWY6FHVV",
+            "content_html": "We’re announcing the closed beta of a self-serve Cloudflare OHTTP Gateway. We’re also renaming our Privacy Gateway to Cloudflare OHTTP Relay to better distinguish the two products.",
+            "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+            "title": "Announcing Cloudflare OHTTP Gateway – expanding access to Cloudflare’s privacy-preserving infrastructure | Cloudflare Blog",
+            "summary": "We’re announcing the closed beta of a self-serve Cloudflare OHTTP Gateway. We’re also renaming our Privacy Gateway to Cloudflare OHTTP Relay to better distinguish the two products.",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XZ8QDSM1TSSYPVFW13B39E.01M3XZ8RDWEX6N8XXP6ZRDY0DK.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T13:00:00.000Z",
+            "date_published": "2026-10-02T13:00:00.000Z",
+            "author": {
+                "name": "Lara Schull"
+            },
+            "tags": [
+                "Birthday Week",
+                "Privacy",
+                "Protocols",
+                "Standards"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Announcing Cloudflare OHTTP Gateway – expanding access to Cloudflare’s privacy-preserving infrastructure",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "01M3WNK9KTV3615MEM25RN3E4H",
+            "content_html": "Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse.",
+            "url": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
+            "title": "Follow the thread: a new dashboard to investigate account abuse | Cloudflare Blog",
+            "summary": "Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams in",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3Y5VTQ2TEP6PMBPHSWHJ74Q.01M3Y5VWMRD9QFHQMQW8MNN334.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T13:00:00.000Z",
+            "date_published": "2026-10-02T13:00:00.000Z",
+            "author": {
+                "name": "Nicole Justus"
+            },
+            "tags": [
+                "Application Security",
+                "Birthday Week",
+                "Bot Management",
+                "Product News",
+                "Security"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Follow the thread: a new dashboard to investigate account abuse",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "01M3WEQR3N79CDBSMHD5V067HA",
+            "content_html": "Quick Tunnels now support email authentication. Add --allowed-mail to one cloudflared command, and only the addresses or domains you list can reach your local app. No Cloudflare account required on either side.",
+            "url": "https://blog.cloudflare.com/protected-quick-tunnels/",
+            "title": "Protected Quick Tunnels: simple accountless authentication for your next dev project | Cloudflare Blog",
+            "summary": "Quick Tunnels now support email authentication. Add --allowed-mail to one cloudflared command, and only the addresses or domains you list can reach your local app. No Cloudflare account required on ei",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3WF11EFDMBPVYJVR18D29GB.01M3WF120JP4JSCV3QW2JRCGQT.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T13:00:00.000Z",
+            "date_published": "2026-10-02T13:00:00.000Z",
+            "author": {
+                "name": "Nikita Cano"
+            },
+            "tags": [
+                "Agents",
+                "Birthday Week",
+                "Cloudflare Access",
+                "Cloudflare Tunnel",
+                "Developers",
+                "Internship Experience",
+                "Product News",
+                "Security"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Protected Quick Tunnels: simple accountless authentication for your next dev project",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "01M3W899F5N6P98MYP180WJMS4",
+            "content_html": "Some of the world's leading organizations are building the future of non-profit work with Cloudflare.",
+            "url": "https://blog.cloudflare.com/civil-society-automation/",
+            "title": "Building for good: How civil society organizations are automating on Cloudflare | Cloudflare Blog",
+            "summary": "Some of the world's leading organizations are building the future of non-profit work with Cloudflare.",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3W8E78R4T0PAETX21VWK0DW.01M3W8E7ZY4S0KPM4JN5XBKDHT.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T13:00:00.000Z",
+            "date_published": "2026-10-02T13:00:00.000Z",
+            "author": {
+                "name": "Allie Funk"
+            },
+            "tags": [
+                "AI",
+                "Birthday Week",
+                "Developers",
+                "Human Rights",
+                "Impact",
+                "Policy &amp; Legal",
+                "Project Galileo"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Building for good: How civil society organizations are automating on Cloudflare",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "01M3T5GMDCTRDCS7CFJSMSJ2TS",
+            "content_html": "Cloudflare now ranks as the fastest provider across 74% of the top 1,000 global networks. By incorporating background telemetry from Cloudflare Challenge Pages, we have expanded our real-user measurement scale while maintaining user privacy.",
+            "url": "https://blog.cloudflare.com/network-performance-birthday-week-2026/",
+            "title": "2026 Birthday week: network performance update | Cloudflare Blog",
+            "summary": "Cloudflare now ranks as the fastest provider across 74% of the top 1,000 global networks. By incorporating background telemetry from Cloudflare Challenge Pages, we have expanded our real-user measurem",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3T5GBQ0C570TPMJKDF1QMX3.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T13:00:00.000Z",
+            "date_published": "2026-10-02T13:00:00.000Z",
+            "author": {
+                "name": "Lai Yi Ohlsen"
+            },
+            "tags": [
+                "Birthday Week",
+                "Network Performance Update",
+                "Performance",
+                "Turnstile"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2026 Birthday week: network performance update",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.aikido.dev/blog/top-vulnerability-remediation-tools",
+            "content_html": "We compare the top vulnerability remediation tools in 2026: Aikido Security, Snyk, GitHub Advanced Security, Tenable, Qualys, and WizCategory: DevSec Tools &amp; Comparisons",
+            "url": "https://www.aikido.dev/blog/top-vulnerability-remediation-tools",
+            "title": "Top vulnerability remediation tools in 2026 | Aikido Security's Blog",
+            "summary": "We compare the top vulnerability remediation tools in 2026: Aikido Security, Snyk, GitHub Advanced Security, Tenable, Qualys, and WizCategory: DevSec Tools &amp; Comparisons",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6abfaa7b8cd850b7e56a4792_OG_%5Bgeneric-seo-title%5D_16x9.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T12:58:00.000Z",
+            "date_published": "2026-10-02T12:58:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Top vulnerability remediation tools in 2026",
+                "blogTitle": "Aikido Security's Blog",
+                "blogLink": "https://www.aikido.dev",
+                "blogLinkMd5Hash": "0c77fc38d005cda3e64903cf14f94346",
+                "favicon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6a44c0d59562153f7bd081ff_favicon.png"
+            }
+        },
+        {
+            "id": "https://piccalil.li/the-index/200/?ref=main-rss-feed",
+            "content_html": "It's issue #200 of The Index! A real milestone that we should celebrate with a dedicated CSS links issue. Let's get stuck in to the good links.Multiple-column layout, rows, rules, and floatsThe Boss™ is here with some fantastic news on layout capabilities that we can use. They should really open the door to more creative layouts, which is great.Our CSS isn’t opinionated enoughThis really resonates as Craig is describing issues that inspired CUBE CSS. Semantic state changes are a really good way ",
+            "url": "https://piccalil.li/the-index/200/",
+            "title": "The Index: Issue #200 | Piccalilli - Everything",
+            "summary": "It's issue #200 of The Index! A real milestone that we should celebrate with a dedicated CSS links issue. Let's get stuck in to the good links.Multiple-column layout, rows, rules, and floatsThe Boss™ ",
+            "image": {
+                "url": "https://piccalil.li/images/the-index-og-image.png",
+                "alt": "Page image for Piccalilli",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T08:55:00.000Z",
+            "date_published": "2026-10-02T08:55:00.000Z",
+            "author": {
+                "name": "Andy Bell"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The Index: Issue #200",
+                "blogTitle": "Piccalilli - Everything",
+                "blogLink": "https://piccalil.li/",
+                "blogLinkMd5Hash": "3c694e3af711d7057a42a87454051e52",
+                "favicon": "https://piccalil.li/favicons/favicon.ico"
+            }
+        },
+        {
+            "id": "https://vercel.com/blog/jev-for-python-engineers",
+            "content_html": "It's simply impossible to not hear about Jev. Seemingly everyone is tinkering with it in some way, from using it to to . make trading decisionsgenerating UIs with it(what could possibly go wrong?)(maybe we're onto something here!) is a new kind of AI model. You feed it data and ask it a set of multiple-choice questions, and it responds with its answers and how confident it is in each. Just like with any other model, Jev can and will make mistakes, but it will make them fast. ​Jev​The bottom line",
+            "url": "https://vercel.com/blog/jev-for-python-engineers",
+            "title": "Jev for Python engineers | Vercel News",
+            "summary": "It's simply impossible to not hear about Jev. Seemingly everyone is tinkering with it in some way, from using it to to . make trading decisionsgenerating UIs with it(what could possibly go wrong?)(may",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3JqorqWK9YfLUoNHKDbBuV/887e6f03a2fb0d836995ac077c006253/jev_for_python_eng.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T07:00:00.000Z",
+            "date_published": "2026-10-02T07:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Jev for Python engineers",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "101018f8-3c53-41f5-a6d9-15992ed0319b",
+            "content_html": "",
+            "url": "https://digital-agency-news.digital.go.jp/articles/2026-10-01",
+            "title": "顧客に安心と便利を。保険・銀行・証券が実践するマイナンバーカード活用の最前線 | デジタル庁ニュース一覧",
+            "image": {
+                "url": "https://digital-agency-news.digital.go.jp/assets/contents/node/information/field_thumbnail_image/101018f8-3c53-41f5-a6d9-15992ed0319b/5650d2bc/image1.jpeg",
+                "type": "jpeg"
+            },
+            "date_modified": "2026-10-02T04:58:11.000Z",
+            "date_published": "2026-10-02T04:58:11.000Z",
+            "author": {
+                "name": "デジタル庁"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "顧客に安心と便利を。保険・銀行・証券が実践するマイナンバーカード活用の最前線",
+                "blogTitle": "デジタル庁ニュース一覧",
+                "blogLink": "https://digital-agency-news.digital.go.jp/",
+                "blogLinkMd5Hash": "cd1176c3197911f124f7b786c142a619",
+                "favicon": "https://digital-agency-news.digital.go.jp/themes/custom/gov_theme_da_news/favicon.ico"
+            }
+        },
+        {
+            "id": "https://vercel.com/blog/how-rogo-ships-agent-written-code-to-production-in-5-minutes-on-vercel",
+            "content_html": "Rogo on Vercel73,000+ deployments in a single monthAgent-written code shipped to production in 5 minutes6 production AI agents automating work from churn analysis to deal deskZero manual triage during production incidents with agent swarms on AI SDK builds Felix, an AI agent that generates decks, financial models, and reports for a majority of the world's largest financial institutions. The Rogo team is rearchitecting its internal applications on Vercel, where agent-written code ships in 5 minut",
+            "url": "https://vercel.com/blog/how-rogo-ships-agent-written-code-to-production-in-5-minutes-on-vercel",
+            "title": "How Rogo ships agent-written code to production in 5 minutes on Vercel | Vercel News",
+            "summary": "Rogo on Vercel73,000+ deployments in a single monthAgent-written code shipped to production in 5 minutes6 production AI agents automating work from churn analysis to deal deskZero manual triage during",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/458NpEis6wmwaEFWDRzf4e/c8bf32d83d6b53548df89fad47158b04/customer_story_og_card_og_card__1_.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-02T04:00:00.000Z",
+            "date_published": "2026-10-02T04:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "How Rogo ships agent-written code to production in 5 minutes on Vercel",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://azukiazusa.dev/blog/e2e-ai-testing",
+            "content_html": "e2e は自然言語による操作と、要素を指定した操作・アサーションを組み合わせられるテストフレームワークです。この記事では Todo アプリを対象に、AI に操作を任せて結果をコードで検証するテストを作成します。",
+            "url": "https://azukiazusa.dev/blog/e2e-ai-testing",
+            "title": "自然言語で操作し、結果を検証するテストフレームワーク e2e | azukiazusa のテックブログ2",
+            "summary": "e2e は自然言語による操作と、要素を指定した操作・アサーションを組み合わせられるテストフレームワークです。この記事では Todo アプリを対象に、AI に操作を任せて結果をコードで検証するテストを作成します。",
+            "image": {
+                "url": "https://ogp.azukiazusa.dev/blog/ogp/e2e-ai-testing.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T03:52:00.000Z",
+            "date_published": "2026-10-02T03:52:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "自然言語で操作し、結果を検証するテストフレームワーク e2e",
+                "blogTitle": "azukiazusa のテックブログ2",
+                "blogLink": "https://azukiazusa.dev",
+                "blogLinkMd5Hash": "f333203079d9928b7fa83832f57ad131",
+                "favicon": "https://azukiazusa.dev/favicon.png"
+            }
+        },
+        {
+            "id": "https://socket.dev/blog/glassworm-vscode-themes",
+            "content_html": "Socket uncovered two malicious VS Code themes in a GlassWorm-linked cluster with thousands of installs across VS Code Marketplace and Open VSX.",
+            "url": "https://socket.dev/blog/glassworm-vscode-themes",
+            "title": "Pretty Themes, Hidden Loaders: GlassWorm-Linked Extensions Span VS Code Marketplace and Open VSX | Socket",
+            "summary": "Socket uncovered two malicious VS Code themes in a GlassWorm-linked cluster with thousands of installs across VS Code Marketplace and Open VSX.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/cgdhsj6q/production/4594fc4d5199ac21170f845ac3f6d8703d98e966-1672x941.png?w=1000&q=95&fit=max&auto=format",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T03:44:40.584Z",
+            "date_published": "2026-10-02T03:44:40.584Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Pretty Themes, Hidden Loaders: GlassWorm-Linked Extensions Span VS Code Marketplace and Open VSX",
+                "blogTitle": "Socket",
+                "blogLink": "https://socket.dev/api/blog/feed.json",
+                "blogLinkMd5Hash": "1ad7c1f71e0aa48ea310910290f40d4a",
+                "favicon": "https://socket.dev/next-public-assets/favicon.ico"
+            }
+        },
+        {
+            "id": "https://eslint.org/blog/2026/10/eslint-v10.12.0-released/",
+            "content_html": "HighlightsSupport for tokens and comments in SourceCodeRule authors often work with ESLint’s SourceCode object, which represents the JavaScript source code being linted. Its getText(), getLoc(), and getRange() methods have always accepted a node, token, or comment, but the documentation didn’t describe every argument type, and the type definitions rejected some valid calls, such as passing a comment.This release updates the documentation and type definitions to match the actual behavior. This al",
+            "url": "https://eslint.org/blog/2026/10/eslint-v10.12.0-released/",
+            "title": "ESLint v10.12.0 released | ESLint Blog",
+            "summary": "HighlightsSupport for tokens and comments in SourceCodeRule authors often work with ESLint’s SourceCode object, which represents the JavaScript source code being linted. Its getText(), getLoc(), and g",
+            "image": {
+                "url": "https://eslint.org/assets/images/blog-covers/release-notes-minor.png",
+                "alt": "ESLint v10.12.0 released",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T00:00:00.000Z",
+            "date_published": "2026-10-02T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "ESLint v10.12.0 released",
+                "blogTitle": "ESLint Blog",
+                "blogLink": "https://eslint.org/feed.xml",
+                "blogLinkMd5Hash": "b9e963552193f51c0094592cd3d72cb4",
+                "favicon": "https://eslint.org/favicon.ico"
+            }
+        },
+        {
+            "id": "https://pnpm.io/blog/releases/12.9.0",
+            "content_html": "This release runs pnpm in StackBlitz WebContainers, adds a per-registry networkConcurrency setting, and records every installed project in the store. It also carries a security fix for pnpm login.",
+            "url": "https://pnpm.io/blog/releases/12.9.0",
+            "title": "pnpm 12.9.0 | pnpm Blog",
+            "summary": "This release runs pnpm in StackBlitz WebContainers, adds a per-registry networkConcurrency setting, and records every installed project in the store. It also carries a security fix for pnpm login.",
+            "image": {
+                "url": "https://pnpm.io/img/ogimage.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T00:00:00.000Z",
+            "date_published": "2026-10-02T00:00:00.000Z",
+            "author": {
+                "name": "Zoltan Kochan"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "pnpm 12.9.0",
+                "blogTitle": "pnpm Blog",
+                "blogLink": "https://pnpm.io/blog",
+                "blogLinkMd5Hash": "ee683ee84b103511e83fb54df4a7fa3c",
+                "favicon": "https://pnpm.io/img/favicon.png"
+            }
+        },
+        {
+            "id": "https://www.mitsue.co.jp/seminar/user_understanding.html",
+            "content_html": "",
+            "url": "https://www.mitsue.co.jp/seminar/user_understanding.html",
+            "title": "セミナー：「人間×AI」によるこれからのユーザー理解（11月26日開催） | Mitsue-Links [ミツエーリンクス]",
+            "image": {
+                "url": "https://www.mitsue.co.jp/assets/img/og/seminar_user_understanding.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-02T00:00:00.000Z",
+            "date_published": "2026-10-02T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "セミナー：「人間×AI」によるこれからのユーザー理解（11月26日開催）",
+                "blogTitle": "Mitsue-Links [ミツエーリンクス]",
+                "blogLink": "http://www.mitsue.co.jp",
+                "blogLinkMd5Hash": "b5e6ec681b24b0c52c5b8284b76252bc"
+            }
+        },
+        {
+            "id": "https://eliocapella.com/blog/writing-code-by-hand-is-over/",
+            "content_html": "A personal reflection on giving up handwritten code, the guardrails making AI useful, and the possibility of a more visual way to build software.",
+            "url": "https://eliocapella.com/blog/writing-code-by-hand-is-over/",
+            "title": "Writing code by hand is over, forever | Elio Capella Sánchez's blog",
+            "summary": "A personal reflection on giving up handwritten code, the guardrails making AI useful, and the possibility of a more visual way to build software.",
+            "image": {
+                "url": "https://eliocapella.com/blog/writing-code-by-hand-is-over/teachers-protest-calculators-1986.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-01T22:00:00.000Z",
+            "date_published": "2026-10-01T22:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Writing code by hand is over, forever",
+                "blogTitle": "Elio Capella Sánchez's blog",
+                "blogLink": "https://eliocapella.com/",
+                "blogLinkMd5Hash": "2735e9818497f9b4ff5d0f32282579d7",
+                "favicon": "https://eliocapella.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.aikido.dev/blog/top-threat-intelligence-feeds",
+            "content_html": "We compare the top threat intelligence feeds in 2026: Aikido Intel, Socket Threat Feed, Snyk Security Database, OSV.dev, and Spectra Intelligence (ReversingLabs)Category: DevSec Tools &amp; Comparisons",
+            "url": "https://www.aikido.dev/blog/top-threat-intelligence-feeds",
+            "title": "Top threat intelligence feeds in 2026 | Aikido Security's Blog",
+            "summary": "We compare the top threat intelligence feeds in 2026: Aikido Intel, Socket Threat Feed, Snyk Security Database, OSV.dev, and Spectra Intelligence (ReversingLabs)Category: DevSec Tools &amp; Comparisons",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6abea81136a14c9596eed24e_OG_%5Bgeneric-seo-title%5D_16x9.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T18:48:00.000Z",
+            "date_published": "2026-10-01T18:48:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Top threat intelligence feeds in 2026",
+                "blogTitle": "Aikido Security's Blog",
+                "blogLink": "https://www.aikido.dev",
+                "blogLinkMd5Hash": "0c77fc38d005cda3e64903cf14f94346",
+                "favicon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6a44c0d59562153f7bd081ff_favicon.png"
+            }
+        },
+        {
+            "id": "https://shopify.engineering/shopgym",
+            "content_html": "ShopGym creates realistic online stores and generates shopping tasks based on each store’s products and features. Developers can then repeatedly test shopping agents under consistent conditions.",
+            "url": "https://shopify.engineering/shopgym",
+            "title": "ShopGym: Realistic, reproducible sandboxes for shopping agents | Shopify Engineering",
+            "summary": "ShopGym creates realistic online stores and generates shopping tasks based on each store’s products and features. Developers can then repeatedly test shopping agents under consistent conditions.",
+            "image": {
+                "url": "https://cdn.shopify.com/b/shopify-brochure2-assets/355a7cfb2ee03d45e38359d9e6f50441.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T16:23:24.000Z",
+            "date_published": "2026-10-01T16:23:24.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ShopGym: Realistic, reproducible sandboxes for shopping agents",
+                "blogTitle": "Shopify Engineering",
+                "blogLink": "https://shopify.engineering",
+                "blogLinkMd5Hash": "5984f6a64d96c33feb52e842605b4575",
+                "favicon": "https://cdn.shopify.com/shopifycloud/web/assets/v1/favicon-default-6cbad9de243dbae3.ico"
+            }
+        },
+        {
+            "id": "01M3TJPSZAN4TKGKX6HWSNQWEP",
+            "content_html": "We are introducing Clef and Clef-flash, open-source decision models hosted on Workers AI for high-speed classification and agentic workflows. Also launching: a new reinforcement learning platform that allows developers to fine-tune decision models using their own data.",
+            "url": "https://blog.cloudflare.com/clef-decision-models/",
+            "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform | Cloudflare Blog",
+            "summary": "We are introducing Clef and Clef-flash, open-source decision models hosted on Workers AI for high-speed classification and agentic workflows. Also launching: a new reinforcement learning platform that",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TJV43SPQCPKJ6GBXFCDKNE.01M3TJV53VYDMVNCZDPH1FBFYN.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T15:34:02.000Z",
+            "date_published": "2026-10-01T15:34:02.000Z",
+            "author": {
+                "name": "Michelle Chen"
+            },
+            "tags": [
+                "AI",
+                "Birthday Week",
+                "Developers",
+                "Machine Learning",
+                "Open Source",
+                "Workers AI"
+            ],
+            "_custom": {
+                "hatenaCount": 43,
+                "originalTitle": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://github.blog/?p=99192",
+            "content_html": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around.The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog.",
+            "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
+            "title": "10 technical talks I’m excited about at GitHub Universe 2026 | The GitHub Blog",
+            "summary": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around.The post 10 technical talks I’m excited about at GitHub Universe 2026 appeare",
+            "image": {
+                "height": "1260",
+                "type": "image/png",
+                "url": "https://github.blog/wp-content/uploads/2026/06/1200x630-U25-Blog-Hero_x2.png",
+                "width": "2400"
+            },
+            "date_modified": "2026-10-01T15:07:16.000Z",
+            "date_published": "2026-10-01T15:07:16.000Z",
+            "author": {
+                "name": "Andrea Griffiths"
+            },
+            "tags": [
+                "Company news",
+                "News &amp; insights",
+                "GitHub Universe"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "10 technical talks I’m excited about at GitHub Universe 2026",
+                "blogTitle": "The GitHub Blog",
+                "blogLink": "https://github.blog/",
+                "blogLinkMd5Hash": "f5d9dec3dc3bf03d9b3049b109e60a1d",
+                "favicon": "https://github.githubassets.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://blog.master.dev/?p=11273",
+            "content_html": "David Dias has been working on “Front-End Checklist” stuff for a decade, and it looks like this latest version of it a little over a year. There is loads of good general advice in it that can be easy to forget: Now it’s all AI’d up, which makes sense, having a skill and MCP so […]",
+            "url": "https://blog.master.dev/front-end-checklist/",
+            "title": "Front-End Checklist | Master.dev Blog RSS Feed",
+            "summary": "David Dias has been working on “Front-End Checklist” stuff for a decade, and it looks like this latest version of it a little over a year. There is loads of good general advice in it that can be easy ",
+            "image": {
+                "height": "630",
+                "url": "https://blog.master.dev/wp-json/social-image-generator/v1/image/11273",
+                "width": "1200"
+            },
+            "date_modified": "2026-10-01T14:23:22.000Z",
+            "date_published": "2026-10-01T14:23:22.000Z",
+            "author": {
+                "name": "Chris Coyier"
+            },
+            "tags": [
+                "The Beat",
+                "Accessibility",
+                "AI"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Front-End Checklist",
+                "blogTitle": "Master.dev Blog RSS Feed",
+                "blogLink": "https://blog.master.dev",
+                "blogLinkMd5Hash": "61b7f9099864eec938d5589848ac72da",
+                "favicon": "https://blog.master.dev/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "01M3TESBKM9T71XXXK1XMDP4PZ",
+            "content_html": "AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice.",
+            "url": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
+            "title": "One year later: Sovereign AI and the fight for choice | Cloudflare Blog",
+            "summary": "AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations gen",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TEWGD2XN0ZVTH90DVN0CNH.01M3TEWHMR490GTGD0H9QN3M80.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T13:04:19.000Z",
+            "date_published": "2026-10-01T13:04:19.000Z",
+            "author": {
+                "name": "Carly Ramsey"
+            },
+            "tags": [
+                "AI",
+                "Birthday Week",
+                "Open Source",
+                "Policy &amp; Legal",
+                "Security"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "One year later: Sovereign AI and the fight for choice",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "01M3VEGEH98DJT6FTGDT1MHP5M",
+            "content_html": "Workers KV Instant delivers sub-2ms p99 read latencies and 250ms global replication across Cloudflare’s 300+ edge locations. KV Instant eliminates cold-read penalties and uses the familiar Workers KV API.",
+            "url": "https://blog.cloudflare.com/workers-kv-instant/",
+            "title": "Introducing Workers KV Instant — powered by Quicksilver | Cloudflare Blog",
+            "summary": "Workers KV Instant delivers sub-2ms p99 read latencies and 250ms global replication across Cloudflare’s 300+ edge locations. KV Instant eliminates cold-read penalties and uses the familiar Workers KV ",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3VEK5CZPP518SSR4GMX7CJ0.01M3VEK5ZY7PD7P6Q6ZA4MGAGS.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T13:00:00.000Z",
+            "date_published": "2026-10-01T13:00:00.000Z",
+            "author": {
+                "name": "Rob Sutter"
+            },
+            "tags": [
+                "Birthday Week",
+                "Cloudflare Workers KV",
+                "Quicksilver",
+                "Storage"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Introducing Workers KV Instant — powered by Quicksilver",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "01M3T6X21KEDC6DH8GGSGV13HR",
+            "content_html": "Cloudflare OS gives everyone in your organization an agent workspace that knows how your company works and connects to its data and systems. We’re opening the waitlist for fully managed deployments that you’ll be able to launch in a few clicks.",
+            "url": "https://blog.cloudflare.com/managed-cloudflare-os/",
+            "title": "Cloudflare OS: your company’s agent workspace, managed for you | Cloudflare Blog",
+            "summary": "Cloudflare OS gives everyone in your organization an agent workspace that knows how your company works and connects to its data and systems. We’re opening the waitlist for fully managed deployments th",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3T6WVW670ZWD2BD8GHM680N.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T13:00:00.000Z",
+            "date_published": "2026-10-01T13:00:00.000Z",
+            "author": {
+                "name": "Phillip Jones"
+            },
+            "tags": [
+                "AI",
+                "Birthday Week",
+                "Cloudflare One",
+                "Developers",
+                "Open Source",
+                "Workers"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Cloudflare OS: your company’s agent workspace, managed for you",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "01M3SXWQS68A0MY0GS33S6DJQJ",
+            "content_html": "Cloudflare K2 is a serverless event streaming service built directly on top of R2 object storage for high-scale data movement and long-term retention. By decoupling producers and consumers at the edge, K2 enables durable, ordered log streams without the operational overhead of traditional broker clusters.",
+            "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+            "title": "Announcing Cloudflare K2: serverless event streams | Cloudflare Blog",
+            "summary": "Cloudflare K2 is a serverless event streaming service built directly on top of R2 object storage for high-scale data movement and long-term retention. By decoupling producers and consumers at the edge",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3SXWJMRR7ZENPNFNB5QZYPA.jpg",
+                "width": "1200",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-01T13:00:00.000Z",
+            "date_published": "2026-10-01T13:00:00.000Z",
+            "author": {
+                "name": "Micah Wylde"
+            },
+            "tags": [
+                "Birthday Week",
+                "Developer Platform",
+                "Product News",
+                "Serverless",
+                "Workers"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Announcing Cloudflare K2: serverless event streams",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "01M3SQCB0ZE7ZPK6M13HGY41T3",
+            "content_html": "Cloudflare is hosting a competition to see who will build the next Git platform for an era of AI agents. Artifacts is in open beta, with Workers bindings, data jurisdiction controls, and event subscriptions for repository changes.",
+            "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+            "title": "We want you to build the next Git platform on Cloudflare | Cloudflare Blog",
+            "summary": "Cloudflare is hosting a competition to see who will build the next Git platform for an era of AI agents. Artifacts is in open beta, with Workers bindings, data jurisdiction controls, and event subscri",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3VGEQ8Q6FVNPPSWW71YRRKT.01M3VGER1EC7W9TEZXNR3GGMK7.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T13:00:00.000Z",
+            "date_published": "2026-10-01T13:00:00.000Z",
+            "author": {
+                "name": "Dina Kozlov"
+            },
+            "tags": [
+                "Birthday Week",
+                "Developers",
+                "Workers"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "We want you to build the next Git platform on Cloudflare",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "01M3SPF7C022M529Q6GGNRYHHJ",
+            "content_html": "AI Search is now generally available. It embeds image pixels directly for visual search, runs optical character recognition on scanned PDFs, accepts files up to 10 MiB, and works with any chat model. Here's what's new and how pricing works.",
+            "url": "https://blog.cloudflare.com/ai-search-ga/",
+            "title": "AI Search is now generally available | Cloudflare Blog",
+            "summary": "AI Search is now generally available. It embeds image pixels directly for visual search, runs optical character recognition on scanned PDFs, accepts files up to 10 MiB, and works with any chat model. ",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3SPQ70XBZAYXE25E4E9551N.01M3SPQ7SEHVV38VNFVQ3ZG3MD.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T13:00:00.000Z",
+            "date_published": "2026-10-01T13:00:00.000Z",
+            "author": {
+                "name": "Gabriel Massadas"
+            },
+            "tags": [
+                "AI",
+                "AI Search",
+                "Birthday Week",
+                "Developer Platform",
+                "Developers",
+                "R2",
+                "Vectorize",
+                "Workers AI"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "AI Search is now generally available",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "01KYQH5JZFJAX4F7Z4J5171FGK",
+            "content_html": "Cloudflare Workers is adding opt-in support for post-quantum-resistant algorithms ML-KEM and ML-DSA. You can try it today.",
+            "url": "https://blog.cloudflare.com/workers-ml-kem-ml-dsa-support/",
+            "title": "Support for modern cryptographic algorithms in Workers | Cloudflare Blog",
+            "summary": "Cloudflare Workers is adding opt-in support for post-quantum-resistant algorithms ML-KEM and ML-DSA. You can try it today.",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01KYQH8YWDQ0GNPT2EZFMNTBV7.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T13:00:00.000Z",
+            "date_published": "2026-10-01T13:00:00.000Z",
+            "author": {
+                "name": "Thibault Meunier"
+            },
+            "tags": [
+                "Cloudflare Workers",
+                "Cryptography",
+                "Post-Quantum",
+                "Research"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Support for modern cryptographic algorithms in Workers",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://socket.dev/blog/capital-one-open-source-security",
+            "content_html": "Capital One is partnering with Socket to proactively secure its open source supply chain.",
+            "url": "https://socket.dev/blog/capital-one-open-source-security",
+            "title": "Securing the Financial Frontier: How Capital One Uses Socket for Open Source Security | Socket",
+            "summary": "Capital One is partnering with Socket to proactively secure its open source supply chain.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/cgdhsj6q/production/53c1d806089a55b8828186f1110fcd86398d785f-2400x1260.png?w=1000&q=95&fit=max&auto=format",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T12:58:10.329Z",
+            "date_published": "2026-10-01T12:58:10.329Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Securing the Financial Frontier: How Capital One Uses Socket for Open Source Security",
+                "blogTitle": "Socket",
+                "blogLink": "https://socket.dev/api/blog/feed.json",
+                "blogLinkMd5Hash": "1ad7c1f71e0aa48ea310910290f40d4a",
+                "favicon": "https://socket.dev/next-public-assets/favicon.ico"
+            }
+        },
+        {
+            "id": "01M3TBHQBCAF29FWFHNMHF9J6E",
+            "content_html": "Cloudflare Basin is built on Apache Iceberg and R2 Object Storage. With general availability, developers can ingest, manage, and query large datasets at scale without paying data egress fees.",
+            "url": "https://blog.cloudflare.com/cloudflare-basin/",
+            "title": "Introducing Cloudflare Basin: an open, serverless data platform, now generally available | Cloudflare Blog",
+            "summary": "Cloudflare Basin is built on Apache Iceberg and R2 Object Storage. With general availability, developers can ingest, manage, and query large datasets at scale without paying data egress fees.",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TBTECNN2CB5JQCJDGR2AWD.01M3TBTFNMD8XSXG134218KMQX.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T12:58:00.000Z",
+            "date_published": "2026-10-01T12:58:00.000Z",
+            "author": {
+                "name": "Marc Selwan"
+            },
+            "tags": [
+                "Birthday Week",
+                "Data Platform",
+                "Developers",
+                "Product News",
+                "R2",
+                "SQL"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Introducing Cloudflare Basin: an open, serverless data platform, now generally available",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.aikido.dev/blog/top-endpoint-security-tools",
+            "content_html": "Comparing the top endpoint security tools for developers in 2026. We look at Aikido Security, GitGuardian Developer Endpoint Protection, Koi Security, Socket, and CrowdStrike FalconCategory: DevSec Tools &amp; Comparisons",
+            "url": "https://www.aikido.dev/blog/top-endpoint-security-tools",
+            "title": "Top endpoint security tools for developers in 2026 | Aikido Security's Blog",
+            "summary": "Comparing the top endpoint security tools for developers in 2026. We look at Aikido Security, GitGuardian Developer Endpoint Protection, Koi Security, Socket, and CrowdStrike FalconCategory: DevSec To",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6abe5a331d4c7f50adb8f12b_OG_%5Bgeneric-seo-title%5D_16x9.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T12:40:00.000Z",
+            "date_published": "2026-10-01T12:40:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Top endpoint security tools for developers in 2026",
+                "blogTitle": "Aikido Security's Blog",
+                "blogLink": "https://www.aikido.dev",
+                "blogLinkMd5Hash": "0c77fc38d005cda3e64903cf14f94346",
+                "favicon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6a44c0d59562153f7bd081ff_favicon.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/speed-insights-deprecates-first-input-delay-on-november-first",
+            "content_html": "is deprecating First Input Delay (FID) and will stop recording new measurements on November 1st.Speed InsightsSpeed Insights already uses , the Core Web Vital that replaced FID, as the responsiveness metric in your . The deprecation won’t require changes on your side, affect your score, or prevent you from viewing existing FID data.Interaction to Next Paint (INP)Real Experience ScoreLearn more in the .Speed Insights metrics documentationRead more",
+            "url": "https://vercel.com/changelog/speed-insights-deprecates-first-input-delay-on-november-first",
+            "title": "Speed Insights deprecates First Input Delay on November 1st | Vercel News",
+            "summary": "is deprecating First Input Delay (FID) and will stop recording new measurements on November 1st.Speed InsightsSpeed Insights already uses , the Core Web Vital that replaced FID, as the responsiveness ",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7Gn5tQYCYMxfRkqAdMR19N/2f5b14e565f7332aaaff539ed3996333/speed-insights-deprecates-first-input-delay-on-november-1st_1_.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T12:39:14.942Z",
+            "date_published": "2026-10-01T12:39:14.942Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Speed Insights deprecates First Input Delay on November 1st",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://charpeni.com/blog/enforcing-best-practices-with-jev-as-a-linter",
+            "content_html": "Agents write most of our code now, and they respond to checks far more reliably than to documents. I turned a best practice written in plain English into a lint rule with Jev and Oxlint, annotated inline in GitHub pull requests.",
+            "url": "https://charpeni.com/blog/enforcing-best-practices-with-jev-as-a-linter",
+            "title": "Enforcing Best Practices with Jev as a Linter | Nicolas Charpentier's Blog",
+            "summary": "Agents write most of our code now, and they respond to checks far more reliably than to documents. I turned a best practice written in plain English into a lint rule with Jev and Oxlint, annotated inl",
+            "image": {
+                "height": "630",
+                "url": "https://charpeni.com/static/images/enforcing-best-practices-with-jev-as-a-linter/og.png",
+                "width": "1200",
+                "alt": "Enforcing Best Practices with Jev as a Linter | Nicolas Charpentier",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T12:00:00.000Z",
+            "date_published": "2026-10-01T12:00:00.000Z",
+            "author": {
+                "name": "Nicolas Charpentier"
+            },
+            "tags": [
+                "ai",
+                "oxlint",
+                "code-review",
+                "tooling",
+                "github-actions"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Enforcing Best Practices with Jev as a Linter",
+                "blogTitle": "Nicolas Charpentier's Blog",
+                "blogLink": "https://charpeni.com",
+                "blogLinkMd5Hash": "01863ca5e9b99a1d41dd9cc0cf5fbef9",
+                "favicon": "https://charpeni.com/static/favicons/favicon.ico"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+            "content_html": " &lt;blockquote cite=\"https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/\"&gt;&lt;p&gt;[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for each other in a shared package cache, and those instructions changed what the recipients did. Replace the package cache ",
+            "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+            "title": "Quoting Matthew Green | Simon Willison's Weblog",
+            "summary": " &lt;blockquote cite=\"https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/\"&gt;&lt;p&gt;[...] Put these pieces together and you have the two halves of a worm: a pa",
+            "date_modified": "2026-10-01T06:29:01.000Z",
+            "date_published": "2026-10-01T06:29:01.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Quoting Matthew Green",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://socket.dev/blog/insecure-agents-security-controls",
+            "content_html": "Socket CTO Ahmad Nassri discusses how to keep AI agents from bypassing package blocks, limit credential access, and monitor their actions.",
+            "url": "https://socket.dev/blog/insecure-agents-security-controls",
+            "title": "Insecure Agents Podcast: How to Keep AI Agents From Bypassing Security Controls | Socket",
+            "summary": "Socket CTO Ahmad Nassri discusses how to keep AI agents from bypassing package blocks, limit credential access, and monitor their actions.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/cgdhsj6q/production/6a539d00744049a75f798509578b5bb8a732fc55-1982x1114.png?w=1000&q=95&fit=max&auto=format",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T03:38:06.796Z",
+            "date_published": "2026-10-01T03:38:06.796Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Insecure Agents Podcast: How to Keep AI Agents From Bypassing Security Controls",
+                "blogTitle": "Socket",
+                "blogLink": "https://socket.dev/api/blog/feed.json",
+                "blogLinkMd5Hash": "1ad7c1f71e0aa48ea310910290f40d4a",
+                "favicon": "https://socket.dev/next-public-assets/favicon.ico"
+            }
+        },
+        {
+            "id": "https://preactjs.com/blog/website-redesign-competition",
+            "content_html": "To celebrate the release of Preact 11, we're hosting a design competition for the Preact website!",
+            "url": "https://preactjs.com/blog/website-redesign-competition",
+            "title": "Preact Website Design Competition | Preact Blog",
+            "summary": "To celebrate the release of Preact 11, we're hosting a design competition for the Preact website!",
+            "image": {
+                "url": "https://preactjs.com/app-icon.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T00:00:00.000Z",
+            "date_published": "2026-10-01T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Preact Website Design Competition",
+                "blogTitle": "Preact Blog",
+                "blogLink": "https://preactjs.com",
+                "blogLinkMd5Hash": "8966de9ddef8b6911f83baeb86610da7",
+                "favicon": "https://preactjs.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://svelte.dev/blog/whats-new-in-svelte-october-2026",
+            "content_html": "SvelteKit 3 is here! Check out the announcement post for the highlights, then run sv migrate to handle most of the upgrade for you. sv itself hit 1.0 on the same day, making the community add-on API official. Below you’ll find the last round of changes that landed before 3.0 - adapter API updates, zero-config deploys to Render and a few final breaking changes.Svelte Summit is also back for Svelte’s 10th birthday! It’s happening in Ljubljana on November 19-20 with talks from Rich Harris, Elliott ",
+            "url": "https://svelte.dev/blog/whats-new-in-svelte-october-2026",
+            "title": "What’s new in Svelte: October 2026 | Svelte blog",
+            "summary": "SvelteKit 3 is here! Check out the announcement post for the highlights, then run sv migrate to handle most of the upgrade for you. sv itself hit 1.0 on the same day, making the community add-on API o",
+            "image": {
+                "url": "https://svelte.dev/blog/whats-new-in-svelte-october-2026/card.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T00:00:00.000Z",
+            "date_published": "2026-10-01T00:00:00.000Z",
+            "author": {
+                "name": "Dani Sandoval"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "What’s new in Svelte: October 2026",
+                "blogTitle": "Svelte blog",
+                "blogLink": "https://svelte.dev/blog",
+                "blogLinkMd5Hash": "cd1810ebbb144490d5c40bd9762de117",
+                "favicon": "https://svelte.dev/favicon.png"
+            }
+        },
+        {
+            "id": "https://svelte.dev/blog/sveltekit-3-is-here",
+            "content_html": "Version 3.0 of SvelteKit, the official application framework for Svelte, is now available.If you’ve used earlier versions of SvelteKit, everything will feel very familiar — it’s the same framework with a little more polish, a little more type safety, and a little less junk. We’ve made migration as seamless as we can with the sv migrate command...npx sv migrate sveltekit-3 --tasks all --confirm...which will automatically migrate as much of your codebase as possible, and generate a TODO list for e",
+            "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+            "title": "SvelteKit 3 is here | Svelte blog",
+            "summary": "Version 3.0 of SvelteKit, the official application framework for Svelte, is now available.If you’ve used earlier versions of SvelteKit, everything will feel very familiar — it’s the same framework wit",
+            "image": {
+                "url": "https://svelte.dev/blog/sveltekit-3-is-here/card.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T00:00:00.000Z",
+            "date_published": "2026-10-01T00:00:00.000Z",
+            "author": {
+                "name": "The Svelte team"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "SvelteKit 3 is here",
+                "blogTitle": "Svelte blog",
+                "blogLink": "https://svelte.dev/blog",
+                "blogLinkMd5Hash": "cd1810ebbb144490d5c40bd9762de117",
+                "favicon": "https://svelte.dev/favicon.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/laya-decision-model-now-available-on-ai-gateway-free-through-october-31",
+            "content_html": "is free to use on for 1 month through October 31, 2026 via .Laya from Convai InnovationsAI GatewayBoundlessLaya is an evaluation/decision model that evaluates shared context against yes/no, choice, or scoring questions and returns structured answers with probabilities. For example, use it to:You can call Laya through the , the , or the with or :AI SDK evaluation APInative HTTP APITypeSafe-compatible APIconvaiinnovations/layaconvaiinnovations/laya-freeThrough October 31, 2026, both and are free w",
+            "url": "https://vercel.com/changelog/laya-decision-model-now-available-on-ai-gateway-free-through-october-31",
+            "title": "Laya decision model now available on AI Gateway, free through October 31 | Vercel News",
+            "summary": "is free to use on for 1 month through October 31, 2026 via .Laya from Convai InnovationsAI GatewayBoundlessLaya is an evaluation/decision model that evaluates shared context against yes/no, choice, or",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5nXadUj1D26GUUGnaiPxfv/c8ccba919e75d944a9fa2da75b582756/image.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T00:00:00.000Z",
+            "date_published": "2026-10-01T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Laya decision model now available on AI Gateway, free through October 31",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/microsoft-ai-models-are-now-available-on-ai-gateway",
+            "content_html": "Vercel and Microsoft AI (MAI) have partnered to make MAI models available on AI Gateway. AI Gateway is one of a limited number of platforms offering access to MAI models. MAI's focus on security and zero data retention (ZDR) align with Vercel's goal of giving AI Gateway users control over their data and transparency in how it is used for training. are now supported on AI Gateway. MAI-Voice-2.1 and MAI-Voice-2.1-Flash generate speech, while MAI-Transcribe-2 Streaming returns transcript updates as",
+            "url": "https://vercel.com/changelog/microsoft-ai-models-are-now-available-on-ai-gateway",
+            "title": "Microsoft AI models are now available on AI Gateway | Vercel News",
+            "summary": "Vercel and Microsoft AI (MAI) have partnered to make MAI models available on AI Gateway. AI Gateway is one of a limited number of platforms offering access to MAI models. MAI's focus on security and z",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4VUQPah80J1WYBwplwXQjh/341d68a8100d89550907348d511d49db/image__111_.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T00:00:00.000Z",
+            "date_published": "2026-10-01T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Microsoft AI models are now available on AI Gateway",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/vercel-agent-now-installs-private-packages-from-npm-and-custom-registries",
+            "content_html": "Vercel Agent can install private dependencies from npm and custom registries using credentials stored as shared environment variables on Vercel. , , and classic Yarn running in Agent sessions authenticate as they do in Vercel builds.npmpnpmTo get started, add a for Development or Preview:shared environment variableVercel Agent reads only team-shared variables, not project-scoped ones. Credential values stay outside the sandbox, so the agent cannot read them.Learn more in the .private dependencie",
+            "url": "https://vercel.com/changelog/vercel-agent-now-installs-private-packages-from-npm-and-custom-registries",
+            "title": "Vercel Agent now installs private packages from npm and custom registries | Vercel News",
+            "summary": "Vercel Agent can install private dependencies from npm and custom registries using credentials stored as shared environment variables on Vercel. , , and classic Yarn running in Agent sessions authenti",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/51AkvmukWt34TIFhJ3XTdX/d5b58e4e05bbcc635816d8658d54617e/image__41_.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T23:22:00.000Z",
+            "date_published": "2026-09-30T23:22:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Vercel Agent now installs private packages from npm and custom registries",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
+            "content_html": " &lt;p&gt;I visited the Museum of the City of New York today and got to see &lt;a href=\"https://www.mcny.org/exhibition/he-built-city\"&gt;He Built This City: Joe Macken’s Model&lt;/a&gt;, the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard.&lt;/p&gt;&lt;p&gt;It exceeded my already high expectations. The exhibition closes on 12th October so you should absolutely make a priority to see it if you get the chance.&lt;/p&gt;&lt;p&gt;&lt;video src=\"https://static.simonwillison.net/static/2026-10-01/He-built",
+            "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
+            "title": "He Built This City | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;I visited the Museum of the City of New York today and got to see &lt;a href=\"https://www.mcny.org/exhibition/he-built-city\"&gt;He Built This City: Joe Macken’s Model&lt;/a&gt;, the 50 x27 feet model of the c",
+            "date_modified": "2026-09-30T21:54:19.000Z",
+            "date_published": "2026-09-30T21:54:19.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "He Built This City",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/ai-gateway-adds-browserbase-search-and-fetch-tools",
+            "content_html": "are now available through . Give your models access to current information, find relevant pages, and retrieve their contents, alongside Browserbase's existing AI SDK and Vercel Marketplace integrations.Browserbase Search and FetchAI GatewayAI Gateway lets you use Browserbase's tools across model providers with one API key. Add web search and page retrieval to any model that supports tool calling, and keep the same tools when you switch models.These helpers are available in AI SDK 7.0.116 and lat",
+            "url": "https://vercel.com/changelog/ai-gateway-adds-browserbase-search-and-fetch-tools",
+            "title": "AI Gateway adds Browserbase Search and Fetch tools | Vercel News",
+            "summary": "are now available through . Give your models access to current information, find relevant pages, and retrieve their contents, alongside Browserbase's existing AI SDK and Vercel Marketplace integration",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/54153N4Mc5l8x9jOlPSzAu/25964dac0e5366f33e050d1a16dae29f/image.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T21:00:00.000Z",
+            "date_published": "2026-09-30T21:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AI Gateway adds Browserbase Search and Fetch tools",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/edge-requests-are-now-called-cdn-requests",
+            "content_html": "CDN Requests is now the name for the usage metric previously called Edge Requests. This is a naming change only: pricing, limits, and how usage is measured are all unchanged.The new name appears on the usage dashboard, the Observability Events chart, usage notifications, and invoice line items. It reflects that these are requests served by Vercel's CDN. Metric IDs and product aliases are unchanged, so saved queries keep working. In the billing charges API, now returns the new name. Integrations ",
+            "url": "https://vercel.com/changelog/edge-requests-are-now-called-cdn-requests",
+            "title": "Edge Requests are now called CDN Requests | Vercel News",
+            "summary": "CDN Requests is now the name for the usage metric previously called Edge Requests. This is a naming change only: pricing, limits, and how usage is measured are all unchanged.The new name appears on th",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3O4tjuloeXmrBxpbCaEgHn/b7f2422bd77ce541153e00e2e23cde05/image__42_.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T20:00:00.000Z",
+            "date_published": "2026-09-30T20:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Edge Requests are now called CDN Requests",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://www.stepsecurity.io/blog/sckit-supply-chain-worm-hits-memtensor-npm-pypi-scopes",
+            "content_html": "Compromised MemTensor npm releases turn an AI memory plugin into a credential-harvesting entry point, exposing prompts and creating a path to further package compromise.",
+            "url": "https://www.stepsecurity.io/blog/sckit-supply-chain-worm-hits-memtensor-npm-pypi-scopes",
+            "title": "Sckit Supply Chain Worm Hits MemTensor npm &amp; PyPi scopes | Step Security Blog",
+            "summary": "Compromised MemTensor npm releases turn an AI memory plugin into a credential-harvesting entry point, exposing prompts and creating a path to further package compromise.",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bf8/6ab3c64d19ec77c366bdfd7c_SCR-20260923-ptgg.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T16:52:36.000Z",
+            "date_published": "2026-09-30T16:52:36.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Sckit Supply Chain Worm Hits MemTensor npm &amp; PyPi scopes",
+                "blogTitle": "Step Security Blog",
+                "blogLink": "https://www.stepsecurity.io",
+                "blogLinkMd5Hash": "24b853cd91d5977a9af3395b8ae81579",
+                "favicon": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bc5/675212a565f0987a0779a91f_stesecurity-favicon.png"
+            }
+        },
+        {
+            "id": "https://blog.master.dev/?p=11201",
+            "content_html": "Text that is set in a left-to-right *and* right-to-left language, mid-sentence, is a thing. Getting it right means understanding it, because your LLM isn't going to know.",
+            "url": "https://blog.master.dev/you-dont-know-bidi-and-neither-does-chatgpt/",
+            "title": "You Don’t Know Bidi (And Neither Does ChatGPT) | Master.dev Blog RSS Feed",
+            "summary": "Text that is set in a left-to-right *and* right-to-left language, mid-sentence, is a thing. Getting it right means understanding it, because your LLM isn't going to know.",
+            "image": {
+                "height": "630",
+                "url": "https://blog.master.dev/wp-json/social-image-generator/v1/image/11201",
+                "width": "1200"
+            },
+            "date_modified": "2026-09-30T16:38:59.000Z",
+            "date_published": "2026-09-30T16:38:59.000Z",
+            "author": {
+                "name": "Mojtaba Seyedi"
+            },
+            "tags": [
+                "Blog Post",
+                "bidi",
+                "CSS",
+                "Typography"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "You Don’t Know Bidi (And Neither Does ChatGPT)",
+                "blogTitle": "Master.dev Blog RSS Feed",
+                "blogLink": "https://blog.master.dev",
+                "blogLinkMd5Hash": "61b7f9099864eec938d5589848ac72da",
+                "favicon": "https://blog.master.dev/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://ics.media/entry/261001/",
+            "content_html": "記事は ics.media へアクセスしてご覧ください。",
+            "url": "https://ics.media/entry/261001/",
+            "title": "CSSのrandom()関数でつくる、不規則なデザイン表現 | ICS MEDIA",
+            "summary": "記事は ics.media へアクセスしてご覧ください。",
+            "image": {
+                "url": "https://ics.media/entry/261001/images/eyecatch.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-30T15:00:00.000Z",
+            "date_published": "2026-09-30T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 41,
+                "originalTitle": "CSSのrandom()関数でつくる、不規則なデザイン表現",
+                "blogTitle": "ICS MEDIA",
+                "blogLink": "https://ics.media/",
+                "blogLinkMd5Hash": "5613f1ce3f92c963b186e9de484adb40",
+                "favicon": "https://ics.media/_assets/icons/favicon.png"
+            }
+        },
+        {
+            "id": "https://blog.nginx.org/?p=75257",
+            "content_html": "NGINX Ingress Controller turns Kubernetes resources into NGINX configuration. Many of those inputs are free-form text: snippet annotations on Ingresses, snippets on VirtualServers, and in the global ConfigMap. A typo in any of them can produce configuration that NGINX refuses to load. Config safety makes sure such a mistake stays with the resource that introduced it. Configuration […]",
+            "url": "https://blog.nginx.org/blog/how-config-safety-protects-nginx-ingress-controller-from-invalid-configuration",
+            "title": "How Config Safety Protects NGINX Ingress Controller from Invalid Configuration | NGINX Community Blog",
+            "summary": "NGINX Ingress Controller turns Kubernetes resources into NGINX configuration. Many of those inputs are free-form text: snippet annotations on Ingresses, snippets on VirtualServers, and in the global C",
+            "image": {
+                "url": "https://blog.nginx.org/wp-content/uploads/2026/09/image_1790694806169020.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T13:34:00.000Z",
+            "date_published": "2026-09-30T13:34:00.000Z",
+            "author": {
+                "name": "Marko Sluga"
+            },
+            "tags": [
+                "Kubernetes",
+                "Security"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "How Config Safety Protects NGINX Ingress Controller from Invalid Configuration",
+                "blogTitle": "NGINX Community Blog",
+                "blogLink": "https://blog.nginx.org",
+                "blogLinkMd5Hash": "832a98a304298b762b7c232f82df6dcf",
+                "favicon": "https://blog.nginx.org/wp-content/uploads/2024/05/cropped-NGINX-product-square-2-32x32.png"
+            }
+        },
+        {
+            "id": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
+            "content_html": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
+            "url": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
+            "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition) | Articles on Smashing Magazine — For Web Designers And Developers",
+            "summary": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creat",
+            "image": {
+                "url": "https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T13:30:00.000Z",
+            "date_published": "2026-09-30T13:30:00.000Z",
+            "author": {
+                "name": "hello@smashingmagazine.com (Cosima Mielke)"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
+                "blogTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+                "blogLink": "https://www.smashingmagazine.com/",
+                "blogLinkMd5Hash": "af6aa6a81ad9adc77e3f2e79aba7ce4f",
+                "favicon": "https://smashingmagazine.com/images/favicon/favicon.ico"
+            }
+        },
+        {
+            "id": "01M3RVQ97H21055GVJRNRSNH97",
+            "content_html": "This week, Cloudflare's Impact programs will reach $100 million in donated services. This milestone means that thousands of entities including journalists, civil society, state and local governments, election management bodies, and public schools are being protected from cyberattacks.",
+            "url": "https://blog.cloudflare.com/100-million-donations/",
+            "title": "Cloudflare Impact reaches $100 million in donations | Cloudflare Blog",
+            "summary": "This week, Cloudflare's Impact programs will reach $100 million in donated services. This milestone means that thousands of entities including journalists, civil society, state and local governments, ",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3S08BBW9EP1RFAQJ6HRASF7.01M3S08CF6HNXBNCKTG0FAMRWK.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T13:01:55.000Z",
+            "date_published": "2026-09-30T13:01:55.000Z",
+            "author": {
+                "name": "Patrick Day"
+            },
+            "tags": [
+                "Birthday Week",
+                "Impact",
+                "Project Galileo"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Cloudflare Impact reaches $100 million in donations",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://evanhahn.com/notes-from-september-2026/",
+            "content_html": "If you follow my monthly roundups, (1) who are you?? please say hi (2) you’ll notice a smaller post this time. September was a busy month for me.Lots of feedback on a small postI published “Anecdotally, programmers dislike ‘reduce’”. I finally wrote up a phenomenon I’ve observed for years. It’s a short post that didn’t take long to write.I got a tremendous volume of feedback—more than anything I’ve ever written. Dozens of messages, hundreds of comments, shoutouts in popular newsletters…I’m even ",
+            "url": "https://evanhahn.com/notes-from-september-2026/",
+            "title": "Notes from September 2026 | Evan Hahn (dot com)",
+            "summary": "If you follow my monthly roundups, (1) who are you?? please say hi (2) you’ll notice a smaller post this time. September was a busy month for me.Lots of feedback on a small postI published “Anecdotall",
+            "date_modified": "2026-09-30T06:00:00.000Z",
+            "date_published": "2026-09-30T06:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Notes from September 2026",
+                "blogTitle": "Evan Hahn (dot com)",
+                "blogLink": "https://evanhahn.com/blog/",
+                "blogLinkMd5Hash": "47adc829d74ec34ab7209c805a3e728f"
+            }
+        },
+        {
+            "id": "https://socket.dev/blog/astra-supply-chain-attacks",
+            "content_html": "GPT-6 Astra tried to plant malicious code in simulated open source projects using fake GitHub accounts and deceptive PRs during an assigned CTF challenge.",
+            "url": "https://socket.dev/blog/astra-supply-chain-attacks",
+            "title": "New AISI Report Details How GPT-6 Astra Turned CTF Challenges Into Supply Chain Attacks | Socket",
+            "summary": "GPT-6 Astra tried to plant malicious code in simulated open source projects using fake GitHub accounts and deceptive PRs during an assigned CTF challenge.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/cgdhsj6q/production/297693ba6c7abf3e68217964d60e473d786eb446-1672x941.png?w=1000&q=95&fit=max&auto=format",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T04:50:04.498Z",
+            "date_published": "2026-09-30T04:50:04.498Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "New AISI Report Details How GPT-6 Astra Turned CTF Challenges Into Supply Chain Attacks",
+                "blogTitle": "Socket",
+                "blogLink": "https://socket.dev/api/blog/feed.json",
+                "blogLinkMd5Hash": "1ad7c1f71e0aa48ea310910290f40d4a",
+                "favicon": "https://socket.dev/next-public-assets/favicon.ico"
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20260930b",
+            "content_html": "こんにちは。LINEヤフーで、プライベートクラウドのネットワーク関連サービスを開発している清水です。現代の大規模なWebサービスにおいては、一つのモノリシックなアプリケーションだけで構成されることは少...",
+            "url": "https://techblog.lycorp.co.jp/ja/20260930b",
+            "title": "プライベートクラウドにおけるサービス間通信の今、そして「サービス指向クラウド」が作る未来 | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "こんにちは。LINEヤフーで、プライベートクラウドのネットワーク関連サービスを開発している清水です。現代の大規模なWebサービスにおいては、一つのモノリシックなアプリケーションだけで構成されることは少...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/b9f60f928cddc82d3bc71063c99d5408/7d66e/9fae474910784b819fc067c2373af38e.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T02:00:00.000Z",
+            "date_published": "2026-09-30T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "プライベートクラウドにおけるサービス間通信の今、そして「サービス指向クラウド」が作る未来",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632"
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20260930a",
+            "content_html": "こんにちは、LINEヤフー株式会社の殿山雄大です。普段は社内のGPU/AI基盤の構築・運用を担当しています。本記事では、2026年7月16日（木）に開催した社内ワークショップOrchestration...",
+            "url": "https://techblog.lycorp.co.jp/ja/20260930a",
+            "title": "個人で育てたAIエージェント設定を、チームの資産にする（APMによるSkill・指示・MCPの配布とマルチエディタ展開） | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "こんにちは、LINEヤフー株式会社の殿山雄大です。普段は社内のGPU/AI基盤の構築・運用を担当しています。本記事では、2026年7月16日（木）に開催した社内ワークショップOrchestration...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/9c15cd9bbfe64e93182af21d3d07e660/7d66e/c79dab860ff0463e99c1dcbcb449ca78.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T02:00:00.000Z",
+            "date_published": "2026-09-30T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "個人で育てたAIエージェント設定を、チームの資産にする（APMによるSkill・指示・MCPの配布とマルチエディタ展開）",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632"
+            }
+        },
+        {
+            "id": "https://developers.prtimes.com/?p=10446",
+            "content_html": "こんにちは。PR TIMESでインターンをしている河野拓真です。 今回、Amazon RDS for PostgreSQLにpgAuditを導入し、監査ログを取得できるようにしました。 PostgreSQLの標準ログでも […]",
+            "url": "https://developers.prtimes.com/2026/09/30/amazon-rds-for-postgresql-pgaudit/",
+            "title": "Amazon RDS for PostgreSQLにpgAuditを導入し、監査ログで事後調査に備える | PR TIMES 開発者ブログ",
+            "summary": "こんにちは。PR TIMESでインターンをしている河野拓真です。 今回、Amazon RDS for PostgreSQLにpgAuditを導入し、監査ログを取得できるようにしました。 PostgreSQLの標準ログでも […]",
+            "image": {
+                "height": "1260",
+                "url": "https://developers.prtimes.com/wp-content/uploads/2026/09/Tech系テンプレ01-1-1.png",
+                "width": "2240",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T01:00:00.000Z",
+            "date_published": "2026-09-30T01:00:00.000Z",
+            "author": {
+                "name": "河野拓真"
+            },
+            "tags": [
+                "インフラ",
+                "プロダクト",
+                "開発",
+                "AWS",
+                "pgAudit",
+                "RDS"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Amazon RDS for PostgreSQLにpgAuditを導入し、監査ログで事後調査に備える",
+                "blogTitle": "PR TIMES 開発者ブログ",
+                "blogLink": "https://developers.prtimes.com",
+                "blogLinkMd5Hash": "7fe99f6693d45838e8641b892c708d37",
+                "favicon": "https://developers.prtimes.com/wp-content/uploads/2021/04/logo_square-150x150.png?crop=1"
+            }
+        },
+        {
+            "id": "https://astro.build/blog/whats-new-september-2026/",
+            "content_html": "September 2026 - Astro Germany, Evil Martians migration story, and more!",
+            "url": "https://astro.build/blog/whats-new-september-2026/",
+            "title": "What's new in Astro - September 2026 | The Astro Blog",
+            "summary": "September 2026 - Astro Germany, Evil Martians migration story, and more!",
+            "image": {
+                "url": "https://astro.build/_astro/og.Bag9CK8m.webp",
+                "alt": "What's new in Astro - September 2026",
+                "type": "webp"
+            },
+            "date_modified": "2026-09-30T00:00:00.000Z",
+            "date_published": "2026-09-30T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "What's new in Astro - September 2026",
+                "blogTitle": "The Astro Blog",
+                "blogLink": "https://astro.build/",
+                "blogLinkMd5Hash": "e8e8dd8e7f96ccbcfb57767d55bc8996",
+                "favicon": "https://astro.build/favicon.svg"
+            }
+        },
+        {
+            "id": "https://evilmartians.com/chronicles/sf-ruby-conference-regular-ticket-deadline",
+            "content_html": "Regular SF Ruby Conference tickets are $450 through September 30. Meet Ruby friends, play The Pier, join small-group conversations, and explore the 2026 program in San Francisco.",
+            "url": "https://evilmartians.com/chronicles/sf-ruby-conference-regular-ticket-deadline",
+            "title": "SF Ruby Conference: regular ticket prices end September 30 | Evil Martians",
+            "summary": "Regular SF Ruby Conference tickets are $450 through September 30. Meet Ruby friends, play The Pier, join small-group conversations, and explore the 2026 program in San Francisco.",
+            "image": {
+                "url": "https://evilmartians.com/social-cards/chronicles/sf-ruby-conference-regular-ticket-deadline.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-30T00:00:00.000Z",
+            "date_published": "2026-09-30T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "SF Ruby Conference: regular ticket prices end September 30",
+                "blogTitle": "Evil Martians",
+                "blogLink": "https://evilmartians.com/chronicles",
+                "blogLinkMd5Hash": "53d7ea73bf73cd9930fe093343086722",
+                "favicon": "https://evilmartians.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://pnpm.io/blog/releases/12.8.2",
+            "content_html": "pnpm 12.8.2 fixes a startup crash on Linux ppc64le and UnknownIssuer errors on systems without CA certificates. pnpm run no longer installs before every script on CI when autoDedupe is enabled, and resolution and hoisted installs on macOS are faster.",
+            "url": "https://pnpm.io/blog/releases/12.8.2",
+            "title": "pnpm 12.8.2 | pnpm Blog",
+            "summary": "pnpm 12.8.2 fixes a startup crash on Linux ppc64le and UnknownIssuer errors on systems without CA certificates. pnpm run no longer installs before every script on CI when autoDedupe is enabled, and re",
+            "image": {
+                "url": "https://pnpm.io/img/ogimage.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T00:00:00.000Z",
+            "date_published": "2026-09-30T00:00:00.000Z",
+            "author": {
+                "name": "Zoltan Kochan"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "pnpm 12.8.2",
+                "blogTitle": "pnpm Blog",
+                "blogLink": "https://pnpm.io/blog",
+                "blogLinkMd5Hash": "ee683ee84b103511e83fb54df4a7fa3c",
+                "favicon": "https://pnpm.io/img/favicon.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/vercel-sandbox-now-supports-secure-compute",
+            "content_html": "Vercel Sandbox now supports , connecting sandboxes to a team's dedicated network. Public-internet traffic exits through the network's static IPs, and sandboxes can reach private resources in an AWS VPC through VPC peering.Secure ComputeYou can attach a sandbox to your network in your code or via the CLI. In your code, pass an existing Secure Compute network ID when creating a sandbox:In the CLI, append and your network id value when you run the sandbox create command.--network-idExisting sandbox",
+            "url": "https://vercel.com/changelog/vercel-sandbox-now-supports-secure-compute",
+            "title": "Vercel Sandbox now supports Secure Compute | Vercel News",
+            "summary": "Vercel Sandbox now supports , connecting sandboxes to a team's dedicated network. Public-internet traffic exits through the network's static IPs, and sandboxes can reach private resources in an AWS VP",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4lznKuDNjxyc6ZldadloKw/f34639bb273a017bacb5a8b21d0503d2/image__2_.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T00:00:00.000Z",
+            "date_published": "2026-09-30T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Vercel Sandbox now supports Secure Compute",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/ling-3-1-flash-is-now-available-on-ai-gateway",
+            "content_html": "from InclusionAI is now available on AI Gateway. The model is free to use through October 13, 2026.Ling 3.1 FlashLing 3.1 Flash is a hybrid reasoning language model with 560B total parameters and 25B active per token. It has a 262K-token context window on AI Gateway.The model is designed for coding, multi-step analysis, and agents that use tools, including workflows involving long documents, code, and extended task histories.To try Ling 3.1 Flash, use or as the model name:inclusionai/ling-3.1-fl",
+            "url": "https://vercel.com/changelog/ling-3-1-flash-is-now-available-on-ai-gateway",
+            "title": "Ling 3.1 Flash is now available on AI Gateway | Vercel News",
+            "summary": "from InclusionAI is now available on AI Gateway. The model is free to use through October 13, 2026.Ling 3.1 FlashLing 3.1 Flash is a hybrid reasoning language model with 560B total parameters and 25B ",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5P96Goh9cE4twnHsrz63Rz/e97e41e40a8d533c9c7b213d12783de5/image__77_.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T00:00:00.000Z",
+            "date_published": "2026-09-30T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Ling 3.1 Flash is now available on AI Gateway",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/vary-cookie-responses-no-longer-cached",
+            "content_html": "Vercel CDN no longer caches origin responses when includes . VaryCookie tells a cache which request headers may change the response. Because cookies often contain visitor-specific values, varying by can create many cache entries that are rarely reused. The response is still served normally but isn't stored for future requests.VaryCookieYou can identify these responses by checking the header and . The header is set to , and Logs show as the cache reason.x-vercel-cacheMISSvary_key_denied:cookieRun",
+            "url": "https://vercel.com/changelog/vary-cookie-responses-no-longer-cached",
+            "title": "Vercel CDN no longer caches responses with Vary: Cookie | Vercel News",
+            "summary": "Vercel CDN no longer caches origin responses when includes . VaryCookie tells a cache which request headers may change the response. Because cookies often contain visitor-specific values, varying by c",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/34QeOsToUO2hgLNCNa4IHR/f55ed126a90494354a7c34f6e3d209b6/vercel_cdn_vary_cookie_og.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T00:00:00.000Z",
+            "date_published": "2026-09-30T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Vercel CDN no longer caches responses with Vary: Cookie",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+            "content_html": "A look at the history of visual changes to example.com.",
+            "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+            "title": "Example.com Just Launched The Biggest Redesign In Decades | DebugBear Blog",
+            "summary": "A look at the history of visual changes to example.com.",
+            "image": {
+                "url": "https://www.debugbear.com/dimg/1f8c2ab20c69e5a4a3fb996aebed6b0d.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T00:00:00.000Z",
+            "date_published": "2026-09-30T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Example.com Just Launched The Biggest Redesign In Decades",
+                "blogTitle": "DebugBear Blog",
+                "blogLink": "https://www.debugbear.com/blog",
+                "blogLinkMd5Hash": "dfc47606b2a9887ba30c5223a7a02839",
+                "favicon": "https://www.debugbear.com/public/favicon-2022-32x32.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+            "content_html": " &lt;blockquote cite=\"https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities\"&gt;&lt;p&gt;We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview here, a meaningful threshold has clearly been crossed: earlier models, like Claude Opus 4.6 and GLM-5.2, do ",
+            "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+            "title": "Quoting Anthropic Frontier Red Team | Simon Willison's Weblog",
+            "summary": " &lt;blockquote cite=\"https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities\"&gt;&lt;p&gt;We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark",
+            "date_modified": "2026-09-29T22:20:28.000Z",
+            "date_published": "2026-09-29T22:20:28.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Quoting Anthropic Frontier Red Team",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/vercel-connect-service-submissions",
+            "content_html": "now lets you submit your own service to the , so you no longer need to wait for Vercel to build a connector for it.Vercel Connectconnectors directorySubmitting a service takes four steps:Vercel reviews each submission before publishing it to the directory.Get started from in the dashboard, or read what your service needs to support in the .Submit a ServicedocumentationRead moreDescribe your service.Add one or more connection methods, using OAuth or an API key.Verify each OAuth method by requesti",
+            "url": "https://vercel.com/changelog/vercel-connect-service-submissions",
+            "title": "Vercel Connect now accepts service submissions | Vercel News",
+            "summary": "now lets you submit your own service to the , so you no longer need to wait for Vercel to build a connector for it.Vercel Connectconnectors directorySubmitting a service takes four steps:Vercel review",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1CA654ddrv7Wug02DUzuEe/65adc391eec1927c47b25b82164d8eda/image.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-29T22:00:00.000Z",
+            "date_published": "2026-09-29T22:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Vercel Connect now accepts service submissions",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://blog.master.dev/?p=11241",
+            "content_html": "The web platform evolves. When it does, other tech has to catch up, and not just LLMs. Another one is TypeScript types. Philip Walton explains: For example, here’s an error I got just the other day when trying to use element-scoped view transitions: “Property ‘startViewTransition’ does not exist on type ‘HTMLElement’.” … TypeScript makes it […]",
+            "url": "https://blog.master.dev/modern-web-types/",
+            "title": "Modern Web Types | Master.dev Blog RSS Feed",
+            "summary": "The web platform evolves. When it does, other tech has to catch up, and not just LLMs. Another one is TypeScript types. Philip Walton explains: For example, here’s an error I got just the other day wh",
+            "image": {
+                "height": "630",
+                "url": "https://blog.master.dev/wp-json/social-image-generator/v1/image/11241",
+                "width": "1200"
+            },
+            "date_modified": "2026-09-29T20:18:16.000Z",
+            "date_published": "2026-09-29T20:18:16.000Z",
+            "author": {
+                "name": "Chris Coyier"
+            },
+            "tags": [
+                "The Beat",
+                "TypeScript"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Modern Web Types",
+                "blogTitle": "Master.dev Blog RSS Feed",
+                "blogLink": "https://blog.master.dev",
+                "blogLinkMd5Hash": "61b7f9099864eec938d5589848ac72da",
+                "favicon": "https://blog.master.dev/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+            "content_html": " &lt;p&gt;&lt;a href=\"https://news.ycombinator.com/item?id=49896586#49898129\"&gt;My comment&lt;/a&gt; on &lt;a href=\"https://news.ycombinator.com/item?id=49896586\"&gt;GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price&lt;/a&gt; &amp;mdash; Hacker News.&lt;/p&gt;&lt;p&gt;I'm a bit late with the pelicans because I was live-blogging the keynote: &lt;a href=\"https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/\"&gt;https://simonwillison.net/2026/Sep/29/openai-devday-2026-liv...&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Here they are for GPT-6.1-Sol: &lt;a href",
+            "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+            "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;a href=\"https://news.ycombinator.com/item?id=49896586#49898129\"&gt;My comment&lt;/a&gt; on &lt;a href=\"https://news.ycombinator.com/item?id=49896586\"&gt;GPT 6.1 Sol: Near-Astra intelligence for a fifth of the p",
+            "date_modified": "2026-09-29T18:27:48.000Z",
+            "date_published": "2026-09-29T18:27:48.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://medium.com/p/8e7891a1d486",
+            "content_html": "",
+            "url": "https://medium.com/airbnb-engineering/personalization-without-user-identity-8e7891a1d486",
+            "title": "Personalization without user identity | The Airbnb Tech Blog - Medium",
+            "date_modified": "2026-09-29T17:01:01.000Z",
+            "date_published": "2026-09-29T17:01:01.000Z",
+            "author": {
+                "name": "Wei Jiang"
+            },
+            "tags": [
+                "technology",
+                "machine-learning",
+                "infrastructure",
+                "ai",
+                "engineering"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Personalization without user identity",
+                "blogTitle": "The Airbnb Tech Blog - Medium",
+                "blogLink": "https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4",
+                "blogLinkMd5Hash": "695515f7bcfb023f7973bcb23330e7b2"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;Tool:&lt;/strong&gt; &lt;a href=\"https://tools.simonwillison.net/photo-scrubber\"&gt;Photo Scrubber — local face blur &amp;amp; metadata removal&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I took a photograph of some protesters, then thought about how I don't like sharing photographs of strangers with identifiable faces. I &lt;a href=\"https://github.com/simonw/tools/commit/aa733ecc3458d5703e3b40c84507ae362f5fb294\"&gt;had GPT-6 Astra build&lt;/a&gt; this experimental tool that would identify faces and automatically blur them out.&lt;/p&gt;&lt;p&gt;It uses G",
+            "url": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
+            "title": "Photo Scrubber — local face blur &amp; metadata removal | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;Tool:&lt;/strong&gt; &lt;a href=\"https://tools.simonwillison.net/photo-scrubber\"&gt;Photo Scrubber — local face blur &amp;amp; metadata removal&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I took a photograph of some protesters, then thou",
+            "date_modified": "2026-09-29T16:45:27.000Z",
+            "date_published": "2026-09-29T16:45:27.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Photo Scrubber — local face blur &amp; metadata removal",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+            "content_html": " &lt;p&gt;I'm at &lt;a href=\"https://devday.openai.com/\"&gt;OpenAI DevDay&lt;/a&gt; today, in Fort Mason, San Francisco. Same as &lt;a href=\"https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/\"&gt;last year&lt;/a&gt; I'll be live blogging the keynote and some other notes during the day.&lt;/p&gt;&lt;p&gt;&lt;em&gt;OpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Tags: &lt;a href=\"https://simonwillison.net/tags/ai\"&gt;ai&lt;/a&gt;, &lt;a href=\"https://simonwillison.net/tags/openai\"&gt;openai&lt;/a&gt;, &lt;a href=\"http",
+            "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+            "title": "OpenAI DevDay 2026 live blog | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;I'm at &lt;a href=\"https://devday.openai.com/\"&gt;OpenAI DevDay&lt;/a&gt; today, in Fort Mason, San Francisco. Same as &lt;a href=\"https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/\"&gt;last year&lt;/a&gt; I'l",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2026/live-20260929-092441.webp",
+                "type": "webp"
+            },
+            "date_modified": "2026-09-29T15:55:13.000Z",
+            "date_published": "2026-09-29T15:55:13.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "OpenAI DevDay 2026 live blog",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://socket.dev/blog/upm-package-manager",
+            "content_html": "upm uses Node.js to deliver fast npm installs in about 250 KB, with a JavaScript API and security defaults.",
+            "url": "https://socket.dev/blog/upm-package-manager",
+            "title": "upm Launches as a Fast, Tiny Package Manager Written in TypeScript | Socket",
+            "summary": "upm uses Node.js to deliver fast npm installs in about 250 KB, with a JavaScript API and security defaults.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/cgdhsj6q/production/dd81811c21f366a84443b01288df5012aa125d69-1671x941.png?w=1000&q=95&fit=max&auto=format",
+                "type": "png"
+            },
+            "date_modified": "2026-09-29T15:38:50.644Z",
+            "date_published": "2026-09-29T15:38:50.644Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "upm Launches as a Fast, Tiny Package Manager Written in TypeScript",
+                "blogTitle": "Socket",
+                "blogLink": "https://socket.dev/api/blog/feed.json",
+                "blogLinkMd5Hash": "1ad7c1f71e0aa48ea310910290f40d4a",
+                "favicon": "https://socket.dev/next-public-assets/favicon.ico"
+            }
+        },
+        {
+            "id": "https://github.blog/?p=99134",
+            "content_html": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source.The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog.",
+            "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
+            "title": "Developer policy update: Transparency, state policy, and what’s ahead | The GitHub Blog",
+            "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source.The post Developer policy update: Transparency, state policy, and what’s ahead appear",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://github.blog/wp-content/uploads/2026/01/generic-github-logo-right.png?fit=1200%2C630",
+                "width": "1200"
+            },
+            "date_modified": "2026-09-29T15:00:00.000Z",
+            "date_published": "2026-09-29T15:00:00.000Z",
+            "author": {
+                "name": "Margaret Tucker"
+            },
+            "tags": [
+                "News &amp; insights",
+                "Policy",
+                "GitHub Policy",
+                "GitHub Transparency Report"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Developer policy update: Transparency, state policy, and what’s ahead",
+                "blogTitle": "The GitHub Blog",
+                "blogLink": "https://github.blog/",
+                "blogLinkMd5Hash": "f5d9dec3dc3bf03d9b3049b109e60a1d",
+                "favicon": "https://github.githubassets.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/search-trace-spans-from-the-vercel-cli",
+            "content_html": "You and your coding agents can now search a project’s trace spans from the terminal with . vercel traces searchEach span represents one step in a request, helping you investigate errors, latency, and security-related behavior without opening the dashboard.By default, returns up to 100 spans from the last hour, newest first, so you can search without first finding a request or trace ID. Filter results by environment, service, span name, status, deployment ID, request ID, trace ID, or span ID, or ",
+            "url": "https://vercel.com/changelog/search-trace-spans-from-the-vercel-cli",
+            "title": "Search trace spans from the Vercel CLI | Vercel News",
+            "summary": "You and your coding agents can now search a project’s trace spans from the terminal with . vercel traces searchEach span represents one step in a request, helping you investigate errors, latency, and ",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6FDKZgR9NYxGHXeNJHVWKc/672c4142800637f17f7c4a7e72e04e41/vercel_traces_search__1_.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-29T13:00:00.000Z",
+            "date_published": "2026-09-29T13:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Search trace spans from the Vercel CLI",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://www.apollographql.com/blog/apollo-mock-llm-generated-data-for-your-kotlin-applications",
+            "content_html": "",
+            "url": "https://www.apollographql.com/blog/apollo-mock-llm-generated-data-for-your-kotlin-applications",
+            "title": "Apollo Mock: LLM-generated data for your Kotlin applications | Blog posts | RSS Feed",
+            "image": {
+                "height": "630",
+                "url": "https://wp.apollographql.com/wp-content/uploads/2026/09/apollo-mock-kotlin.jpg",
+                "width": "1200",
+                "alt": "Apollo Mock: LLM-generated data for your Kotlin applications - Apollo GraphQL Blog",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-29T11:30:54.000Z",
+            "date_published": "2026-09-29T11:30:54.000Z",
+            "author": {
+                "name": "Martin Bonnin"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Apollo Mock: LLM-generated data for your Kotlin applications",
+                "blogTitle": "Blog posts | RSS Feed",
+                "blogLink": "https://www.apollographql.com",
+                "blogLinkMd5Hash": "0d77f5dab160e5e0d12d9b3a7c3ffa08",
+                "favicon": "https://www.apollographql.com/favicon/android-icon-192x192.png"
+            }
+        },
+        {
+            "id": "https://developers.prtimes.com/?p=10423",
+            "content_html": "自己紹介 こんにちは、PR TIMESでエンジニアをしている中山です。 このたび、2026年10月3日（土）に愛媛大学城北キャンパスで開催される「PHPカンファレンス愛媛2026」に、PR TIMESが協賛します。 また […]",
+            "url": "https://developers.prtimes.com/2026/09/29/php-conference-ehime-2026/",
+            "title": "PR TIMES は PHPカンファレンス愛媛2026に協賛・登壇します！#phpcon_ehime | PR TIMES 開発者ブログ",
+            "summary": "自己紹介 こんにちは、PR TIMESでエンジニアをしている中山です。 このたび、2026年10月3日（土）に愛媛大学城北キャンパスで開催される「PHPカンファレンス愛媛2026」に、PR TIMESが協賛します。 また […]",
+            "image": {
+                "height": "1260",
+                "url": "https://developers.prtimes.com/wp-content/uploads/2026/09/Tech系テンプレ01-1-2.jpg",
+                "width": "2240",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-29T04:00:00.000Z",
+            "date_published": "2026-09-29T04:00:00.000Z",
+            "author": {
+                "name": "shunpei"
+            },
+            "tags": [
+                "カンファレンス",
+                "PHPカンファレンス"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "PR TIMES は PHPカンファレンス愛媛2026に協賛・登壇します！#phpcon_ehime",
+                "blogTitle": "PR TIMES 開発者ブログ",
+                "blogLink": "https://developers.prtimes.com",
+                "blogLinkMd5Hash": "7fe99f6693d45838e8641b892c708d37",
+                "favicon": "https://developers.prtimes.com/wp-content/uploads/2021/04/logo_square-150x150.png?crop=1"
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20260929a",
+            "content_html": "こんにちは。LINEヤフーのプラットフォーム部門でメトリクスチームに所属している千葉です。普段は、全社のサービスを支える大規模モニタリングプラットフォーム「Yamas」の開発と運用に取り組んでいます。...",
+            "url": "https://techblog.lycorp.co.jp/ja/20260929a",
+            "title": "チームの記憶を検索可能にしたら、AIにタスクを丸ごと任せられるようになった | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "こんにちは。LINEヤフーのプラットフォーム部門でメトリクスチームに所属している千葉です。普段は、全社のサービスを支える大規模モニタリングプラットフォーム「Yamas」の開発と運用に取り組んでいます。...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/2245e86d02a99c5293d5e645194ab3ee/f0810/ecbd8b3333784f8aa101a97419b089cc.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-29T02:00:00.000Z",
+            "date_published": "2026-09-29T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "チームの記憶を検索可能にしたら、AIにタスクを丸ごと任せられるようになった",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632"
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20260929b",
+            "content_html": "はじめにこんにちは。法政大学情報科学部3年の霍 永豪と申します。2026年8月17日〜9月11日の4週間、社内のデータ基盤に使われているKafkaを運用するチームでインターンとして参加し、Grafan...",
+            "url": "https://techblog.lycorp.co.jp/ja/20260929b",
+            "title": "Kafkaアラートの初動調査を支援するAI Alert Watcherの開発（インターンレポート） | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "はじめにこんにちは。法政大学情報科学部3年の霍 永豪と申します。2026年8月17日〜9月11日の4週間、社内のデータ基盤に使われているKafkaを運用するチームでインターンとして参加し、Grafan...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/ccfb86bd3a221c9f264af6cd5c23e95f/7d66e/fa7104e9bd164a98aabd71739f3d907b.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-29T02:00:00.000Z",
+            "date_published": "2026-09-29T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Kafkaアラートの初動調査を支援するAI Alert Watcherの開発（インターンレポート）",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632"
+            }
+        },
+        {
+            "id": "https://nx.dev/blog/look-mum-no-executors",
+            "content_html": "Nx v24 removes the built-in executors deprecated in Nx v23. See how inferred targets cut your configuration overhead, and convert your workspace with a single command.",
+            "url": "https://nx.dev/blog/look-mum-no-executors",
+            "title": "Look Mum, No Executors | Nx Blog",
+            "summary": "Nx v24 removes the built-in executors deprecated in Nx v23. See how inferred targets cut your configuration overhead, and convert your workspace with a single command.",
+            "image": {
+                "height": "421",
+                "url": "https://nx.dev/blog/images/articles/look-mum-no-executors-cover.png",
+                "width": "800",
+                "alt": "Nx: Smart Monorepos · Fast CI",
+                "type": "png"
+            },
+            "date_modified": "2026-09-29T00:00:00.000Z",
+            "date_published": "2026-09-29T00:00:00.000Z",
+            "author": {
+                "name": "Miroslav Jonaš"
+            },
+            "tags": [
+                "release",
+                "caching"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Look Mum, No Executors",
+                "blogTitle": "Nx Blog",
+                "blogLink": "https://nx.dev/blog",
+                "blogLinkMd5Hash": "3daffd24adea44725656681ab6f52822",
+                "favicon": "https://nx.dev/favicon/favicon.svg"
+            }
+        },
+        {
+            "id": "https://preactjs.com/blog/preact-11",
+            "content_html": "The wait is finally over: Preact 11 is here! Preact 11 is an incremental update upon the stability and dependability of Preact X, bringing with it a number of new features like Hydration 2.0, automatic ref forwarding, and Object.is equality checks in hook arguments.",
+            "url": "https://preactjs.com/blog/preact-11",
+            "title": "Preact 11 | Preact Blog",
+            "summary": "The wait is finally over: Preact 11 is here! Preact 11 is an incremental update upon the stability and dependability of Preact X, bringing with it a number of new features like Hydration 2.0, automati",
+            "image": {
+                "url": "https://preactjs.com/app-icon.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-29T00:00:00.000Z",
+            "date_published": "2026-09-29T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Preact 11",
+                "blogTitle": "Preact Blog",
+                "blogLink": "https://preactjs.com",
+                "blogLinkMd5Hash": "8966de9ddef8b6911f83baeb86610da7",
+                "favicon": "https://preactjs.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://polypane.app/blog/polypane-31-canvas-layout-elements-panel-improvements-and-chromium-155/",
+            "content_html": "This release has a new canvas layout that lets you freely arrange panes on an infinite canvas. The elements panel now lets you filter styles…",
+            "url": "https://polypane.app/blog/polypane-31-canvas-layout-elements-panel-improvements-and-chromium-155/",
+            "title": "Polypane 31: Canvas layout, elements panel improvements and Chromium 155 | Polypane Blog",
+            "summary": "This release has a new canvas layout that lets you freely arrange panes on an infinite canvas. The elements panel now lets you filter styles…",
+            "image": {
+                "height": "630",
+                "url": "https://polypane.app/og-images/polypane-31-canvas-layout-elements-panel-improvements-and-chromium-155.png",
+                "width": "1200",
+                "alt": "Polypane",
+                "type": "png"
+            },
+            "date_modified": "2026-09-29T00:00:00.000Z",
+            "date_published": "2026-09-29T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Polypane 31: Canvas layout, elements panel improvements and Chromium 155",
+                "blogTitle": "Polypane Blog",
+                "blogLink": "https://polypane.app",
+                "blogLinkMd5Hash": "71f70c7115f14711462090a5452497e7",
+                "favicon": "https://polypane.app/favicon-32x32.png?v=5df5528946772487a6ab462ff2125f26"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/gpt-6-1-sol-now-available-on-ai-gateway",
+            "content_html": "from OpenAI is now available on AI Gateway. It improves on GPT-6 Sol for coding, computer use, and professional work, including reading complex documents and carrying out multi-step workflows.GPT-6.1 SolThe model is suited to agents that need to debug code, work through business tasks, or extract answers from PDFs with tables and charts. It also improves factual accuracy on difficult questions. Its standard input and output pricing is lower than GPT-6 Astra's, while cheaper cached input makes it",
+            "url": "https://vercel.com/changelog/gpt-6-1-sol-now-available-on-ai-gateway",
+            "title": "GPT-6.1 Sol now available on AI Gateway | Vercel News",
+            "summary": "from OpenAI is now available on AI Gateway. It improves on GPT-6 Sol for coding, computer use, and professional work, including reading complex documents and carrying out multi-step workflows.GPT-6.1 ",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2SwiRCJ2yQI6jiStpqx4n4/f327115564457532b4d646d8b597a55f/Vercel_x_OpenAI.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-29T00:00:00.000Z",
+            "date_published": "2026-09-29T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GPT-6.1 Sol now available on AI Gateway",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://www.anthropic.com/claude-sonnet-5-5\"&gt;Claude Sonnet 5.5&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well.&lt;/p&gt;&lt;p&gt;&lt;a href=\"https://tools.simonwillison.net/markdown-svg-renderer?url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F1d85a9be7f3ecce26e7f1569161a0d01\"&gt;Here are some pelicans rid",
+            "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+            "title": "Claude Sonnet 5.5 | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://www.anthropic.com/claude-sonnet-5-5\"&gt;Claude Sonnet 5.5&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for m",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2026/claude-sonnet-5.5-pelican-xhigh.webp",
+                "type": "webp"
+            },
+            "date_modified": "2026-09-28T22:07:38.000Z",
+            "date_published": "2026-09-28T22:07:38.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Claude Sonnet 5.5",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/28/joedaroo/",
+            "content_html": " &lt;blockquote cite=\"https://twitter.com/joedaroo/status/2104335929293127851\"&gt;&lt;p&gt;To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s not just about hardening the systems at play; you have to ingrain it in the culture of the company. The literal people themselves in your organization have to chan",
+            "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
+            "title": "Quoting @joedaroo | Simon Willison's Weblog",
+            "summary": " &lt;blockquote cite=\"https://twitter.com/joedaroo/status/2104335929293127851\"&gt;&lt;p&gt;To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “sw",
+            "date_modified": "2026-09-28T19:11:42.000Z",
+            "date_published": "2026-09-28T19:11:42.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Quoting @joedaroo",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://github.blog/?p=98105",
+            "content_html": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app.The post How we found 24 Android vulnerabilities using our open source AI security agent appeared first on The GitHub Blog.",
+            "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+            "title": "How we found 24 Android vulnerabilities using our open source AI security agent | The GitHub Blog",
+            "summary": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app.The post How we found 24 Android vulnerab",
+            "image": {
+                "height": "1080",
+                "type": "image/png",
+                "url": "https://github.blog/wp-content/uploads/2026/01/generic-security-invertocat-blocks-copilot.png?fit=1920%2C1080",
+                "width": "1920"
+            },
+            "date_modified": "2026-09-28T19:00:00.000Z",
+            "date_published": "2026-09-28T19:00:00.000Z",
+            "author": {
+                "name": "Kevin Stubbings"
+            },
+            "tags": [
+                "Security",
+                "GitHub Security Lab"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "How we found 24 Android vulnerabilities using our open source AI security agent",
+                "blogTitle": "The GitHub Blog",
+                "blogLink": "https://github.blog/",
+                "blogLinkMd5Hash": "f5d9dec3dc3bf03d9b3049b109e60a1d",
+                "favicon": "https://github.githubassets.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://github.blog/?p=99087",
+            "content_html": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time.The post Highlights from Git 2.56 appeared first on The GitHub Blog.",
+            "url": "https://github.blog/open-source/git/highlights-from-git-2-56/",
+            "title": "Highlights from Git 2.56 | The GitHub Blog",
+            "summary": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time.The post Highlights from Git 2.56 appeared fir",
+            "image": {
+                "height": "2520",
+                "type": "image/png",
+                "url": "https://github.blog/wp-content/uploads/2026/09/657850737-00bb8fbf-181f-4dda-a8a0-36d61aff24d3.png",
+                "width": "4804"
+            },
+            "date_modified": "2026-09-28T17:23:33.000Z",
+            "date_published": "2026-09-28T17:23:33.000Z",
+            "author": {
+                "name": "Elijah Newren"
+            },
+            "tags": [
+                "Git",
+                "Open Source"
+            ],
+            "_custom": {
+                "hatenaCount": 12,
+                "originalTitle": "Highlights from Git 2.56",
+                "blogTitle": "The GitHub Blog",
+                "blogLink": "https://github.blog/",
+                "blogLinkMd5Hash": "f5d9dec3dc3bf03d9b3049b109e60a1d",
+                "favicon": "https://github.githubassets.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.aikido.dev/blog/aikido-openjs-ssp-node-security",
+            "content_html": "Aikido is an inaugural partner in OpenJS's Security Stewardship Program, funding bug bounties and maintainer support for Node.js.Category: Aikido",
+            "url": "https://www.aikido.dev/blog/aikido-openjs-ssp-node-security",
+            "title": "Aikido funds Node.js security | Aikido Security's Blog",
+            "summary": "Aikido is an inaugural partner in OpenJS's Security Stewardship Program, funding bug bounties and maintainer support for Node.js.Category: Aikido",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6aba97ff4835ff1745a74dd7_OpenJs%27s_OG(1).png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-28T15:41:00.000Z",
+            "date_published": "2026-09-28T15:41:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Aikido funds Node.js security",
+                "blogTitle": "Aikido Security's Blog",
+                "blogLink": "https://www.aikido.dev",
+                "blogLinkMd5Hash": "0c77fc38d005cda3e64903cf14f94346",
+                "favicon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6a44c0d59562153f7bd081ff_favicon.png"
+            }
+        },
+        {
+            "id": "https://blog.master.dev/?p=11162",
+            "content_html": "Let's integrate Vercel's AI SDK with Cloudflare's Durable Objects to improve user experience in a fitness tracker application.",
+            "url": "https://blog.master.dev/making-the-most-of-vercels-ai-sdk-with-cloudflare-durable-objects/",
+            "title": "Making the Most of Vercel’s AI SDK with Cloudflare Durable Objects | Master.dev Blog RSS Feed",
+            "summary": "Let's integrate Vercel's AI SDK with Cloudflare's Durable Objects to improve user experience in a fitness tracker application.",
+            "image": {
+                "height": "630",
+                "url": "https://blog.master.dev/wp-json/social-image-generator/v1/image/11162",
+                "width": "1200"
+            },
+            "date_modified": "2026-09-28T15:24:33.000Z",
+            "date_published": "2026-09-28T15:24:33.000Z",
+            "author": {
+                "name": "Adam Rackis"
+            },
+            "tags": [
+                "Blog Post",
+                "AI",
+                "Cloudflare",
+                "Durable Objects",
+                "Vercel"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Making the Most of Vercel’s AI SDK with Cloudflare Durable Objects",
+                "blogTitle": "Master.dev Blog RSS Feed",
+                "blogLink": "https://blog.master.dev",
+                "blogLinkMd5Hash": "61b7f9099864eec938d5589848ac72da",
+                "favicon": "https://blog.master.dev/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+            "content_html": " &lt;blockquote cite=\"https://www.threads.com/share/_oWfPufYJ/\"&gt;&lt;p&gt;Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating.&lt;/p&gt;&lt;p&gt;Worse, my auto-reply told him \"Yep I'm here!\" at 9:27 when you clearly weren't available, which is on me. That's a bad look and it made the no-show worse.I've sent him an apology from your account owning it and offering to try again anot",
+            "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+            "title": "Quoting Muse AI Agent | Simon Willison's Weblog",
+            "summary": " &lt;blockquote cite=\"https://www.threads.com/share/_oWfPufYJ/\"&gt;&lt;p&gt;Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came",
+            "date_modified": "2026-09-28T04:01:30.000Z",
+            "date_published": "2026-09-28T04:01:30.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Quoting Muse AI Agent",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20260928a",
+            "content_html": "LINEヤフー株式会社では、技術に関するイベントや勉強会の主催・協賛などを行っています。最新情報は各リンク先でご確認ください。タイミングによっては、申し込み開始前や既に満席となっていることがあります。...",
+            "url": "https://techblog.lycorp.co.jp/ja/20260928a",
+            "title": "2026年10月の技術系イベント予定 | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "LINEヤフー株式会社では、技術に関するイベントや勉強会の主催・協賛などを行っています。最新情報は各リンク先でご確認ください。タイミングによっては、申し込み開始前や既に満席となっていることがあります。...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/3a97002539dfc9889717eab276bc54ca/f0810/89e707bf51b44b7da9c3c183094ef05c.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-28T02:00:00.000Z",
+            "date_published": "2026-09-28T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2026年10月の技術系イベント予定",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632"
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20260928b",
+            "content_html": "はじめにこんにちは、東京電機大学大学院理工学研究科情報学専攻修士 1 年の佐藤聖璃です。インターンとして、LINE公式アカウントのプッシュ通知の配信基盤に Decaton の Per-Key-Quot...",
+            "url": "https://techblog.lycorp.co.jp/ja/20260928b",
+            "title": "Decaton Per-Key-Quotaによるプッシュ通知のスパイク制御（インターンレポート） | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "はじめにこんにちは、東京電機大学大学院理工学研究科情報学専攻修士 1 年の佐藤聖璃です。インターンとして、LINE公式アカウントのプッシュ通知の配信基盤に Decaton の Per-Key-Quot...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/186373e4f938c831708757a7d7ecb46f/7d66e/36b9ed9d00bf466eaa52c9583b749b05.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-28T02:00:00.000Z",
+            "date_published": "2026-09-28T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Decaton Per-Key-Quotaによるプッシュ通知のスパイク制御（インターンレポート）",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632"
+            }
+        },
+        {
+            "id": "https://pnpm.io/blog/releases/12.8",
+            "content_html": "pnpm 12.8 warns when pnpm pack or pnpm publish would ship a .env file, installs sharedWorkspaceLockfile: false workspaces concurrently, applies every setting passed as --config.=, and no longer leaves the Windows terminal stuck after Ctrl+C in a script. This release also carries a...",
+            "url": "https://pnpm.io/blog/releases/12.8",
+            "title": "pnpm 12.8 | pnpm Blog",
+            "summary": "pnpm 12.8 warns when pnpm pack or pnpm publish would ship a .env file, installs sharedWorkspaceLockfile: false workspaces concurrently, applies every setting passed as --config.=, and no longer leaves",
+            "image": {
+                "url": "https://pnpm.io/img/ogimage.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-28T00:00:00.000Z",
+            "date_published": "2026-09-28T00:00:00.000Z",
+            "author": {
+                "name": "Zoltan Kochan"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "pnpm 12.8",
+                "blogTitle": "pnpm Blog",
+                "blogLink": "https://pnpm.io/blog",
+                "blogLinkMd5Hash": "ee683ee84b103511e83fb54df4a7fa3c",
+                "favicon": "https://pnpm.io/img/favicon.png"
+            }
+        },
+        {
+            "id": "https://voidzero.dev/posts/announcing-vite-plus-1-0",
+            "content_html": "TL;DR: Vite+ 1.0 is out, stable, MIT licensed, and about to reach two million weekly downloads. A single command, vp, manages your Node.js runtime, package manager, and frontend toolchain. Install it with curl -fsSL https://vite.plus | bash, then run vp create for a new project or vp migrate to migrate your existing one.",
+            "url": "https://voidzero.dev/posts/announcing-vite-plus-1-0",
+            "title": "Announcing Vite+ 1.0 | VoidZero",
+            "summary": "TL;DR: Vite+ 1.0 is out, stable, MIT licensed, and about to reach two million weekly downloads. A single command, vp, manages your Node.js runtime, package manager, and frontend toolchain. Install it ",
+            "image": {
+                "url": "https://voidzero.dev/covers/announcing-vite-plus-1-0.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-28T00:00:00.000Z",
+            "date_published": "2026-09-28T00:00:00.000Z",
+            "author": {
+                "name": "Alexander Lichter"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 21,
+                "originalTitle": "Announcing Vite+ 1.0",
+                "blogTitle": "VoidZero",
+                "blogLink": "https://voidzero.dev/",
+                "blogLinkMd5Hash": "da76980607861ad0ffe7dff76eb455b4",
+                "favicon": "https://voidzero.dev/favicon.svg"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/search-domains-without-authentication",
+            "content_html": "You can now discover domain names and check availability and pricing without signing in to Vercel or providing an access token. This works through the Vercel CLI and Domains Registrar API.With the , search by keyword or domain fragment: Vercel CLIWith the , check up to 200 exact domain names in one request. The response shows whether each can be registered and, when available, its registration and renewal prices:Domains Registrar APIAuthentication is still required to buy or manage domains.Try t",
+            "url": "https://vercel.com/changelog/search-domains-without-authentication",
+            "title": "Search domains without authentication | Vercel News",
+            "summary": "You can now discover domain names and check availability and pricing without signing in to Vercel or providing an access token. This works through the Vercel CLI and Domains Registrar API.With the , s",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3X7r8Cr1VVnfUYnHo69Xel/fd7a333c4d40cd8d9f4224d4ea33abf9/image__13_.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-28T00:00:00.000Z",
+            "date_published": "2026-09-28T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Search domains without authentication",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/claude-sonnet-5-5-now-available-on-ai-gateway",
+            "content_html": "from is now available on as .Claude Sonnet 5.5AnthropicAI Gatewayanthropic/claude-sonnet-5.5Sonnet 5.5 improves on for well-scoped everyday work, from building features and fixing bugs to creating documents, slides, and spreadsheets.Claude Sonnet 5On coding tasks, Sonnet 5.5 carries changes through multiple steps and checks its work before reporting completion. It produces more polished documents, slides, and spreadsheets with fewer follow-up edits, and writes clearer explanations and reports. I",
+            "url": "https://vercel.com/changelog/claude-sonnet-5-5-now-available-on-ai-gateway",
+            "title": "Claude Sonnet 5.5 now available on AI Gateway | Vercel News",
+            "summary": "from is now available on as .Claude Sonnet 5.5AnthropicAI Gatewayanthropic/claude-sonnet-5.5Sonnet 5.5 improves on for well-scoped everyday work, from building features and fixing bugs to creating doc",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1nxbUaUVfuEnDEKT9lRXrY/a709d6455cfbd73f7ef021e13322f8b4/Vercel_x_Anthropic.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-28T00:00:00.000Z",
+            "date_published": "2026-09-28T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Claude Sonnet 5.5 now available on AI Gateway",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/vercel-sandbox-now-supports-memory-observability",
+            "content_html": "now includes memory usage data.Vercel Sandbox observabilityYou can access sandbox memory usage data in the dashboard and through the CLI via the command. vercel metricsThe Memory Usage card reports average, P75, and P95 memory across your sandboxes, alongside the existing CPU usage and data transfer metrics on the sandbox overview page and the project and team-level pages.On the sandbox detail page, charts are designed to show how close a sandbox is running to its memory ceiling by: Sandbox memo",
+            "url": "https://vercel.com/changelog/vercel-sandbox-now-supports-memory-observability",
+            "title": "Vercel Sandbox now supports memory observability | Vercel News",
+            "summary": "now includes memory usage data.Vercel Sandbox observabilityYou can access sandbox memory usage data in the dashboard and through the CLI via the command. vercel metricsThe Memory Usage card reports av",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4Vp4oh1LDX5784yzXMqdzl/33711e939d382f952c9469a8b5a18c37/vercel-sandbox-metrics-og-source-preserved.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-28T00:00:00.000Z",
+            "date_published": "2026-09-28T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Vercel Sandbox now supports memory observability",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+            "content_html": " &lt;p&gt;On Friday I gave the closing keynote at the &lt;a href=\"https://www.wearedevelopers.com/world-congress-north-america\"&gt;WeAreDevelopers World Congress North America&lt;/a&gt; in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026. The video &lt;a href=\"https://www.youtube.com/watch?v=GAkIytR7vcc\"&gt;is on YouTube&lt;/a&gt;; here are my annotated slides and notes to accompany the talk.&lt;/p&gt;&lt;p&gt;&lt;lite-youtube videoid=\"GAkIytR7vcc\" js-api=\"js-a",
+            "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+            "title": "2026 in LLMs (so far) | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;On Friday I gave the closing keynote at the &lt;a href=\"https://www.wearedevelopers.com/world-congress-north-america\"&gt;WeAreDevelopers World Congress North America&lt;/a&gt; in San Jose. I tied together the",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2026/2026-in-llms/simon-willison-2026-in-llms-png.001.webp",
+                "type": "webp"
+            },
+            "date_modified": "2026-09-27T23:54:15.000Z",
+            "date_published": "2026-09-27T23:54:15.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "2026 in LLMs (so far)",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
+            "content_html": " &lt;p&gt;&lt;a href=\"https://news.ycombinator.com/item?id=49851693#49871741\"&gt;My comment&lt;/a&gt; on &lt;a href=\"https://news.ycombinator.com/item?id=49851693\"&gt;S3 Is the Future, S3 Is the Past&lt;/a&gt; &amp;mdash; Hacker News.&lt;/p&gt;&lt;p&gt;One thing I find notable about S3 today is that, while it used to drop in price reasonably often, there hasn't been a price drop in &lt;em&gt;a full decade&lt;/em&gt;:&lt;/p&gt;&lt;pre&gt;&lt;code&gt;2006-03-14 $0.150/GB-month2010-11-01 $0.140/GB-month2012-02-01 $0.125/GB-month2012-12-01 $0.095/GB-month2014-02-01 $0.085/G",
+            "url": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
+            "title": "S3 Is the Future, S3 Is the Past | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;a href=\"https://news.ycombinator.com/item?id=49851693#49871741\"&gt;My comment&lt;/a&gt; on &lt;a href=\"https://news.ycombinator.com/item?id=49851693\"&gt;S3 Is the Future, S3 Is the Past&lt;/a&gt; &amp;mdash; Hacker News.",
+            "date_modified": "2026-09-27T23:09:19.000Z",
+            "date_published": "2026-09-27T23:09:19.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "S3 Is the Future, S3 Is the Past",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;Tool:&lt;/strong&gt; &lt;a href=\"https://tools.simonwillison.net/bluesky-bot-check\"&gt;Bluesky reply bot checker&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Automated reply bots on Twitter are a &lt;em&gt;scourge&lt;/em&gt; - as someone with a decent number of followers I attract a swarm of these, such that anything I post there attracts dozens of mindless automated replies.&lt;/p&gt;&lt;p&gt;They've started manifesting on Bluesky as well.&lt;/p&gt;&lt;p&gt;Unlike Twitter, Bluesky still has a freely available and useful API. The lack of such a thing doesn't slow ",
+            "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
+            "title": "Bluesky reply bot checker | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;Tool:&lt;/strong&gt; &lt;a href=\"https://tools.simonwillison.net/bluesky-bot-check\"&gt;Bluesky reply bot checker&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Automated reply bots on Twitter are a &lt;em&gt;scourge&lt;/em&gt; - as someone with a d",
+            "date_modified": "2026-09-27T18:41:44.000Z",
+            "date_published": "2026-09-27T18:41:44.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Bluesky reply bot checker",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://azukiazusa.dev/blog/css-margin-trim",
+            "content_html": "カードの内側に padding を設定しても、先頭の見出しや最後の段落の margin が加わり、上下の余白が意図より大きくなることがあります。margin-trim を使うと、要素間の余白を保ったまま、コンテナーの端のマージンを取り除けます。カードの例を通して、基本的な使い方を紹介します。",
+            "url": "https://azukiazusa.dev/blog/css-margin-trim",
+            "title": "CSS の margin-trim でコンテナーの端の余白を取り除く | azukiazusa のテックブログ2",
+            "summary": "カードの内側に padding を設定しても、先頭の見出しや最後の段落の margin が加わり、上下の余白が意図より大きくなることがあります。margin-trim を使うと、要素間の余白を保ったまま、コンテナーの端のマージンを取り除けます。カードの例を通して、基本的な使い方を紹介します。",
+            "image": {
+                "url": "https://ogp.azukiazusa.dev/blog/ogp/css-margin-trim.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-27T08:32:00.000Z",
+            "date_published": "2026-09-27T08:32:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "CSS の margin-trim でコンテナーの端の余白を取り除く",
+                "blogTitle": "azukiazusa のテックブログ2",
+                "blogLink": "https://azukiazusa.dev",
+                "blogLinkMd5Hash": "f333203079d9928b7fa83832f57ad131",
+                "favicon": "https://azukiazusa.dev/favicon.png"
+            }
+        },
+        {
+            "id": "https://azukiazusa.dev/blog/responsive-iframes",
+            "content_html": "外部サービスのコメント欄やフォームを iframe で埋め込むと、内容の高さと枠の高さが合わず、スクロールや余白が生じることがあります。frame-sizing を使うと、埋め込み側の許可のもとで内容に応じた高さを使えます。",
+            "url": "https://azukiazusa.dev/blog/responsive-iframes",
+            "title": "iframe の高さをコンテンツに合わせる CSS の frame-sizing | azukiazusa のテックブログ2",
+            "summary": "外部サービスのコメント欄やフォームを iframe で埋め込むと、内容の高さと枠の高さが合わず、スクロールや余白が生じることがあります。frame-sizing を使うと、埋め込み側の許可のもとで内容に応じた高さを使えます。",
+            "image": {
+                "url": "https://ogp.azukiazusa.dev/blog/ogp/responsive-iframes.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-27T00:38:00.000Z",
+            "date_published": "2026-09-27T00:38:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "iframe の高さをコンテンツに合わせる CSS の frame-sizing",
+                "blogTitle": "azukiazusa のテックブログ2",
+                "blogLink": "https://azukiazusa.dev",
+                "blogLinkMd5Hash": "f333203079d9928b7fa83832f57ad131",
+                "favicon": "https://azukiazusa.dev/favicon.png"
+            }
+        },
+        {
+            "id": "https://website-d20cpcoms-dlhck-personal.vercel.app/essays/introducing-ferry",
+            "content_html": "Sync your coding-agent skills, instructions, plugins, and MCP server declarations to a remote Linux box. An introduction to Ferry, with setup instructions and terminal examples.",
+            "url": "https://website-d20cpcoms-dlhck-personal.vercel.app/essays/introducing-ferry",
+            "title": "Introducing Ferry | @dlhck — David Höck",
+            "summary": "Sync your coding-agent skills, instructions, plugins, and MCP server declarations to a remote Linux box. An introduction to Ferry, with setup instructions and terminal examples.",
+            "date_modified": "2026-09-27T00:00:00.000Z",
+            "date_published": "2026-09-27T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Introducing Ferry",
+                "blogTitle": "@dlhck — David Höck",
+                "blogLink": "https://website-d20cpcoms-dlhck-personal.vercel.app",
+                "blogLinkMd5Hash": "ef8b6fd3f28d4bac3405e9544b33acd5",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/ember-1-from-fireworks-now-available-on-ai-gateway",
+            "content_html": "from Fireworks is now available on .Ember-1AI GatewayEmber-1 is a research preview reasoning model built on for coding and agentic workflows.Kimi K3Fireworks reports approximately 40% fewer generated tokens than Kimi K3 at comparable quality across its evaluations. For coding agents that make repeated model calls, shorter reasoning traces can reduce output costs and the amount of context carried into later steps.Ember-1 supports a 1M-token context window, text and image input, tool calling, and ",
+            "url": "https://vercel.com/changelog/ember-1-from-fireworks-now-available-on-ai-gateway",
+            "title": "Ember-1 from Fireworks now available on AI Gateway | Vercel News",
+            "summary": "from Fireworks is now available on .Ember-1AI GatewayEmber-1 is a research preview reasoning model built on for coding and agentic workflows.Kimi K3Fireworks reports approximately 40% fewer generated ",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1niBXkJBLE2dMacHn111Tu/ceeb7fab36345234afbffffdb9587a83/image__110_.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-27T00:00:00.000Z",
+            "date_published": "2026-09-27T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Ember-1 from Fireworks now available on AI Gateway",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;Tool:&lt;/strong&gt; &lt;a href=\"https://tools.simonwillison.net/kakapo-party\"&gt;Kākāpō Party&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I presented a closing keynote for the &lt;a href=\"https://www.wearedevelopers.com/world-congress-north-america\"&gt;WeAreDevelopers World Congress North America&lt;/a&gt; yesterday. As &lt;a href=\"https://simonwillison.net/2019/Dec/10/better-presentations/\"&gt;a STAR moment&lt;/a&gt; I decided to weave in references to the record breaking &lt;a href=\"https://www.doc.govt.nz/news/media-releases/2026-media-releases/kakap",
+            "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+            "title": "Kākāpō Party | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;Tool:&lt;/strong&gt; &lt;a href=\"https://tools.simonwillison.net/kakapo-party\"&gt;Kākāpō Party&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I presented a closing keynote for the &lt;a href=\"https://www.wearedevelopers.com/world-congress-",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2026/kakapo-party-first-frame.webp",
+                "type": "webp"
+            },
+            "date_modified": "2026-09-26T23:39:06.000Z",
+            "date_published": "2026-09-26T23:39:06.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Kākāpō Party",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://azukiazusa.dev/blog/css-scroll-axis-lock",
+            "content_html": "ブラウザはスクロール操作の方向を縦か横の一方向に固定することがあります。scroll-axis-lock プロパティを使うと、この軸ロックを解除できます。この記事で scroll-axis-lock の基本的な使い方を紹介します。",
+            "url": "https://azukiazusa.dev/blog/css-scroll-axis-lock",
+            "title": "CSS の scroll-axis-lock で斜め方向にスクロールできる UI を作る | azukiazusa のテックブログ2",
+            "summary": "ブラウザはスクロール操作の方向を縦か横の一方向に固定することがあります。scroll-axis-lock プロパティを使うと、この軸ロックを解除できます。この記事で scroll-axis-lock の基本的な使い方を紹介します。",
+            "image": {
+                "url": "https://ogp.azukiazusa.dev/blog/ogp/css-scroll-axis-lock.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-26T05:12:00.000Z",
+            "date_published": "2026-09-26T05:12:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "CSS の scroll-axis-lock で斜め方向にスクロールできる UI を作る",
+                "blogTitle": "azukiazusa のテックブログ2",
+                "blogLink": "https://azukiazusa.dev",
+                "blogLinkMd5Hash": "f333203079d9928b7fa83832f57ad131",
+                "favicon": "https://azukiazusa.dev/favicon.png"
+            }
+        },
+        {
+            "id": "https://v2.tauri.app/blog/tauri-2.12/",
+            "content_html": "The Tauri team is happy to announce the 2.12 release.",
+            "url": "https://v2.tauri.app/blog/tauri-2.12/",
+            "title": "Announcing Tauri 2.12 | Tauri | Blog",
+            "summary": "The Tauri team is happy to announce the 2.12 release.",
+            "image": {
+                "url": "https://v2.tauri.app/og.png?v=1",
+                "type": "png"
+            },
+            "date_modified": "2026-09-26T00:00:00.000Z",
+            "date_published": "2026-09-26T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Announcing Tauri 2.12",
+                "blogTitle": "Tauri | Blog",
+                "blogLink": "https://v2.tauri.app/",
+                "blogLinkMd5Hash": "c8b089a4df260405b5dfd55bc2ac1245",
+                "favicon": "https://v2.tauri.app/favicon.svg"
+            }
+        },
+        {
+            "id": "https://socket.dev/blog/openjs-nodejs-security",
+            "content_html": "Socket is joining the OpenJS Security Stewardship Program to fund Node.js vulnerability research, maintainer remediation, and security releases.",
+            "url": "https://socket.dev/blog/openjs-nodejs-security",
+            "title": "Socket Joins New OpenJS Program to Fund Node.js Security Work | Socket",
+            "summary": "Socket is joining the OpenJS Security Stewardship Program to fund Node.js vulnerability research, maintainer remediation, and security releases.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/cgdhsj6q/production/ae37944a1e0f467e75965a6e464bffad8307fc50-2400x1260.png?w=1000&q=95&fit=max&auto=format",
+                "type": "png"
+            },
+            "date_modified": "2026-09-25T20:59:05.513Z",
+            "date_published": "2026-09-25T20:59:05.513Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Socket Joins New OpenJS Program to Fund Node.js Security Work",
+                "blogTitle": "Socket",
+                "blogLink": "https://socket.dev/api/blog/feed.json",
+                "blogLinkMd5Hash": "1ad7c1f71e0aa48ea310910290f40d4a",
+                "favicon": "https://socket.dev/next-public-assets/favicon.ico"
+            }
+        },
+        {
+            "id": "https://github.blog/?p=99027",
+            "content_html": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done.The post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog.",
+            "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
+            "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases | The GitHub Blog",
+            "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done.The post ",
+            "image": {
+                "height": "636",
+                "type": "image/png",
+                "url": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-3.59.20-PM.png",
+                "width": "1133"
+            },
+            "date_modified": "2026-09-25T18:00:00.000Z",
+            "date_published": "2026-09-25T18:00:00.000Z",
+            "author": {
+                "name": "Kayla Cinnamon"
+            },
+            "tags": [
+                "AI &amp; ML",
+                "GitHub Copilot",
+                "GitHub Copilot app",
+                "GitHub Copilot app for Beginners"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+                "blogTitle": "The GitHub Blog",
+                "blogLink": "https://github.blog/",
+                "blogLinkMd5Hash": "f5d9dec3dc3bf03d9b3049b109e60a1d",
+                "favicon": "https://github.githubassets.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+            "content_html": " &lt;blockquote cite=\"https://daringfireball.net/linked/2026/09/25/aten-muse\"&gt;&lt;p&gt;Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) &lt;em&gt;and&lt;/em&gt; because it’s packaged in an easy-to-install easy-to-use way. It’s literally presented as &lt;a href=\"https://daringfireball.net/linked/2026/09/24/song-meta-muse-cute\"&gt;a cute mascot&lt;/a&gt;. It’s the first consumer-accessible agentic AI sys",
+            "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+            "title": "Quoting John Gruber | Simon Willison's Weblog",
+            "summary": " &lt;blockquote cite=\"https://daringfireball.net/linked/2026/09/25/aten-muse\"&gt;&lt;p&gt;Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their o",
+            "date_modified": "2026-09-25T17:22:01.000Z",
+            "date_published": "2026-09-25T17:22:01.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Quoting John Gruber",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        }
+    ]
+}
