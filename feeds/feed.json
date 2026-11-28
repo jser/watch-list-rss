@@ -1,0 +1,2492 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "JSer.info Watch List",
+    "home_page_url": "https://jser.info/watch-list-rss/",
+    "feed_url": "https://jser.info/watch-list-rss/feeds/feed.json",
+    "description": "JSer.infoの情報源となるサイトをまとめたRSSフィード",
+    "icon": "https://jser.info/watch-list-rss/images/icon.png",
+    "items": [
+        {
+            "id": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.4a0\"&gt;datasette-charts 0.4a0&lt;/a&gt;&lt;/p&gt; &lt;p&gt;The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of friction points in the design. This release addresses those, which should make building additional ",
+            "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+            "title": "datasette-charts 0.4a0 | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.4a0\"&gt;datasette-charts 0.4a0&lt;/a&gt;&lt;/p&gt; &lt;p&gt;The new datasette-charts plugin has its own plugin hook to al",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2026/datasette-charts-gallery.webp",
+                "type": "webp"
+            },
+            "date_modified": "2026-11-27T23:57:17.000Z",
+            "date_published": "2026-11-27T23:57:17.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "datasette-charts 0.4a0",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://www.aikido.dev/blog/prepare-for-ai-cryptography-break-rsa",
+            "content_html": "Rumors say AI could break encryption like RSA. Learn what a real break would mean and how a cryptography inventory helps you prepare.Category: News",
+            "url": "https://www.aikido.dev/blog/prepare-for-ai-cryptography-break-rsa",
+            "title": "Preparing for the future AI cryptography break | Aikido Security's Blog",
+            "summary": "Rumors say AI could break encryption like RSA. Learn what a real break would mean and how a cryptography inventory helps you prepare.Category: News",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6b09eed39b48a548bc5d9709_crypto%20break%20og.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-11-27T20:58:00.000Z",
+            "date_published": "2026-11-27T20:58:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Preparing for the future AI cryptography break",
+                "blogTitle": "Aikido Security's Blog",
+                "blogLink": "https://www.aikido.dev",
+                "blogLinkMd5Hash": "0c77fc38d005cda3e64903cf14f94346",
+                "favicon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6acf3def3c501997119bc593_favicon-512.jpg"
+            }
+        },
+        {
+            "id": "https://css-tricks.com/?p=398761",
+            "content_html": "I honestly hadn't thought about \"getting caught\" by light-dark() — particularly when leaning heavily on it for this site — but Martin Underhill explains the user and rendering considerations, making me reflect on my choices as well.Using light-dark() without getting caught out originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+            "url": "https://css-tricks.com/using-light-dark-without-getting-caught-out/",
+            "title": "Using light-dark() without getting caught out | CSS-Tricks",
+            "summary": "I honestly hadn't thought about \"getting caught\" by light-dark() — particularly when leaning heavily on it for this site — but Martin Underhill explains the user and rendering considerations, making m",
+            "image": {
+                "height": "512",
+                "type": "image/png",
+                "url": "https://css-tricks.com/wp-content/uploads/2018/12/candles-lightbulb-1024x512.png",
+                "width": "1024",
+                "alt": "Using light-dark() without getting caught out"
+            },
+            "date_modified": "2026-11-27T16:01:31.000Z",
+            "date_published": "2026-11-27T16:01:31.000Z",
+            "author": {
+                "name": "Geoff Graham"
+            },
+            "tags": [
+                "Links",
+                "light-dark()",
+                "performance"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Using light-dark() without getting caught out",
+                "blogTitle": "CSS-Tricks",
+                "blogLink": "https://css-tricks.com",
+                "blogLinkMd5Hash": "b7ccd4b455c364f0f55fc55649723785",
+                "favicon": "https://css-tricks.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://blog.master.dev/?p=12150",
+            "content_html": "Josh W. Comeau: A free collection of 50+ professionally-recorded multi-sampled clicks and toggles. Distributed as an NPM package with optional React bindings.",
+            "url": "https://blog.master.dev/button-sounds/",
+            "title": "Button Sounds | Master.dev Blog RSS Feed",
+            "summary": "Josh W. Comeau: A free collection of 50+ professionally-recorded multi-sampled clicks and toggles. Distributed as an NPM package with optional React bindings.",
+            "image": {
+                "height": "630",
+                "url": "https://blog.master.dev/wp-json/social-image-generator/v1/image/12150",
+                "width": "1200"
+            },
+            "date_modified": "2026-11-27T15:43:53.000Z",
+            "date_published": "2026-11-27T15:43:53.000Z",
+            "author": {
+                "name": "Chris Coyier"
+            },
+            "tags": [
+                "The Beat",
+                "audio",
+                "Buttons"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Button Sounds",
+                "blogTitle": "Master.dev Blog RSS Feed",
+                "blogLink": "https://blog.master.dev",
+                "blogLinkMd5Hash": "61b7f9099864eec938d5589848ac72da",
+                "favicon": "https://blog.master.dev/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://blog.master.dev/?p=12137",
+            "content_html": "Mix the new random() function with offset-path shapes, sibling-index(), and sibling-count() to build CSS-only confetti explosions, full or partial, that burst on hover.",
+            "url": "https://blog.master.dev/confetti-shapes-random-a-fun-combination/",
+            "title": "Confetti + Shapes + random(): A Fun Combination! | Master.dev Blog RSS Feed",
+            "summary": "Mix the new random() function with offset-path shapes, sibling-index(), and sibling-count() to build CSS-only confetti explosions, full or partial, that burst on hover.",
+            "image": {
+                "height": "630",
+                "url": "https://blog.master.dev/wp-json/social-image-generator/v1/image/12137",
+                "width": "1200"
+            },
+            "date_modified": "2026-11-27T15:42:34.000Z",
+            "date_published": "2026-11-27T15:42:34.000Z",
+            "author": {
+                "name": "Temani Afif"
+            },
+            "tags": [
+                "Blog Post",
+                "@property",
+                "Animation",
+                "color-mix()",
+                "CSS",
+                "offset-path",
+                "random()",
+                "shape()",
+                "Shapes",
+                "sibling-count()",
+                "sibling-index()"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Confetti + Shapes + random(): A Fun Combination!",
+                "blogTitle": "Master.dev Blog RSS Feed",
+                "blogLink": "https://blog.master.dev",
+                "blogLinkMd5Hash": "61b7f9099864eec938d5589848ac72da",
+                "favicon": "https://blog.master.dev/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://blog.nginx.org/?p=75379",
+            "content_html": "At KubeCon + CloudNativeCon North America 2026, we had a lot of conversations with users trying to move off the now-archived Ingress-NGINX project. Its final release, v1.15.1, shipped on March 19, 2026. Clusters that run it keep working, but nobody will fix its bugs or patch its security issues anymore. The question we heard most […]",
+            "url": "https://blog.nginx.org/blog/moving-off-ingress-nginx-without-rewriting-your-ingress-resources",
+            "title": "Moving off Ingress-NGINX without rewriting your Ingress resources | NGINX Community Blog",
+            "summary": "At KubeCon + CloudNativeCon North America 2026, we had a lot of conversations with users trying to move off the now-archived Ingress-NGINX project. Its final release, v1.15.1, shipped on March 19, 202",
+            "image": {
+                "url": "https://nginxblog-8de1046ff5a84f2c-endpoint.azureedge.net/blobnginxbloga72cde487e/wp-content/uploads/2026/11/moving-off-ingress-nginx-alt-option7-wordpress.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-27T12:56:26.000Z",
+            "date_published": "2026-11-27T12:56:26.000Z",
+            "author": {
+                "name": "Alessandro"
+            },
+            "tags": [
+                "Ingress",
+                "Kubernetes",
+                "ingress",
+                "kubernetes"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Moving off Ingress-NGINX without rewriting your Ingress resources",
+                "blogTitle": "NGINX Community Blog",
+                "blogLink": "https://blog.nginx.org",
+                "blogLinkMd5Hash": "832a98a304298b762b7c232f82df6dcf",
+                "favicon": "https://nginxblog-8de1046ff5a84f2c-endpoint.azureedge.net/blobnginxbloga72cde487e/wp-content/uploads/2024/05/cropped-NGINX-product-square-2-32x32.png"
+            }
+        },
+        {
+            "id": "https://www.stepsecurity.io/blog/polinrider-malware-open-source-pull-requests",
+            "content_html": "PolinRider malware was force-pushed into AsyncAPI, CircuitVerse and Open Food Facts pull requests and ran in CircuitVerse's release CI. How it works, IOCs, and how to check your projects.",
+            "url": "https://www.stepsecurity.io/blog/polinrider-malware-open-source-pull-requests",
+            "title": "PolinRider Malware Force-Pushed Into AsyncAPI, CircuitVerse and Open Food Facts Pull Requests | Step Security Blog",
+            "summary": "PolinRider malware was force-pushed into AsyncAPI, CircuitVerse and Open Food Facts pull requests and ran in CircuitVerse's release CI. How it works, IOCs, and how to check your projects.",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bf8/6b075bead7959b6bbc9f7a33_6b075b4115eed26b7de0812f_polinrider-pull-requests-cover-v4.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-27T12:18:58.000Z",
+            "date_published": "2026-11-27T12:18:58.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "PolinRider Malware Force-Pushed Into AsyncAPI, CircuitVerse and Open Food Facts Pull Requests",
+                "blogTitle": "Step Security Blog",
+                "blogLink": "https://www.stepsecurity.io",
+                "blogLinkMd5Hash": "24b853cd91d5977a9af3395b8ae81579",
+                "favicon": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bc5/675212a565f0987a0779a91f_stesecurity-favicon.png"
+            }
+        },
+        {
+            "id": "https://www.aikido.dev/blog/black-friday-cyber-monday-50-off-ai-external-network-pentests",
+            "content_html": "Aikido external network pentests are 50% off through December 1. AI agents attack your perimeter from one domain and report only what they exploited.Category: News",
+            "url": "https://www.aikido.dev/blog/black-friday-cyber-monday-50-off-ai-external-network-pentests",
+            "title": "Black Friday + Cyber Monday: 50% off AI external network pentests | Aikido Security's Blog",
+            "summary": "Aikido external network pentests are 50% off through December 1. AI agents attack your perimeter from one domain and report only what they exploited.Category: News",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6b0958ff650fb9fd62877d09_2026%27s_AI_security_incidents_OG.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-11-27T10:17:00.000Z",
+            "date_published": "2026-11-27T10:17:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Black Friday + Cyber Monday: 50% off AI external network pentests",
+                "blogTitle": "Aikido Security's Blog",
+                "blogLink": "https://www.aikido.dev",
+                "blogLinkMd5Hash": "0c77fc38d005cda3e64903cf14f94346",
+                "favicon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6acf3def3c501997119bc593_favicon-512.jpg"
+            }
+        },
+        {
+            "id": "https://www.aikido.dev/blog/aikido-vs-artex",
+            "content_html": "We ran ARTEX and Aikido's external network pentest on the same test environment. Aikido reported 31 findings against 13 for ARTEX, including 11 critical.Category: News",
+            "url": "https://www.aikido.dev/blog/aikido-vs-artex",
+            "title": "What we learned from benchmarking ARTEX internally | Aikido Security's Blog",
+            "summary": "We ran ARTEX and Aikido's external network pentest on the same test environment. Aikido reported 31 findings against 13 for ARTEX, including 11 critical.Category: News",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6b088f8bee44218017608c39_Aikido-x-Japan-Cloud_OG.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-27T08:00:00.000Z",
+            "date_published": "2026-11-27T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "What we learned from benchmarking ARTEX internally",
+                "blogTitle": "Aikido Security's Blog",
+                "blogLink": "https://www.aikido.dev",
+                "blogLinkMd5Hash": "0c77fc38d005cda3e64903cf14f94346",
+                "favicon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6acf3def3c501997119bc593_favicon-512.jpg"
+            }
+        },
+        {
+            "id": "https://kaminashi-developer.hatenablog.jp/entry/2026/11/27/123000",
+            "content_html": "カミナシの社内セキュリティ競技会「ごーとんカップ 2026」の開催レポート。第4回となる今回は「AI使用禁止」ルールで実施！GitHub Actions から Secret を抜き出したり、WAFログへのプロンプトインジェクションなど、出題内容や当日の様子を紹介します。",
+            "url": "https://kaminashi-developer.hatenablog.jp/entry/2026/11/27/123000",
+            "title": "AI に頼らず素手で挑む！カミナシ社内セキュリティ競技会『ごーとんカップ 2026』 | カミナシ エンジニアブログ",
+            "summary": "カミナシの社内セキュリティ競技会「ごーとんカップ 2026」の開催レポート。第4回となる今回は「AI使用禁止」ルールで実施！GitHub Actions から Secret を抜き出したり、WAFログへのプロンプトインジェクションなど、出題内容や当日の様子を紹介します。",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/b25370fe6a978e3a307576c9d892d37758759e93/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaminashi-developer%2F20261127%2F20261127124329.png",
+                "alt": "AI に頼らず素手で挑む！カミナシ社内セキュリティ競技会『ごーとんカップ 2026』 - カミナシ エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-11-27T03:30:00.000Z",
+            "date_published": "2026-11-27T03:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 23,
+                "originalTitle": "AI に頼らず素手で挑む！カミナシ社内セキュリティ競技会『ごーとんカップ 2026』",
+                "blogTitle": "カミナシ エンジニアブログ",
+                "blogLink": "https://kaminashi-developer.hatenablog.jp/",
+                "blogLinkMd5Hash": "457473508b3ba636eaffd50a3047adff",
+                "favicon": "https://kaminashi-developer.hatenablog.jp/icon/favicon"
+            }
+        },
+        {
+            "id": "https://piccalil.li/the-index/208/?ref=main-rss-feed",
+            "content_html": "A round-up of round-ups of Black Friday dealsIt's that time of year again! Let's have a look at the deals we, and our much loved community are offering this year. It's the most important time of year for independents, so let's give them our support 💛Button soundsJosh Comeau is here producing the goods, yet again. The CRT effect he's achieved is delightful too.If your strategy is the same as everyone else’s, it’s not a strategyPavel here with plenty of sage advice on how to navigate an industry i",
+            "url": "https://piccalil.li/the-index/208/",
+            "title": "The Index: Issue #208 | Piccalilli - Everything",
+            "summary": "A round-up of round-ups of Black Friday dealsIt's that time of year again! Let's have a look at the deals we, and our much loved community are offering this year. It's the most important time of year ",
+            "image": {
+                "url": "https://piccalil.li/images/the-index-og-image.png",
+                "alt": "Page image for Piccalilli",
+                "type": "png"
+            },
+            "date_modified": "2026-11-27T01:55:00.000Z",
+            "date_published": "2026-11-27T01:55:00.000Z",
+            "author": {
+                "name": "Andy Bell"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The Index: Issue #208",
+                "blogTitle": "Piccalilli - Everything",
+                "blogLink": "https://piccalil.li/",
+                "blogLinkMd5Hash": "3c694e3af711d7057a42a87454051e52",
+                "favicon": "https://piccalil.li/favicons/favicon.ico"
+            }
+        },
+        {
+            "id": "https://piccalil.li/links/black-friday-deals-2026/?ref=main-rss-feed",
+            "content_html": "The independent education community are really coming together this year to give each other a foot-up. It's in response to the bad times we've gone through and we've ended up becoming a nice, tight community.We're all determined to push on in 2027 and give you, the readers, the good stuff as we navigate more and more change in our industry. The tighter the industry community is, the better for everyone. Us independent educators and publishers won't stop and will try to be at the centre of that.T",
+            "url": "https://piccalil.li/links/black-friday-deals-2026/",
+            "title": "A round-up of round-ups of Black Friday deals | Piccalilli - Everything",
+            "summary": "The independent education community are really coming together this year to give each other a foot-up. It's in response to the bad times we've gone through and we've ended up becoming a nice, tight co",
+            "image": {
+                "url": "https://piccalil.b-cdn.net/api/og-image?slug=black-friday-deals-2026/",
+                "alt": "Page image for Piccalilli"
+            },
+            "date_modified": "2026-11-27T00:55:00.000Z",
+            "date_published": "2026-11-27T00:55:00.000Z",
+            "author": {
+                "name": "Andy Bell"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "A round-up of round-ups of Black Friday deals",
+                "blogTitle": "Piccalilli - Everything",
+                "blogLink": "https://piccalil.li/",
+                "blogLinkMd5Hash": "3c694e3af711d7057a42a87454051e52",
+                "favicon": "https://piccalil.li/favicons/favicon.ico"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/datasette/datasette-mcp/releases/tag/0.4\"&gt;datasette-mcp 0.4&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Fixed for compatibility with &lt;a href=\"https://docs.datasette.io/en/latest/changelog.html#a44-2026-11-22\"&gt;Datasette 1.0a44&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Tags: &lt;a href=\"https://simonwillison.net/tags/model-context-protocol\"&gt;model-context-protocol&lt;/a&gt;, &lt;a href=\"https://simonwillison.net/tags/datasette\"&gt;datasette&lt;/a&gt;&lt;/p&gt; ",
+            "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+            "title": "datasette-mcp 0.4 | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/datasette/datasette-mcp/releases/tag/0.4\"&gt;datasette-mcp 0.4&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Fixed for compatibility with &lt;a href=\"https://docs.datasette.io/en/late",
+            "date_modified": "2026-11-27T00:26:17.000Z",
+            "date_published": "2026-11-27T00:26:17.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "datasette-mcp 0.4",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://eslint.org/blog/2026/11/eslint-v10.16.0-released/",
+            "content_html": "HighlightsFaster config mergingThis release includes an updated version of @eslint/config-array with a faster config object merging implementation. This is the step in which ESLint calculates the final configuration for a file based on all config objects that match the file. In benchmarks with a moderate to large number of matching config objects, this step is now about two times faster.Config merging is only one part of an ESLint run, so the effect on total lint time depends on your project. No",
+            "url": "https://eslint.org/blog/2026/11/eslint-v10.16.0-released/",
+            "title": "ESLint v10.16.0 released | ESLint Blog",
+            "summary": "HighlightsFaster config mergingThis release includes an updated version of @eslint/config-array with a faster config object merging implementation. This is the step in which ESLint calculates the fina",
+            "image": {
+                "url": "https://eslint.org/assets/images/blog-covers/release-notes-minor.png",
+                "alt": "ESLint v10.16.0 released",
+                "type": "png"
+            },
+            "date_modified": "2026-11-27T00:00:00.000Z",
+            "date_published": "2026-11-27T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ESLint v10.16.0 released",
+                "blogTitle": "ESLint Blog",
+                "blogLink": "https://eslint.org/feed.xml",
+                "blogLinkMd5Hash": "b9e963552193f51c0094592cd3d72cb4",
+                "favicon": "https://eslint.org/favicon.ico"
+            }
+        },
+        {
+            "id": "https://polypane.app/blog/writing-and-debugging-speculation-rules-with-polypane/",
+            "content_html": "Speculation rules are a way to ask the browser to download or even render pages that your visitors are likely to visit next, so that when…",
+            "url": "https://polypane.app/blog/writing-and-debugging-speculation-rules-with-polypane/",
+            "title": "Writing and debugging speculation rules with Polypane | Polypane Blog",
+            "summary": "Speculation rules are a way to ask the browser to download or even render pages that your visitors are likely to visit next, so that when…",
+            "image": {
+                "height": "630",
+                "url": "https://polypane.app/og-images/writing-and-debugging-speculation-rules-with-polypane.png",
+                "width": "1200",
+                "alt": "Polypane",
+                "type": "png"
+            },
+            "date_modified": "2026-11-27T00:00:00.000Z",
+            "date_published": "2026-11-27T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Writing and debugging speculation rules with Polypane",
+                "blogTitle": "Polypane Blog",
+                "blogLink": "https://polypane.app",
+                "blogLinkMd5Hash": "71f70c7115f14711462090a5452497e7",
+                "favicon": "https://polypane.app/favicon-32x32.png?v=5df5528946772487a6ab462ff2125f26"
+            }
+        },
+        {
+            "id": "https://www.mitsue.co.jp/seminar/bowen_craggs_2027.html",
+            "content_html": "",
+            "url": "https://www.mitsue.co.jp/seminar/bowen_craggs_2027.html",
+            "title": "セミナー：企業サイトのコミュニケーショントレンド2027（1月21日開催） | Mitsue-Links [ミツエーリンクス]",
+            "image": {
+                "url": "https://www.mitsue.co.jp/assets/img/og/seminar_bowen_craggs_2027.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-11-27T00:00:00.000Z",
+            "date_published": "2026-11-27T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "セミナー：企業サイトのコミュニケーショントレンド2027（1月21日開催）",
+                "blogTitle": "Mitsue-Links [ミツエーリンクス]",
+                "blogLink": "http://www.mitsue.co.jp",
+                "blogLinkMd5Hash": "b5e6ec681b24b0c52c5b8284b76252bc"
+            }
+        },
+        {
+            "id": "https://www.mitsue.co.jp/seminar/layered_security.html",
+            "content_html": "",
+            "url": "https://www.mitsue.co.jp/seminar/layered_security.html",
+            "title": "セミナー：脆弱性対応に追われないためのWebサイトセキュリティ（1月26日開催） | Mitsue-Links [ミツエーリンクス]",
+            "image": {
+                "url": "https://www.mitsue.co.jp/assets/img/og/seminar_layered_security.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-11-27T00:00:00.000Z",
+            "date_published": "2026-11-27T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "セミナー：脆弱性対応に追われないためのWebサイトセキュリティ（1月26日開催）",
+                "blogTitle": "Mitsue-Links [ミツエーリンクス]",
+                "blogLink": "http://www.mitsue.co.jp",
+                "blogLinkMd5Hash": "b5e6ec681b24b0c52c5b8284b76252bc"
+            }
+        },
+        {
+            "id": "https://www.mitsue.co.jp/knowledge/mailnews_backnumber.html",
+            "content_html": "",
+            "url": "https://www.mitsue.co.jp/knowledge/mailnews_backnumber.html",
+            "title": "ナレッジ：Mitsue-Links News Vol.295 発行 | Mitsue-Links [ミツエーリンクス]",
+            "image": {
+                "url": "https://www.mitsue.co.jp/assets/img/og/mailnews.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-11-27T00:00:00.000Z",
+            "date_published": "2026-11-27T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ナレッジ：Mitsue-Links News Vol.295 発行",
+                "blogTitle": "Mitsue-Links [ミツエーリンクス]",
+                "blogLink": "http://www.mitsue.co.jp",
+                "blogLinkMd5Hash": "b5e6ec681b24b0c52c5b8284b76252bc"
+            }
+        },
+        {
+            "id": "https://www.mitsue.co.jp/knowledge/column/20261127.html",
+            "content_html": "",
+            "url": "https://www.mitsue.co.jp/knowledge/column/20261127.html",
+            "title": "コラム：脆弱性と付き合える組織 / 加藤 | Mitsue-Links [ミツエーリンクス]",
+            "image": {
+                "url": "https://www.mitsue.co.jp/assets/img/og/20261127_column.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-11-27T00:00:00.000Z",
+            "date_published": "2026-11-27T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "コラム：脆弱性と付き合える組織 / 加藤",
+                "blogTitle": "Mitsue-Links [ミツエーリンクス]",
+                "blogLink": "http://www.mitsue.co.jp",
+                "blogLinkMd5Hash": "b5e6ec681b24b0c52c5b8284b76252bc"
+            }
+        },
+        {
+            "id": "https://blog.nginx.org/?p=75375",
+            "content_html": "KubeCon + CloudNativeCon North America wrapped up in Salt Lake City on November 12. Thank you to everyone who came by our booth or attended one of our sessions, and to Nutanix, Red Hat, and vCluster for presenting lightning talks with us at the booth! As expected, AI on Kubernetes ran through the whole show: […]",
+            "url": "https://blog.nginx.org/blog/kubecon-cloudnativecon-north-america-2026-what-we-heard-in-salt-lake-city",
+            "title": "KubeCon + CloudNativeCon North America 2026: What we heard in Salt Lake City | NGINX Community Blog",
+            "summary": "KubeCon + CloudNativeCon North America wrapped up in Salt Lake City on November 12. Thank you to everyone who came by our booth or attended one of our sessions, and to Nutanix, Red Hat, and vCluster f",
+            "image": {
+                "url": "https://nginxblog-8de1046ff5a84f2c-endpoint.azureedge.net/blobnginxbloga72cde487e/wp-content/uploads/2026/11/kubecon-na-2026-recap-alt-option1.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-26T22:43:57.000Z",
+            "date_published": "2026-11-26T22:43:57.000Z",
+            "author": {
+                "name": "Alessandro"
+            },
+            "tags": [
+                "Announcement",
+                "Kubernetes",
+                "announcement",
+                "kubernetes"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "KubeCon + CloudNativeCon North America 2026: What we heard in Salt Lake City",
+                "blogTitle": "NGINX Community Blog",
+                "blogLink": "https://blog.nginx.org",
+                "blogLinkMd5Hash": "832a98a304298b762b7c232f82df6dcf",
+                "favicon": "https://nginxblog-8de1046ff5a84f2c-endpoint.azureedge.net/blobnginxbloga72cde487e/wp-content/uploads/2024/05/cropped-NGINX-product-square-2-32x32.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+            "content_html": " &lt;blockquote cite=\"https://www.tracingwoodgrains.com/p/spitting-in-the-face-of-glaude\"&gt;&lt;p&gt;Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly serious credentials attached to ostensibly serious institutions who want to publish things attached to their reputations and ",
+            "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+            "title": "Quoting Jack Despain Zhou | Simon Willison's Weblog",
+            "summary": " &lt;blockquote cite=\"https://www.tracingwoodgrains.com/p/spitting-in-the-face-of-glaude\"&gt;&lt;p&gt;Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, a",
+            "date_modified": "2026-11-26T15:09:31.000Z",
+            "date_published": "2026-11-26T15:09:31.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Quoting Jack Despain Zhou",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "/blog/release/v27.0.0-alpha.0.2.0?1795689016201",
+            "content_html": "",
+            "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.2.0",
+            "title": "Node.js 27.0.0-alpha.0.2.0 (Alpha) | Node.js Blog",
+            "image": {
+                "url": "https://nodejs.org/en/next-data/og/release/Node.js%20%E2%80%94%20Node.js%2027.0.0-alpha.0.2.0%20(Alpha)"
+            },
+            "date_modified": "2026-11-26T10:30:16.000Z",
+            "date_published": "2026-11-26T10:30:16.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Node.js 27.0.0-alpha.0.2.0 (Alpha)",
+                "blogTitle": "Node.js Blog",
+                "blogLink": "https://nodejs.org/en",
+                "blogLinkMd5Hash": "f9713e9e82354fa90a736db84b4c485e",
+                "favicon": "https://nodejs.org/static/images/favicons/favicon.png"
+            }
+        },
+        {
+            "id": "https://www.stepsecurity.io/blog/fail2install-cve-2026-132165",
+            "content_html": "Drupal CVE-2026-132165 (Fail2Install) is an unauthenticated installer flaw that can reinstall a live site and run code. We reproduced the re-entry, confirmed the fix, and show how to detect and block it.",
+            "url": "https://www.stepsecurity.io/blog/fail2install-cve-2026-132165",
+            "title": "Fail2Install (CVE-2026-132165): Drupal Installer Flaw Lets Attackers Take Over Sites and Run Code | Step Security Blog",
+            "summary": "Drupal CVE-2026-132165 (Fail2Install) is an unauthenticated installer flaw that can reinstall a live site and run code. We reproduced the re-entry, confirmed the fix, and show how to detect and block ",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bf8/6b07530789620bf228fe3061_6b0752df79f77b9df149f6f3_cve-2026-132165-cover-house-v3.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-26T09:16:51.000Z",
+            "date_published": "2026-11-26T09:16:51.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Fail2Install (CVE-2026-132165): Drupal Installer Flaw Lets Attackers Take Over Sites and Run Code",
+                "blogTitle": "Step Security Blog",
+                "blogLink": "https://www.stepsecurity.io",
+                "blogLinkMd5Hash": "24b853cd91d5977a9af3395b8ae81579",
+                "favicon": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bc5/675212a565f0987a0779a91f_stesecurity-favicon.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://www.sqlite.org/rsync.html\"&gt;sqlite3_rsync: Database Remote-Copy Tool For SQLite&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;This additional SQLite tool has been around for a while now - it was added as \"experimental\" &lt;a href=\"https://www.sqlite.org/releaselog/3_47_0.html\"&gt;in SQLite 3.47.0 in October 2024&lt;/a&gt; and enhanced in &lt;a href=\"https://www.sqlite.org/releaselog/3_50_0.html\"&gt;SQLite 3.50.0 in May 2025&lt;/a&gt;. It was only today that I understood one of its most attractive characteristics.&lt;/p&gt;&lt;p&gt;N",
+            "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+            "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://www.sqlite.org/rsync.html\"&gt;sqlite3_rsync: Database Remote-Copy Tool For SQLite&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;This additional SQLite tool has been around for a while now - it was added a",
+            "date_modified": "2026-11-26T06:08:25.000Z",
+            "date_published": "2026-11-26T06:08:25.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+            "content_html": " &lt;p&gt;&lt;a href=\"https://news.ycombinator.com/item?id=50647673#50651685\"&gt;My comment&lt;/a&gt; on &lt;a href=\"https://news.ycombinator.com/item?id=50647673\"&gt;The New York Times warns photographers not to update Photoshop over AI features&lt;/a&gt; &amp;mdash; Hacker News.&lt;/p&gt;&lt;p&gt;I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I asked if they could fix things up if I had a stain on my shirt and they said absolutely not - they present photograph",
+            "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+            "title": "The New York Times warns photographers not to update Photoshop over AI features | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;a href=\"https://news.ycombinator.com/item?id=50647673#50651685\"&gt;My comment&lt;/a&gt; on &lt;a href=\"https://news.ycombinator.com/item?id=50647673\"&gt;The New York Times warns photographers not to update Phot",
+            "date_modified": "2026-11-26T05:08:46.000Z",
+            "date_published": "2026-11-26T05:08:46.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The New York Times warns photographers not to update Photoshop over AI features",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "c1c480e1-a3be-4d1a-9b6f-e9312f69eacb",
+            "content_html": "",
+            "url": "https://digital-agency-news.digital.go.jp/articles/2026-11-26",
+            "title": "デジタル庁デザインシステムをどう使うか：導入先に合わせた「ローカルデザインシステム」を作る | デジタル庁ニュース一覧",
+            "image": {
+                "url": "https://digital-agency-news.digital.go.jp/assets/contents/node/information/field_thumbnail_image/c1c480e1-a3be-4d1a-9b6f-e9312f69eacb/894f2baa/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%20%281%29.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-26T02:46:26.000Z",
+            "date_published": "2026-11-26T02:46:26.000Z",
+            "author": {
+                "name": "デジタル庁"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 132,
+                "originalTitle": "デジタル庁デザインシステムをどう使うか：導入先に合わせた「ローカルデザインシステム」を作る",
+                "blogTitle": "デジタル庁ニュース一覧",
+                "blogLink": "https://digital-agency-news.digital.go.jp/",
+                "blogLinkMd5Hash": "cd1176c3197911f124f7b786c142a619",
+                "favicon": "https://digital-agency-news.digital.go.jp/themes/custom/gov_theme_da_news/favicon.ico"
+            }
+        },
+        {
+            "id": "https://ishadeed.com/article/web-personality/",
+            "content_html": "",
+            "url": "https://ishadeed.com/article/web-personality/",
+            "title": "The web is losing its personality | Ahmad Shadeed",
+            "image": {
+                "url": "https://ishadeed.com/assets/web-personality/thumb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-11-26T00:00:00.000Z",
+            "date_published": "2026-11-26T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "The web is losing its personality",
+                "blogTitle": "Ahmad Shadeed",
+                "blogLink": "https://ishadeed.com/",
+                "blogLinkMd5Hash": "cc1612e09aa1f42d1b410a65875f61fe",
+                "favicon": "https://ishadeed.com/assets/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://vite.dev/blog/announcing-vite8-4",
+            "content_html": "",
+            "url": "https://vite.dev/blog/announcing-vite8-4",
+            "title": "Vite 8.4 is out! | Vite",
+            "image": {
+                "url": "https://vite.dev/og-image-announcing-vite8-4.webp",
+                "type": "webp"
+            },
+            "date_modified": "2026-11-26T00:00:00.000Z",
+            "date_published": "2026-11-26T00:00:00.000Z",
+            "author": {
+                "name": "The Vite Team"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Vite 8.4 is out!",
+                "blogTitle": "Vite",
+                "blogLink": "https://vite.dev/blog",
+                "blogLinkMd5Hash": "53c2f1fcf701becb83a80e5e6e24ffa4",
+                "favicon": "https://vite.dev/logo-without-border.svg"
+            }
+        },
+        {
+            "id": "https://pnpm.io/blog/releases/12.24.0",
+            "content_html": "This release adds pnpm audit deprecations and pnpm audit engines, moves install warnings into a checks footer above Done in, and lets global installs link approved agent skills. It carries a security fix: pnpm now reads every package tarball the way npm does, or refuses it. pnpm approve ...",
+            "url": "https://pnpm.io/blog/releases/12.24.0",
+            "title": "pnpm 12.24.0 | pnpm Blog",
+            "summary": "This release adds pnpm audit deprecations and pnpm audit engines, moves install warnings into a checks footer above Done in, and lets global installs link approved agent skills. It carries a security ",
+            "image": {
+                "url": "https://pnpm.io/img/ogimage.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-26T00:00:00.000Z",
+            "date_published": "2026-11-26T00:00:00.000Z",
+            "author": {
+                "name": "Zoltan Kochan"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "pnpm 12.24.0",
+                "blogTitle": "pnpm Blog",
+                "blogLink": "https://pnpm.io/blog",
+                "blogLinkMd5Hash": "ee683ee84b103511e83fb54df4a7fa3c",
+                "favicon": "https://pnpm.io/img/favicon.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+            "content_html": " &lt;blockquote cite=\"https://scottaaronson.blog/?p=10379\"&gt;&lt;p&gt;It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog. Picture van Leeuwenhoek first training a microscope on pondwater, or Galileo first training his telescope on the stars. That might give you &lt;em&gt;some&lt;/em&gt; idea of how our resolution into the complexity-theoretic universe, and the whole univer",
+            "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+            "title": "Quoting Scott Aaronson | Simon Willison's Weblog",
+            "summary": " &lt;blockquote cite=\"https://scottaaronson.blog/?p=10379\"&gt;&lt;p&gt;It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical ",
+            "date_modified": "2026-11-25T23:26:32.000Z",
+            "date_published": "2026-11-25T23:26:32.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Quoting Scott Aaronson",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://socket.dev/blog/eliminating-vulnerabilities-without-upgrading-dependencies",
+            "content_html": "Socket CEO Feross Aboukhadijeh joins Risky Business Podcast to discuss eliminating open source vulnerabilities at scale without requiring dependency upgrades.",
+            "url": "https://socket.dev/blog/eliminating-vulnerabilities-without-upgrading-dependencies",
+            "title": "Risky Biz Podcast: Eliminating Vulnerabilities Without Upgrading Dependencies | Socket",
+            "summary": "Socket CEO Feross Aboukhadijeh joins Risky Business Podcast to discuss eliminating open source vulnerabilities at scale without requiring dependency upgrades.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/cgdhsj6q/production/b1a0a6f590fa957bb3672d171c63bf47aed51203-909x511.png?w=1000&q=95&fit=max&auto=format",
+                "type": "png"
+            },
+            "date_modified": "2026-11-25T22:50:32.756Z",
+            "date_published": "2026-11-25T22:50:32.756Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Risky Biz Podcast: Eliminating Vulnerabilities Without Upgrading Dependencies",
+                "blogTitle": "Socket",
+                "blogLink": "https://socket.dev/api/blog/feed.json",
+                "blogLinkMd5Hash": "1ad7c1f71e0aa48ea310910290f40d4a",
+                "favicon": "https://socket.dev/next-public-assets/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.aikido.dev/blog/vulnerability-response-readiness",
+            "content_html": "Attackers now exploit new CVEs within hours. Learn how connecting your cloud, containers and domains ahead of time lets you find affected assets in minutes.Category: News",
+            "url": "https://www.aikido.dev/blog/vulnerability-response-readiness",
+            "title": "Response readiness starts before the next 2shell appears | Aikido Security's Blog",
+            "summary": "Attackers now exploit new CVEs within hours. Learn how connecting your cloud, containers and domains ahead of time lets you find affected assets in minutes.Category: News",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6b072f64d49ff44850e69117_response_readiness_OG.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-11-25T18:54:00.000Z",
+            "date_published": "2026-11-25T18:54:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Response readiness starts before the next 2shell appears",
+                "blogTitle": "Aikido Security's Blog",
+                "blogLink": "https://www.aikido.dev",
+                "blogLinkMd5Hash": "0c77fc38d005cda3e64903cf14f94346",
+                "favicon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6acf3def3c501997119bc593_favicon-512.jpg"
+            }
+        },
+        {
+            "id": "https://socket.dev/blog/socket-syntax-highlighting-theme",
+            "content_html": "Socket Calm is a free, open source syntax highlighting theme for VS Code, Vim, and Neovim, inspired by Socket's design system.",
+            "url": "https://socket.dev/blog/socket-syntax-highlighting-theme",
+            "title": "Introducing Socket Calm: A Syntax Highlighting Theme for VS Code, Vim, and Neovim | Socket",
+            "summary": "Socket Calm is a free, open source syntax highlighting theme for VS Code, Vim, and Neovim, inspired by Socket's design system.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/cgdhsj6q/production/da216d1cb7bf57a168a68d9462558cab892b273e-1600x900.png?w=1000&q=95&fit=max&auto=format",
+                "type": "png"
+            },
+            "date_modified": "2026-11-25T18:52:26.336Z",
+            "date_published": "2026-11-25T18:52:26.336Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Introducing Socket Calm: A Syntax Highlighting Theme for VS Code, Vim, and Neovim",
+                "blogTitle": "Socket",
+                "blogLink": "https://socket.dev/api/blog/feed.json",
+                "blogLinkMd5Hash": "1ad7c1f71e0aa48ea310910290f40d4a",
+                "favicon": "https://socket.dev/next-public-assets/favicon.ico"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.3a0\"&gt;datasette-charts 0.3a0&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I added chart annotations to &lt;a href=\"https://github.com/datasette/datasette-charts\"&gt;datasette-charts&lt;/a&gt;!&lt;/p&gt;&lt;p&gt;You can now render a chart and then annotate it with lines, shaded areas, labels, or a combination of the three.&lt;/p&gt;&lt;p&gt;A chart with annotations looks like this:&lt;/p&gt;&lt;p&gt;&lt;img alt=\"Screenshot of an annotated bar chart with the y-axis label &amp;quot;↑ Tota",
+            "url": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+            "title": "datasette-charts 0.3a0 | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.3a0\"&gt;datasette-charts 0.3a0&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I added chart annotations to &lt;a href=\"https://github.com/data",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2026/chart-annotate.gif",
+                "type": "gif"
+            },
+            "date_modified": "2026-11-25T18:16:50.000Z",
+            "date_published": "2026-11-25T18:16:50.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "datasette-charts 0.3a0",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://blog.master.dev/?p=12125",
+            "content_html": "CSS anchor positioning is usually about tethering one element to another, but switching which anchor an element is attached to (and animating between them) turns anchors into waypoints for slick motion effects with very little code.",
+            "url": "https://blog.master.dev/motion-design-with-css-anchors/",
+            "title": "Motion Design with CSS Anchors | Master.dev Blog RSS Feed",
+            "summary": "CSS anchor positioning is usually about tethering one element to another, but switching which anchor an element is attached to (and animating between them) turns anchors into waypoints for slick motio",
+            "image": {
+                "height": "630",
+                "url": "https://blog.master.dev/wp-json/social-image-generator/v1/image/12125",
+                "width": "1200"
+            },
+            "date_modified": "2026-11-25T18:14:31.000Z",
+            "date_published": "2026-11-25T18:14:31.000Z",
+            "author": {
+                "name": "Preethi Sam"
+            },
+            "tags": [
+                "Blog Post",
+                ":has()",
+                "Anchor",
+                "anchor-scope",
+                "Animation",
+                "CSS"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Motion Design with CSS Anchors",
+                "blogTitle": "Master.dev Blog RSS Feed",
+                "blogLink": "https://blog.master.dev",
+                "blogLinkMd5Hash": "61b7f9099864eec938d5589848ac72da",
+                "favicon": "https://blog.master.dev/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://github.blog/?p=100468",
+            "content_html": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers.The post Art of play in the age of AI appeared first on The GitHub Blog.",
+            "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+            "title": "Art of play in the age of AI | The GitHub Blog",
+            "summary": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers.The post Art of play in the age of AI ",
+            "image": {
+                "height": "2098",
+                "type": "image/jpeg",
+                "url": "https://github.blog/wp-content/uploads/2026/11/V2A4703-e1795546935752.jpg?fit=3648%2C2098",
+                "width": "3648"
+            },
+            "date_modified": "2026-11-25T16:00:00.000Z",
+            "date_published": "2026-11-25T16:00:00.000Z",
+            "author": {
+                "name": "Polly Davidson"
+            },
+            "tags": [
+                "Company news",
+                "News &amp; insights",
+                "GitHub Shop"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Art of play in the age of AI",
+                "blogTitle": "The GitHub Blog",
+                "blogLink": "https://github.blog/",
+                "blogLinkMd5Hash": "f5d9dec3dc3bf03d9b3049b109e60a1d",
+                "favicon": "https://github.githubassets.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://css-tricks.com/?p=398743",
+            "content_html": "Hey folks! I’m just so dang excited about this little project I’m working on with long-time author Lee Meyer that I had to share it with you before it goes out.We’re going full 2013-meets-2026 with an art-directed piece that …RSS Club: Preview Art-Directed Scrollytelling Article originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+            "url": "https://css-tricks.com/rss-club-preview-art-directed-scrollytelling-article/",
+            "title": "RSS Club: Preview Art-Directed Scrollytelling Article | CSS-Tricks",
+            "summary": "Hey folks! I’m just so dang excited about this little project I’m working on with long-time author Lee Meyer that I had to share it with you before it goes out.We’re going full 2013-meets-2026 with an",
+            "image": {
+                "height": "600",
+                "type": "image/webp",
+                "url": "https://css-tricks.com/wp-content/uploads/2026/11/css-tricks-gradient-logo-default.webp",
+                "width": "1200",
+                "alt": "CSS Star Logo with a gradient fill that goes from orange to pink."
+            },
+            "date_modified": "2026-11-25T15:32:42.000Z",
+            "date_published": "2026-11-25T15:32:42.000Z",
+            "author": {
+                "name": "Geoff Graham"
+            },
+            "tags": [
+                "RSS Club",
+                "Scroll Driven Animation"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "RSS Club: Preview Art-Directed Scrollytelling Article",
+                "blogTitle": "CSS-Tricks",
+                "blogLink": "https://css-tricks.com",
+                "blogLinkMd5Hash": "b7ccd4b455c364f0f55fc55649723785",
+                "favicon": "https://css-tricks.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://github.blog/?p=99982",
+            "content_html": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill.The post How to choose the next safe step in application modernization appeared first on The GitHub Blog.",
+            "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+            "title": "How to choose the next safe step in application modernization | The GitHub Blog",
+            "summary": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill.The post How to choose the next safe step in application moderniza",
+            "image": {
+                "height": "1080",
+                "type": "image/png",
+                "url": "https://github.blog/wp-content/uploads/2026/11/38b3dc4817bfb01261d608e093dda2cdf3392f0886a14b95208bc6f1cd49e58d-1920x1080-1.png",
+                "width": "1920"
+            },
+            "date_modified": "2026-11-25T15:00:00.000Z",
+            "date_published": "2026-11-25T15:00:00.000Z",
+            "author": {
+                "name": "Sam Quakenbush"
+            },
+            "tags": [
+                "AI &amp; ML",
+                "GitHub Copilot",
+                "application modernization"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "How to choose the next safe step in application modernization",
+                "blogTitle": "The GitHub Blog",
+                "blogLink": "https://github.blog/",
+                "blogLinkMd5Hash": "f5d9dec3dc3bf03d9b3049b109e60a1d",
+                "favicon": "https://github.githubassets.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://css-tricks.com/?p=398126",
+            "content_html": "Where style queries shine is when the condition and the styles need to live in different places, or when one condition needs to affect several things at once: components that keep working, and adapt sensibly, no matter where they end up.Style Queries as Conditional Modifiers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+            "url": "https://css-tricks.com/css-style-queries-as-conditional-modifiers/",
+            "title": "Style Queries as Conditional Modifiers | CSS-Tricks",
+            "summary": "Where style queries shine is when the condition and the styles need to live in different places, or when one condition needs to affect several things at once: components that keep working, and adapt s",
+            "image": {
+                "height": "600",
+                "type": "image/png",
+                "url": "https://css-tricks.com/wp-content/uploads/2022/10/container-style-queries.png",
+                "width": "1200",
+                "alt": "Style Queries as Conditional Modifiers"
+            },
+            "date_modified": "2026-11-25T14:06:34.000Z",
+            "date_published": "2026-11-25T14:06:34.000Z",
+            "author": {
+                "name": "Kevin Powell"
+            },
+            "tags": [
+                "Articles",
+                "layout",
+                "Style Queries"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Style Queries as Conditional Modifiers",
+                "blogTitle": "CSS-Tricks",
+                "blogLink": "https://css-tricks.com",
+                "blogLinkMd5Hash": "b7ccd4b455c364f0f55fc55649723785",
+                "favicon": "https://css-tricks.com/favicon.ico"
+            }
+        },
+        {
+            "id": "01M87EHEACB4SNPV680X1CZPQ1",
+            "content_html": "Flip one toggle to make your site searchable by AI agents — complete with automatic content indexing, a discoverable search API, and native HTTP QUERY support.",
+            "url": "https://blog.cloudflare.com/search-for-agents/",
+            "title": "Introducing Search for Agents | Cloudflare Blog",
+            "summary": "Flip one toggle to make your site searchable by AI agents — complete with automatic content indexing, a discoverable search API, and native HTTP QUERY support.",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M87EHBMCJY691A3ADBXCMG6A.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-11-25T14:00:00.000Z",
+            "date_published": "2026-11-25T14:00:00.000Z",
+            "author": {
+                "name": "Celso Martinho"
+            },
+            "tags": [
+                "Agents",
+                "AI",
+                "AI Search"
+            ],
+            "_custom": {
+                "hatenaCount": 4,
+                "originalTitle": "Introducing Search for Agents",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.aikido.dev/blog/deep-review-secure-every-commit",
+            "content_html": "Learn how Aikido's Deep Review reasons about your pull requests to find bugs, quality and security issues in your code before your merge.Category: Product Updates",
+            "url": "https://www.aikido.dev/blog/deep-review-secure-every-commit",
+            "title": "Deep Review: secure every commit | Aikido Security's Blog",
+            "summary": "Learn how Aikido's Deep Review reasons about your pull requests to find bugs, quality and security issues in your code before your merge.Category: Product Updates",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6b06ff34ae94dd843a9eb7ab_2026%27s_AI_security_incidents_OG.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-11-25T14:00:00.000Z",
+            "date_published": "2026-11-25T14:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Deep Review: secure every commit",
+                "blogTitle": "Aikido Security's Blog",
+                "blogLink": "https://www.aikido.dev",
+                "blogLinkMd5Hash": "0c77fc38d005cda3e64903cf14f94346",
+                "favicon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6acf3def3c501997119bc593_favicon-512.jpg"
+            }
+        },
+        {
+            "id": "https://ckeditor.com/blog/ckeditor-docs-for-chatgpt-full-document-editor-inside-chatgpt/",
+            "content_html": "Write in ChatGPT with a real editor. AI edits arrive as suggestions, colleagues join live, and every change stays visible. See how it works.",
+            "url": "https://ckeditor.com/blog/ckeditor-docs-for-chatgpt-full-document-editor-inside-chatgpt/",
+            "title": " CKEditor Docs for ChatGPT:  Draft at AI speed, review with editor control  | \n\t\t\t\t CKEditor Ecosystem Blog \n\t\t\t",
+            "summary": "Write in ChatGPT with a real editor. AI edits arrive as suggestions, colleagues join live, and every change stays visible. See how it works.",
+            "image": {
+                "url": "https://cdn.buttercms.com/TNjn0nbJRZWXSmKvOWg1"
+            },
+            "date_modified": "2026-11-25T11:33:28.000Z",
+            "date_published": "2026-11-25T11:33:28.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": " CKEditor Docs for ChatGPT:  Draft at AI speed, review with editor control ",
+                "blogTitle": "\n\t\t\t\t CKEditor Ecosystem Blog \n\t\t\t",
+                "blogLink": "https://ckeditor.com",
+                "blogLinkMd5Hash": "49514ea2dd4c196a36d270a258d36062",
+                "favicon": "https://ckeditor.com/assets/images/favicons/32x32.png"
+            }
+        },
+        {
+            "id": "https://www.stepsecurity.io/blog/accurasofthire-fake-interview-developer-machines",
+            "content_html": "Binance says its $6.34 billion theft began when an engineer ran a fake interview assignment on his work computer. JFrog has now exposed a fake company, AccuraSoftHire, built to run the same trick. We decoded the attacker's server history from a public Ethereum wallet and found npm packages from the interview task that stayed installable for up to seven months. Here is what to check on your developer machines.",
+            "url": "https://www.stepsecurity.io/blog/accurasofthire-fake-interview-developer-machines",
+            "title": "The Take-Home Test That Runs on Your Work Laptop: Inside the AccuraSoftHire Fake Interview Campaign | Step Security Blog",
+            "summary": "Binance says its $6.34 billion theft began when an engineer ran a fake interview assignment on his work computer. JFrog has now exposed a fake company, AccuraSoftHire, built to run the same trick. We ",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bf8/6afc104b00c3796d657efd84_6afc1024a3e5238386d1fbb4_accurasofthire-cover-v3.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-25T08:38:56.000Z",
+            "date_published": "2026-11-25T08:38:56.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The Take-Home Test That Runs on Your Work Laptop: Inside the AccuraSoftHire Fake Interview Campaign",
+                "blogTitle": "Step Security Blog",
+                "blogLink": "https://www.stepsecurity.io",
+                "blogLinkMd5Hash": "24b853cd91d5977a9af3395b8ae81579",
+                "favicon": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bc5/675212a565f0987a0779a91f_stesecurity-favicon.png"
+            }
+        },
+        {
+            "id": "https://blog.jetbrains.com/?post_type=blog&p=760188",
+            "content_html": "As a treat on Black Friday, you can get 40% off a new annual individual JetBrains IDE or ReSharper subscription, or an upgrade to an annual individual All Products Pack or dotUltimate one. A lot about development has changed, and your JetBrains IDE has changed with it. We recently introduced Air in IDEs, a new […]",
+            "url": "https://blog.jetbrains.com/blog/2026/11/25/black-friday-2026/",
+            "title": "Black Friday Deal: Save 40% on New JetBrains Subscriptions and Upgrades | Company | The JetBrains Blog",
+            "summary": "As a treat on Black Friday, you can get 40% off a new annual individual JetBrains IDE or ReSharper subscription, or an upgrade to an annual individual All Products Pack or dotUltimate one. A lot about",
+            "image": {
+                "url": "https://blog.jetbrains.com/wp-content/uploads/2026/11/Blog-Social-Share-image-1280-720_ENG.png",
+                "alt": "Black Friday Deal: Save 40% on New JetBrains Subscriptions and Upgrades",
+                "type": "png"
+            },
+            "date_modified": "2026-11-25T08:36:58.000Z",
+            "date_published": "2026-11-25T08:36:58.000Z",
+            "author": {
+                "name": "Anatolii Simakov"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Black Friday Deal: Save 40% on New JetBrains Subscriptions and Upgrades",
+                "blogTitle": "Company | The JetBrains Blog",
+                "blogLink": "https://blog.jetbrains.com",
+                "blogLinkMd5Hash": "99bb8307533eda0278e8373199074525",
+                "favicon": "https://blog.jetbrains.com/wp-content/themes/jetbrains/assets/img/favicons/favicon.ico"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/standard-builds-for-existing-pro-teams-have-moved-to-usage-based-billing",
+            "content_html": "Existing Pro teams will no longer include a Standard build slot. This brings Standard builds under the same usage-based billing model as other build machines. Standard builds cost $0.014 per build minute, and your monthly usage credit applies to build usage. Billing applies to all projects on the team.See included and Standard build minutes for your team on the . Select a build machine in or .Usage pageteam settingsproject settingsTo learn more, read more about .managing your buildsRead more",
+            "url": "https://vercel.com/changelog/standard-builds-for-existing-pro-teams-have-moved-to-usage-based-billing",
+            "title": "Standard builds for existing Pro teams have moved to usage-based billing | Vercel News",
+            "summary": "Existing Pro teams will no longer include a Standard build slot. This brings Standard builds under the same usage-based billing model as other build machines. Standard builds cost $0.014 per build min",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3yHkqbAvAVvHtoMu6nzA8W/2e6aa006c5e992dc4e9879348ab63fec/standard_build_billing_begins_for_existing_pro_tea_og_card.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-11-25T08:00:00.000Z",
+            "date_published": "2026-11-25T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Standard builds for existing Pro teams have moved to usage-based billing",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/blog/how-cozey-turns-its-operators-into-software-builders-on-vercel",
+            "content_html": "Employees outside engineering, including warehouse, finance, and support staff, are now building applications and deploying them to VercelFinance uses an app it built to review profit and loss weekly instead of monthlyAdopting allowed Cozey to retire a separate tool that cost approximately $80,000 annuallyVercel FlagsSix projects, including the storefront, use AI Gateway is a Canadian furniture company that makes modular sofas customers can configure for their homes. It runs its storefront and m",
+            "url": "https://vercel.com/blog/how-cozey-turns-its-operators-into-software-builders-on-vercel",
+            "title": "How Cozey turns its operators into software builders on Vercel | Vercel News",
+            "summary": "Employees outside engineering, including warehouse, finance, and support staff, are now building applications and deploying them to VercelFinance uses an app it built to review profit and loss weekly ",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6vCsTO8uJtmuNyaEQQ7H9M/4e5dfd1385cac0194c529b0e3d8874ee/partnership__2_.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-25T05:00:00.000Z",
+            "date_published": "2026-11-25T05:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "How Cozey turns its operators into software builders on Vercel",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20261125a",
+            "content_html": "こんにちは！フロントエンドエンジニアのodanです。今回は2026年10月24日に開催された Vue Fes Japan 2026 の参加・協賛レポートをお届けします。スポンサーとしての参加に加え、今...",
+            "url": "https://techblog.lycorp.co.jp/ja/20261125a",
+            "title": "舞台裏からセッションまで！Vue Fes Japan 2026 イベントレポート | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "こんにちは！フロントエンドエンジニアのodanです。今回は2026年10月24日に開催された Vue Fes Japan 2026 の参加・協賛レポートをお届けします。スポンサーとしての参加に加え、今...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/5b51916e88b6bd6f3f501188422b41b2/7d66e/856f7858715441ddac58c237d25fb19d.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-25T02:00:00.000Z",
+            "date_published": "2026-11-25T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "舞台裏からセッションまで！Vue Fes Japan 2026 イベントレポート",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632"
+            }
+        },
+        {
+            "id": "https://piccalil.li/blog/as-the-credits-roll/?ref=main-rss-feed",
+            "content_html": "Back in August 2025, I asked the question \"are people's bosses really making them use AI tools?\" I spoke to developers and designers about that and learned some eye-opening truths. To add some context, I thought AI mandates were disproportionate because we'd already evaluated this technology in the team and determined it was pretty useful, but not worth pursuing when the priority of our work is quality, not volume.The value of the technology has to be incredibly high when you consider the extrem",
+            "url": "https://piccalil.li/blog/as-the-credits-roll/",
+            "title": "As the credits roll on the AI industry, now is the time re-evaluate its use in your organisation | Piccalilli - Everything",
+            "summary": "Back in August 2025, I asked the question \"are people's bosses really making them use AI tools?\" I spoke to developers and designers about that and learned some eye-opening truths. To add some context",
+            "image": {
+                "url": "https://piccalil.b-cdn.net/api/og-image?slug=as-the-credits-roll/",
+                "alt": "Page image for Piccalilli"
+            },
+            "date_modified": "2026-11-25T00:00:00.000Z",
+            "date_published": "2026-11-25T00:00:00.000Z",
+            "author": {
+                "name": "Andy Bell"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "As the credits roll on the AI industry, now is the time re-evaluate its use in your organisation",
+                "blogTitle": "Piccalilli - Everything",
+                "blogLink": "https://piccalil.li/",
+                "blogLinkMd5Hash": "3c694e3af711d7057a42a87454051e52",
+                "favicon": "https://piccalil.li/favicons/favicon.ico"
+            }
+        },
+        {
+            "id": "https://servo.org/blog/2026/11/25/october-in-servo/",
+            "content_html": "code { white-space: nowrap;}Servo 0.8.0 contains all of the changes we landed in October, spanning 588 commits (a new record)!Servo now renders subtitles and captions over &lt;video&gt; elements (@TimvdLippe, #48809)!Servo 0.8 showing a video playing with captions that change over timeWe’ve shipped new web platform features:the spelling-error and grammar-error values for text-decoration-line (@yezhizhen, #48883)the progress() CSS math function (@Loirooriol, #48474)&lt;input type=image&gt; (@SilvioPilato, #4",
+            "url": "https://servo.org/blog/2026/11/25/october-in-servo/",
+            "title": "October in Servo: video captions and inert content | Servo Blog",
+            "summary": "code { white-space: nowrap;}Servo 0.8.0 contains all of the changes we landed in October, spanning 588 commits (a new record)!Servo now renders subtitles and captions over &lt;video&gt; elements (@TimvdLipp",
+            "image": {
+                "url": "https://servo.org/svg/servo-color-positive.svg",
+                "alt": "Servo logo",
+                "type": "svg"
+            },
+            "date_modified": "2026-11-25T00:00:00.000Z",
+            "date_published": "2026-11-25T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "October in Servo: video captions and inert content",
+                "blogTitle": "Servo Blog",
+                "blogLink": "https://servo.org/blog/feed.xml",
+                "blogLinkMd5Hash": "34983ba2c68c7e7db2a851d47786c2f6",
+                "favicon": "https://servo.org/svg/servo-symbol-color-no-container.svg"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/workflows-speculative-execution",
+            "content_html": "5.8 runs workflows on a new execution engine, rebuilt for performance. Step-to-step latency is 12x lower, and large fan-outs, like running 256 steps in parallel, use 14x less function time outside your step code. This directly improves turn times for , among many other improvements.Workflow SDKdurable AI agentsTo get the new engine, upgrade to or later. New runs will use the new engine by default, and runs already started on an older version will safely keep running on that version. Make sure yo",
+            "url": "https://vercel.com/changelog/workflows-speculative-execution",
+            "title": "Workflow is 10x faster, again | Vercel News",
+            "summary": "5.8 runs workflows on a new execution engine, rebuilt for performance. Step-to-step latency is 12x lower, and large fan-outs, like running 256 steps in parallel, use 14x less function time outside you",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7tAiCbAE55zQh4pcmjhm5s/440e89b07055b9672878f5e3572aa4ba/workflow-10x-faster.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-25T00:00:00.000Z",
+            "date_published": "2026-11-25T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Workflow is 10x faster, again",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+            "content_html": " &lt;p&gt;I gave a keynote at the &lt;a href=\"https://ai.engineer/code/2026\"&gt;AI Engineer Code Summit&lt;/a&gt; a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months.&lt;/p&gt;&lt;p&gt;Here's &lt;a href=\"https://www.youtube.com/watch?v=9RKrSF9d2SE\"&gt;the video&lt;/a&gt; of the talk. In this post I'm going to pull out the major inflection point theme and interrogate it more deeply.&lt;/p&gt;&lt;p&gt;&lt;lite-youtube videoid=\"9RK",
+            "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+            "title": "Three LLM inflection points in twelve months | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;I gave a keynote at the &lt;a href=\"https://ai.engineer/code/2026\"&gt;AI Engineer Code Summit&lt;/a&gt; a couple of weeks ago, constructed around the idea that there have been three significant inflection poi",
+            "image": {
+                "url": "https://img.youtube.com/vi/9RKrSF9d2SE/maxresdefault.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-11-24T23:02:07.000Z",
+            "date_published": "2026-11-24T23:02:07.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Three LLM inflection points in twelve months",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://socket.dev/blog/free-patches-critical-ruby-cves",
+            "content_html": "Fix critical RubyGems vulnerabilities without upgrading dependencies. Free security patches are now available with more ways to install and deploy them.",
+            "url": "https://socket.dev/blog/free-patches-critical-ruby-cves",
+            "title": "Socket Releases Free Patches for 100% of Critical CVEs in RubyGems | Socket",
+            "summary": "Fix critical RubyGems vulnerabilities without upgrading dependencies. Free security patches are now available with more ways to install and deploy them.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/cgdhsj6q/production/ffc3f5f308d20030581a7681bdb6caa390dfb40f-1066x648.png?w=1000&q=95&fit=max&auto=format",
+                "type": "png"
+            },
+            "date_modified": "2026-11-24T18:27:14.893Z",
+            "date_published": "2026-11-24T18:27:14.893Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Socket Releases Free Patches for 100% of Critical CVEs in RubyGems",
+                "blogTitle": "Socket",
+                "blogLink": "https://socket.dev/api/blog/feed.json",
+                "blogLinkMd5Hash": "1ad7c1f71e0aa48ea310910290f40d4a",
+                "favicon": "https://socket.dev/next-public-assets/favicon.ico"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/all-sandbox-runtimes-now-use-vercel-managed-images",
+            "content_html": "All runtimes now use Vercel Managed Images (VMIs).Vercel SandboxLegacy runtimes, such as , now use the open-source images in the , distributed through Vercel Container Registry (VCR). Sandboxes created with these now come with 64 GB of storage and use the same infrastructure as sandboxes powered by VCR.node22vercel/sandbox repositoryThe universal image is released nightly, and rolling tags such as pick up operating system, dependency, and coding agent updates. Pin an image digest when you need a",
+            "url": "https://vercel.com/changelog/all-sandbox-runtimes-now-use-vercel-managed-images",
+            "title": "All Sandbox runtimes now use Vercel Managed Images | Vercel News",
+            "summary": "All runtimes now use Vercel Managed Images (VMIs).Vercel SandboxLegacy runtimes, such as , now use the open-source images in the , distributed through Vercel Container Registry (VCR). Sandboxes create",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3vaPqSowzp6g6BxbnsVtHf/b3a486944da4d9972d0370ab16f0ed81/image__20_.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-24T18:00:00.000Z",
+            "date_published": "2026-11-24T18:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "All Sandbox runtimes now use Vercel Managed Images",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://www.aikido.dev/blog/continuous-automated-red-teaming",
+            "content_html": "Continuous automated red teaming simulates real attacks to test whether defenses detect and stop it. Here’s what it involves and how to implement it. Category: Guides &amp; Best Practices",
+            "url": "https://www.aikido.dev/blog/continuous-automated-red-teaming",
+            "title": "What is continuous automated red teaming? | Aikido Security's Blog",
+            "summary": "Continuous automated red teaming simulates real attacks to test whether defenses detect and stop it. Here’s what it involves and how to implement it. Category: Guides &amp; Best Practices",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6b05c9522a6abdf76b2888b0_OG_%5Bgeneric-seo-title%5D_16x9.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-24T17:24:00.000Z",
+            "date_published": "2026-11-24T17:24:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "What is continuous automated red teaming?",
+                "blogTitle": "Aikido Security's Blog",
+                "blogLink": "https://www.aikido.dev",
+                "blogLinkMd5Hash": "0c77fc38d005cda3e64903cf14f94346",
+                "favicon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6acf3def3c501997119bc593_favicon-512.jpg"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical\"&gt;GPT 6.2 Astra Solves a Historical Mystery&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at &lt;a href=\"https://beinecke.library.yale.edu/\"&gt;Yale’s Beinecke Library&lt;/a&gt;. It di",
+            "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+            "title": "GPT 6.2 Astra Solves a Historical Mystery | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical\"&gt;GPT 6.2 Astra Solves a Historical Mystery&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;Here's an interesting case-study in using GPT-",
+            "date_modified": "2026-11-24T16:53:59.000Z",
+            "date_published": "2026-11-24T16:53:59.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GPT 6.2 Astra Solves a Historical Mystery",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://www.aikido.dev/blog/hugging-face-phishing-pages",
+            "content_html": "We found 42 phishing pages on Hugging Face Spaces, many built by prompting an AI website builder. All of them are offline now.Category: Vulnerabilities &amp; Threats",
+            "url": "https://www.aikido.dev/blog/hugging-face-phishing-pages",
+            "title": "Attackers use Hugging Face’s AI to make phishing pages | Aikido Security's Blog",
+            "summary": "We found 42 phishing pages on Hugging Face Spaces, many built by prompting an AI website builder. All of them are offline now.Category: Vulnerabilities &amp; Threats",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6b05bd750db58a8f14489d1a_Hugging-Face_Feature.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-11-24T16:44:00.000Z",
+            "date_published": "2026-11-24T16:44:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Attackers use Hugging Face’s AI to make phishing pages",
+                "blogTitle": "Aikido Security's Blog",
+                "blogLink": "https://www.aikido.dev",
+                "blogLinkMd5Hash": "0c77fc38d005cda3e64903cf14f94346",
+                "favicon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6acf3def3c501997119bc593_favicon-512.jpg"
+            }
+        },
+        {
+            "id": "https://github.blog/?p=100438",
+            "content_html": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long.The post These are the gifts developers will actually want appeared first on The GitHub Blog.",
+            "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+            "title": "These are the gifts developers will actually want | The GitHub Blog",
+            "summary": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long.The post These are the gifts developers will a",
+            "image": {
+                "height": "2816",
+                "type": "image/jpeg",
+                "url": "https://github.blog/wp-content/uploads/2026/11/Universe-22.jpg",
+                "width": "5363"
+            },
+            "date_modified": "2026-11-24T16:00:00.000Z",
+            "date_published": "2026-11-24T16:00:00.000Z",
+            "author": {
+                "name": "Lavinia Sfetcu"
+            },
+            "tags": [
+                "Company news",
+                "News &amp; insights",
+                "GitHub Shop"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "These are the gifts developers will actually want",
+                "blogTitle": "The GitHub Blog",
+                "blogLink": "https://github.blog/",
+                "blogLinkMd5Hash": "f5d9dec3dc3bf03d9b3049b109e60a1d",
+                "favicon": "https://github.githubassets.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://www.aikido.dev/blog/artex-ai-pentesting-defenders",
+            "content_html": "The FBI warned that attackers are using ARTEX, an open-source AI pentesting framework. Here is what it means for defenders and for teams weighing a build.Category: News",
+            "url": "https://www.aikido.dev/blog/artex-ai-pentesting-defenders",
+            "title": "What the ARTEX attacks tell defenders about AI pentesting  | Aikido Security's Blog",
+            "summary": "The FBI warned that attackers are using ARTEX, an open-source AI pentesting framework. Here is what it means for defenders and for teams weighing a build.Category: News",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6b05b1abb434af985aaa9d1a_Artex_Attack_OG.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-24T15:47:00.000Z",
+            "date_published": "2026-11-24T15:47:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "What the ARTEX attacks tell defenders about AI pentesting ",
+                "blogTitle": "Aikido Security's Blog",
+                "blogLink": "https://www.aikido.dev",
+                "blogLinkMd5Hash": "0c77fc38d005cda3e64903cf14f94346",
+                "favicon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6acf3def3c501997119bc593_favicon-512.jpg"
+            }
+        },
+        {
+            "id": "https://blog.master.dev/?p=12121",
+            "content_html": "Andreas Kling: Ladybird is a browser with a new engine. The engine is our own, built from the ground up, and not a fork. The browser around it is modest, but functional. This is an alpha, so some websites won’t work, and it will crash sometimes. When that happens, tell us! We lost Opera as […]",
+            "url": "https://blog.master.dev/ladybird-alpha/",
+            "title": "Ladybird Alpha | Master.dev Blog RSS Feed",
+            "summary": "Andreas Kling: Ladybird is a browser with a new engine. The engine is our own, built from the ground up, and not a fork. The browser around it is modest, but functional. This is an alpha, so some webs",
+            "image": {
+                "height": "630",
+                "url": "https://blog.master.dev/wp-json/social-image-generator/v1/image/12121",
+                "width": "1200"
+            },
+            "date_modified": "2026-11-24T13:38:05.000Z",
+            "date_published": "2026-11-24T13:38:05.000Z",
+            "author": {
+                "name": "Chris Coyier"
+            },
+            "tags": [
+                "The Beat",
+                "Browsers",
+                "Ladybird"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Ladybird Alpha",
+                "blogTitle": "Master.dev Blog RSS Feed",
+                "blogLink": "https://blog.master.dev",
+                "blogLinkMd5Hash": "61b7f9099864eec938d5589848ac72da",
+                "favicon": "https://blog.master.dev/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://www.stepsecurity.io/blog/cve-2026-123007-nginx-http2-rce",
+            "content_html": "nginx 1.31.9 and 1.30.7 fix an HTTP/2 flaw that a public exploit turns into unauthenticated code execution. See what stopped the exploit in our lab, how to patch and confirm the fix, and how to find nginx on developer machines.",
+            "url": "https://www.stepsecurity.io/blog/cve-2026-123007-nginx-http2-rce",
+            "title": "nginx2root (CVE-2026-123007): HTTP/2 Flaw Lets Attackers Run Code on Unpatched nginx Servers | Step Security Blog",
+            "summary": "nginx 1.31.9 and 1.30.7 fix an HTTP/2 flaw that a public exploit turns into unauthenticated code execution. See what stopped the exploit in our lab, how to patch and confirm the fix, and how to find n",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bf8/6aff84b920eec38ad55d1a44_6aff849ef714ce5d9a1d2c24_cve-2026-123007-cover-v3.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-24T10:57:03.000Z",
+            "date_published": "2026-11-24T10:57:03.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "nginx2root (CVE-2026-123007): HTTP/2 Flaw Lets Attackers Run Code on Unpatched nginx Servers",
+                "blogTitle": "Step Security Blog",
+                "blogLink": "https://www.stepsecurity.io",
+                "blogLinkMd5Hash": "24b853cd91d5977a9af3395b8ae81579",
+                "favicon": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bc5/675212a565f0987a0779a91f_stesecurity-favicon.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/aws-privatelink-endpoints-are-now-available-on-secure-compute",
+            "content_html": "Enterprise teams using can now create and manage endpoints directly from the Vercel dashboard.Secure ComputeAWS PrivateLinkEndpoints on Secure Compute live in your team's dedicated VPC and use the network's AWS region. They belong to the network and are shared by its connected project environments., , and builds connected to the network can reach AWS-hosted backends over the AWS private network. Before you add an endpoint in Vercel, the backend must already be exposed through a published AWS Pri",
+            "url": "https://vercel.com/changelog/aws-privatelink-endpoints-are-now-available-on-secure-compute",
+            "title": "AWS PrivateLink endpoints are now available on Secure Compute | Vercel News",
+            "summary": "Enterprise teams using can now create and manage endpoints directly from the Vercel dashboard.Secure ComputeAWS PrivateLinkEndpoints on Secure Compute live in your team's dedicated VPC and use the net",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5CRJ6FfiOuKiCLKFQYYg4n/dc78d62fd5595089b8c39758414e377d/download__3_.jpeg",
+                "type": "jpeg"
+            },
+            "date_modified": "2026-11-24T09:54:00.000Z",
+            "date_published": "2026-11-24T09:54:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AWS PrivateLink endpoints are now available on Secure Compute",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Nov/24/datasette-charts-2/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.2a1\"&gt;datasette-charts 0.2a1&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt;&lt;p&gt;Minor UI improvements:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Collapsing the &lt;strong&gt;suggested charts&lt;/strong&gt; section now leaves the chart visible.&lt;/li&gt;&lt;li&gt;Following a link to a chart opens it with the suggestions collapsed for that visit.&lt;/li&gt;&lt;li&gt;On table pages the panel now sits below the \"4,235 rows where country = CHN\" line.&lt;/li&gt;&lt;li&gt;The \"Data\" table under each chart has",
+            "url": "https://simonwillison.net/2026/Nov/24/datasette-charts-2/",
+            "title": "datasette-charts 0.2a1 | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.2a1\"&gt;datasette-charts 0.2a1&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt;&lt;p&gt;Minor UI improvements:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Collapsing the ",
+            "date_modified": "2026-11-24T06:07:19.000Z",
+            "date_published": "2026-11-24T06:07:19.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "datasette-charts 0.2a1",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/flags-sdk-now-works-on-vercel-without-flags-secret",
+            "content_html": "With , projects on Vercel can use and precompute without . That cuts out a setup step for new projects and removes the need to keep a shared secret in sync across microfrontends. flags@4.5.0Flags ExplorerFLAGS_SECRETVercel signs Flags Explorer discovery requests and overrides, and the SDK encrypts flag values shown in the Vercel Toolbar with Vercel’s public key.Existing projects keep using while the environment variable is set or the secret is passed in code. Upgrading alone doesn't switch them ",
+            "url": "https://vercel.com/changelog/flags-sdk-now-works-on-vercel-without-flags-secret",
+            "title": "Flags SDK now works on Vercel without FLAGS_SECRET | Vercel News",
+            "summary": "With , projects on Vercel can use and precompute without . That cuts out a setup step for new projects and removes the need to keep a shared secret in sync across microfrontends. flags@4.5.0Flags Expl",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6Uk8MQA0lzWQDa3w5Ioa5E/e882a2b68173ce2799dd7002a0257cbc/flags_secret_og_final.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-24T05:00:00.000Z",
+            "date_published": "2026-11-24T05:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Flags SDK now works on Vercel without FLAGS_SECRET",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/agents-can-now-manage-ai-gateway-through-vercel-mcp",
+            "content_html": "Your agent can now manage through . Ask it in plain language to:AI GatewayVercel MCPTo create a virtual model, for example, ask your agent:Your apps and coding agents using AI Gateway can then use as the model ID. You can change its model or settings later without updating those clients or redeploying your app.vmc/coding-agentTo get started, with team-level access and the required AI Gateway permissions. Your Vercel team permissions still apply.connect your agent to Vercel MCPRead more: Create r",
+            "url": "https://vercel.com/changelog/agents-can-now-manage-ai-gateway-through-vercel-mcp",
+            "title": "Agents can now manage AI Gateway through Vercel MCP | Vercel News",
+            "summary": "Your agent can now manage through . Ask it in plain language to:AI GatewayVercel MCPTo create a virtual model, for example, ask your agent:Your apps and coding agents using AI Gateway can then use as ",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7rHmsTTl3crybF0jN8W0BM/324ef97bd124f1e16b0816e3622f90f7/gateway_mcp_og.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-24T05:00:00.000Z",
+            "date_published": "2026-11-24T05:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Agents can now manage AI Gateway through Vercel MCP",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/delete-run-data-workflow-sdk",
+            "content_html": "The now lets you delete a finished run's stored data on demand. This feature gives you the ability to quickly meet compliance and security requirements when sensitive data needs to be purged from run payloads.Workflow SDKDeleting a run's data deletes any inputs, outputs, hook payloads, and error traces for the run and its related entities. This does delete the run's : the run is still listed in observability. Attributes, hook tokens, and timings for steps and events can still be inspected.notmet",
+            "url": "https://vercel.com/changelog/delete-run-data-workflow-sdk",
+            "title": "Delete a run's data on demand in Workflow SDK | Vercel News",
+            "summary": "The now lets you delete a finished run's stored data on demand. This feature gives you the ability to quickly meet compliance and security requirements when sensitive data needs to be purged from run ",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/463hOGCxWwEb8z6goFMUNi/f098593335c6a1c0f74b98e704ac42b1/standard_build_billing_begins_for_existing_pro_tea_og_card__2_.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-11-24T05:00:00.000Z",
+            "date_published": "2026-11-24T05:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Delete a run's data on demand in Workflow SDK",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.2a0\"&gt;datasette-charts 0.2a0&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I introduced this new charting plugin for Datasette &lt;a href=\"https://simonwillison.net/2026/Nov/23/datasette-charts/\"&gt;yesterday&lt;/a&gt;. Today it's gained integration with &lt;a href=\"https://agent.datasette.io/\"&gt;Datasette Agent&lt;/a&gt;, so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools.&lt;/p",
+            "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+            "title": "datasette-charts 0.2a0 | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.2a0\"&gt;datasette-charts 0.2a0&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I introduced this new charting plugin for Datasette &lt;a href=\"",
+            "date_modified": "2026-11-24T04:24:29.000Z",
+            "date_published": "2026-11-24T04:24:29.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "datasette-charts 0.2a0",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.7a1\"&gt;datasette-agent 0.7a1&lt;/a&gt;&lt;/p&gt; &lt;p&gt;A small improvement to &lt;a href=\"https://agent.datasette.io/\"&gt;Datasette Agent&lt;/a&gt;: chat sessions could already open an iframe side panel that could then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user interacts with the plugin in a way ",
+            "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+            "title": "datasette-agent 0.7a1 | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.7a1\"&gt;datasette-agent 0.7a1&lt;/a&gt;&lt;/p&gt; &lt;p&gt;A small improvement to &lt;a href=\"https://agent.datasette.io/\"&gt;Da",
+            "date_modified": "2026-11-24T03:45:57.000Z",
+            "date_published": "2026-11-24T03:45:57.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "datasette-agent 0.7a1",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20261124a",
+            "content_html": "LINEヤフーでは、学生がチームでプロダクト開発に取り組むハッカソン型インターンシップ「Summer Product Sprint 2026」を開催しました。2023年までLINE技術職インターンシッ...",
+            "url": "https://techblog.lycorp.co.jp/ja/20261124a",
+            "title": "チームでプロダクト開発に挑戦！ Summer Product Sprint 2026 開催レポート | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "LINEヤフーでは、学生がチームでプロダクト開発に取り組むハッカソン型インターンシップ「Summer Product Sprint 2026」を開催しました。2023年までLINE技術職インターンシッ...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/5651cb241e4604f2ac055777146cd03e/f0810/ebbedab76c854b31b5391aa61917e170.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-11-24T02:30:00.000Z",
+            "date_published": "2026-11-24T02:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "チームでプロダクト開発に挑戦！ Summer Product Sprint 2026 開催レポート",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632"
+            }
+        },
+        {
+            "id": "https://blog.master.dev/?p=12046",
+            "content_html": "You've got a sidebar nav for a web app with icons and text. What happens where vertical space is constrained? Remove the text? But when and how?",
+            "url": "https://blog.master.dev/the-compacting-sidebar-blues/",
+            "title": "The Compacting Sidebar Blues | Master.dev Blog RSS Feed",
+            "summary": "You've got a sidebar nav for a web app with icons and text. What happens where vertical space is constrained? Remove the text? But when and how?",
+            "image": {
+                "height": "630",
+                "url": "https://blog.master.dev/wp-json/social-image-generator/v1/image/12046",
+                "width": "1200"
+            },
+            "date_modified": "2026-11-24T00:27:03.000Z",
+            "date_published": "2026-11-24T00:27:03.000Z",
+            "author": {
+                "name": "Chris Coyier"
+            },
+            "tags": [
+                "Blog Post",
+                "Container Queries",
+                "CSS",
+                "Layout",
+                "Media Query",
+                "Style Queries"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The Compacting Sidebar Blues",
+                "blogTitle": "Master.dev Blog RSS Feed",
+                "blogLink": "https://blog.master.dev",
+                "blogLinkMd5Hash": "61b7f9099864eec938d5589848ac72da",
+                "favicon": "https://blog.master.dev/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://bloomberg.github.io/js-blog/post/reintroducing-stricli/",
+            "content_html": "Stricli: Building type-safe, scalable CLIs #Bloomberg first released the open source Stricli framework back in 2024. It plays a foundational role in command line interfaces (CLIs) that we build internally. Having watched it improve our internal developer experience, we were happy to share it with the broader JavaScript/TypeScript community at large. Stricli can be used in any JavaScript-compatible runtime, whether it's Node.js, Bun, or whatever comes next.While we think there are a lot of reason",
+            "url": "https://bloomberg.github.io/js-blog/post/reintroducing-stricli/",
+            "title": "Reintroducing Stricli | Bloomberg JS Blog",
+            "summary": "Stricli: Building type-safe, scalable CLIs #Bloomberg first released the open source Stricli framework back in 2024. It plays a foundational role in command line interfaces (CLIs) that we build intern",
+            "image": {
+                "url": "https://bloomberg.github.io/js-blog/images/javascript-logo.webp",
+                "type": "webp"
+            },
+            "date_modified": "2026-11-24T00:00:00.000Z",
+            "date_published": "2026-11-24T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Reintroducing Stricli",
+                "blogTitle": "Bloomberg JS Blog",
+                "blogLink": "https://bloomberg.github.io/js-blog/feed.xml",
+                "blogLinkMd5Hash": "a2f838f4994a5f55944219eae70dc1de"
+            }
+        },
+        {
+            "id": "https://evilmartians.com/chronicles/type-errors-cost-our-coding-agents-under-one-percent-of-their-time",
+            "content_html": "Type errors took under 1% of our coding agents' time. In three public benchmarks, TypeScript fixes scored no higher than plain JavaScript ones, and adding Sorbet or RBS to a Rails app left the solve rate unchanged.",
+            "url": "https://evilmartians.com/chronicles/type-errors-cost-our-coding-agents-under-one-percent-of-their-time",
+            "title": "Type errors cost our coding agents under 1% of their time | Evil Martians",
+            "summary": "Type errors took under 1% of our coding agents' time. In three public benchmarks, TypeScript fixes scored no higher than plain JavaScript ones, and adding Sorbet or RBS to a Rails app left the solve r",
+            "image": {
+                "url": "https://evilmartians.com/social-cards/chronicles/type-errors-cost-our-coding-agents-under-one-percent-of-their-time.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-11-24T00:00:00.000Z",
+            "date_published": "2026-11-24T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Type errors cost our coding agents under 1% of their time",
+                "blogTitle": "Evil Martians",
+                "blogLink": "https://evilmartians.com/chronicles",
+                "blogLinkMd5Hash": "53d7ea73bf73cd9930fe093343086722",
+                "favicon": "https://evilmartians.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://efcl.info/2026/11/24/textlint-performance/",
+            "content_html": "この2週間で、textlintと、よく使われているルールやライブラリのパフォーマンスを改善し、実行時間は約1/10になりました。グラフは、その日にnpm installしたtextlintとルールでの実行時間です。そのため、設定やルールは変えずに、textlintとルールをアップデートするだけで改善できます。npm install --save-dev textlint@latestnpm updatetextlint v16はNode.js 22.12.0以降が必要です。詳細な改善内容は、textlintのブログに書いています。Performance improvements in textlint and its rulesこの記事では、複数のリポジトリに分かれたtextlintの改善を、Claude Projectsを使ってどう進めたのかを書きます。背景AIエージェントが書くものは、コードだけではなくドキュメントも増えています。ドキュメントが増えると、その分だけlintは遅くなります。編集のたびに実行して直すことを積み重ねるには、自然言語のlintにもある程度の速さが必要です。一",
+            "url": "https://efcl.info/2026/11/24/textlint-performance/",
+            "title": "Claude Projectsを使って、複数のリポジトリにまたがるtextlintとルールのパフォーマンスを改善した | Web Scratch",
+            "summary": "この2週間で、textlintと、よく使われているルールやライブラリのパフォーマンスを改善し、実行時間は約1/10になりました。グラフは、その日にnpm installしたtextlintとルールでの実行時間です。そのため、設定やルールは変えずに、textlintとルールをアップデートするだけで改善できます。npm install --save-dev textlint@latestnpm upd",
+            "image": {
+                "url": "https://efcl.info/public/favicon.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-24T00:00:00.000Z",
+            "date_published": "2026-11-24T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 29,
+                "originalTitle": "Claude Projectsを使って、複数のリポジトリにまたがるtextlintとルールのパフォーマンスを改善した",
+                "blogTitle": "Web Scratch",
+                "blogLink": "https://efcl.info/feed/",
+                "blogLinkMd5Hash": "aef1dbe5e62ad3418473e165681322e1",
+                "favicon": "https://efcl.info/public/favicon.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/inkling-2-mini-now-available-on-ai-gateway",
+            "content_html": "is now available on AI Gateway. The small multimodal reasoning model is built for agentic coding, tool use, and knowledge work, with text and image inputs and text output.Inkling 2 Mini from Thinking MachinesInkling 2 Mini has 26.4 billion total parameters and 3.4 billion active per token. The model runs its middle layers more than once for every token, which lets it reason further before writing anything down and often reach an answer with fewer reasoning tokens. Like Inkling 2 Small, it is str",
+            "url": "https://vercel.com/changelog/inkling-2-mini-now-available-on-ai-gateway",
+            "title": "Inkling 2 Mini now available on AI Gateway | Vercel News",
+            "summary": "is now available on AI Gateway. The small multimodal reasoning model is built for agentic coding, tool use, and knowledge work, with text and image inputs and text output.Inkling 2 Mini from Thinking ",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2HNVh7RuhyFA2VRBrWsjQx/59ec6d243e41a4327055f5c208843eb5/Vercel_x_Thinking_Machines.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-24T00:00:00.000Z",
+            "date_published": "2026-11-24T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Inkling 2 Mini now available on AI Gateway",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://polypane.app/blog/getting-started-with-webmcp-building-and-testing-tools/",
+            "content_html": "The web is an amazing place where we do most of our day-to-day things. So it's no wonder that every AI agent wants to be able to interact…",
+            "url": "https://polypane.app/blog/getting-started-with-webmcp-building-and-testing-tools/",
+            "title": "Getting started with WebMCP: building and testing tools | Polypane Blog",
+            "summary": "The web is an amazing place where we do most of our day-to-day things. So it's no wonder that every AI agent wants to be able to interact…",
+            "image": {
+                "height": "630",
+                "url": "https://polypane.app/og-images/getting-started-with-web-mcp-building-and-testing-tools.png",
+                "width": "1200",
+                "alt": "Polypane",
+                "type": "png"
+            },
+            "date_modified": "2026-11-24T00:00:00.000Z",
+            "date_published": "2026-11-24T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Getting started with WebMCP: building and testing tools",
+                "blogTitle": "Polypane Blog",
+                "blogLink": "https://polypane.app",
+                "blogLinkMd5Hash": "71f70c7115f14711462090a5452497e7",
+                "favicon": "https://polypane.app/favicon-32x32.png?v=5df5528946772487a6ab462ff2125f26"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Nov/23/glm-54/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://z.ai/blog/glm-5.4\"&gt;GLM-5.4: Toward Generalized Coding with Our First Loop Transformer&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of weight-shared layers runs for multiple iterations, refining the hidden states from the previous pass. Th",
+            "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+            "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://z.ai/blog/glm-5.4\"&gt;GLM-5.4: Toward Generalized Coding with Our First Loop Transformer&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first m",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2026/glm-family-4.webp",
+                "type": "webp"
+            },
+            "date_modified": "2026-11-23T23:40:49.000Z",
+            "date_published": "2026-11-23T23:40:49.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://socket.dev/blog/malicious-nuget-packages-fake-job-assessments",
+            "content_html": "Socket researchers uncovered 13 malicious NuGet packages linked to fake developer job assessments, DLL side-loading, credential theft, and GitHub-based malware.",
+            "url": "https://socket.dev/blog/malicious-nuget-packages-fake-job-assessments",
+            "title": "13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments | Socket",
+            "summary": "Socket researchers uncovered 13 malicious NuGet packages linked to fake developer job assessments, DLL side-loading, credential theft, and GitHub-based malware.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/cgdhsj6q/production/01369e4670b29ddd513bd8f4d01c6ee559078f84-1672x941.png?w=1000&q=95&fit=max&auto=format",
+                "type": "png"
+            },
+            "date_modified": "2026-11-23T21:55:22.725Z",
+            "date_published": "2026-11-23T21:55:22.725Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments",
+                "blogTitle": "Socket",
+                "blogLink": "https://socket.dev/api/blog/feed.json",
+                "blogLinkMd5Hash": "1ad7c1f71e0aa48ea310910290f40d4a",
+                "favicon": "https://socket.dev/next-public-assets/favicon.ico"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Nov/23/ladybird/",
+            "content_html": " &lt;p&gt;&lt;a href=\"https://ladybird.org\"&gt;Ladybird&lt;/a&gt; is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like &lt;a href=\"https://github.com/harfbuzz/harfbuzz\"&gt;HarfBuzz&lt;/a&gt; for text shaping, &lt;a href=\"https://skia.org/\"&gt;Skia&lt;/a&gt; for 2D graphics, ffmpeg for video, and SQLite for the things you do with SQLite. Everything else",
+            "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+            "title": "Ladybird's first alpha release | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;a href=\"https://ladybird.org\"&gt;Ladybird&lt;/a&gt; is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, lay",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2026/ladybird-ffmpeg.webp",
+                "type": "webp"
+            },
+            "date_modified": "2026-11-23T21:46:35.000Z",
+            "date_published": "2026-11-23T21:46:35.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Ladybird's first alpha release",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://www.aikido.dev/blog/hardened-container-images-stigs-fips-fedramp",
+            "content_html": "Learn what makes a container image hardened, and how DISA STIGs, FIPS 140, NIST and FedRAMP fit together for teams in and outside federal work.Category: News",
+            "url": "https://www.aikido.dev/blog/hardened-container-images-stigs-fips-fedramp",
+            "title": "Hardened container images: STIGs, FIPS and FedRAMP explained | Aikido Security's Blog",
+            "summary": "Learn what makes a container image hardened, and how DISA STIGs, FIPS 140, NIST and FedRAMP fit together for teams in and outside federal work.Category: News",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6b04908b70312fa8bf55cb00_hardered%20image%20OG.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-11-23T19:03:00.000Z",
+            "date_published": "2026-11-23T19:03:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Hardened container images: STIGs, FIPS and FedRAMP explained",
+                "blogTitle": "Aikido Security's Blog",
+                "blogLink": "https://www.aikido.dev",
+                "blogLinkMd5Hash": "0c77fc38d005cda3e64903cf14f94346",
+                "favicon": "https://cdn.prod.website-files.com/642adcaf364024552e71df01/6acf3def3c501997119bc593_favicon-512.jpg"
+            }
+        },
+        {
+            "id": "https://ics.media/entry/261119/",
+            "content_html": "記事は ics.media へアクセスしてご覧ください。",
+            "url": "https://ics.media/entry/261119/",
+            "title": "Reactはここまで変わった！ メモ化・Effect・アニメーションの最新事情 | ICS MEDIA",
+            "summary": "記事は ics.media へアクセスしてご覧ください。",
+            "image": {
+                "url": "https://ics.media/entry/261119/images/eyecatch.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-11-23T15:00:00.000Z",
+            "date_published": "2026-11-23T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 21,
+                "originalTitle": "Reactはここまで変わった！ メモ化・Effect・アニメーションの最新事情",
+                "blogTitle": "ICS MEDIA",
+                "blogLink": "https://ics.media/",
+                "blogLinkMd5Hash": "5613f1ce3f92c963b186e9de484adb40",
+                "favicon": "https://ics.media/_assets/icons/favicon.png"
+            }
+        },
+        {
+            "id": "https://css-tricks.com/?p=396490",
+            "content_html": "It’s important to use fallbacks to build a robust front end, either to quietly and discreetly avoid the error or to communicate it to our users.Using Fallbacks for a Robust Front-End originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+            "url": "https://css-tricks.com/using-frontend-fallbacks/",
+            "title": "Using Fallbacks for a Robust Front-End | CSS-Tricks",
+            "summary": "It’s important to use fallbacks to build a robust front end, either to quietly and discreetly avoid the error or to communicate it to our users.Using Fallbacks for a Robust Front-End originally handwr",
+            "image": {
+                "height": "600",
+                "type": "image/jpeg",
+                "url": "https://css-tricks.com/wp-content/uploads/2021/06/reset-refresh-recycle-default.jpg",
+                "width": "1200",
+                "alt": "Using Fallbacks for a Robust Front-End"
+            },
+            "date_modified": "2026-11-23T14:21:44.000Z",
+            "date_published": "2026-11-23T14:21:44.000Z",
+            "author": {
+                "name": "Steve Frenzel"
+            },
+            "tags": [
+                "Articles",
+                "cross-browser",
+                "ux"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Using Fallbacks for a Robust Front-End",
+                "blogTitle": "CSS-Tricks",
+                "blogLink": "https://css-tricks.com",
+                "blogLinkMd5Hash": "b7ccd4b455c364f0f55fc55649723785",
+                "favicon": "https://css-tricks.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://css-tricks.com/?p=398239",
+            "content_html": "A new resource resurrecting lost web-dev articles and posts:This is an archive of written articles about web development, web design, and web accessibility that once existed on the World Wide Web and which would otherwise be lost to …Dev Material Archive originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+            "url": "https://css-tricks.com/dev-material-archive/",
+            "title": "Dev Material Archive | CSS-Tricks",
+            "summary": "A new resource resurrecting lost web-dev articles and posts:This is an archive of written articles about web development, web design, and web accessibility that once existed on the World Wide Web and ",
+            "image": {
+                "height": "600",
+                "type": "image/jpeg",
+                "url": "https://css-tricks.com/wp-content/uploads/2022/06/technical-writing.jpg",
+                "width": "1200",
+                "alt": "Dev Material Archive"
+            },
+            "date_modified": "2026-11-23T14:18:50.000Z",
+            "date_published": "2026-11-23T14:18:50.000Z",
+            "author": {
+                "name": "Geoff Graham"
+            },
+            "tags": [
+                "Links",
+                "resource"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Dev Material Archive",
+                "blogTitle": "CSS-Tricks",
+                "blogLink": "https://css-tricks.com",
+                "blogLinkMd5Hash": "b7ccd4b455c364f0f55fc55649723785",
+                "favicon": "https://css-tricks.com/favicon.ico"
+            }
+        },
+        {
+            "id": "01M7XNSFEMYQNMHGRYWVF2TQ82",
+            "content_html": "At Cloudflare we’ve built tools to enable teams to extend our internal testing framework and build test tooling for networking protocols. This is the story of how this was used for DNS.",
+            "url": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+            "title": "Probing DNS at Cloudflare | Cloudflare Blog",
+            "summary": "At Cloudflare we’ve built tools to enable teams to extend our internal testing framework and build test tooling for networking protocols. This is the story of how this was used for DNS.",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M7XNS6Z54W4GPXME90VX9S44.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-11-23T14:00:00.000Z",
+            "date_published": "2026-11-23T14:00:00.000Z",
+            "author": {
+                "name": "Doug Aaser"
+            },
+            "tags": [
+                "DNS",
+                "Engineering",
+                "Infrastructure",
+                "Performance",
+                "Testing"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Probing DNS at Cloudflare",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/ai-gateway-now-runs-canary-zdr-audits",
+            "content_html": "now runs canary audits against inference providers to detect when prompt content is read outside the inference path.AI GatewayContractual Zero Data Retention (ZDR) agreements and point-in-time security audits establish how a provider should handle your data, but production infrastructure changes continuously. Canary audits add a detection layer on top.Each canary audit run:Canary audits complement contractual ZDR agreements and rather than replacing them.independent auditsRead more about AI Gate",
+            "url": "https://vercel.com/changelog/ai-gateway-now-runs-canary-zdr-audits",
+            "title": "AI Gateway now runs canary ZDR audits | Vercel News",
+            "summary": "now runs canary audits against inference providers to detect when prompt content is read outside the inference path.AI GatewayContractual Zero Data Retention (ZDR) agreements and point-in-time securit",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/caf87daafd0ddb7f57c786db/eb9a47f637fe4180dd745c8b86b04cfc/canary-zdr-audits-og.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-11-23T06:19:00.000Z",
+            "date_published": "2026-11-23T06:19:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AI Gateway now runs canary ZDR audits",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/blog/kazunari-hanao-joins-vercel-as-country-manager-japan",
+            "content_html": "日本語版はこちら：Vercel日本法人の代表に花尾和成が就任いたしました has joined Vercel as Country Manager for Japan, based in Tokyo. His appointment is part of our continued investment in the Japanese market, including plans to expand our local team.Kazunari HanaoJapanese developers were early adopters of Next.js. And today, Vercel's customers in Japan include Mitsubishi Corporation, Fujitsu Limited, U-NEXT CO., Ltd., and DeNA Co., Ltd., alongside startups like SANU Inc. and Reiwa Travel, Inc.Kazunari has spent the last decade",
+            "url": "https://vercel.com/blog/kazunari-hanao-joins-vercel-as-country-manager-japan",
+            "title": "Kazunari Hanao joins Vercel as Country Manager, Japan | Vercel News",
+            "summary": "日本語版はこちら：Vercel日本法人の代表に花尾和成が就任いたしました has joined Vercel as Country Manager for Japan, based in Tokyo. His appointment is part of our continued investment in the Japanese market, including plans to expa",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3PcLOJnLmubyWPQbOymaT4/6a9081a4c83e1c1c192a750c86e65507/slack-imgs.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-23T05:00:00.000Z",
+            "date_published": "2026-11-23T05:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Kazunari Hanao joins Vercel as Country Manager, Japan",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/blog/ja-kazunari-hanao-joins-vercel-as-country-manager-japan",
+            "content_html": "（本記事は、の日本語訳に、花尾本人の就任のご挨拶を加えたものです。）英語版の就任発表Vercel日本法人の代表に、が就任いたしました（東京拠点）。今後、Vercelは花尾とともに国内のチームを拡充し、日本市場への投資をさらに進めていきます。花尾和成弊社が10年以上前に公開したNext.jsを、日本の開発者の皆さまはいち早く使い始めてくださいました。そして現在、日本では三菱商事、富士通、U-NEXT、ディー・エヌ・エーといった大企業から、SANUや令和トラベルといったスタートアップまで、幅広い企業にVercelをご利用いただいています。花尾はこの10年間、日本でソフトウェア企業の運営にリーダーシップを発揮してきました。前職ではPendoの日本法人社長を務め、それ以前にはHashiCorpの日本事業を立ち上げ、Pivotalの東京オフィスで営業部門を統括しました。就任にあたり、花尾から皆さまへのメッセージをご紹介します。ここからは、私（Nick Bogaty, CRO）が聞き手を務めた花尾へのインタビューをお届けします。日本市場にどのような可能性を感じているのか、Vercelへの入社を決め",
+            "url": "https://vercel.com/blog/ja-kazunari-hanao-joins-vercel-as-country-manager-japan",
+            "title": "Vercel日本法人の代表に花尾和成が就任いたしました | Vercel News",
+            "summary": "（本記事は、の日本語訳に、花尾本人の就任のご挨拶を加えたものです。）英語版の就任発表Vercel日本法人の代表に、が就任いたしました（東京拠点）。今後、Vercelは花尾とともに国内のチームを拡充し、日本市場への投資をさらに進めていきます。花尾和成弊社が10年以上前に公開したNext.jsを、日本の開発者の皆さまはいち早く使い始めてくださいました。そして現在、日本では三菱商事、富士通、U-NEXT",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3sPVtjM3db06GtSKr2PrAm/31789fa9d6be3c5dc5c737c3e88b3406/kazunari-hanao-og-ja.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-11-23T05:00:00.000Z",
+            "date_published": "2026-11-23T05:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Vercel日本法人の代表に花尾和成が就任いたしました",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/blog/introducing-audited-zdr-on-ai-gateway",
+            "content_html": "AI is now used in every part of a business, and as a result, companies send source code, customer records, and regulated data through inference providers. The assurance that no data is retained after processing is still publicly unverified. Payment platforms, cloud infrastructure, and most other layers that handle data this sensitive have a way to prove their controls to outside parties, and inference will follow the same path.Today we are introducing Audited ZDR on AI Gateway. A provider is lab",
+            "url": "https://vercel.com/blog/introducing-audited-zdr-on-ai-gateway",
+            "title": "Introducing Audited ZDR on AI Gateway | Vercel News",
+            "summary": "AI is now used in every part of a business, and as a result, companies send source code, customer records, and regulated data through inference providers. The assurance that no data is retained after ",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/67XIifvPiGZjjxt9fE6s19/33e5a98b2743a7ecafaaa33a7c193c82/audited-zdr-og.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-23T05:00:00.000Z",
+            "date_published": "2026-11-23T05:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Introducing Audited ZDR on AI Gateway",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/ai-gateway-now-supports-extraction-models",
+            "content_html": "are now on AI Gateway. They find specific details in the content you provide, such as an invoice number or contact names, and return them as separate fields your code can use.Extraction models is the first available extraction model. It extracts text values or lists of text values from text, images, and PDFs. You can use it to process invoices, contracts, and other records.ScaleDown Extract-1Extraction is currently available through the AI SDK only. With or later, use and the model ID :ai@7.0.17",
+            "url": "https://vercel.com/changelog/ai-gateway-now-supports-extraction-models",
+            "title": "AI Gateway now supports extraction models | Vercel News",
+            "summary": "are now on AI Gateway. They find specific details in the content you provide, such as an invoice number or contact names, and return them as separate fields your code can use.Extraction models is the ",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3xEn9v4m7rKPph4Ck1TdC/6cafb3297644e4ba6df15ecd6173b814/extraction_models_og.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-23T05:00:00.000Z",
+            "date_published": "2026-11-23T05:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AI Gateway now supports extraction models",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/vercel-drives-adds-cli-commands-and-standalone-sdks",
+            "content_html": "You can now create, list, fork, and delete with the new commands or standalone SDKs for TypeScript () and Python (). Drives also have a at and Drive-specific permissions, so managing them no longer requires Sandbox APIs or permissions.Vercel DrivesREST APIvercel drives@vercel/drivesvercel-drives/v1/drivesWith the latest Vercel CLI, link your project with if needed, then run:vercel linkInstall the TypeScript SDK with , or the Python SDK with , then run:npm install @vercel/drivespip install vercel",
+            "url": "https://vercel.com/changelog/vercel-drives-adds-cli-commands-and-standalone-sdks",
+            "title": "Vercel Drives adds CLI commands and standalone SDKs | Vercel News",
+            "summary": "You can now create, list, fork, and delete with the new commands or standalone SDKs for TypeScript () and Python (). Drives also have a at and Drive-specific permissions, so managing them no longer re",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7rTYk87PVckLTev2puQRn7/2054bccc806e46e84f3b080529ffc1e3/image__22_.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-23T05:00:00.000Z",
+            "date_published": "2026-11-23T05:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Vercel Drives adds CLI commands and standalone SDKs",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/catch-missing-feature-flags-before-they-reach-production",
+            "content_html": "can now block a deployment from reaching production if you’ve declared a flag in code but haven’t created it in your project. Without that definition, your app can silently fall back to the flag’s default value, even if that turns on a feature you meant to keep off.Vercel FlagsThe runs when a deployment is ready. If any flags are missing, the check fails and lists them in the results, where you can create each one before redeploying.Flag Definitions PresentDeployment CheckThe check reads your di",
+            "url": "https://vercel.com/changelog/catch-missing-feature-flags-before-they-reach-production",
+            "title": "Catch missing feature flags before they reach production | Vercel News",
+            "summary": "can now block a deployment from reaching production if you’ve declared a flag in code but haven’t created it in your project. Without that definition, your app can silently fall back to the flag’s def",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6t4TuQjTM6BbUrN38qacii/6440cfffd49f12256f63d6619257664f/download__7_.jpeg",
+                "type": "jpeg"
+            },
+            "date_modified": "2026-11-23T05:00:00.000Z",
+            "date_published": "2026-11-23T05:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Catch missing feature flags before they reach production",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.1a0\"&gt;datasette-charts 0.1a0&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went so well that this is now a full plugin.&lt;/p&gt;&lt;p&gt;You can &lt;a href=\"https://lite.datasette.io/?install=datasette-charts#/content/stats#chart=%7B%22v%22%3A1%2C%22type%22%3A%22line%22%2C%22encoding%22%3A%7B%22",
+            "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+            "title": "datasette-charts 0.1a0 | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.1a0\"&gt;datasette-charts 0.1a0&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I've been thinking about this problem for over a year now, bu",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2026/datasette-charts-0.1a0.webp",
+                "type": "webp"
+            },
+            "date_modified": "2026-11-23T00:37:20.000Z",
+            "date_published": "2026-11-23T00:37:20.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "datasette-charts 0.1a0",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://ladybird.org/posts/alpha",
+            "content_html": "Alpha builds of Ladybird are available today for macOS and Linux. They're for early adopters who don't mind bugs and want to help by reporting them.",
+            "url": "https://ladybird.org/posts/alpha",
+            "title": "Ladybird is now in alpha | Ladybird Browser Posts",
+            "summary": "Alpha builds of Ladybird are available today for macOS and Linux. They're for early adopters who don't mind bugs and want to help by reporting them.",
+            "image": {
+                "url": "https://ladybird.org/assets/img/logo-new.webp",
+                "type": "webp"
+            },
+            "date_modified": "2026-11-23T00:00:00.000Z",
+            "date_published": "2026-11-23T00:00:00.000Z",
+            "author": {
+                "name": "Andreas Kling"
+            },
+            "tags": [
+                "Announcement"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Ladybird is now in alpha",
+                "blogTitle": "Ladybird Browser Posts",
+                "blogLink": "https://ladybird.org",
+                "blogLinkMd5Hash": "ff67c8455473fa8dd3161dfe733b04ab",
+                "favicon": "https://ladybird.org/assets/img/ladybird_favicon.png"
+            }
+        },
+        {
+            "id": "https://nuxt.com/blog/v4-7",
+            "content_html": "Nuxt 4.7 lets you try Nitro v3, adds experimental WebMCP support, shows type and lint problems in the dev overlay and validates runtime config.",
+            "url": "https://nuxt.com/blog/v4-7",
+            "title": "Nuxt 4.7 | The Nuxt Blog",
+            "summary": "Nuxt 4.7 lets you try Nitro v3, adds experimental WebMCP support, shows type and lint problems in the dev overlay and validates runtime config.",
+            "image": {
+                "url": "https://nuxt.com/assets/blog/v4.7.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-23T00:00:00.000Z",
+            "date_published": "2026-11-23T00:00:00.000Z",
+            "tags": [
+                "Release"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Nuxt 4.7",
+                "blogTitle": "The Nuxt Blog",
+                "blogLink": "https://nuxt.com/blog",
+                "blogLinkMd5Hash": "fb41e1139e91b260991dce7bd66baa13",
+                "favicon": "https://nuxt.com/icon.png"
+            }
+        },
+        {
+            "id": "https://piccalil.li/links/black-friday-2026-is-live/?ref=main-rss-feed",
+            "content_html": "All courses are reduced to £124.50, saving 50% off their full price of £249.Every Black Friday is important for independents like us, but this year it's especially importantIt's been…a year, huh? For independent publishers like us, it's been nothing short of disastrous, as I summarised a few weeks ago. I'm being deliberately blunt here because I don't think people realise how bad things have gotten, even compared to last year.We all know the why: generative AI has completely taken over the indus",
+            "url": "https://piccalil.li/links/black-friday-2026-is-live/",
+            "title": "Our Black Friday deal is here! | Piccalilli - Everything",
+            "summary": "All courses are reduced to £124.50, saving 50% off their full price of £249.Every Black Friday is important for independents like us, but this year it's especially importantIt's been…a year, huh? For ",
+            "image": {
+                "url": "https://piccalil.li/images/ads/black-friday-launch-social-share.png",
+                "alt": "Page image for Piccalilli",
+                "type": "png"
+            },
+            "date_modified": "2026-11-23T00:00:00.000Z",
+            "date_published": "2026-11-23T00:00:00.000Z",
+            "author": {
+                "name": "Andy Bell"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Our Black Friday deal is here!",
+                "blogTitle": "Piccalilli - Everything",
+                "blogLink": "https://piccalil.li/",
+                "blogLinkMd5Hash": "3c694e3af711d7057a42a87454051e52",
+                "favicon": "https://piccalil.li/favicons/favicon.ico"
+            }
+        },
+        {
+            "id": "https://motion.dev/magazine/motion-plus-20-off-black-friday-2026",
+            "content_html": "Motion+ is a one-time payment for lifetime updates. For this year's Black Friday, there's a massive 20% discount.When we launched Motion+ \"lifetime updates\" was an easy promise to make. But, Motion+ is almost two years old now. We can look back and ask, if you bought it way back when, what would you have received over the last year - entirely for free?Quite a lot, it turns out. With more on the horizon.Read the full article on Motion",
+            "url": "https://motion.dev/magazine/motion-plus-20-off-black-friday-2026",
+            "title": "Motion+ 20% off for Black Friday 2026 | Motion Magazine",
+            "summary": "Motion+ is a one-time payment for lifetime updates. For this year's Black Friday, there's a massive 20% discount.When we launched Motion+ \"lifetime updates\" was an easy promise to make. But, Motion+ i",
+            "image": {
+                "height": "630",
+                "url": "https://images.motion.dev/og/fresh/v1/site/magazine-motion-plus-20-off-black-friday-2026-2yn6fjmul6htr.png",
+                "width": "1200",
+                "alt": "Motion+ 20% off for Black Friday 2026, Motion Magazine",
+                "type": "png"
+            },
+            "date_modified": "2026-11-23T00:00:00.000Z",
+            "date_published": "2026-11-23T00:00:00.000Z",
+            "author": {
+                "name": "Matt Perry"
+            },
+            "tags": [
+                "News"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Motion+ 20% off for Black Friday 2026",
+                "blogTitle": "Motion Magazine",
+                "blogLink": "https://motion.dev/magazine",
+                "blogLinkMd5Hash": "41674a317de71afdfb04195fa8ca55fb",
+                "favicon": "https://motion.dev/favicon.svg"
+            }
+        },
+        {
+            "id": "https://vercel.com/changelog/choose-ai-gateway-providers-by-headquarters-country",
+            "content_html": "sends your requests only to providers headquartered in countries you choose, so you can meet compliance and procurement rules about where your AI vendors are located.Provider headquartersAI GatewayYou can configure provider headquarters to be an allowlist of the countries to use, or a denylist of the countries to block. AI Gateway skips providers in blocked countries and routes requests to the rest of the list, so a model stays accessible as long as it is available in one of its allowed provider",
+            "url": "https://vercel.com/changelog/choose-ai-gateway-providers-by-headquarters-country",
+            "title": "Choose AI Gateway providers by headquarters country | Vercel News",
+            "summary": "sends your requests only to providers headquartered in countries you choose, so you can meet compliance and procurement rules about where your AI vendors are located.Provider headquartersAI GatewayYou",
+            "image": {
+                "url": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca6f86154507b6cc7466c5be/a4dc5a6ce573d6fc013d89b3c2ad55de/og-card.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-11-23T00:00:00.000Z",
+            "date_published": "2026-11-23T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Choose AI Gateway providers by headquarters country",
+                "blogTitle": "Vercel News",
+                "blogLink": "https://vercel.com/atom",
+                "blogLinkMd5Hash": "7ed6df025d104b7c70047ef463c232e3",
+                "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Nov/22/select-styling/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;Tool:&lt;/strong&gt; &lt;a href=\"https://tools.simonwillison.net/select-styling\"&gt;Select Styling Specimens&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I got frustrated at how HTML &lt;code&gt;&amp;lt;select&amp;gt;&lt;/code&gt; boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome:&lt;/p&gt;&lt;p&gt;&lt;img alt=\"The same select box in Chrome, Safari, and Firefox, Chrome is white with a black border. Safari is grey with no border. Firefox is gray with a black border. They are all slightly different sizes.\" src=\"https:/",
+            "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
+            "title": "Select Styling Specimens | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;Tool:&lt;/strong&gt; &lt;a href=\"https://tools.simonwillison.net/select-styling\"&gt;Select Styling Specimens&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I got frustrated at how HTML &lt;code&gt;&amp;lt;select&amp;gt;&lt;/code&gt; boxes default to lookin",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2026/select-firefox-safari-chrome.webp",
+                "type": "webp"
+            },
+            "date_modified": "2026-11-22T19:45:06.000Z",
+            "date_published": "2026-11-22T19:45:06.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Select Styling Specimens",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://pnpm.io/blog/releases/12.23.0",
+            "content_html": "This release adds pnpm edit, pnpm catalog migrate, and pnpm link --hard, and moves deprecation warnings into the install summary. Platform variants are removed, so packages that publish them need to move to optionalDependencies. It also carries security fixes: pnpm no longer reads otp from...",
+            "url": "https://pnpm.io/blog/releases/12.23.0",
+            "title": "pnpm 12.23.0 | pnpm Blog",
+            "summary": "This release adds pnpm edit, pnpm catalog migrate, and pnpm link --hard, and moves deprecation warnings into the install summary. Platform variants are removed, so packages that publish them need to m",
+            "image": {
+                "url": "https://pnpm.io/img/ogimage.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-22T00:00:00.000Z",
+            "date_published": "2026-11-22T00:00:00.000Z",
+            "author": {
+                "name": "Zoltan Kochan"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "pnpm 12.23.0",
+                "blogTitle": "pnpm Blog",
+                "blogLink": "https://pnpm.io/blog",
+                "blogLinkMd5Hash": "ee683ee84b103511e83fb54df4a7fa3c",
+                "favicon": "https://pnpm.io/img/favicon.png"
+            }
+        },
+        {
+            "id": "https://pnpm.io/blog/releases/11.29.0",
+            "content_html": "pnpm 11.29.0 stops reading otp from config files, rejects local filesystem dependencies declared by registry packages, adds the --minimum-release-age option, and recreates an incompatible node_modules without a TTY. This release carries several security fixes.",
+            "url": "https://pnpm.io/blog/releases/11.29.0",
+            "title": "pnpm 11.29.0 | pnpm Blog",
+            "summary": "pnpm 11.29.0 stops reading otp from config files, rejects local filesystem dependencies declared by registry packages, adds the --minimum-release-age option, and recreates an incompatible node_modules",
+            "image": {
+                "url": "https://pnpm.io/img/ogimage.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-22T00:00:00.000Z",
+            "date_published": "2026-11-22T00:00:00.000Z",
+            "author": {
+                "name": "Zoltan Kochan"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "pnpm 11.29.0",
+                "blogTitle": "pnpm Blog",
+                "blogLink": "https://pnpm.io/blog",
+                "blogLinkMd5Hash": "ee683ee84b103511e83fb54df4a7fa3c",
+                "favicon": "https://pnpm.io/img/favicon.png"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Nov/21/muru/",
+            "content_html": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://github.com/muruhq/muru\"&gt;Muru&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;Graham Dumpleton started &lt;a href=\"https://modwsgi.readthedocs.io/\"&gt;mod_wsgi&lt;/a&gt; 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since.&lt;/p&gt;&lt;p&gt;Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production.&lt;/p&gt;&lt;p&gt;As &lt;a href=\"https://simonwillison.net/2026/Sep/11/wrapture/",
+            "url": "https://simonwillison.net/2026/Nov/21/muru/",
+            "title": "Muru | Simon Willison's Weblog",
+            "summary": " &lt;p&gt;&lt;strong&gt;&lt;a href=\"https://github.com/muruhq/muru\"&gt;Muru&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;Graham Dumpleton started &lt;a href=\"https://modwsgi.readthedocs.io/\"&gt;mod_wsgi&lt;/a&gt; 20 years ago, and has been thinking about the ",
+            "date_modified": "2026-11-21T23:56:28.000Z",
+            "date_published": "2026-11-21T23:56:28.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Muru",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        },
+        {
+            "id": "https://blog.master.dev/?p=12011",
+            "content_html": "Hey, we can all vibe code. But sometimes what you need are ideas that are actually useful.",
+            "url": "https://blog.master.dev/apps-ive-vibe-coded-lately-that-are-pretty-damn-useful-to-me-actually/",
+            "title": "Apps I’ve Vibe-Coded Lately That Are Pretty Damn Useful To Me, Actually | Master.dev Blog RSS Feed",
+            "summary": "Hey, we can all vibe code. But sometimes what you need are ideas that are actually useful.",
+            "image": {
+                "height": "630",
+                "url": "https://blog.master.dev/wp-json/social-image-generator/v1/image/12011",
+                "width": "1200"
+            },
+            "date_modified": "2026-11-21T00:32:34.000Z",
+            "date_published": "2026-11-21T00:32:34.000Z",
+            "author": {
+                "name": "Chris Coyier"
+            },
+            "tags": [
+                "Blog Post",
+                "AI",
+                "Tools"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Apps I’ve Vibe-Coded Lately That Are Pretty Damn Useful To Me, Actually",
+                "blogTitle": "Master.dev Blog RSS Feed",
+                "blogLink": "https://blog.master.dev",
+                "blogLinkMd5Hash": "61b7f9099864eec938d5589848ac72da",
+                "favicon": "https://blog.master.dev/favicon-32x32.png"
+            }
+        },
+        {
+            "id": "https://www.stepsecurity.io/blog/stepsecurity-20-million-series-a",
+            "content_html": "Today, we’re announcing an oversubscribed $20 million Series A led by Elephant to expand protection for developer machines, package downloads, CI/CD pipelines, and agent sandboxes.",
+            "url": "https://www.stepsecurity.io/blog/stepsecurity-20-million-series-a",
+            "title": "Protecting where software gets built: StepSecurity’s $20 million Series A | Step Security Blog",
+            "summary": "Today, we’re announcing an oversubscribed $20 million Series A led by Elephant to expand protection for developer machines, package downloads, CI/CD pipelines, and agent sandboxes.",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bf8/6afd70f91e150f2dcdb6a50c_6afd4ee2bca7125b3b3ea39b_NEW_BANNERS-120.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-21T00:10:43.000Z",
+            "date_published": "2026-11-21T00:10:43.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Protecting where software gets built: StepSecurity’s $20 million Series A",
+                "blogTitle": "Step Security Blog",
+                "blogLink": "https://www.stepsecurity.io",
+                "blogLinkMd5Hash": "24b853cd91d5977a9af3395b8ae81579",
+                "favicon": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bc5/675212a565f0987a0779a91f_stesecurity-favicon.png"
+            }
+        },
+        {
+            "id": "https://www.stepsecurity.io/blog/optimjack-optimizely-hosted-scripts-crypto-clipper-card-skimmer",
+            "content_html": "Optimizely confirmed an attacker injected malicious JavaScript into customer projects. What the payload does, who was hit, and what to check.",
+            "url": "https://www.stepsecurity.io/blog/optimjack-optimizely-hosted-scripts-crypto-clipper-card-skimmer",
+            "title": "OPTIMJACK: Optimizely-Hosted Scripts Loaded a Crypto Clipper and Card Skimmer on 178 Organizations | Step Security Blog",
+            "summary": "Optimizely confirmed an attacker injected malicious JavaScript into customer projects. What the payload does, who was hit, and what to check.",
+            "image": {
+                "url": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bf8/6afc098839f8421be06b29e7_6afc095800c3796d657d168d_optimjack-optimizely-skimmer-cover-centered.png",
+                "type": "png"
+            },
+            "date_modified": "2026-11-21T00:10:43.000Z",
+            "date_published": "2026-11-21T00:10:43.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "OPTIMJACK: Optimizely-Hosted Scripts Loaded a Crypto Clipper and Card Skimmer on 178 Organizations",
+                "blogTitle": "Step Security Blog",
+                "blogLink": "https://www.stepsecurity.io",
+                "blogLinkMd5Hash": "24b853cd91d5977a9af3395b8ae81579",
+                "favicon": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bc5/675212a565f0987a0779a91f_stesecurity-favicon.png"
+            }
+        },
+        {
+            "id": "01M7X91JJQ5CWGQ65DZBAHW4Q9",
+            "content_html": "ruby2shell lets attackers corrupt memory in default Rails and Sinatra apps without logging in. Cloudflare WAF blocks it for every customer, including Free plans. Upgrade Ruby now, and use the WAF to cover the gap.",
+            "url": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+            "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825) | Cloudflare Blog",
+            "summary": "ruby2shell lets attackers corrupt memory in default Rails and Sinatra apps without logging in. Cloudflare WAF blocks it for every customer, including Free plans. Upgrade Ruby now, and use the WAF to c",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M7X91E3PVQ8147SJ7B05N2WK.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-11-20T20:24:38.000Z",
+            "date_published": "2026-11-20T20:24:38.000Z",
+            "author": {
+                "name": "Daniele Molteni"
+            },
+            "tags": [
+                "Managed Rules",
+                "Security",
+                "Vulnerabilities",
+                "WAF"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "01M7X76K1JK00SF9K4YN83WANQ",
+            "content_html": "phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release.",
+            "url": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+            "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws | Cloudflare Blog",
+            "summary": "phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP fl",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M7X76FEMSF7NE7RCCQQBHCVN.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-11-20T20:00:45.000Z",
+            "date_published": "2026-11-20T20:00:45.000Z",
+            "author": {
+                "name": "Daniele Molteni"
+            },
+            "tags": [
+                "Managed Rules",
+                "php",
+                "Security",
+                "Vulnerabilities",
+                "WAF"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+                "blogTitle": "Cloudflare Blog",
+                "blogLink": "https://blog.cloudflare.com/",
+                "blogLinkMd5Hash": "ecc79cb15a9d5db656da0b4bcc6900e7",
+                "favicon": "https://blog.cloudflare.com/favicon.ico"
+            }
+        },
+        {
+            "id": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+            "content_html": " &lt;blockquote cite=\"https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/\"&gt;&lt;p&gt;Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now ",
+            "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+            "title": "Quoting Ravi Vakil | Simon Willison's Weblog",
+            "summary": " &lt;blockquote cite=\"https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/\"&gt;&lt;p&gt;Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conr",
+            "date_modified": "2026-11-20T19:21:49.000Z",
+            "date_published": "2026-11-20T19:21:49.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Quoting Ravi Vakil",
+                "blogTitle": "Simon Willison's Weblog",
+                "blogLink": "http://simonwillison.net/",
+                "blogLinkMd5Hash": "f0574c017aa411caad5af4b3498a340a"
+            }
+        }
+    ]
+}
